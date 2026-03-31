@@ -1,0 +1,34 @@
+{
+  "stories": [
+    {
+      "title": "Los Josth",
+      "created": 1774890774817,
+      "submissionHistory": {},
+      "versions": [
+        "c2043757-ae05-4a67-a186-60f87b12ccff"
+      ],
+      "versioningMode": "git",
+      "id": "0f1d1271-daef-40a2-b9ab-3a9a0dbc2468"
+    }
+  ],
+  "versions": [
+    {
+      "storyId": "0f1d1271-daef-40a2-b9ab-3a9a0dbc2468",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1774890774933,
+      "statistics": {},
+      "branch": "draft1",
+      "id": "c2043757-ae05-4a67-a186-60f87b12ccff"
+    }
+  ],
+  "backups": [
+    {
+      "timestamp": 1774890598115,
+      "localPath": "...\\Documents\\Babel/babel-2026-03-30.backup.zip",
+      "cloudProviders": [],
+      "id": "d2920d23-2e5a-43b9-beaa-70b781170f8e"
+    }
+  ],
+  "activity": []
+}

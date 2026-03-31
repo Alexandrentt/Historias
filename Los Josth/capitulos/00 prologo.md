@@ -1,0 +1,83 @@
+---
+title: "Prólogo: En la cima de la Tierra"
+synopsis: "Yen en la azotea de la Central, a punto de suicidarse. La caída y la visión del Espectro que muestra su vida. Setup del marco narrativo."
+status: "final"
+wordCount: ~1800
+created: "2026-03-30"
+modified: "2026-03-30"
+tags: ["prologo", "yen", "espectro", "suicidio", "marco-narrativo"]
+---
+# Prólogo: En la cima de la Tierra
+
+En la cima del edificio más alto de la Tierra, de esa Tierra, estaba ella.
+A punto de tirarse.
+
+Se asomó al borde, el abismo infinito que se formaba por la sobra del edificio era algo que ni siquiera el haz de luz celeste del inmenso portal detrás de ella podía contrarrestar, solo la realzaba, como lo que es, como lo que siempre había sido.
+
+El abismo la llamaba, no quería contestar. Estaba a punto de renunciar, tal y como lo había hecho meses atrás, la primera vez que intentó suicidarse. Igual que todas las noches en Amitia, el ambiente era húmedo, el viento soplaba hacia el este y el borde de la azotea estaba resbaladizo. Pensó en una última oración, pero al instante su mente se lo reprochó, que sentido tenía, ninguno, al igual que todo lo que hizo en su vida. Se llevó las manos a la nuca, su vox emitió un ligero pitido y al instante desprendió un poco de vapor. El resto de la mascarilla que estaba acoplada a su mandíbula se desprendió, la sostuvo una última vez antes de dejarla caer por el abismo. La mascarilla gris que la había acompañado todos los días durante diez años se perdió en la oscuridad de la noche. De todas formas, ya no la necesitaría. Su respiración comenzó a entrecortarse y sus pulmones comenzaron a dolerle, pero se alegró de respirar el ambiente por primera y última vez en meses, aunque fuese a una presión atmosférica a la que su especie no puede sobrevivir.
+
+Estaba asustada, como cualquiera que ve una cima a más de 2 kilodacmos y siente vértigo. Las manos y piernas le temblaban y no solo por el frío de medianoche. Levantó la pierna izquierda y la sostuvo en el aire, dispuesta y a la vez incapaz. No podía ser el final, no había luchado por años contra injusticias, contra la corrupción de su propia organización, contra sus demonios interiores solo para que al final se rindiera. No tenía sentido, no lo encontraba a pesar de buscarle uno mucho tiempo. No, no podía ser el final, no aún. Recordó su intento anterior, en ese entonces se detuvo por miedo, por ello y por Lena. Lena… De cualquier forma, ahora había otra motivación además de ello, no había hecho algo importante, debía despedirse. Comenzó a devolver la pierna que había alzado al aire de vuelta al borde. Eso era. Intentó desesperada encontrar cualquier excusa, así susurró: Debo despedirme.
+
+El sonido de una puerta abriéndose estrepitosamente retumbó en su mente, en un intento por girar la vista, la única pierna que la sostenía resbaló. Era el momento perfecto para ver una última vez a Lena, Rish, a un amigo o enemigo, un conocido o a quien sea. Pero no había nadie. Para cuando pudo voltearse, veía las ventanas del piso cuatrocientos.
+
+En el instante en que ella dejó de sentir el frío borde, el terror más intenso que su cuerpo podía sentir la invadió. Se arrepintió de subir a la azotea en primer lugar.
+
+El terror que instantes antes era oprimido por el más profundo sentimiento de decepción por sí misma, ahora era todo lo que podía sentir. Un escalofrío recorrió desde la punta de su cabeza hasta la planta de sus pies como una descarga eléctrica que no remitía, el aire le golpeó el rostro como una bofetada helada, su estómago se contrajo con violencia cuando la gravedad la reclamó. Quiso gritar, quiso llorar, y de nada serviría, los servicios de socorro estaban en el piso 200 y ya acababa de pasarlos. Deseó chocar con algún aeromóvil, pero al instante recordó que no estaban permitidos tan cerca del portal. ¿Por qué tuvo que trabajar tan cerca de ahí? ¿Por qué tenía que trabajar ahí para empezar? Anheló los tiempos en los que el deseo de trabajar para la SAT se había ido de su cabeza, tres meses atrás. No, antes de eso, mucho antes, desde el instante en que llegó a Amitia por primera vez, tampoco. El momento exacto en el que escuchó por primera vez la posibilidad de ir a otras Tierras tan solo con cruzar el portal que iluminaba el cielo de azul un poco más tenue que el propio sol, y tan grande que la vieja aeronave de su padre se perdía en el horizonte antes de perder de vista el portal. Maldijo el día en que decidió que su sueño de la vida sería trabajar para la SAT, el deseo de visitar lugares que su imaginación no podía concebir, siete mundos tan únicos que diría que eran de universos distintos. Maldijo a la niña que deseó poder ir allí. Porque ¿qué fue lo que le esperó luego?
+
+Una isla, una playa, un corazón asfixiado. Un amor olvidado, una tumba sin nombre, una culpa que la ahogaba más que el aire de otra Tierra.
+
+Atravesó niebla, y con ello la inmensa ciudad que escondía debajo. Ya podía ver el suelo y con ello, las cargas explosivas preparadas para derrumbar lo que alguna vez fue la Central de la SAT. Su mente comenzó a divagar, a recordar y reflexionar en los segundos restantes. Quiso hablarle al Dhë, pero recordó que ya no creía en eso, la filosofía que traía de su Tierra Natal ya no importaba, ahí en el aire nada lo hacía, pero incluso esa predicaba que al morir su conciencia quedaría dormida en el Saol, como todos los naváreos que alguna vez existieron, ahora que lo pensaba, no era tan diferente a que no hubiese nada. No pudo reconfortarse con la esperanza de un lugar, así como sí pudo Rish.
+
+Su mente, ese que tantos problemas le había causado y que era responsable de su situación actual, no paraba de gritarle que de ésta no salía viva; su corazón, ese quien también le había dado problemas, le susurraba que todo era su culpa.
+
+Dejó escapar una breve sonrisa ya solo por probar, a ver si ello la calmaba. Volteó a ver el portal, ¿cuándo había sido la primera vez que lo atravesó? ¿Fue en un viaje escolar, un ejercicio de la academia o la primera vez que llegó a Tierra 1? Quizás las tres, o quizás la última, sí, definitivamente fue la última. Recordó el miedo mezclado con la curiosidad más incontenible, propio de alguien de apenas 25 años. Se maldijo a sí misma.
+
+Recordó cuando se convirtió en un despojo, esa era la palabra que mejor describía lo que era en el idioma de Tierra 2. ¿Tierra 2? Su idioma no se llamaba así, tampoco su Tierra natal, tenía un nombre, aunque pareciera que todos preferían olvidarlo, ella incluida, supuso que años escuchando como la llamaban le hizo olvidar que era una navárea. Se sorprendió a sí misma lo mucho que estar ahí afuera la había cambiado.
+
+El portal… su hogar estaba tan cerca y tan lejos a la vez, un universo de por medio, o solo 4 dacmos. Casi deseó nunca haber huido de su Tierra, de sus responsabilidades, de la casa de sus padres como lo hizo, casi.
+
+Estaba planteándose todas y cada una de las decisiones que la llevaron a la azotea. Y en el instante previo, todo se detuvo. El viento dejó de rugir en sus oídos, el ruido de la ciudad, y por un instante el de su mente, el dolor de cuerpo, y el de su seol, la caída y la ¿gravedad?
+
+—El espectro —susurró—. No, no podía ser. Incluso en la elección de su religión, se había equivocado. El espectro era real después de todo.
+
+Su cuerpo seguía cayendo, pero su conciencia ya no estaba ahí. Algo en su interior se había desprendido, deslizándose hacia otro lugar. Su Saol flotaba en el umbral de la existencia. Un eco resonó en su mente, una voz que no era suya ni de nadie más.
+
+—Elige que ver —dije—. No te queda mucho tiempo. Pasado, presente o futuro.
+
+Por un instante, se preguntó qué pasaría si escogiera el futuro, pero desechó la idea de inmediato. No le importaba. No ahora. No dijo ninguna palabra, pero yo ya sabía lo que elegiría. Lo sé siempre, y, aun así, cada vez espero que alguien elija distinto. Escogió su propia vida, no, sólo su tiempo en la SAT, todo lo demás estaba enterrado, esperando paciente a pudrirse en su corazón, e incluso así, intentó recuperarlo, tenía que encontrar una justificación, estaba ahí, su pensamiento racional se lo exigía.
+
+Asentí, y eso le permitió hurgar entre sus vivencias y más allá de eso, solo para avergonzarse y arrepentirse de lo que encontró.
+
+Encontró a una Yenriel más joven y demasiado idealista, de pie frente a la Central de la Superintendencia Administrativa de la Transtierra, lo primero que la gente veía al cruzar el portal. Y con ella, vio también todo lo que vendría. Los pequeños triunfos que le hicieron creer que valía la pena, los errores que le costaron vidas, las maravillas que la hicieron seguir, y los horrores que nunca pudo deshacer.
+
+ Pero era demasiado tarde, ahora era solo una espectadora. Trató de extender una mano hacia su otro yo, hacia esa versión de sí misma que aún creía en algo, pero sus dedos atravesaron el aire como si nunca hubieran existido. Estaba atrapada, un fantasma aferrándose sin éxito a la vida, deseando poder cambiar algo, decir algunas palabras, hacer algunas cosas. Incapaz de salvar a sus amigos, al mundo, o siquiera a ella misma…
+
+10 años antes…
+
+---
+
+## Notas del Prólogo
+
+### Estructura
+
+- **Inicio:** Presente en la azotea (599 DT)
+- **Desarrollo:** Caída + visión del Espectro
+- **Cierre:** Transición a pasado (589 DT)
+
+### Elementos clave
+
+- **Portal:** Símbolo de escape y prisión
+- **Vox:** Abandono de protección = aceptación de muerte
+- **Dhë/Saol/Seol:** Religión navarí perdiendo sentido
+- **Espectro:** Entidad sobrenatural que concede visiones
+- **Marco narrativo:** Todo será "memoria" mostrada
+
+### Conexiones futuras
+
+- La isla, la playa, el amor, la tumba sin nombre → todo se revelará
+- Rish mencionado como alguien que sí pudo reconfortarse con fe
+- "10 años antes" → inicio del volumen 1
+
+---
+
+*Migrado desde Borrador-original-capitulo-1-Vath.md*

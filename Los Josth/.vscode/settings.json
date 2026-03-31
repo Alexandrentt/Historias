@@ -1,0 +1,14 @@
+{
+  "git.autoRepositoryDetection": "openEditors",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+  "[markdown]": {
+    "editor.cursorSurroundingLines": 17,
+    "editor.tabSize": 4,
+    "editor.wrappingIndent": "same"
+  },
+  "editor.fontSize": 14
+}
