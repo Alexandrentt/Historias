@@ -1,7 +1,11 @@
+---
+tags: [tema, corrupción, satt, sistema, poder]
+---
+
 # Corrupción de la SATT
 
-**Tema central de toda la novela**
-**La institución que se protege a sí misma**
+**Tema central:** La institución que se protege a sí misma  
+**Alcance:** Abarca toda la novela
 
 ## Premisa Fundamental
 La [[SATT]] no es un monstruo externo; es una estructura que se protege a sí misma, incluso cuando eso implica sacrificar personas, vidas, familias, verdades.

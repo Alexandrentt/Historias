@@ -1,7 +1,12 @@
+---
+tags: [mundo, transtierra, portales, worldbuilding]
+---
+
 # Transtierra
 
-**Sistema multitierra conectado por portales**
-**Escenario principal de toda la acción**
+**Tipo:** Sistema multitierra  
+**Estructura:** Siete tierras conectadas por portales  
+**Rol:** Escenario principal de toda la acción
 
 ## Características Generales
 - Múltiples tierras con culturas y tecnologías distintas

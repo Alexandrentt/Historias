@@ -1,8 +1,13 @@
+---
+tags: [personaje, equipo-b4, amitia]
+---
+
 # Rish
 
 **Edad:** 30 años (589 DT) → 40 años (599 DT)
-**Rol inicial:** Jefe superior del equipo B4
-**Rol post-Bastean:** Agente de campo (degradación)
+**Rol:** Jefe superior del equipo B4 → Agente de campo (degradación)
+**Equipo:** [[Equipo B4]]
+**Origen:** [[Amitia]]
 **Estado Final:** Asesinado por [[Yen]] en alucinación; tumba sin nombre
 
 ## Secretos Oscuros

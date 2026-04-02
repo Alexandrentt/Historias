@@ -1,7 +1,12 @@
-# Arco de la Novata (Volumen 1 — 589 DT)
+---
+tags: [arco, volumen-1, arco-novata, 589-dt, yen]
+---
 
-**La iniciación fallida**
-**Donde Yen aprende que justicia institucional es silencio estructurado**
+# Arco de la Novata (Volumen 1)
+
+**Período:** 589 DT  
+**Tema Central:** La iniciación fallida — Donde [[Yen]] aprende que justicia institucional es silencio estructurado  
+**Protagonista:** [[Yen]]
 
 ## Resumen Temático
 El arco de la novata es un libro sobre la precariedad disfrazada de pertenencia.

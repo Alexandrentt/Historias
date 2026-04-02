@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Foam temp files
+.foam/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/extensions*
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

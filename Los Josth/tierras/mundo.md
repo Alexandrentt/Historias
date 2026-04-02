@@ -1,4 +1,10 @@
-# Worldbuilding - Transtierra
+---
+tags: [mundo, transtierra, worldbuilding, portales, sistema]
+---
+
+# Mundo - Transtierra
+
+**Documento maestro de worldbuilding**
 
 ## Conceptos Fundamentales
 
@@ -25,15 +31,15 @@ Estructura fija de gran magnitud con forma de **muro que circunda los planetas p
 
 ### Las Siete Tierras
 
-| # | Nombre | Descripción |
-|---|--------|-------------|
-| 1 | **Amitia** | Centro político/burocrático. Calendario estándar. Tecnología avanzada. Ciudad Thary (capital). |
-| 2 | **Teknara** | Industrial/biopunk. Tecnología de bioartefactos. Túneles mineros extensos. |
-| 3 | **Atharis** | Energía solar avanzada. Calendarios precisos astronómicos. |
-| 4 | **Derat** | Ecosistemas únicos. Habitantes: deratítas. Clima templado en el sur. |
-| 5 | **Khorza** | Jungla tropical. Ecosistema hostil. Habitantes: josthe (seres arborícolas). |
-| 6 | **Návar** | Tierra natal de Yenriel. Imperio caído. Cultura navarí. Armas ceremoniales. |
-| 7 | **Terra** | Órbita diferente (año de ~365 días). Menor desarrollo inicial. |
+| # | Nombre | Descripción | Sistema Político | Tecnología Clave |
+|---|--------|-------------|------------------|------------------|
+| 1 | **Amitia** | Centro político/burocrático. Ciudad Thary. Urbanismo frío y geométrico. | Junta Militar / Hegemonía Corporativa | Radio, Central SATT, Conectividad Lísys |
+| 2 | **Teknara** | Industrial/biopunk. Túneles mineros extensos y mercados de bioartefactos. | Monarquía Constitucional (Parlamentaria) | Bioingredientes, Organismos Modificados, Nodos Lobotec |
+| 3 | **Atharis** | Energía solar avanzada. Conciencia ambiental y asambleísmo descentralizado. | Monarquía Constitucional / Consejo Eco-Civil | Energía Fotónica, Cristales Lísys Mejorados, Paneles Orgánicos |
+| 4 | **Derat** | Ecosistemas únicos y territorios fragmentados. Bajo ocupación de "El Régimen". | Ciudades-Estado bajo influencia extranjera | Minería de Madianíta y Balatium, Vía de las Sombras |
+| 5 | **Khorza** | Primal y misteriosa. Bosque húmedo y enormes superestructuras. | Tribal (Seres Josthe) / "Más astado" | Nidos comunales, Memoria grupal ("ecos de la niebla") |
+| 6 | **Návar** | Archipiélago de islas flotantes. Tradición marítima e imperio caído. | Monarquía Absoluta (Almirante Supremo) | Navegación a vela, Vox algales, Antenas bioluminiscentes |
+| 7 | **Terra** | Zona Restringida. Anomalías biomecánicas y restos de ecosistemas muertos. | Zona de Exclusión bajo control SATT | Campo AT (Antitecnológico), Proyecto Kaos.exe, Yuman |
 
 ### La Vox
 Dispositivo obligatorio para tránsito entre Tierras. Permite adaptarse a la atmósfera de cada mundo.

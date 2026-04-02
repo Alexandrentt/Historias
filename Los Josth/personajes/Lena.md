@@ -1,17 +1,27 @@
+---
+tags: [personaje, equipo-b4, amitia]
+---
+
 # Lena
 
 **Edad:** 29 años (589 DT) → 39 años (599 DT)
 **Origen:** Familia acomodada (tierra desconocida)
 **Rol:** Compañera de [[Yen]] → Líder de la [[Rebelion]]
+**Equipo:** [[Equipo B4]]
 **Trasfondo:** Abandonó familia y expectativas para unirse a [[SATT]]; perdió hermana a manos de inmigrante
 **Orientación:** Bisexual (oculta por la época; solo [[Yen]] se entera)
 
 ## Características Fundamentales
-- Crítica directa con la [[SATT]] desde el inicio
-- "Madre" del equipo B4 — intenta mantenerlos unidos
-- Expresa comunidad mediante infraestructura logística, no palabras emocionales
-- Optimista en que la gente puede cambiar cosas
-- Protectora extrema de [[Yen]]
+
+Lena es el pilar moral del equipo, la más crítica con la SATT y su corrupción. Es la "madre" del grupo, quien intenta mantenerlos unidos, pero su propio idealismo choca con la dura realidad. Es directa, crítica y protectora. No se queda callada ante las injusticias y es la que más se cuestiona las órdenes de la SATT. No es ingenua, pero sí optimista en el sentido de que cree que la gente tiene el poder de cambiar las cosas.
+
+Su cariño se expresa como infraestructura, no como confesión emocional. Expresa comunidad mediante logística práctica, no palabras sentimentales. Cuando el subtexto de que le empieza a gustar Yen emerge, tiene que doler como algo que ella no se permite nombrar; y aun así, lo esencial es que su amor se transforme en ética: "si quiero que ella viva, el sistema tiene que cambiar". Ahí nace la reformadora sin necesidad de discursos ni de que se vuelva villana todavía.
+
+### Orientación Sexual y el Momento del Beso
+
+Lena es bisexual, algo que en esos años era algo medio mal visto. No lo sabe su equipo y solo Yen se entera, de la manera más incómoda posible: en cierta ocasión Lena le robó un beso a Yen. Para Lena, fue un momento impulsivo, tal vez un intento de alivio en un mundo frío. Para Yen, fue una violación de sus creencias religiosas, y su reacción fue inmediata y violenta: le devolvió el gesto con un puñetazo al instante. Una anécdota incómoda para ambas que, aunque no rompió su relación, sí es un punto de inflexión. No las separa, pero sí las cambia.
+
+Solo Yen en el equipo sabía lo de Lena. Esto deja una cicatriz en su amistad. Tras la muerte de Rish, Lena no reconoce a Yen. Ya no ve a la chica con la que construyó una amistad. Se la lleva consigo para cuidarla, pero Yen apenas reacciona a su entorno. Durante un tiempo, Lena se convierte en su única conexión con la realidad, casi como una enfermera.
 
 ## Arco Emocional Principal
 **Reforma Idealista → Rebelión Radical → Ejecución como Traidora**

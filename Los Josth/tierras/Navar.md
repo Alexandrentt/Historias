@@ -1,7 +1,12 @@
+---
+tags: [tierra, navar, origen-yen, religión]
+---
+
 # Navar
 
-**Tierra natal de [[Yen]]**
-**Lugar de origen que la rechaza**
+**Tipo:** Tierra  
+**Rol:** Tierra natal de [[Yen]]  
+**Característica:** Lugar de origen que la rechaza
 
 ## Características Culturales
 - Comunidades "indígenas" (desde perspectiva [[Transtierra]])

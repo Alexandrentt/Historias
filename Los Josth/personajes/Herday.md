@@ -1,8 +1,13 @@
+---
+tags: [personaje, equipo-b4, amitia]
+---
+
 # Herday
 
 **Edad:** 45–55 años (589 DT)
 **Rol:** Jefe del equipo B4
-**Muerte:** Asesinado por [[Bastean]] (Vol. 2)
+**Equipo:** [[Equipo B4]]
+**Muerte:** Asesinado por [[Bastean]] ([[Arco-Bastean]])
 **Impacto:** Cierra [[Arco-Novata]]; abre brecha de poder; [[Rish]] es ascendido
 
 ## Carácter

@@ -1,7 +1,12 @@
+---
+tags: [personaje, equipo-b4, amitia]
+---
+
 # Alec
 
 **Edad:** 26–30 años (589 DT)
 **Rol:** Técnico + documentador de evidencia del equipo B4
+**Equipo:** [[Equipo B4]]
 **Arco:** Fe en evidencia → comprensión de que evidencia necesita protección política
 **Final:** Deserta; vive en tierra natal; se casa; tiene hijos; muere de viejo, feliz y en paz
 

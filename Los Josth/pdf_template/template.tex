@@ -1,0 +1,185 @@
+\documentclass[11pt,a5paper,twoside]{book}
+
+% ============================================
+% PAQUETES
+% ============================================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+% Geometría y márgenes (optimizado para libro A5)
+\usepackage[margin=2cm, top=2.2cm, bottom=2cm, headheight=14pt]{geometry}
+
+% Tipografía
+\usepackage{ebgaramond}  % Fuente elegante para novelas
+\usepackage{titlesec}    % Formato de títulos
+\usepackage{fancyhdr}    % Encabezados y pies de página
+
+% Espaciado
+\usepackage{setspace}
+\onehalfspacing
+
+% Epígrafes - configuración para estilo libro
+\usepackage{epigraph}
+\setlength\epigraphwidth{0.6\textwidth}  % Más estrecho para mejor presentación
+\setlength\epigraphrule{0pt}  % Sin línea divisoria
+\renewcommand{\textflush}{flushright}
+\renewcommand{\epigraphsize}{\footnotesize\itshape}  % Más pequeño
+\setlength{\beforeepigraphskip}{1em}
+\setlength{\afterepigraphskip}{2em}
+
+% Ilustraciones y tablas (pandoc requiere estos)
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{longtable}  % Tablas largas de pandoc
+\usepackage{booktabs}   % \toprule, \midrule, \bottomrule para tablas
+\usepackage{array}      % Mejoras a tablas
+\usepackage{calc}       % Cálculos de longitudes
+\usepackage{fancyvrb}    % Verbatim mejorado
+\graphicspath{{ilustraciones/}{../ilustraciones/}}
+
+% Otros
+\usepackage{emptypage}  % Páginas en blanco sin encabezado
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=false,
+    pdfborder={0 0 0},
+    bookmarks=true,
+    bookmarksopen=true,
+}
+
+% Colores para notas de ilustración
+\usepackage{xcolor}
+\definecolor{ilustracioncolor}{RGB}{100,100,100}
+
+% Fix para comandos de pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ============================================
+% CONFIGURACIÓN DE CAPÍTULOS
+% ============================================
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\centering}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
+% ============================================
+% EPÍGRAFES PERSONALIZADOS
+% ============================================
+\newenvironment{epigrafe}{%
+  \vspace{1em}%
+  \begin{flushright}%
+  \begin{minipage}{0.7\textwidth}%
+  \footnotesize\itshape%
+  \setlength{\parskip}{0.5em}%
+}{%
+  \end{minipage}%
+  \end{flushright}%
+  \vspace{2em}%
+}
+
+% ============================================
+% ENCABEZADOS Y PIES
+% ============================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\thepage}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\fancyhead[RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% ============================================
+% COMANDOS PERSONALIZADOS
+% ============================================
+
+% Comando para epígrafe de capítulo
+% Uso en markdown: 
+% > Texto del epígrafe
+% > — Autor, *Obra*
+% Pandoc lo convierte a \begin{quote}...\end{quote}
+% Este comando formatea un epígrafe elegante:
+\newcommand{\capituloepigrafe}[2]{%
+    \begin{epigraph}
+    #1\\
+    \vspace{0.5em}
+    {\normalsize--- #2}
+    \end{epigraph}
+    \vspace{1em}
+}
+
+% Comando para insertar ilustración
+% Se usa con el formato [ilustracion:descripcion] en markdown
+% El script de compilación lo convierte a:
+% \ilustracion{nombre_archivo}{descripcion}{numero}
+\newcommand{\ilustracion}[3]{%
+    \begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{#1}
+    \caption{\textcolor{ilustracioncolor}{\small #2}}
+    \label{fig:#3}
+    \end{figure}
+    \vspace{0.5em}
+}
+
+% Comando para placeholder de ilustración (cuando aún no existe la imagen)
+\newcommand{\ilustracionplaceholder}[3]{%
+    \begin{figure}[H]
+    \centering
+    \fbox{\parbox{0.8\textwidth}{%
+        \centering
+        \vspace{3cm}
+        {\large\itshape [Ilustración #3]}\\[1em]
+        {\small #2}
+        \vspace{3cm}
+    }}
+    \caption{\textcolor{ilustracioncolor}{\small #2}}
+    \label{fig:#3}
+    \end{figure}
+    \vspace{0.5em}
+}
+
+% ============================================
+% INICIO DEL DOCUMENTO
+% ============================================
+\begin{document}
+
+% Portada
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+    
+    {\Huge\bfseries Los Josth\par}
+    
+    \vspace{1cm}
+    
+    \vfill
+    
+    \vspace{2cm}
+\end{titlepage}
+
+% Página en blanco
+\cleardoublepage
+
+% Tabla de contenidos
+\tableofcontents
+\cleardoublepage
+
+% Índice de ilustraciones
+\listoffigures
+\cleardoublepage
+
+% ============================================
+% CONTENIDO PRINCIPAL
+% (Los capítulos se insertan aquí desde Pandoc)
+% ============================================
+
+$body$
+
+\end{document}

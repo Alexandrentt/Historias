@@ -1,44 +1,34 @@
+---
+tags: [tierra, amitia, sede-satt, capital]
+---
+
 # Amitia
 
-**Capital política de [[Transtierra]]**
-**Sede de poder de [[SATT]]**
+**Tipo:** Tierra  
+**Rol:** Capital política de [[Transtierra]]  
+**Institución:** Sede de poder de la [[SATT]]  
+**Arquitectura:** [[Torre-Central-SATT]] (280 pisos)
 
 ## Características
-- Centro administrativo del imperio
-- Ubicación de [[Torre-Central-SATT]]
-- Contraste entre poder y precariedad
-- Donde ocurre la mayoría de la acción política
+- **Centro Administrativo:** Sede de la [[Torre-Central-SATT]], el edificio más alto de la Transtierra (280 pisos).
+- **Urbanismo:** Ciudades de estilo ciberpunk/noir con barrios de trabajadores precarios (cubículos vitales) y zonas de vigilancia constante.
+- **Clima:** Frío, nublado y monótono. Carece de espacios abiertos o parques naturales.
 
-## [[Torre-Central-SATT]]
-- Edificio más emblemático de [[Amitia]]
-- Donde [[Yen]] trabaja durante 10 años
-- 280 pisos de altura
-- Último piso = donde [[Yen]] cae
+## Historia y Política
+- **Poder Militar:** Hegemonía de un único país que impuso el sistema amitocéntrico (el calendario oficial es el amitiano).
+- **Gobierno:** Junta Militar con fuerte influencia de corporaciones tecnológicas y de seguridad.
+- **Era de la SAT:** Consolidó su poder tras las Guerras de la Transtierra, transformando la antigua CTT en la actual SAT para controlar los Portales.
 
-### Ubicación en Narrativa
-- Vol. 1–6: lugar de trabajo
-- Final: lugar de muerte
-- Post-muerte: será demolida (símbolo de caída de [[SATT]])
+## Tecnología
+- **Conectividad:** Nodo central del sistema de red [[Lísys]].
+- **Radio y Prensa:** Fuertemente controladas por el aparato institucional para fabricar "verdades públicas".
+- **Infraestructura:** Provee tecnología de compactación vial y energía a cambio de recursos en otras tierras.
 
-## Geografía
-- Central de [[SATT]]
-- Estaciones de portal para acceso a otras tierras
-- Barrios de trabajadores (donde [[Yen]] y [[Lena]] viven)
-- Zonas de vigilancia constante
+## Sociedad
+- Marcada división de clases entre los altos mandos de la SAT y los agentes de campo/trabajadores.
+- Cultura de obediencia y miedo administrado.
+- Símbolo de la "promesa de futuro" que se convierte gradualmente en una "prisión administrativa".
 
-## Política
-- Centro de poder que [[Lena]] busca reformar
-- Donde ocurren encubrimientos de nivel más alto
-- Donde [[Rish]] es ascendido y luego degradado
-- Donde [[Rebelion]] toma el poder (temporalmente)
-
-## Símbolos
-- 🏢 **Torre Central** — Monumento a poder institucional
-- 🚪 **Portales** — Control de movimiento entre tierras
-- 📜 **Archivos** — Donde se guardan (o destruyen) verdades
-
-## Relación con [[Yen]]
-- Inicialmente: promesa de futuro
-- Gradualmente: prisión administrativa
-- Finalmente: lugar donde muere
-- Símbolo perfecto de trayectoria de [[Yen]] desde esperanza a muerte
+## Relación Narrativa
+- Es el lugar donde transcurre el **Volumen 1: La Novata**, el arco de **Bastean**, y el **Clímax Final** (Vol. 6).
+- Representa la trayectoria de Yen: desde el idealismo de la llegada hasta el desencanto y la caída final.

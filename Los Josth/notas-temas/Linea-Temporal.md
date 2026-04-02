@@ -1,6 +1,11 @@
-# Línea Temporal Completa
+---
+tags: [tema, cronología, timeline, historia]
+---
 
-**Contexto de todos los eventos**
+# Línea Temporal
+
+**Documento:** Cronología completa de eventos  
+**Período:** Desde 580 DT hasta 599 DT
 
 ## Pre-589 DT
 

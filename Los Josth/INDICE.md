@@ -42,39 +42,33 @@
 ### Capítulo 0 - Prólogo
 Yen en la azotea de la Central, a punto de suicidarse. Caída + visión del Espectro que muestra su vida. Setup del marco narrativo.
 
-### Capítulo 1 - Vath (Piloto)
-**Caso:** Evasión fiscal/contrabando en Návar → Teknara. Túneles usados para migración ilegal.  
-**Avance Yen:** Primera grieta moral, choque con resentimiento del equipo.  
-**Personajes:** Entrada Yen, Zhan hostil, Rish ambiguo, Lena puente.  
-**Mitología:** Stinger con "la lista", encubrimiento, Yen no está ahí por casualidad.
-
-### Capítulo 2 - La verdadera secuela complicada
+### Capítulo 1 - La verdadera secuela complicada
 **Caso:** Revuelta en Domo Vital + pasado de Alec.  
 **Avance:** Vida cotidiana, precariedad (cubículo vital), primera unión Yen-Lena.  
 **Setting:** Contrastes entre Central y barrios periféricos de Thary.
 
-### Capítulo 3 - El ingeniero
+### Capítulo 2 - El ingeniero
 **Caso:** Explosión por tanque sin revisión. Muerte mediática vs. negligencia real.  
 **Tema:** Cómo se fabrica una verdad pública. "Resolver" ≠ "ganar el relato".  
 **Avance:** Yen vs. sistema (no criminales), Lena la guía, Zhan como brújula moral.
 
-### Capítulo 4 - Cámaras en mantenimiento
+### Capítulo 3 - Cámaras en mantenimiento
 **Caso:** Secuestro donde "las cámaras estaban en mantenimiento".  
 **Función:** Presagio del patrón de encubrimiento (Bastean).  
 **Avance:** Yen aprende a dejar de caerle bien a todos; Zhan la corrige como igual.
 
-### Capítulo 5 - El caso que nadie cubre
+### Capítulo 4 - El caso que nadie cubre
 **Caso:** Desaparición no mediática (obrero migrante). Resuelto pero no publicado.  
 **Función:** Contrapunto del Cap 3. Vidas sacrificables para el sistema.  
 **Avance:** Yen supera síndrome del impostor; no necesita aplauso externo.
 
-### Capítulo 6 - Mitad del alquiler
+### Capítulo 5 - Mitad del alquiler
 **Caso:** Extorsión de arrendador/tráfico de credenciales SAT.  
 **Función:** Intimidad, rutina, cansancio. Beat del roommate.  
 **Clave:** Lena propone que Yen se mude con ella (subtexto romántico).  
 **Avance:** Yen acepta ayuda sin sentirse menos válida.
 
-### Capítulo 7 - El último aviso (Clímax Vol. 1)
+### Capítulo 6 - El último aviso (Clímax Vol. 1)
 **Estructura:** Primera mitad "todo normal", segunda mitad ataque.  
 **Evento:** Muerte de Herday.  
 **Consecuencias:** Rish asciende, caso reasignado con motivos ocultos. Equipo fracturado/soldado.  

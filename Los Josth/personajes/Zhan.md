@@ -1,7 +1,12 @@
+---
+tags: [personaje, equipo-b4, amitia]
+---
+
 # Zhan
 
 **Edad:** 32–34 años (589 DT)
 **Rol:** Soldado/agente del equipo B4
+**Equipo:** [[Equipo B4]]
 **Trasfondo:** Hermano muerto ([[Kluar]]) es reemplazado por [[Yen]]
 **Arco final:** Reformista; participa en [[Rebelion]] con [[Lena]]
 

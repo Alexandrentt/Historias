@@ -1,7 +1,7 @@
-# Los Josth - Saga de Ciencia Ficción
+# Odisea - Nueva Saga Literaria
 
 ## 📖 Descripción
-Proyecto literario colaborativo desarrollado con FOAM (Feature-Oriented Architecture for Markdown) para gestionar una saga de ciencia ficción. Sistema de notas interconectadas que facilita la escritura, organización y revisión de contenido narrativo.
+Proyecto literario colaborativo desarrollado con FOAM (Feature-Oriented Architecture for Markdown) para gestionar una nueva saga. Sistema de notas interconectadas que facilita la escritura, organización y revisión de contenido narrativo.
 
 ## 🗂️ Estructura del Proyecto
 
@@ -15,9 +15,8 @@ Proyecto literario colaborativo desarrollado con FOAM (Feature-Oriented Architec
 
 ## 🔗 Índices
 
-- [FOAM-INDICE.md](FOAM-INDICE.md) - Índice navegable de Foam (referencias interconectadas)
 - [INDICE.md](INDICE.md) - Índice tradicional del proyecto
-- [Biblia-de-la-serie-Yen.md](Biblia-de-la-serie-Yen.md) - Biblia narrativa y worldbuilding
+- [Biblia-de-la-serie.md](Biblia-de-la-serie.md) - Biblia narrativa y worldbuilding
 
 ## 🚀 Comenzar con FOAM
 

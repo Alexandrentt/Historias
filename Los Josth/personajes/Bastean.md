@@ -1,7 +1,12 @@
+---
+tags: [personaje, antagonista, arco-bastean, navar]
+---
+
 # Bastean
 
 **Status:** Antagonista/Protagonista moral del [[Arco-Bastean]]
 **Rol:** Exagente de [[SATT]]; vengado
+**Origen:** [[Navar]]
 **Motivación:** Represión mató a su hija
 **Muerte:** Suicidio en custodia (3 disparos en espalda)
 

@@ -1,16 +1,26 @@
+---
+tags: [personaje, protagonista, equipo-b4, navar]
+---
+
 # Yenriel (Yen)
 
 **Edad:** 25 años (589 DT) → 35 años (599 DT)
 **Origen:** [[Navar]] (tierra natal)
 **Rol:** Agente de la [[SATT]] (reemplaza a [[Kluar]])
+**Equipo:** [[Equipo B4]]
 **Estado Final:** Desaparecida — cuerpo desintegrado en portal
 
 ## Perfil Psicológico
-- Síndrome del impostor severo
-- Necesidad compulsiva de aprobación
-- Se culpa de todo sistemáticamente
-- Mecanismo de defensa: idealismo inicial
-- Personalidad hipersensible (comentarios pequeños la afectan profundamente)
+
+Yen es una joven con síndrome del impostor que busca la aprobación de todos para sentirse validada. Tiene una personalidad que intenta llevarse bien con todo el mundo, a costa de sentirse incómoda para no incomodar a los demás. Rara vez confronta a las personas directamente, y cuando lo hace, minimiza su culpa y se la echa todo a ella misma. Se toma las cosas muy a pecho y, aunque no es rencorosa, sí que se termina peleando con la gente por cosas que parecen insignificantes pero que para ella le afectan profundamente. Para alguien externo puede parecer que Yen se deja de hablar con alguien por nimiedades, pero para ella estas situaciones le duelen genuinamente.
+
+### Máscara y Vulnerabilidad
+
+Su idealismo inicial es en realidad un mecanismo de defensa para la incertidumbre que atraviesa al estar en un nuevo entorno. En el primer caso, Zhan funciona como una figura antagónica que le pone los pies en la tierra. Es una chica nerviosa que intenta tapar con una máscara de optimismo. Cuando Lena la invita a ella y al equipo, finalmente se revela la verdadera Yen: una persona pequeña con miedo, que con ayuda de sus compañeros superará sus problemas hasta que ya no los tenga y se dé cuenta de que todo la supera.
+
+### Tema Central: Depresión Funcional
+
+Un tema fundamental con Yen es la depresión funcional. Sigue haciendo su trabajo pero cada vez más vacía por dentro, sin caer en tópicos ni permitir que toda su personalidad gire entorno a esto. No es una protagonista fuerte en el sentido físico de la palabra: aunque en toda la serie logra defenderse, eso no será suficiente para los peligros que enfrenta.
 
 ## Arco Emocional Principal
 **Idealismo → Desencanto → Apatía → Depresión Funcional → Catatonia → Muerte**

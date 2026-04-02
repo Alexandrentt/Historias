@@ -1,7 +1,12 @@
-# Arco Bastean (Volumen 2 — 590–591 DT)
+---
+tags: [arco, volumen-2, arco-bastean, 590-591-dt, corrupción, venganza]
+---
 
-**La lista de venganza**
-**Donde el sistema demuestra que puede ganar aunque el monstruo pierda**
+# Arco de Bastean (Volumen 2)
+
+**Período:** 590–591 DT  
+**Tema Central:** La lista de venganza — Donde el sistema demuestra que puede ganar aunque el monstruo pierda  
+**Antagonista:** [[Bastean]]
 
 ## Resumen Temático
 El arco de Bastean es sobre cómo dos estrategias opuestas (venganza pública vs. redención silenciosa) contra el mismo sistema fracasan de formas diferentes.

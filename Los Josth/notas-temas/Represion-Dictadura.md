@@ -1,7 +1,12 @@
-# Represión y Dictadura (580–585 DT)
+---
+tags: [tema, historia, dictadura, represión, rish, bastean]
+---
 
-**Periodo histórico anterior a la novela**
-**Que continue contaminando todo**
+# Represión y Dictadura
+
+**Período:** 580–585 DT  
+**Rol:** Periodo histórico anterior a la novela  
+**Impacto:** Sigue contaminando todo
 
 ## Contexto Histórico
 - Dictadura que terminó unos años antes de 589 DT
