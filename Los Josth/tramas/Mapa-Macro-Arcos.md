@@ -6,6 +6,8 @@ tags: [trama, macro, arcos, estructura, 6-volumenes, yen, satt]
 
 **Uso:** documento maestro de estructura. Cada arco de personaje se define por lo que **siembra** y lo que **cobra**, volumen a volumen. Se apoya en `notas-temas/Canon.md`, `notas-temas/Plantas-y-Cosechas.md` y `notas-temas/Decisiones-de-Yen.md`.
 
+> **Detalle por personaje:** `tramas/Arcos-Personajes.md` (movimiento volumen a volumen + control de congruencia). Este mapa es el resumen; aquel es el desarrollo.
+
 **Arquitectura emocional general:** idealismo-máscara → conciencia → apatía → esperanza → fractura → caída.
 
 ---
