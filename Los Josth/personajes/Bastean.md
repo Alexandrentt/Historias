@@ -11,7 +11,7 @@ tags: [personaje, antagonista, arco-bastean, navar]
 **Muerte:** Suicidio en custodia (3 disparos en espalda)
 
 ## Trasfondo
-- Fue agente durante [[Represion-Dictadura]] (580–585 DT)
+- Fue agente durante [[Represion-Dictadura]] (579–588 DT)
 - **Cómplice inicialmente; luego desertor**
 - Fuerzas represivas matan a su hija
 - Años después, decide venganza sistemática

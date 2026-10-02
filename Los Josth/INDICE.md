@@ -9,6 +9,23 @@
 
 ---
 
+## Documentos de trabajo (revisión editorial)
+
+Material de continuidad y revisión. **`Canon.md` es la fuente única de verdad** y anula contradicciones en el resto de documentos.
+
+| Documento | Para qué |
+|-----------|----------|
+| [Canon](./notas-temas/Canon.md) | Nombres, años, cosmología, Tierras, vox, voseo, jerarquía |
+| [Lista-40](./tramas/Lista-40.md) | Los 40 responsables de la Operación Tierra 5 (Bastean) |
+| [Plantas y cosechas](./notas-temas/Plantas-y-Cosechas.md) | Qué se siembra y dónde cobra |
+| [Regla de narración](./notas-temas/Regla-de-Narracion.md) | Espectro omnisciente |
+| [Decisiones de Yen](./notas-temas/Decisiones-de-Yen.md) | Agencia por volumen |
+| [Mapa macro de arcos](./tramas/Mapa-Macro-Arcos.md) | Arcos por personaje, derrotas y balance de casos |
+| [Plan editorial](./notas-temas/Plan-Editorial.md) | Lista de tareas en orden |
+| [Plan de deducción (cap. 1)](./capitulos/La%20novata/Plan-deduccion-cap01.md) | Reescritura del cap. 1 |
+
+---
+
 ## Estructura por Volúmenes
 
 | Volumen | Arco | Años DT | Capítulos | Nivel Importancia |
@@ -63,7 +80,7 @@ Yen en la azotea de la Central, a punto de suicidarse. Caída + visión del Espe
 **Avance:** Yen supera síndrome del impostor; no necesita aplauso externo.
 
 ### Capítulo 5 - Mitad del alquiler
-**Caso:** Extorsión de arrendador/tráfico de credenciales SAT.  
+**Caso:** Extorsión de arrendador/tráfico de credenciales SATT.  
 **Función:** Intimidad, rutina, cansancio. Beat del roommate.  
 **Clave:** Lena propone que Yen se mude con ella (subtexto romántico).  
 **Avance:** Yen acepta ayuda sin sentirse menos válida.

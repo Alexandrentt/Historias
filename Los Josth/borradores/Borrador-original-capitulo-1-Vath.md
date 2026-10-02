@@ -7,18 +7,18 @@ El abismo la llamaba, no quería contestar. Estaba a punto de renunciar, tal y c
 Estaba asustada, como cualquiera que ve una cima a más de 2 kilodacmos y siente vértigo. Las manos y piernas le temblaban y no solo por el frío de medianoche. Levantó la pierna izquierda y la sostuvo en el aire, dispuesta y a la vez incapaz. No podía ser el final, no había luchado por años contra injusticias, contra la corrupción de su propia organización, contra sus demonios interiores solo para que al final se rindiera. No tenía sentido, no lo encontraba a pesar de buscarle uno mucho tiempo. No, no podía ser el final, no aún. Recordó su intento anterior, en ese entonces se detuvo por miedo, por ello y por Lena. Lena… De cualquier forma, ahora había otra motivación además de ello, no había hecho algo importante, debía despedirse. Comenzó a devolver la pierna que había alzado al aire de vuelta al borde. Eso era. Intentó desesperada encontrar cualquier excusa, así susurró: Debo despedirme.
 El sonido de una puerta abriéndose estrepitosamente retumbó en su mente, en un intento por girar la vista, la única pierna que la sostenía resbaló. Era el momento perfecto para ver una última vez a Lena, Rish, a un amigo o enemigo, un conocido o a quien sea. Pero no había nadie. Para cuando pudo voltearse, veía las ventanas del piso cuatrocientos.
 En el instante en que ella dejó de sentir el frío borde, el terror más intenso que su cuerpo podía sentir la invadió. Se arrepintió de subir a la azotea en primer lugar.
-El terror que instantes antes era oprimido por el más profundo sentimiento de decepción por sí misma, ahora era todo lo que podía sentir. Un escalofrío recorrió desde la punta de su cabeza hasta la planta de sus pies como una descarga eléctrica que no remitía, el aire le golpeó el rostro como una bofetada helada, su estómago se contrajo con violencia cuando la gravedad la reclamó. Quiso gritar, quiso llorar, y de nada serviría, los servicios de socorro estaban en el piso 200 y ya acababa de pasarlos. Deseó chocar con algún aeromóvil, pero al instante recordó que no estaban permitidos tan cerca del portal. ¿Por qué tuvo que trabajar tan cerca de ahí? ¿Por qué tenía que trabajar ahí para empezar? Anheló los tiempos en los que el deseo de trabajar para la SAT se había ido de su cabeza, tres meses atrás. No, antes de eso, mucho antes, desde el instante en que llegó a Amitia por primera vez, tampoco. El momento exacto en el que escuchó por primera vez la posibilidad de ir a otras Tierras tan solo con cruzar el portal que iluminaba el cielo de azul un poco más tenue que el propio sol, y tan grande que la vieja aeronave de su padre se perdía en el horizonte antes de perder de vista el portal. Maldijo el día en que decidió que su sueño de la vida sería trabajar para la SAT, el deseo de visitar lugares que su imaginación no podía concebir, siete mundos tan únicos que diría que eran de universos distintos. Maldijo a la niña que deseó poder ir allí. Porque ¿qué fue lo que le esperó luego?
+El terror que instantes antes era oprimido por el más profundo sentimiento de decepción por sí misma, ahora era todo lo que podía sentir. Un escalofrío recorrió desde la punta de su cabeza hasta la planta de sus pies como una descarga eléctrica que no remitía, el aire le golpeó el rostro como una bofetada helada, su estómago se contrajo con violencia cuando la gravedad la reclamó. Quiso gritar, quiso llorar, y de nada serviría, los servicios de socorro estaban en el piso 200 y ya acababa de pasarlos. Deseó chocar con algún aeromóvil, pero al instante recordó que no estaban permitidos tan cerca del portal. ¿Por qué tuvo que trabajar tan cerca de ahí? ¿Por qué tenía que trabajar ahí para empezar? Anheló los tiempos en los que el deseo de trabajar para la SATT se había ido de su cabeza, tres meses atrás. No, antes de eso, mucho antes, desde el instante en que llegó a Amitia por primera vez, tampoco. El momento exacto en el que escuchó por primera vez la posibilidad de ir a otras Tierras tan solo con cruzar el portal que iluminaba el cielo de azul un poco más tenue que el propio sol, y tan grande que la vieja aeronave de su padre se perdía en el horizonte antes de perder de vista el portal. Maldijo el día en que decidió que su sueño de la vida sería trabajar para la SATT, el deseo de visitar lugares que su imaginación no podía concebir, siete mundos tan únicos que diría que eran de universos distintos. Maldijo a la niña que deseó poder ir allí. Porque ¿qué fue lo que le esperó luego?
 Una isla, una playa, un corazón asfixiado. Un amor olvidado, una tumba sin nombre, una culpa que la ahogaba más que el aire de otra Tierra.
-Atravesó niebla, y con ello la inmensa ciudad que escondía debajo. Ya podía ver el suelo y con ello, las cargas explosivas preparadas para derrumbar lo que alguna vez fue la Central de la SAT. Su mente comenzó a divagar, a recordar y reflexionar en los segundos restantes. Quiso hablarle al Dhë, pero recordó que ya no creía en eso, la filosofía que traía de su Tierra Natal ya no importaba, ahí en el aire nada lo hacía, pero incluso esa predicaba que al morir su conciencia quedaría dormida en el Saol, como todos los naváreos que alguna vez existieron, ahora que lo pensaba, no era tan diferente a que no hubiese nada. No pudo reconfortarse con la esperanza de un lugar, así como sí pudo Rish. 
+Atravesó niebla, y con ello la inmensa ciudad que escondía debajo. Ya podía ver el suelo y con ello, las cargas explosivas preparadas para derrumbar lo que alguna vez fue la Central de la SATT. Su mente comenzó a divagar, a recordar y reflexionar en los segundos restantes. Quiso hablarle al Dhë, pero recordó que ya no creía en eso, la filosofía que traía de su Tierra Natal ya no importaba, ahí en el aire nada lo hacía, pero incluso esa predicaba que al morir su conciencia quedaría dormida en el Saol, como todos los naváreos que alguna vez existieron, ahora que lo pensaba, no era tan diferente a que no hubiese nada. No pudo reconfortarse con la esperanza de un lugar, así como sí pudo Rish. 
 Su mente, ese que tantos problemas le había causado y que era responsable de su situación actual, no paraba de gritarle que de ésta no salía viva; su corazón, ese quien también le había dado problemas, le susurraba que todo era su culpa.
 Dejó escapar una breve sonrisa ya solo por probar, a ver si ello la calmaba. Volteó a ver el portal, ¿cuándo había sido la primera vez que lo atravesó? ¿Fue en un viaje escolar, un ejercicio de la academia o la primera vez que llegó a Tierra 1? Quizás las tres, o quizás la última, sí, definitivamente fue la última. Recordó el miedo mezclado con la curiosidad más incontenible, propio de alguien de apenas 25 años. Se maldijo a sí misma.
-Recordó cuando se convirtió en un despojo, esa era la palabra que mejor describía lo que era en el idioma de Tierra 2. ¿Tierra 2? Su idioma no se llamaba así, tampoco su Tierra natal, tenía un nombre, aunque pareciera que todos preferían olvidarlo, ella incluida, supuso que años escuchando como la llamaban le hizo olvidar que era una navárea. Se sorprendió a sí misma lo mucho que estar ahí afuera la había cambiado.
+Recordó cuando se convirtió en un despojo, esa era la palabra que mejor describía lo que era en el idioma de Tierra 6. ¿Tierra 6? Su idioma no se llamaba así, tampoco su Tierra natal, tenía un nombre, aunque pareciera que todos preferían olvidarlo, ella incluida, supuso que años escuchando como la llamaban le hizo olvidar que era una navárea. Se sorprendió a sí misma lo mucho que estar ahí afuera la había cambiado.
 El portal… su hogar estaba tan cerca y tan lejos a la vez, un universo de por medio, o solo 4 dacmos. Casi deseó nunca haber huido de su Tierra, de sus responsabilidades, de la casa de sus padres como lo hizo, casi.
 Estaba planteándose todas y cada una de las decisiones que la llevaron a la azotea. Y en el instante previo, todo se detuvo. El viento dejó de rugir en sus oídos, el ruido de la ciudad, y por un instante el de su mente, el dolor de cuerpo, y el de su seol, la caída y la ¿gravedad?
 —El espectro —susurró—. No, no podía ser. Incluso en la elección de su religión, se había equivocado. El espectro era real después de todo.
 Su cuerpo seguía cayendo, pero su conciencia ya no estaba ahí. Algo en su interior se había desprendido, deslizándose hacia otro lugar. Su Saol flotaba en el umbral de la existencia. Un eco resonó en su mente, una voz que no era suya ni de nadie más.
 —Elige que ver —dije—. No te queda mucho tiempo. Pasado, presente o futuro.
-Por un instante, se preguntó qué pasaría si escogiera el futuro, pero desechó la idea de inmediato. No le importaba. No ahora. No dijo ninguna palabra, pero yo ya sabía lo que elegiría. Lo sé siempre, y, aun así, cada vez espero que alguien elija distinto. Escogió su propia vida, no, sólo su tiempo en la SAT, todo lo demás estaba enterrado, esperando paciente a pudrirse en su corazón, e incluso así, intentó recuperarlo, tenía que encontrar una justificación, estaba ahí, su pensamiento racional se lo exigía.
+Por un instante, se preguntó qué pasaría si escogiera el futuro, pero desechó la idea de inmediato. No le importaba. No ahora. No dijo ninguna palabra, pero yo ya sabía lo que elegiría. Lo sé siempre, y, aun así, cada vez espero que alguien elija distinto. Escogió su propia vida, no, sólo su tiempo en la SATT, todo lo demás estaba enterrado, esperando paciente a pudrirse en su corazón, e incluso así, intentó recuperarlo, tenía que encontrar una justificación, estaba ahí, su pensamiento racional se lo exigía.
 Asentí, y eso le permitió hurgar entre sus vivencias y más allá de eso, solo para avergonzarse y arrepentirse de lo que encontró.   
 Encontró a una Yenriel más joven y demasiado idealista, de pie frente a la Central de la Superintendencia Administrativa de la Transtierra, lo primero que la gente veía al cruzar el portal. Y con ella, vio también todo lo que vendría. Los pequeños triunfos que le hicieron creer que valía la pena, los errores que le costaron vidas, las maravillas que la hicieron seguir, y los horrores que nunca pudo deshacer.
 Pero era demasiado tarde, ahora era solo una espectadora. Trató de extender una mano hacia su otro yo, hacia esa versión de sí misma que aún creía en algo, pero sus dedos atravesaron el aire como si nunca hubieran existido. Estaba atrapada, un fantasma aferrándose sin éxito a la vida, deseando poder cambiar algo, decir algunas palabras, hacer algunas cosas. Incapaz de salvar a sus amigos, al mundo, o siquiera a ella misma…
@@ -57,7 +57,7 @@ Vath seguía en el suelo, no se movía, pero no podía ser tan grave, ¿cierto?
 —Nada que nos sirva. Alec, dile a la policía local que siga resguardando el lugar, llamaremos a un forense para que siga buscando.
 —Yo puedo hacer eso —exclamó Lena.
 —No tenemos tiempo para eso. Tenemos a un teknosiano que interrogar. Ya, baja de ahí.
-Media hora después, la policía finalmente llegó, Alec había levantado el equipo que usaba para que los tres se comunicaran y solo quedaba llevarse a Vath. Lena lo levantó por la camisa y con ayuda de Alec lo sacaron del callejón cargado en brazos. Ninguno de ellos parecía conmovido. La gente que pasaba por la calle apenas desviaba la mirada; la placa y uniforme de la SAT era suficiente explicación.
+Media hora después, la policía finalmente llegó, Alec había levantado el equipo que usaba para que los tres se comunicaran y solo quedaba llevarse a Vath. Lena lo levantó por la camisa y con ayuda de Alec lo sacaron del callejón cargado en brazos. Ninguno de ellos parecía conmovido. La gente que pasaba por la calle apenas desviaba la mirada; la placa y uniforme de la SATT era suficiente explicación.
 —No creen que deberíamos dejarlo en custodia antes y planear mejor nuestro siguiente movimiento —sugirió Lena —. Podríamos ser más organizados, para variar.
 Zhan y Alec se miraron entre sí. No estaba diciendo locuras, últimamente se estaban dejando llevar. 
 —Bien —dijo el líder el equipo —. Pero sería a la Central. No confío en las estaciones regionales, siempre se escapan de ahí.
@@ -139,7 +139,7 @@ Yen parpadeó, y lo miró fijamente. —¿Quién? —preguntó confundida.
 No lo entendió al instante, pero el nombre le sonaba de algo. Uno de los tantos informes que tenía que revisar lo mencionaba, es un alias. Un contrabandista que capturaron. ¡Que ya capturaron!
 —Pero… eso no pasa —. La frase le salió al instante.
 Rish arqueó una ceja, medio divertido.
-—Eso es lo que dicen, ¿no? Que nadie se fuga de la SAT. Bueno, te tengo noticias, pasa más de lo que les gusta admitir.
+—Eso es lo que dicen, ¿no? Que nadie se fuga de la SATT. Bueno, te tengo noticias, pasa más de lo que les gusta admitir.
 Yen se aferró al respaldo de su silla. 
 —Por qué me lo cuentas?
 Rish le dio una gran sonrisa. 
@@ -150,10 +150,10 @@ Trató de convencerse de que no tenía nada que hacer. Ella era archivista, nada
 *No te metas. ¿Quién sos vos para hablar? No es tu trabajo. Te van a callar antes de terminar la frase.*
 —Si no lo digo, nadie lo va a decir. 
 *Como que nadie, no son estúpidos. Si alguien en custodia escapó lo irán a buscar.*****
-—Entonces porque no lo han hecho ya? La SAT tiene recursos infinitos.
+—Entonces porque no lo han hecho ya? La SATT tiene recursos infinitos.
 *¿Hace cuanto escapó?*****
 —No lo sé. Tal vez fue a alguna de sus guaridas.
-*Si la **SAT** ya los conoce no creo que vaya ahí.*****
+*Si la **SATT** ya los conoce no creo que vaya ahí.*****
 —Y donde buscarán entonces. 
 *¿No te has dado cuenta? No lo harán.*****
 —Eso no tiene sentido. 
@@ -163,7 +163,7 @@ El ascensor se llenó de un silencio. Yen bajó la mirada mientras seguía murmu
 *—Los números del manifiesto no cuadran. No hay peso declarado, solo códigos y un puerto secundario en Teknara. Y en tres informes el tipo de carga está tachado.*****
 *Su corazón se aceleró. Eso no era un error.*****
 *¿Quién censura datos así?*****
-—No fue aquí, vino desde aduanas. O alguien en la SAT trabaja con él… y borra la evidencia.****
+—No fue aquí, vino desde aduanas. O alguien en la SATT trabaja con él… y borra la evidencia.****
 *Lo lógico sería falsificar, no borrar.*****
 —Exacto. Pero si falsifica… debe haber un registro que se le escapó. ¿Cuál era la fecha del último contenedor que usó a los Doledas?
 *No lo recuerdo. El informe estaba en algún lugar de los archivos de evidencia…*****
@@ -215,7 +215,7 @@ Media hora después, con carpetas desperdigadas por el suelo y varias disculpas 
 *Este plan se basa en muchas suposiciones, no me gusta.*****
 —Y si yo no lo digo ahora, alguien lo dirá tarde. O peor, nunca.
 *Bien, entonces decíselo.*
-Apiló las carpetas con un golpe seco, respiró hondo y, por primera vez desde que llegó a la SAT, se encaminó hacia la oficina de Herday sin pasos temblorosos.  
+Apiló las carpetas con un golpe seco, respiró hondo y, por primera vez desde que llegó a la SATT, se encaminó hacia la oficina de Herday sin pasos temblorosos.  
 Herday estaba sentado frente a su escritorio, los brazos cruzados, la mirada clavada al equipo.
 —La fuga no se filtra. Ni una palabra —dijo, y el ambiente en la sala se sintió aún más denso.
 El resto del equipo estaba disperso por el despacho, Lena sentada aun lado del escritorio, Zhan estaba de pie, inquieto, como cuando se encierra un perro, y Alec distraído, jugando entre los dedos una minifigura metálica que había tomado de una de las repisas.
@@ -316,8 +316,8 @@ Alec murmuró una maldición.
 Alec dudó un instante, luego se encogió de hombros—. Seguimos las lecturas. Si encontramos algo, los atraerá. 
 Y así continuaron con el túnel, siguiendo el calor, y luego un murmullo. El murmullo se convirtió en voces reales. Había gente más adelante. Avanzaron en silencio, hasta que una luz parpadeante reveló un campamento improvisado, varias personas alrededor de dos fogatas, cajas de metal, sacos, y un generador encendido. Y solo tres hombres armados custodiaban una consola en el centro del túnel.
 Alec levantó la mano para indicarle a Yen que se quedara atrás. Pero cuando retrocedió un paso, su mochila golpeó una de las piedras sueltas. El ruido resonó como un disparo.
-Un ¿niño? Volteó por el ruido. Alec le hacía amenes para no hablar, pero no funcionó, su madre fue a sujetarlo y cuando alzo la vista, lo que vio fue dos agentes de la SAT y uno con un arma. Sabiendo que estaba escondida en un túnel clandestino definitivamente la hizo gritar, gritar con toda el alma lo único de lo que estaba segura. 
-—¡SAT!
+Un ¿niño? Volteó por el ruido. Alec le hacía amenes para no hablar, pero no funcionó, su madre fue a sujetarlo y cuando alzo la vista, lo que vio fue dos agentes de la SATT y uno con un arma. Sabiendo que estaba escondida en un túnel clandestino definitivamente la hizo gritar, gritar con toda el alma lo único de lo que estaba segura. 
+—¡SATT!
 Uno de los guardias giró al instante.
 —¡¿Eh?!
 Yen apenas tuvo tiempo de reaccionar cuando el sonido del disparo llenó el túnel. Alec se lanzó al suelo, y les disparó antes de llegar al suelo. Alec se levantó rápidamente y sacó la cabeza a ver si alguien más estaba cerca, pero parece que no. Ahora solo tenía que preocuparse por las varias familias que lo habían visto dispararle a uno de sus guardias. Ninguno parecía ser capaz de hacerle frente de cualquier manera. Se sentó en el suelo y volteó a ver a Yen quien tenía los ojos abiertos como platos, no dijo nada, era la impresión supuso Alec. Al menos con el sonido Lena y Zhan sepan dónde están.
@@ -330,7 +330,7 @@ Nadie habló, nadie parecía entenderlo.
 —No les diremos nada —susurró apenas alguien de entre la multitud con acento muy marcado. Alec no notó quien lo había dicho.
 —En serio, lo mejor que les puede pasar es que atrapemos a un teknosiano que creemos es quien orquesta todo esto, solo él es nuestro objetivo —mintió.
 Silencio de nuevo. Y luego pasos, ningún deratíta estaba de pie así que debían ser más guardias alertados por el ruido. Otros dos guardias. Hablan entre sí algún idioma que Alec no reconocía y tal parecía los deratítas tampoco. El deratíta que si le entendía no los delató cuando se escondieron detrás de un paral. Revisaron los tres cuerpos, era obvio que los deratítas no lo habían hecho, quizás si no hacían ruido buscarían en otro lugar. Hasta que la misma deratíta que fue la primera en verlos gritó de nuevo.
-—¡SAT! —apuntó a donde se habían escondido. 
+—¡SATT! —apuntó a donde se habían escondido. 
 *¿Solo esa palabra conoces?* Pensó Alec. Y la mujer calló de pronto. Los guardias voltearon a ver a la deratíta, Alec salió del paral e intentó golpear a un guardia, quizás fue porque lo tenía muy cerca pero el guardia le dio un codazo el lugar de dispararle. Alec se desequilibró y cayó al suelo. El segundo guardia le apuntó, pero antes de que le dispara otra bala lo hirió, el primer guardia volteó a ver que le sucedió a su compañero y también le dio una bala. Zhan y Lena habían llegado. Zhan remató a ambos y Lena fue a ver a Alec quien seguía levantándose del suelo.
 —¿Y la chica?
 Alec apuntó al paral. Cuando Lena llegó la vio aun viendo al frente sin decir nada. —¿Estás bien?
@@ -364,7 +364,7 @@ Lena rompió el momento. —Tenemos que salir antes de que otra sección ceda.
 Zhan asintió. —Recojan lo que sirva. Y aseguren a los sobrevivientes y los deratítas que están de este lado.
 Lena bajó la mirada hacia Yen y solo murmuró —Muévete.
 El camino de vuelta fue lento. Avanzaron por un ramal lateral hasta llegar a la entrada, donde las luces del amaneces parecían casi irreales después de tanta oscuridad. Yen salió última. Al mirar atrás el túnel solo podía pensar en el error que nadie olvidaría.
-Minutos después llegaron los refuerzos: varias aeronaves de la SAT, agentes armados, paramédicos y un supervisor con rostro cansado que tomó declaraciones rápidas.
+Minutos después llegaron los refuerzos: varias aeronaves de la SATT, agentes armados, paramédicos y un supervisor con rostro cansado que tomó declaraciones rápidas.
 —Tres capturados, los que siguen vivos, líder prófugo, daños en la estructura y pérdida parcial de evidencia, aunque tenemos a un montón de saltadores capturados —resumió Zhan.
 El supervisor anotó en su tableta y asintió. —Aun así, es un golpe al tráfico. Buen trabajo —dijo, y Yen no supo si era sarcasmo, había sido un desastre, tan mal era el estándar de lo que era un buen trabajo. Y así sin más cerraron el tema. 
 Yen se quedó a un lado, sin saber si debía sentirse orgullosa o avergonzada. Alec, a unos dacmos, discutía con un técnico sobre los sensores destruidos. Lena hablaba con Zhan, ambos en voz baja.
@@ -400,7 +400,7 @@ El sonido de la puerta cerrándose estrepitosamente resonó en el aire. Se qued�
 # 2
 Hace un montón de frio mientras escribo esto. Y las bancas no sirven de cama. Y adivina de quien es la culpa, no vuelvo a pedirte un favor.  ****
 C
-on un salario de tres mil seiscientos groshen al mes, a Yen solo le alcanzaba para uno de los cubículos vitales que se rentaban en el distrito residencial antiguo, al otro lado del río de la Central de la SAT. Un cubículo apenas más grande que su cama, con paredes de metal frío y una lámpara que parpadeaba justo sobre la almohada. Tenía una repisa en la esquina y una pequeña estufa junto al baño, separados por una pared delgada que vibraba cada vez que el vecino abría la ducha. Todo estaba tan cerca que podía cocinar, vestirse y lavarse los dientes sin moverse de un mismo punto. Aun así, su habitación era el único lugar donde podía quitarse su vox y respirar libre, con aire filtrado y climatizado, pero era suyo. Como una versión en miniatura de los Domos Vitales. Dentro de la Central existían habitaciones mejores, más amplias, con camas reales y duchas que no goteaban, pero estaban reservadas para los rangos altos. Para los demás, incluso en un edificio tan inmenso, el espacio era un privilegio.
+on un salario de tres mil seiscientos groshen al mes, a Yen solo le alcanzaba para uno de los cubículos vitales que se rentaban en el distrito residencial antiguo, al otro lado del río de la Central de la SATT. Un cubículo apenas más grande que su cama, con paredes de metal frío y una lámpara que parpadeaba justo sobre la almohada. Tenía una repisa en la esquina y una pequeña estufa junto al baño, separados por una pared delgada que vibraba cada vez que el vecino abría la ducha. Todo estaba tan cerca que podía cocinar, vestirse y lavarse los dientes sin moverse de un mismo punto. Aun así, su habitación era el único lugar donde podía quitarse su vox y respirar libre, con aire filtrado y climatizado, pero era suyo. Como una versión en miniatura de los Domos Vitales. Dentro de la Central existían habitaciones mejores, más amplias, con camas reales y duchas que no goteaban, pero estaban reservadas para los rangos altos. Para los demás, incluso en un edificio tan inmenso, el espacio era un privilegio.
 La mañana siguiente a su primera misión despertó antes del amanecer. Tal vez no había dormido, pero prefería pensar que era la emoción: la idea de un nuevo día, de un nuevo caso, de un nuevo paisaje. Pensar en eso la calmaba. Se vistió con el poco espacio que tenía. Pantalones de mezclilla de un azul con leves toques grisáceo, una camisa blanca y una chaqueta de un azul un poco azul más claro, ambos con el mítico logo de la Superintendencia, una rueda dentada dorada con siete dientes y tres líneas que conectaban con el centro, dejando espacio entre ellas la letra de sus siglas. Para terminar, una gran gabardina que le llegaba casi a las rodillas, cómo no, de un azul marino. Se colocó la vox ceremoniosamente, casi como cuando oraba por las mañanas. Afuera había un largo pasillo con cientos de cubículos iguales al suyo, dispuestos en paralelo, cada uno un pequeño cubículo incrustado a la pared. El 156 le pertenecía a ella. 
 Las calles afuera no distaban mucho de la vista desde el edificio: un ambiente lúgubre para ser una ciudad con millones de habitantes. De tantas luces, carteles publicitarios y pantallas parpadeantes, costaba distinguir la luz del Portal entre el resplandor artificial. Aunque su edificio de cubículos quedaba cerca de la Central, para el tamaño que la ciudad tenía, no podía llegar caminando, y más le valía no llegar tarde.
 Ciudad Thary era extraña. El aire era frío, y no solo por las nubes grises que ocultaban tanto la luz solar como el resplandor del Portal, haciendo parecer que era de noche a todas horas, sino por la gente. No había parques ni espacios abiertos; todo parecía destinado a construir más edificios, más pisos, más concreto. La arquitectura, monótona y lisa, se alejaba por completo de la ornamentación de los edificios en Návar, o incluso de otras regiones del planeta. Todo era una masa geométrica uniforme, de tonos apagados, que solo rompían las luces parpadeantes de los letreros en los negocios.
@@ -420,9 +420,9 @@ Lena la sostuvo con la mirada un instante y después sonrió. —Bien. Porque se
 Yen se le habían acabado las frases para contestar. Solo se limitó a asentir con la cabeza. Zhan y Alec estaban esperándolas, Lena quería que todos entraran juntos. Se dirigieron a las asignaciones en el piso 48. Zhan avanzó primero, Alec caminaba junto a él, Lena y Yen los seguían. Y por un instante, olvidó lo que había hecho y se sintió parte del equipo. Instante que duró hasta que llegando al piso 48, les asignaron un nuevo caso. Zhan recibió el folder con el reporte de la situación e instrucciones claras.
 —¿Un incendio? —preguntó Yen, quien apenas si alcanzaba a ver el informe.
 —Casi, ver quien empezó el incendio —contestó Zhan. 
-—¿Y por qué le incumbe eso a la SAT? —insistió Yen.
+—¿Y por qué le incumbe eso a la SATT? —insistió Yen.
 —Porque, archivista, no empezó un incendio en cualquier barrio de mala muerte, fue en un Domo Vital.
-—Con lo mucho que quieren a la SAT allá. Esto se pondrá complicado —mencionó Alec.
+—Con lo mucho que quieren a la SATT allá. Esto se pondrá complicado —mencionó Alec.
 —Hay que apresurarnos, ahí no van a proteger la escena del crimen ni nada. 
 Todos regresaron corriendo al ascensor al final del pasillo, y justo antes de que Yen subiera Zhan la detuvo. 
 —En serio vamos a llevar a la archivista de nuevo?
@@ -461,7 +461,7 @@ Dio media vuelta y se reunió con los demás.
 —Si tú lo dices, aquí la mitad lo habla, la otra mitad sí habla atharíta —respondió Alec.
 —¿Y qué fue lo que dijo? Por cierto. 
 —Que nos apresuremos porque no van a proteger la escena. Vamos.
-La bahía estaba más poblada de lo usual. Los servicios de bomberos de Ciudad Thary habían sido los primeros en llegar, dentro del Domo no existían equipos propios. Sin mencionar los reporteros que habían escuchado de un incendio y para el que la opinión pública, la SAT intentaba mantener impoluta.
+La bahía estaba más poblada de lo usual. Los servicios de bomberos de Ciudad Thary habían sido los primeros en llegar, dentro del Domo no existían equipos propios. Sin mencionar los reporteros que habían escuchado de un incendio y para el que la opinión pública, la SATT intentaba mantener impoluta.
 Los cuatro entraron por una compuerta que se cerró detrás de ellos. Lena se puso su vox y el aire comenzó a aclimatarse a la atmósfera de Atharis.
 Una segunda compuerta se abrió frente a ellos, liberando una oleada de aire cálido y espeso, cargado de olor a aceite, metal y especias. Yen dio un paso al frente, y sintió cómo el calor le golpeaba el rostro a pesar de la aclimatación previa. Entrarían por los niveles intermedios.
 El pasillo que se extendía ante ellos era un corredor interminable, lleno de luces parpadeantes y tiendas diminutas con letreros escritos en decenas de alfabetos diferentes. Cada tienda parecía apilada sobre la otra, cada hueco aprovechado hasta el absurdo: puestos de comida, sastrerías, tiendas de repuestos, templos improvisados.
@@ -660,10 +660,10 @@ El anciano la miró por primera vez. Y su expresión cambió. Vio su rostro, y a
 —Hay un frágil equilibrio de poder, y ellos creían que la mejor manera de que ese caos no escapase de aquí es que los mantuviera peleándose.
 —Ellos. ¿Quienes? —preguntó Lena, acercándose a él.
 El anciano la vio directamente. Sus ojos ya habían perdido su marrón original—. Ustedes.
-—¿La SAT? Tu esparciste ese rumor —preguntó Zhan.
+—¿La SATT? Tu esparciste ese rumor —preguntó Zhan.
 —No es un rumor —aclaró el anciano—. Llegaron un día, después de tantos años de hacer la vista gorda a nuestros problemas. Se acercaron a mí, sabían que tenía influencia en la gente, al menos en nuestra comunidad. Apoyarían a una nueva banda, para que sirviera de contrapeso a la creciente fuerza de los wiking.
 —Pero, no lo entiendo. ¿Por qué aceptarías? —preguntó Alec.
-—La gente con miedo busca estabilidad, comunidad, apoyo y seguridad, en especial aquí, nadie nos ayudaría con las bandas, y el único apoyo que alguna vez nos ofrecieron fue solo un contrapeso. Un enemigo con el que mantenerlos ocupados. La SAT financió todo eso. Pero, tras tanto tiempo y viendo que ahora ambas bandas querían unirse para ser imparables, dijeron que tenía que hacer algo al respecto. 
+—La gente con miedo busca estabilidad, comunidad, apoyo y seguridad, en especial aquí, nadie nos ayudaría con las bandas, y el único apoyo que alguna vez nos ofrecieron fue solo un contrapeso. Un enemigo con el que mantenerlos ocupados. La SATT financió todo eso. Pero, tras tanto tiempo y viendo que ahora ambas bandas querían unirse para ser imparables, dijeron que tenía que hacer algo al respecto. 
 —¿El incendio? —preguntó Lena.
 —Nos dieron el material, y le pedí a un chico que incendiará algún lugar de los wiking y que pareciera intencional. Así pensé que pudiera romper la tregua. Y que siguieran devotos.
 —Si fuiste tú quien estaba detrás de esto, ¿por qué parecías ayudarnos? Y me dijiste que encontrara quien comenzó el incendio. Y luego les contaste la verdad a la gente.
@@ -693,7 +693,7 @@ Registraron a Alec y Zhan. A Lena también en cuanto subió. A Yen apenas la mir
 El líder hablo primero, aun en diat.
 —Alec Harven. Creí que huir de aquí te había endurecido, pero veo que sigues siendo el mismo cobarde de antes.
 Alec no respondió al instante. Lo observó, su antiguo enemigo, más salvaje que nunca. El tatuaje de los wiking subía por su cuello como una cicatriz, y a diferencia de sus secuaces, él si usaba mangas.
-—No vine por ti, Soren —respondió al fin —. La SAT y la opinión pública quiere un culpable. Y si eres tú, no me alegraría más.
+—No vine por ti, Soren —respondió al fin —. La SATT y la opinión pública quiere un culpable. Y si eres tú, no me alegraría más.
 —No vine por tus jueguitos. Ni me importa que piensen de nosotros allá afuera. Aquí somos libres, mucho más de lo que alguna vez lo serás—. Miró a Riahim con desprecio—. Y si el anciano va a arruinar eso, pues que sea el primero en morir.
 —Cometí un error, por creer que hacerlos pelear era lo mejor, pero tampoco permitiré que te adueñes del Domo —añadió Riahim.
 El murmullo se extendió entre los wiking. Soren escupió al suelo.
@@ -702,7 +702,7 @@ Alec sintió un nudo en el pecho.
 —¿Aún resuelven las cosas así? —preguntó, sin apartar la vista de él.
 —Esa es nuestra ley. Tú y yo. Que al amanecer Vishanti sepa a quién elegir.
 Por un momento, Alec pensó aceptar. Pero Riahim lo interrumpió, alzando la voz.
-—Y ni así dejarás de ser solo el josthe rastrero de la SAT —exclamó el anciano.
+—Y ni así dejarás de ser solo el josthe rastrero de la SATT —exclamó el anciano.
 Soren lo vio un instante. 
 —Hiciste que la gente tragara humo por tus pactos. Eso si tiene un nombre aquí, cobardía —Sin mediar más palabra le disparó al anciano, el impacto lo derrumbó. A juzgar por la expresión de todos los presentes, ni los suyos esperaban que lo hiciera.
 —¡Yen! —exclamó Lena, aprovechando la confusión.
@@ -803,7 +803,7 @@ La voz en su cabeza empezaba a parecerse a Zhan, diciendo que no era más que la
 Pero abajo, Alec y Lena seguían en medio de la plaza, rodeados. Zhan ya no podía disparar sin matar a alguien que no tocaba un arma. Herday no iba a mandar refuerzos. Nadie más iba a entrar.
 *Si no hacemos nada, esto se pondrá peor.*****
 Recordó a Riahim, encorvado sobre la mesa, diciendo que la gente necesitaba comunidad, que solo se tenían entre ellos. Lo había usado para manipularlos. Pero las palabras seguían siendo verdad, aunque él las torciera.
-*Si alguien puede pararlos, son ellos. No **yo, ni la SAT**. Todos **ellos **juntos.*****
+*Si alguien puede pararlos, son ellos. No **yo, ni la SATT**. Todos **ellos **juntos.*****
 Otra parte de ella se reía.
 *Vas a salir a gritar en un idioma que apenas si hablas.** Te vas a ver ridícula. **Te v**an** a** ignora**r**. O **peor, **disparar primero.*****
 —Tal vez. Pero quedarme callada y mirando tampoco sirvió de mucho.
@@ -823,7 +823,7 @@ Deseó poder hablar diat, incluso si fuese torpe.
 Silencio. Los bandidos de abajo estaban escuchándola, dos de ellos salieron corriendo tras ella y se dirigieron a las escaleras. Yen al verlos, salió corriendo de regreso con Zhan.
 —Pueden hacer algo —siguió gritando mientras corría —. Bajen aquí, todos. Solo juntos pueden detener esto. Son sus hijos, hermanos, sobrinos, amigos, los que están en esta guerra de bandas.
 Yen se detuvo de golpe, en medio del pasillo. Una puerta en medio de ese corredor se abrió y una mujer salió de ahí. Ambas se vieron un instante, la mujer gritó en diat las palabras de Yen.
-—Riahim les enseñó a cuidarse entre ustedes —mintió —. Háganlo ahora. No por las bandas ni por la SAT, por su futuro.
+—Riahim les enseñó a cuidarse entre ustedes —mintió —. Háganlo ahora. No por las bandas ni por la SATT, por su futuro.
 Para Alec, regresar al viejo ayuntamiento era un recuerdo que no tenía tiempo de buscar. Solo la voz de Soren se oía entre el eco de los gritos de afuera. Esperaba al fondo del vestíbulo, con la respiración rasposa, los antebrazos tensos y las placas oscuras marcadas por el impacto.
 —Aquí una vez más —empezó Soren.
 —Para con esto Soren —gritó Alec —sé lo que Riahim hizo, pero, eh…
@@ -846,7 +846,7 @@ Lena le disparó mientras hablaba. La bala le dio en la espalda. El impacto lo a
 Lena se abalanzó sobre él con el cuchillo de Soren, tuvo que dejar de estrangularlo para proteger su cara. Gracias a Vishanti, parecía que las escamas no le daban mas fuerza. Soren llevo a Lena hasta la pared más cercana y la azotó contra ella. Giró rápidamente para golpearla, pero ella se apartó a tiempo. Giró por el piso hasta regresar de nuevo con Alec quien había recogido su arma.
 —Yo tengo algo que tu jamás tendrás —susurró Soren —, honor, suficiente como para no traicionar a mis amigos cuando más lo necesiten. ¿No es así? traidor.
 —Nunca fui de los tuyos.
-—Eras de aquí. Eso basta. Y el niño prodigio regresa aquí como—Alec ya lo veía con furia —¿qué había dicho? Nada más que un josthe rastrero de la SAT.
+—Eras de aquí. Eso basta. Y el niño prodigio regresa aquí como—Alec ya lo veía con furia —¿qué había dicho? Nada más que un josthe rastrero de la SATT.
 Finalmente pudieron verlo, las escamas le rodeaban los brazos hasta los hombros, y dos placas en la espalda y pecho. Una muy rara cota de malla. También que dejaba al descubierto de las clavículas hacia arriba. 
 Alec salió corriendo hacia él, Lena detrás. Alec le dio un tajo con el brazo derecho porque apenas podía mover el izquierdo. No parecía tener mucho cuidado por cuchillos pues las escamas eran protección de sobra para eso. No tanto así cuando Alec apuntó a la cabeza. Lena se posicionó en otro lugar, buscando un ángulo para poder dispararle, pero fue más difícil cuando Soren desvió un ataque de Alec y le sujetó el brazo, intentó levantarlo y lanzarlo, pero la rodilla de Alec se interpuso en su cabeza mientras lo hizo. Se aturdió un instante. Suficiente para que Alec detrás de él le clavara el cuchillo en el tobillo.
 Soren gritó del dolor, Alec lo sujetó por el cuello y logró que quedara de rodillas. 
@@ -893,7 +893,7 @@ La novata se le acercó.
 —No necesitaban saberlo. Solo… apelé a sus emociones y funcionó.
 —Pues es lo mismo.
 —¿Las emociones?
-—¿Qué? ¡No! Digo… que tampoco necesitan saberlo. Ya lo había dicho, bueno, no me entendías, pero, la SAT y la opinión pública necesita un culpable. Si no lo encontramos —vio el cadáver de Soren — lo fabricamos. 
+—¿Qué? ¡No! Digo… que tampoco necesitan saberlo. Ya lo había dicho, bueno, no me entendías, pero, la SATT y la opinión pública necesita un culpable. Si no lo encontramos —vio el cadáver de Soren — lo fabricamos. 
 Alec continuo su camino. 
 —¿Así es siempre? —exclamó la novata, mientras él seguía alejándose —¿Así será a partir de ahora?
 —Como quisiera que no. Pero solo cumplimos con nuestro trabajo. Esa es la máxima con la que obramos, tenlo presente novata. 
@@ -935,7 +935,7 @@ Alec asintió con la cabeza.
 —¿Pero, y el reporte de situación? —preguntó Yen —. No podemos empezar un caso sin que se nos notifique por escrito y esté asignado a nuestro equipo.
 —Yen, relájate, esto pasa a menudo. Mas de lo que me gustaría. Pero no pasa nada. Mira, para compensarte el que no tengamos tiempo para la lengua de señas, si quieres, te puedo prestar el libro con el que lo aprendí
 — Creí que Alec te había enseñado.
-— Dije que era el que más sabía, no que fuese buen maestro. Hablando de eso. Qué se supone que tenemos que ver nosotros, cierto que la SAT se mete en todo, pero es muy irregular, hasta para nosotros.
+— Dije que era el que más sabía, no que fuese buen maestro. Hablando de eso. Qué se supone que tenemos que ver nosotros, cierto que la SATT se mete en todo, pero es muy irregular, hasta para nosotros.
 —Eso estoy diciendo —afirmo Yen —.
 Era un pequeño disco que fácilmente cabía en su palma. Ahora que por fin le habían dado su uniforme completo, gabardina incluida, podía cargarlos más fácilmente en un estuche que siempre cargaba encima.  
 —Cuando logremos convencer a Herday de que nos asigne una aeronave propia entonces sí podrás cargar tantos de esos como quieras a las misiones. 

@@ -25,7 +25,7 @@ El arco de Bastean es sobre cómo dos estrategias opuestas (venganza pública vs
 - Creando escena pública fuerza confrontación
 
 ### [[Lista-40]]
-- Cabecillas de represión (580–585 DT)
+- Cabecillas de represión (579–588 DT)
 - Bastean mata en orden proporcional a crimes
 - [[Herday]] es primero
 - [[Rish]] está en la lista

@@ -60,7 +60,7 @@ tags: [mundo, transtierra, portales, worldbuilding]
 - Divisiones disueltas sin registro
 
 ## Historia Política
-- **[[Represion-Dictadura]]** (580–585 DT) — período de represión
+- **[[Represion-Dictadura]]** (579–588 DT) — período de represión
 - **Fin de la represión:** Decretado pero no completamente transitado
 - **Pre-589 DT:** Agentes represores aún vivos
 - **599 DT:** [[Rebelion]] contra [[SATT]]

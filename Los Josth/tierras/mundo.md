@@ -36,10 +36,12 @@ Estructura fija de gran magnitud con forma de **muro que circunda los planetas p
 | 1 | **Amitia** | Centro político/burocrático. Ciudad Thary. Urbanismo frío y geométrico. | Junta Militar / Hegemonía Corporativa | Radio, Central SATT, Conectividad Lísys |
 | 2 | **Teknara** | Industrial/biopunk. Túneles mineros extensos y mercados de bioartefactos. | Monarquía Constitucional (Parlamentaria) | Bioingredientes, Organismos Modificados, Nodos Lobotec |
 | 3 | **Atharis** | Energía solar avanzada. Conciencia ambiental y asambleísmo descentralizado. | Monarquía Constitucional / Consejo Eco-Civil | Energía Fotónica, Cristales Lísys Mejorados, Paneles Orgánicos |
-| 4 | **Derat** | Ecosistemas únicos y territorios fragmentados. Bajo ocupación de "El Régimen". | Ciudades-Estado bajo influencia extranjera | Minería de Madianíta y Balatium, Vía de las Sombras |
-| 5 | **Khorza** | Primal y misteriosa. Bosque húmedo y enormes superestructuras. | Tribal (Seres Josthe) / "Más astado" | Nidos comunales, Memoria grupal ("ecos de la niebla") |
+| 4 | **Khorza** | Primal y misteriosa. Bosque húmedo y enormes superestructuras. | Tribal (Seres Josthe) / "Más astado" | Nidos comunales, Memoria grupal ("ecos de la niebla") |
+| 5 | **Derat** | Ecosistemas únicos y territorios fragmentados. Minería y resistencia. | Ciudades-Estado bajo influencia extranjera | Minería de Madianíta y Balatium, Vía de las Sombras |
 | 6 | **Návar** | Archipiélago de islas flotantes. Tradición marítima e imperio caído. | Monarquía Absoluta (Almirante Supremo) | Navegación a vela, Vox algales, Antenas bioluminiscentes |
 | 7 | **Terra** | Zona Restringida. Anomalías biomecánicas y restos de ecosistemas muertos. | Zona de Exclusión bajo control SATT | Campo AT (Antitecnológico), Proyecto Kaos.exe, Yuman |
+
+> **Nomenclatura (fuente: `notas-temas/Canon.md` §4).** "Tierra N" es la nomenclatura burocrática de la SATT; cada Tierra tiene nombre nativo. Las numeradas 8–13 son **anexos** administrados, no integrados (Karel = 8; Lenthir = 13). "Siete mundos" se refiere al núcleo (Tierras 1–7).
 
 ### La Vox
 Dispositivo obligatorio para tránsito entre Tierras. Permite adaptarse a la atmósfera de cada mundo.
@@ -96,7 +98,7 @@ Dispositivo obligatorio para tránsito entre Tierras. Permite adaptarse a la atm
 - Esclavitud lobotomizada
 - Conquistas fallidas
 
-### Era de la SAT (~3000-3500 d.t.)
+### Era de la SATT (~3000-3500 d.t.)
 - Surgimiento de la Superintendencia Administrativa de la Transtierra
 - Control burocrático de los portales
 - Normalización del intercambio interterrestre
@@ -166,7 +168,7 @@ La obra usa tecnología de los años 90 como base:
 - "Cámaras en mantenimiento" como coartada
 - Sellos, formularios en papel, firmas
 
-### La SAT (Superintendencia Administrativa de la Transtierra)
+### La SATT (Superintendencia Administrativa de la Transtierra)
 Organismo burocrático que controla el Portal.
 
 **Estructura:**
@@ -182,7 +184,7 @@ Organismo burocrático que controla el Portal.
 - Justicia selectiva
 
 ### Sistema de Borrado de Memorias
-Métodos de la SAT para encubrimiento:
+Métodos de la SATT para encubrimiento:
 
 1. **Tecnológico (Ondas):** Borrado generalizado por rango de tiempo
    - Ventaja: Predecible y controlable
@@ -212,7 +214,7 @@ Métodos de la SAT para encubrimiento:
 - Final trágico (Yen mata a Rish en playa de la isla)
 
 ### Temas Centrales
-1. **Corrupción institucional:** La SAT como sistema que tritura verdad
+1. **Corrupción institucional:** La SATT como sistema que tritura verdad
 2. **Autodestrucción silenciosa:** Yen mientras funciona aparentemente bien
 3. **Presagios:** Elementos plantados que cobran sentido al releer
 4. **Narrativa episódica + mitología:** Casos autoconclusivos que expanden mundo y sembran pistas
@@ -228,7 +230,7 @@ Métodos de la SAT para encubrimiento:
 - Arquitectura geométrica monótona
 - Sin espacios abiertos/parques
 - Cubículos vitales para agentes de bajo rango
-- Central de la SAT: Edificio más alto, cerca del Portal
+- Central de la SATT: Edificio más alto, cerca del Portal
 
 ### Túneles Mineros (Teknara/Derat)
 - Red de pasadizos subterráneos

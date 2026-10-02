@@ -15,7 +15,7 @@ tags: [tierra, navar, origen-yen, religión]
 - Concepto cultural del "vox" (velo/cobertura facial)
 
 ## Fenómeno Único
-- **Cabello de navareos tarda 10 años en crecer completamente**
+- **Cabello de naváreos tarda 10 años en crecer completamente**
 - Después de muerte de [[Rish]], [[Yen]] deja de cuidarse
 - El cabello de [[Yen]] crece durante su suicidio pasivo (~1 año = crecimiento visible)
 - Símbolo de tiempo pasado y descuido de sí misma

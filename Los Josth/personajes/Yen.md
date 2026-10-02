@@ -108,3 +108,4 @@ ión de [[Rish]]) y muerte de [[Rish]]. Lugar donde Yen se siente segura por úl
 - Todo lo que hace en Vol. 1–4 la prepara para la isla
 - La isla solo termina lo que Bastean (Vol. 2) comenzó
 - El espectro/deidad muestra su vida entera como justificación de su caída
+- El Vol. 6 se estructura en **tres ciclos** con **escenas de cuidado** colectivas (ver `tramas/Arco-Depresion-y-Final.md`); el primer intento llega tras la falsa mejoría, para no leerse como alivio

@@ -4,7 +4,7 @@ tags: [tema, historia, dictadura, represión, rish, bastean]
 
 # Represión y Dictadura
 
-**Período:** 580–585 DT  
+**Período:** 579–588 DT  
 **Rol:** Periodo histórico anterior a la novela  
 **Impacto:** Sigue contaminando todo
 

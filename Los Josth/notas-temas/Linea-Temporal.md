@@ -5,17 +5,23 @@ tags: [tema, cronología, timeline, historia]
 # Línea Temporal
 
 **Documento:** Cronología completa de eventos  
-**Período:** Desde 580 DT hasta 599 DT
+**Período:** Desde 579 DT hasta 599 DT
 
 ## Pre-589 DT
 
-### 580–585 DT: [[Represion-Dictadura]]
+### 579–588 DT: [[Represion-Dictadura]]
 - Período de represión oficial
-- [[Rish]] participa como joven agente
-- [[Bastean]] participa luego desertion
+- [[Rish]] participa como joven cómplice (20 años en 579) — **la fecha sí cuadra**; se elimina el comentario de que "no participó"
+- [[Bastean]] participa y luego deserta
 - Represores forman red de complicidad
 
-### 585–589 DT: Post-Represión
+### 586 DT: Operación Tierra 5 ([[Derat]])
+- Barrido represivo en el poblado minero
+- Muere la hija de [[Bastean]]
+- Se incauta y "pierde" el arma ceremonial
+- Responsables y cargos en [Lista-40](../tramas/Lista-40.md)
+
+### 588–589 DT: Post-Represión
 - Dictadura oficialmente "termina"
 - No hay transición de justicia real
 - Represores permanecen en poder o se esconden

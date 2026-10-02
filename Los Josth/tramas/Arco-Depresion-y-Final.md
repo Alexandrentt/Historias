@@ -32,7 +32,7 @@ Pasa un tiempo hasta que Yen es despedida o expulsada de la SATT. Mientras tanto
 
 ### Regreso a Navar
 
-Yen regresa a su hogar en Navar. Entra en un estado de **suicidio pasivo**: deja de comer hasta estar en un estado casi esquelético. Su pelo sigue creciendo —el cabello de los navareos toma 10 años en volver a crecer después de cortarse—, simbolizando el tiempo que ha pasado y la decadencia física.
+Yen regresa a su hogar en Navar. Entra en un estado de **suicidio pasivo**: deja de comer hasta estar en un estado casi esquelético. Su pelo sigue creciendo —el cabello de los naváreos toma 10 años en volver a crecer después de cortarse—, simbolizando el tiempo que ha pasado y la decadencia física.
 
 ### La Rebelión de Lena y Zhan
 
@@ -199,6 +199,7 @@ Estas preguntas permanecen abiertas. Es parte de la tragedia.
 - La SATT nunca vuelve a ser lo que era
 - El aislacionismo posterior es consecuencia directa de su rebelión
 - Se convierte en mártir para movimientos futuros
+- **[[Odile Marren]] hereda la biblioteca clandestina**: el archivo y la memoria sobreviven a Lena
 
 ### Rish
 - Tumba sin nombre
@@ -211,3 +212,38 @@ Estas preguntas permanecen abiertas. Es parte de la tragedia.
 El sistema que Yen intentó cambiar desde dentro la consumió. La rebelión que Lena intentó desde fuera fue aplastada. La verdad que ambas buscaron fue enterrada.
 
 Pero la historia existe. Y en existir, es una forma de resistencia.
+
+## Ciclos del Vol. 6 y escenas de cuidado
+
+**Problema:** año y medio de depresión con la protagonista catatónica puede ser una meseta (Lena de enfermera, la rebelión fuera de cámara). **Solución:** estructurar el volumen en **tres ciclos** de "mejoría aparente → recaída → mejoría", cada uno con una **escena de cuidado distinta**, y mostrar la rebelión a través de lo que llega a la habitación. El cuidado es **colectivo**: no solo Lena.
+
+| Ciclo | Estado de Yen | Escena de cuidado | Lo que llega a la habitación | Planta/cosecha |
+|---|---|---|---|---|
+| **A — El primer destello** (598, temprano) | Catatonia; primer contacto | **Las señas.** [[Lena]] aprende lengua de señas de [[Yokany]]; Yen solo responde a señas. Su primera frase lúcida es una seña. | [[Zhan]] deja informes "por si acaso"; Lena los traduce en voz alta. | La seña del cap. 1 cobra |
+| **B — La falsa mejoría** (598, medio) | Mejoría aparente; vuelve a hablar | **La prótesis y Wesson.** Le adaptan una prótesis teknariana; un viejo robot de asistencia, **Wesson**, le hace compañía. | Radio comunitaria; **un caso mínimo** que Yen resuelve como analista desde la cama. | La mente que analiza se reactiva; la canción *El reloj* |
+| **C — El declive** (599) | Recaída; deja de comer | **El día de playa que sale mal.** Intentan darle una salida sin vox; la multitud y el atardecer la quiebran. | La rebelión ya no le llega: las visitas se espacian. | La playa como cuchillo (inversión) |
+
+**Colocación del primer intento:** va **después del ciclo B**, sobre la falsa mejoría. Así no se lee como "alivio" sino como caída desde un punto alto.
+
+### Escenas de cuidado (lista canónica)
+
+1. **Las señas** (Yokany → Lena → Yen). La más tierna del libro; une a [[Yokany]], [[Lena]] y el equipo.
+2. **La prótesis** ([[Alec]] y un técnico teknariano).
+3. **Wesson** (el robot de asistencia; contrapunto callado).
+4. **El día de playa que sale mal.**
+5. **El caso mínimo** (Yen analista en pequeño).
+6. **La despedida sin despedida** (el último gesto naváreo; el Espectro lo permite).
+
+### Cómo se muestra la rebelión sin Yen
+
+- Por lo que llega a la habitación: radio, visitas, un caso mínimo.
+- Capítulos breves del [[Espectro]] como contrapunto ("yo ya sabía lo que elegiría").
+- Yen **sigue siendo analista** aunque no pueda moverse; cuando la mente se le apaga, se nota porque un caso queda sin resolver.
+
+### Reglas para no romantizar la muerte
+
+- **[FIJADO]** La caída no es "alivio" ni misterio: hay **arrepentimiento a mitad de caída**.
+- El Espectro es **constatación, no redención**.
+- Se muestra el **daño en los supervivientes**: Lena nunca sabe la verdad; Odile queda con el archivo.
+- No se embellece el cuerpo; la caída es un fallo físico, no una escena estética.
+- El único acto libre es el arrepentimiento.

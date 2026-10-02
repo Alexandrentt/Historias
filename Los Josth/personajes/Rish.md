@@ -11,7 +11,7 @@ tags: [personaje, equipo-b4, amitia]
 **Estado Final:** Asesinado por [[Yen]] en alucinación; tumba sin nombre
 
 ## Secretos Oscuros
-- **Cómplice en [[Represion-Dictadura]]** (580–585 DT) — fue joven y maleable
+- **Cómplice en [[Represion-Dictadura]]** (579–588 DT) — fue joven y maleable
 - **Participa en encubrimientos** de la [[SATT]] en posición de autoridad
 - **En [[Lista-Venganza]]** de [[Bastean]] como cabecilla de represión
 - **Vive en paranoia** de ser descubierto por [[Yen]]
@@ -53,7 +53,7 @@ tags: [personaje, equipo-b4, amitia]
 ## Culpa y Redención
 
 ### Actos de Culpa
-- Participó directamente en represión (580–585 DT)
+- Participó directamente en represión (579–588 DT)
 - Encubrió crímenes post-represión
 - Fue cómplice de más muertes para mantener secreto
 

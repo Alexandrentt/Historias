@@ -17,12 +17,12 @@ tags: [tierra, derat, minería, resistencia, ocupación]
 - **Guerras de la Transtierra:** Cuna del conflicto al invadir Khorza (año 53 DT). Estigmatizada mediáticamente como "Tierra de abundancia mal administrada".
 - **Ocupación:** Territorio fragmentado en ciudades-estado, bajo control de facto del "Régimen" (fuerzas amitianas) que protegen intereses mineros.
 - **Insurgencia:** Movimientos clandestinos como el **Águila Roja** y el **Bowit** (que controla Alfaguara).
-- **Sociedad de Cronistas Deratitas:** Colectivo dedicado a preservar la memoria oral y documentar injusticias frente a la SAT.
+- **Sociedad de Cronistas Deratitas:** Colectivo dedicado a preservar la memoria oral y documentar injusticias frente a la SATT.
 
 ## Economía y Tecnología
 - **Minería Estratégica:** Único proveedor de **Madianíta** y **Balatium** (metales preciosos para fabricar las [[Vox]]).
 - **Monopolio Amitiano:** Empresas privadas de Amitia controlan la extracción sin retorno económico local.
-- **Vía de las Sombras:** Corredor nocturno de contrabando usado por exmineros para evadir peajes de la SAT.
+- **Vía de las Sombras:** Corredor nocturno de contrabando usado por exmineros para evadir peajes de la SATT.
 - **Talleres Lobotec:** Adaptación de tecnología de otras tierras para fines insurgentes (reconstrucción biónica y sensores térmicos).
 
 ## Sociedad
