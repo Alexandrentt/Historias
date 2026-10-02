@@ -16,6 +16,7 @@ Material de continuidad y revisión. **`Canon.md` es la fuente única de verdad*
 | Documento | Para qué |
 |-----------|----------|
 | [Canon](./notas-temas/Canon.md) | Nombres, años, cosmología, Tierras, vox, voseo, jerarquía |
+| [Ensayo de worldbuilding](./notas-temas/Ensayo-Worldbuilding.md) | La Transtierra compilada en forma de ensayo (historia, Tierras, Portal, SATT) |
 | [Lista-40](./tramas/Lista-40.md) | Los 40 responsables de la Operación Tierra 5 (Bastean) |
 | [Plantas y cosechas](./notas-temas/Plantas-y-Cosechas.md) | Qué se siembra y dónde cobra |
 | [Regla de narración](./notas-temas/Regla-de-Narracion.md) | Espectro omnisciente |
