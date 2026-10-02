@@ -16,3 +16,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# PDF tool output (scratch)
+.pdf-out/
+.pdf-tools/
