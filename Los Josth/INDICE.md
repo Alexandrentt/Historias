@@ -23,6 +23,7 @@ Material de continuidad y revisión. **`Canon.md` es la fuente única de verdad*
 | [Decisiones de Yen](./notas-temas/Decisiones-de-Yen.md) | Agencia por volumen |
 | [Mapa macro de arcos](./tramas/Mapa-Macro-Arcos.md) | Arcos por personaje, derrotas y balance de casos |
 | [Arcos de personajes](./tramas/Arcos-Personajes.md) | Esquema detallado de cada arco, volumen a volumen, con control de congruencia |
+| [Esquema de la novela en 6 volúmenes](./tramas/Esquema-6-Volumenes.md) | Sinopsis completa: trama, hechos, conflictos y resolución por volumen |
 | [Plan editorial](./notas-temas/Plan-Editorial.md) | Lista de tareas en orden |
 | [Plan de deducción (cap. 1)](./capitulos/La%20novata/Plan-deduccion-cap01.md) | Reescritura del cap. 1 |
 
