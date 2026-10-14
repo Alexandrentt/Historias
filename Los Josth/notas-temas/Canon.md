@@ -59,7 +59,7 @@ tags: [tema, canon, continuidad, worldbuilding, yen, satt]
 
 **[FIJADO]** La serie ocurre en **589–599 DT** ("Después de la Transtierra"), que es un cómputo **local**. El cierre del portal que sitúa la Cosmología (990–999) es posterior: **Yen vive unos cuatrocientos años antes del cierre.** No es error; es escala.
 
-- **[FIJADO]** El calendario oficial es amitiano: año de 500 días, 10 meses de 50, 5 semanas de 10. Año 2015 d.t. = aparición del Portal. La diégesis usa el cómputo DT como forma abreviada.
+- **[FIJADO]** El calendario oficial amitiano tiene 500 días por año, 10 meses de 50 días, 10 semanas de 5 días por mes y 4 estaciones de 125 días. Los cinco días de la semana son Zira, Kato, Leif, Pazu y Miku. El orden cíclico se ancla en Kato para preservar la fecha histórica 06 Qyloz 2015, día Kato. Ver `notas-temas/Calendario.md`. Año 2015 = aparición del Portal; DT es el cómputo local usado para la cronología de Yen.
 - **[FIJADO]** El **Espectro/Dhë habla con cada alma una vez**, al morir. Esto explica el marco narrativo (ver `notas-temas/Regla-de-Narracion.md`).
 
 ---
