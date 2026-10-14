@@ -22,6 +22,10 @@ La clave es que el regreso no sea turismo ni nostalgia, sino una investigación 
 
 La temporada tiene dos capas que se rozan todo el tiempo: la capa íntima de Yen en Navar y la capa operativa del equipo sosteniendo el secreto de la biblioteca clandestina y lidiando con las consecuencias de Bastean. Ese cruce da tensión constante: mientras Yen intenta sanar o reconciliarse, el mundo que ella ayudó a desafiar empieza a buscar el rastro de lo que ellos guardaron fuera del expediente.
 
+## Regla de continuidad de la vox
+
+Durante este arco, Yen se quita la vox una sola vez al ver a su madre. Esta es la única ocasión en que Rish la ve sin ella. No trasladar este gesto a la playa: en las escenas de playa Yen conserva la vox puesta.
+
 ## Evolución de Personajes
 
 ### Yen
@@ -65,7 +69,7 @@ El equipo queda con una tarea doble: sostener el trabajo cotidiano y mantener se
 
 Yen pisa su hogar y el mundo no se acomoda para recibirla. Aquí se introduce tradición, religión, cultura y familia como refugio real, pero también como lugar donde hay normas, culpas y silencios viejos.
 
-Tali existe fuerte en escena (aunque todavía no se defina si es hermana o cuñada: lo importante es el vínculo). El "caso" del episodio puede ser pequeño pero simbólico: un rumor local sobre la muerte del padre, o una versión torcida de un accidente, algo que muestre cómo incluso en lo íntimo el relato se fabrica.
+Tali, la hermana mayor de Yen, tiene una presencia fuerte en escena; no es su cuñada. El "caso" del episodio puede ser pequeño pero simbólico: un rumor local sobre la muerte del padre, o una versión torcida de un accidente, algo que muestre cómo incluso en lo íntimo el relato se fabrica.
 
 Yen quiere ser agente, pero aquí no puede actuar como agente sin romper un pacto familiar. Primer golpe: descubre que la justicia en casa también tiene política, pero se disfraza de costumbre.
 
