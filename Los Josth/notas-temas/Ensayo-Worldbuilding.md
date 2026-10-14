@@ -78,12 +78,13 @@ El calendario oficial de la Transtierra es **amitiano** (el de Amitia con ligero
 |---|---|
 | Año | 500 días |
 | Meses | 10 de 50 días |
-| Semanas | 5 de 10 días por mes |
+| Semanas | 10 de 5 días por mes (100 semanas al año) |
 | Estaciones | 4 de 125 días |
 
-- **Días de la semana:** Zira · Kato · Leif · Pazu · Miku.
+- **Días de la semana:** Zira · Kato · Leif · Pazu · Miku. El ciclo se ancla en Kato para conservar la fecha histórica del Portal.
 - **Meses:** Zinex · Ovryn · Jynex · Kylix · Leifx · Pazyn · Mikon · Syron · Qyloz · Vornx.
-- **Fecha de origen:** 06 de Qyloz, día Kato, año **2015** (calendario amitiano) = aparición del Portal.
+- **Fecha de origen:** 06 Qyloz 2015, día Kato (calendario amitiano) = aparición del Portal.
+- El detalle del calendario y el cálculo de fechas se documenta en `notas-temas/Calendario.md`.
 
 Que Atharis tuviera calendarios astronómicos mejores desde hacía milenios y no se adoptaran es, otra vez, un hecho político antes que científico.
 
