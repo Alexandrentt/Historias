@@ -41,7 +41,7 @@ Estructura fija de gran magnitud con forma de **muro que circunda los planetas p
 | 6 | **Návar** | Archipiélago de islas flotantes. Tradición marítima e imperio caído. | Monarquía Absoluta (Almirante Supremo) | Navegación a vela, Vox algales, Antenas bioluminiscentes |
 | 7 | **Terra** | Zona Restringida. Anomalías biomecánicas y restos de ecosistemas muertos. | Zona de Exclusión bajo control SATT | Campo AT (Antitecnológico), Proyecto Kaos.exe, Yuman |
 
-> **Nomenclatura (fuente: `notas-temas/Canon.md` §4).** "Tierra N" es la nomenclatura burocrática de la SATT; cada Tierra tiene nombre nativo. Las numeradas 8–13 son **anexos** administrados, no integrados (Karel = 8; Lenthir = 13). "Siete mundos" se refiere al núcleo (Tierras 1–7).
+> **Nomenclatura (fuente: `notas-temas/Canon.md` §4).** "Tierra N" es la nomenclatura burocrática de la SATT; cada Tierra tiene nombre nativo. El canon vigente reconoce exactamente siete Tierras: Amitia, Teknara, Atharis, Khorza, Derat, Návar y Terra. No existen Tierras adicionales ni anexos.
 
 ### La Vox
 Dispositivo obligatorio para tránsito entre Tierras. Permite adaptarse a la atmósfera de cada mundo.
