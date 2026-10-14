@@ -58,7 +58,7 @@ Dispositivo obligatorio para tránsito entre Tierras. Permite adaptarse a la atm
 **Sistema Amitiano (oficial):**
 - **Año:** 500 días
 - **Meses:** 10 (50 días cada uno)
-- **Semanas:** 5 por mes (10 días cada una)
+- **Semanas:** 10 por mes (5 días cada una; 100 semanas por año)
 - **Estaciones:** 4 (125 días cada una)
 
 **Meses:**
@@ -73,15 +73,9 @@ Dispositivo obligatorio para tránsito entre Tierras. Permite adaptarse a la atm
 9. Qyloz
 10. Vornx
 
-**Días de la semana:**
-1. Zira
-2. Kato
-3. Leif
-4. Pazu
-5. Miku
+**Días de la semana (nombres fijados; orden cíclico anclado):** Kato → Leif → Pazu → Miku → Zira → Kato. Ver `../notas-temas/Calendario.md` para el cálculo y la fecha de referencia.
 
-**Fecha de inicio de la Historia:**
-06 Qyloz, día Kato, año 2015 (calendario Amitia) = Aparición del Portal
+**Fecha de aparición del Portal:** 06 Qyloz 2015, día Kato (calendario amitiano). La fecha es el ancla del ciclo semanal; el año tiene 500 días.
 
 ---
 
