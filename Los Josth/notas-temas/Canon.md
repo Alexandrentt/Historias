@@ -40,14 +40,15 @@ tags: [tema, canon, continuidad, worldbuilding, yen, satt]
 |---|---|---|---|
 | 579 | 15 | Inicio del Régimen de Excepción. **Rish tiene 20** y es agente joven; entra como cómplice del aparato. **[FIJADO]** Se borra el comentario "Rish no participó porque las fechas no cuadran". | — |
 | 586 | 22 | Operación **Tierra 5** (Derat): barrido represivo en el poblado minero. Muere la hija de Bastean. Se incauta y "pierde" el arma ceremonial. Ver `tramas/Lista-40.md`. | — |
-| 588 | 24 | Fin decretado del Régimen. Revolución en Teknara; el arma del líder es confiscada por la SATT y desaparece del inventario. | — |
+| 588 | 24 | Fin del Régimen de Excepción. El gobierno civil democrático de Amitia recupera el control; los dirigentes golpistas son juzgados, pero muchos mandos conservan cargos y la SATT sigue como fuerza armada bajo vigilancia estatal. | — |
 | 589 | 25 | **Vol. 1 — La Novata.** Yen (25) entra a la SATT. Prime caso Vath. Muerte de Herday (fin de "diez años"). | 1 |
 | 590–591 | 26–27 | **Vol. 2 — Bastean.** Asesinatos rituales, captura y muerte en custodia. Rish degradado. | 2 |
 | 592–594 | 28–30 | **Vol. 3 — Contrabando + Romance.** Biblioteca clandestina. Playa (593). | 3 |
 | 595–596 | 31–32 | **Vol. 4 — Regreso a Návar.** Muerte del padre. Ruptura de la fe. | 4 |
 | 597 | 33 | **Vol. 5 — La Isla.** Amputación, estrangulamiento de Rish, catatonia. | 5 |
 | 598 | 34 | **Vol. 6.** Catatonia, falso mejora, primer intento, renuncia/expulsión. | 6 |
-| 599 | 35 | Caída desde la Central. **Exactamente diez años** desde 589. | 6 |
+| 599 | 35 | Caída desde la Central. **Exactamente diez años** desde 589. Poco después, la Rebelión de Lena derriba el antiguo orden de la SATT. | 6 |
+| 605 | — | La contrarrevolución termina imponiéndose tras aproximadamente seis años de gobierno revolucionario (599–605 DT). Lena sobrevive hasta el avance de la contrarrevolución; su destino final queda por desarrollar. Comienzan los Siglos Perdidos. | — |
 
 > **[FIJADO]** "Diez años" = 589 → 599. Se elimina cualquier mención de una muerte en 600.
 
