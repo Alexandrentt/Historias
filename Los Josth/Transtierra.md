@@ -495,7 +495,7 @@ Esta herencia explica el peligro que representaba **Bastean**. Su venganza no am
 
 **599 DT — Caída de la SATT y triunfo de la Rebelión**
 
-Poco después de la muerte de Yen, la Rebelión encabezada por Lena Yokany derribó el orden de la SATT. El movimiento reunió a antiguos miembros y simpatizantes de la institución, facciones populares, estudiantes y trabajadores urbanos. También recibió apoyo discreto de empresarios y sectores privados que esperaban que la reorganización eliminara regulaciones y ampliara sus libertades comerciales. La coalición compartía el rechazo al antiguo orden, pero no un proyecto económico ni político completamente uniforme.
+Poco después de la muerte de Yen, la Rebelión encabezada por Lena SinClear derribó el orden de la SATT. El movimiento reunió a antiguos miembros y simpatizantes de la institución, facciones populares, estudiantes y trabajadores urbanos. También recibió apoyo discreto de empresarios y sectores privados que esperaban que la reorganización eliminara regulaciones y ampliara sus libertades comerciales. La coalición compartía el rechazo al antiguo orden, pero no un proyecto económico ni político completamente uniforme.
 
 **599–605 DT — Seis años de gobierno revolucionario**
 
