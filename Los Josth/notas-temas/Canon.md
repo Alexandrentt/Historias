@@ -48,7 +48,7 @@ tags: [tema, canon, continuidad, worldbuilding, yen, satt]
 | 597 | 33 | **Vol. 5 — La Isla.** Amputación, estrangulamiento de Rish, catatonia. | 5 |
 | 598 | 34 | **Vol. 6.** Catatonia, falso mejora, primer intento, renuncia/expulsión. | 6 |
 | 599 | 35 | Caída desde la Central. **Exactamente diez años** desde 589. Poco después, la Rebelión de Lena derriba el antiguo orden de la SATT. | 6 |
-| 605 | — | La contrarrevolución termina imponiéndose tras aproximadamente seis años de gobierno revolucionario (599–605 DT). Lena sobrevive hasta el avance de la contrarrevolución; su destino final queda por desarrollar. Comienzan los Siglos Perdidos. | — |
+| 605 | — | La contrarrevolución termina imponiéndose tras aproximadamente seis años de gobierno revolucionario (599–605 DT). Los principales dirigentes reformistas son juzgados en procesos inspirados en Núremberg y ejecutados; Lena está entre ellos. Comienzan los Siglos Perdidos. | — |
 
 > **[FIJADO]** "Diez años" = 589 → 599. Se elimina cualquier mención de una muerte en 600.
 
