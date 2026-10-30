@@ -64,6 +64,20 @@ Las inspiraciones punk de las Tierras deben afectar su concepción del progreso,
 
 Estas asociaciones son líneas de exploración, no descripciones exhaustivas ni ideologías oficiales de cada Tierra.
 
+## Realismo capitalista y organización política transterrana
+
+La incapacidad de imaginar alternativas puede extenderse más allá de la economía y afectar a la forma misma de organizar el poder. La Rebelión puede identificar los abusos de la SATT y, aun así, conservar como premisa que las siete Tierras necesitan una autoridad central a la que todas estén sujetas.
+
+Cambiar quién gobierna, con qué legitimidad y con qué prioridades resulta imaginable; prescindir de la subordinación a un centro político resulta mucho más difícil. Esto no convierte a los revolucionarios en hipócritas: pueden creer sinceramente que la coordinación, la estabilidad y la reconstrucción requieren una autoridad capaz de imponer decisiones.
+
+La autoorganización interterritorial no debe tratarse como una utopía sin problemas. Tendría que resolver la coordinación de recursos e infraestructuras, disputas, desigualdades entre Tierras, emergencias y protección de derechos. La cuestión narrativa no es que la descentralización sea una solución perfecta, sino que la Rebelión no consigue imaginarla o sostenerla como alternativa viable.
+
+El gobierno revolucionario puede obtener mejoras materiales reales y, a la vez, reproducir relaciones de subordinación, privilegio y coerción. La centralización puede comenzar como respuesta a emergencias y convertirse en una forma estable de gobierno. Sus integrantes pueden confundir la protección de la revolución con la protección de su propio gobierno.
+
+La victoria de la Rebelión ocurre poco después de la muerte de Yen. El nuevo gobierno permanece en el poder aproximadamente seis años antes de que la contrarrevolución termine imponiéndose. La caída no restaura exactamente el antiguo orden. En los siglos perdidos, el aislacionismo acaba prevaleciendo como resultado de conflictos y decisiones históricas acumuladas, no como consecuencia automática de una sola revolución.
+
+La memoria de esos años debe ser disputada: para algunos, el gobierno revolucionario significó reconstrucción, servicios y dignidad recuperada; para otros, vigilancia, coerción y represión. Ambos recuerdos pueden coexistir sin que la narración reduzca el período a una única evaluación.
+
 ## Estructuras y escalas narrativas
 
 Las estructuras deben aparecer en tres escalas que se influyen mutuamente.
