@@ -37,6 +37,14 @@ El régimen terminó en 588 DT. El nuevo gobierno democrático juzgó a los prin
 
 Los juicios a la cúpula no significaron que todos los agentes que participaron en la represión fueran procesados. Bastean se vuelve peligroso porque su venganza amenaza con revelar la continuidad entre agentes represores, mandos supervivientes y una institución que el gobierno democrático todavía necesita. Su caso puede desestabilizar el frágil arreglo posterior al golpe. Esta herencia también explica por qué Rish pudo continuar su carrera y ocultar su participación.
 
+## Antecedente: el golpe de Estado y la transición incompleta (579–588 DT)
+
+El Régimen de Excepción no fue una simple expansión gradual de atribuciones: en 579 DT, los altos mandos de la SATT dieron un golpe de Estado contra el gobierno civil de la potencia continental de Amitia. La institución llevaba siglos acumulando capacidad administrativa, militar y coercitiva, lo que hizo posible que desplazara al gobierno y gobernara directamente.
+
+El régimen terminó en 588 DT. El nuevo gobierno democrático juzgó a los principales dirigentes del golpe, pero no desmanteló la SATT ni consiguió apartar a todos los responsables. La mayoría de los mandos conservó cargos o posiciones porque el Estado seguía necesitando la fuerza armada y la capacidad operativa de la institución. A cambio, el gobierno mantuvo a sus dirigentes bajo vigilancia e intentó sujetar la SATT al control civil. La institución quedó en un limbo: necesaria, poderosa y todavía influyente, pero obligada a medir sus movimientos.
+
+Los juicios a la cúpula no significaron que todos los agentes que participaron en la represión fueran procesados. Bastean se vuelve peligroso porque su venganza amenaza con revelar la continuidad entre agentes represores, mandos supervivientes y una institución que el gobierno democrático todavía necesita. Su caso puede desestabilizar el frágil arreglo posterior al golpe. Esta herencia también explica por qué Rish pudo continuar su carrera y ocultar su participación.
+
 ## La victoria y los seis años de gobierno
 
 La Rebelión triunfa poco después de la muerte de Yen, en 599 DT. El gobierno revolucionario permanece en el poder aproximadamente seis años, hasta que la contrarrevolución termina imponiéndose en 605 DT. Lena sobrevive durante el gobierno y hasta el avance de la contrarrevolución. Su destino final debe desarrollarse dentro de ese proceso, no como una ejecución inmediata tras la victoria contrarrevolucionaria.
