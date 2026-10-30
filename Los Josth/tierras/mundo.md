@@ -163,7 +163,7 @@ La obra usa tecnología de los años 90 como base:
 - Sellos, formularios en papel, firmas
 
 ### La SATT (Superintendencia Administrativa de la Transtierra)
-Organismo burocrático que controla el Portal.
+Organismo burocrático que controla el Portal. Cumple funciones necesarias de coordinación y administración, pero su existencia no justifica automáticamente su estructura ni garantiza que desempeñe bien esas funciones. Su dimensión social, los agentes de rango inferior y la metáfora de los Just se desarrollan en instituciones/SATT.md.
 
 **Estructura:**
 - **Central:** Edificio emblemático en Amitia
