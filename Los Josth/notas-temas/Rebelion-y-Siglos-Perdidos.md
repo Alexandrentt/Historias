@@ -47,7 +47,7 @@ Los juicios a la cúpula no significaron que todos los agentes que participaron 
 
 ## La victoria y los seis años de gobierno
 
-La Rebelión triunfa poco después de la muerte de Yen, en 599 DT. El gobierno revolucionario permanece en el poder aproximadamente seis años, hasta que la contrarrevolución termina imponiéndose en 605 DT. Lena sobrevive durante el gobierno y hasta el avance de la contrarrevolución. Su destino final debe desarrollarse dentro de ese proceso, no como una ejecución inmediata tras la victoria contrarrevolucionaria.
+La Rebelión triunfa poco después de la muerte de Yen, en 599 DT. El gobierno revolucionario permanece en el poder aproximadamente seis años, hasta que la contrarrevolución termina imponiéndose en 605 DT. Lena sobrevive durante todo el gobierno revolucionario. Tras la derrota, los principales dirigentes reformistas son sometidos a juicios inspirados en los Juicios de Núremberg y ejecutados; Lena es juzgada y ejecutada junto con ellos.
 
 Una periodización orientativa:
 
@@ -86,7 +86,9 @@ No se ha decidido su género, identidad, historia ni si finalmente existirá. Od
 
 ## La contrarrevolución
 
-Lena sobrevive a la victoria y al período de gobierno revolucionario hasta que la contrarrevolución logra imponerse. Su captura, juicio, ejecución o destino final deben desarrollarse dentro del proceso concreto de caída del gobierno.
+Lena sobrevive durante los seis años de gobierno revolucionario. Cuando la contrarrevolución se impone en 605 DT, es capturada, juzgada en un proceso inspirado en los Juicios de Núremberg y ejecutada junto con otros dirigentes reformistas.
+
+Los procesos pueden juzgar responsabilidades y abusos reales cometidos durante el gobierno revolucionario. Sin embargo, no son una instancia neutral: la contrarrevolución también los utiliza para legitimar el nuevo orden, fijar una versión oficial del pasado y eliminar a sus adversarios. La existencia de crímenes reales no convierte automáticamente los juicios en imparciales; tampoco convierte en falsos los cargos por el hecho de que los vencedores obtengan un beneficio político. Justicia, memoria y legitimación del poder quedan entrelazadas.
 
 La contrarrevolución no debe ser un bloque homogéneo ni una simple restauración del régimen anterior. Puede reunir fuerzas e intereses distintos: antiguos sectores de poder, gobiernos territoriales, facciones desplazadas, comunidades que rechazan la centralización y personas decepcionadas con el gobierno revolucionario.
 
@@ -118,7 +120,7 @@ La propaganda puede operar mediante selección, encuadre, silencios y repetició
 
 - La Rebelión triunfa poco después de la muerte de Yen.
 - El gobierno revolucionario permanece en el poder aproximadamente seis años: 599–605 DT.
-- Lena sobrevive durante ese gobierno y hasta que la contrarrevolución logra imponerse.
+- Lena sobrevive durante los seis años de gobierno revolucionario; tras la derrota es juzgada y ejecutada por la contrarrevolución.
 - La Rebelión sustituye el antiguo orden, pero conserva la premisa de una autoridad central sobre todas las Tierras.
 - La autoorganización es una alternativa difícil y no idealizada.
 - El aislacionismo de los Siglos Perdidos surge de procesos históricos acumulados, no de una causalidad automática.
