@@ -109,3 +109,24 @@ ión de [[Rish]]) y muerte de [[Rish]]. Lugar donde Yen se siente segura por úl
 - La isla solo termina lo que Bastean (Vol. 2) comenzó
 - El espectro/deidad muestra su vida entera como justificación de su caída
 - El Vol. 6 se estructura en **tres ciclos** con **escenas de cuidado** colectivas (ver `tramas/Arco-Depresion-y-Final.md`); el primer intento llega tras la falsa mejoría, para no leerse como alivio
+
+
+## Orientación sexual e intimidad
+
+Yen es **asexual, pero no aromántica**. Puede experimentar atracción romántica, enamorarse y desarrollar una relación afectiva con Rish. Esta característica no contradice su romance ni debe confundirse con ausencia de sentimientos, incapacidad de intimidad o rechazo automático al contacto físico.
+
+La asexualidad es un rasgo de caracterización conocido en la planificación autoral. No es obligatorio nombrarla, explicarla ni convertirla en un conflicto explícito dentro de la narración. Tampoco debe presentarse como consecuencia de su trabajo, su personalidad, su religión o sus experiencias traumáticas. No asumir preferencias concretas sobre contacto físico o sexualidad que todavía no hayan sido definidas.
+
+La relación con Rish debe construirse desde la intimidad y la historia particular que comparten: confianza, familiaridad, cuidado, tiempo compartido, vulnerabilidad y expectativas de futuro. Su muerte no es una tragedia romántica genérica: Yen pierde a una persona concreta y un futuro compartido que ya no podrá existir.
+
+## Deterioro: estructuras, vínculos y consecuencias
+
+El deterioro psicológico de Yen no tiene un único antagonista ni una causa aislada. Se acumulan y retroalimentan las condiciones institucionales y sociales, las relaciones personales, las decisiones propias y las consecuencias imprevistas de sus actos.
+
+Yen es simultáneamente condicionada por la SATT y participante de su funcionamiento. Puede intentar hacer el bien con herramientas institucionales limitadas, asumir responsabilidades que exceden su autoridad y terminar interiorizando la exigencia de compensar fallas estructurales mediante sacrificio personal. Su orgullo, su deseo de no incomodar y su tendencia a responsabilizarse pueden hacer que le cueste pedir ayuda.
+
+Las relaciones personales no son un refugio infalible: las personas que la quieren pueden equivocarse, ocultar cosas, protegerla de maneras dañinas o tener necesidades incompatibles con las suyas. Esto no las convierte automáticamente en antagonistas. Los vínculos también deben contener alegría, cuidado y momentos de seguridad auténticos.
+
+Yen también toma decisiones y debe conservar agencia moral. Puede hacer algo razonable y aun así causar daño; puede conseguir justicia en un caso sin alterar la estructura; puede proteger a alguien y perjudicar a otra persona. No convertir el relato en una acumulación arbitraria de desgracias: cada consecuencia debe derivarse de decisiones y circunstancias reconocibles.
+
+La depresión funcional continúa siendo un marco de planificación, no una etiqueta que el texto tenga que pronunciar. Su capacidad de seguir trabajando no demuestra que esté bien, y su sufrimiento no debe convertirse en toda su personalidad.
