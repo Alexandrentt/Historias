@@ -34,3 +34,18 @@ La rebelión combina influencias de la Primavera Guatemalteca de 1944–1954 y s
 
 ## Precisión de la línea temporal
 El calendario amitiano tiene 500 días al año, diez meses de 50 días, semanas de cinco días y cuatro estaciones de 125 días. No asignar día y mes a sucesos si los capítulos, cartas o arcos no lo permiten. Primero fijar fechas de escenas ancla; luego calcular las referencias relativas.
+
+
+## Caracterización y ejes narrativos fijados
+
+- **Yen es asexual, pero no aromántica.** Puede enamorarse y desarrollar una relación romántica con Rish. No inferir rechazo al contacto físico ni convertir su orientación en causa de su deterioro. No es necesario nombrarla explícitamente en la narración.
+- **Antagonismo estructural:** el principal antagonismo de la historia de Yen no es un villano individual, sino el conjunto de estructuras sociales, económicas, institucionales, culturales y relacionales que condicionan su vida. Yen trabaja dentro de la SATT y también participa en su funcionamiento; no es una observadora exterior ni una víctima sin agencia.
+- **Deterioro acumulativo:** las condiciones sociales e institucionales, las relaciones personales, las decisiones de Yen y las consecuencias imprevistas se retroalimentan. La depresión funcional es una guía de caracterización, no una etiqueta que el relato deba pronunciar. No reducir toda su personalidad al sufrimiento ni presentar el deterioro como una cadena mecánica.
+- **SATT y agentes de rango inferior:** la institución cumple funciones necesarias, aunque puede reproducir abusos, desigualdades y encubrimientos. Los agentes de menor rango son subordinados, constituyen el grueso operativo y son la cara visible de la institución ante la población. Tienen autoridad para afectar a otros, pero poco poder sobre las condiciones y decisiones superiores. No son inocentes por definición: también pueden reproducir las prácticas que los perjudican.
+- **Just:** animales cuadrúpedos originarios de Derat capaces de sobrevivir en cualquier Tierra sin Vox; tener uno es signo de estatus entre sectores acomodados. «Just» también es un insulto dirigido a agentes de rango inferior. La posible reapropiación/resignificación del término por algunos agentes es una línea narrativa, no una aceptación colectiva ya fijada.
+- **Solidaridad entre equipos:** otros equipos del mismo nivel pueden apoyar al equipo de Yen por condición compartida, identidad profesional, interdependencia operativa, reciprocidad o resentimiento hacia los mandos. No es una solidaridad automática ni implica que todos compartan sus ideas.
+- **Consecuencias de la desaparición de la SATT:** eliminarla no elimina las necesidades administrativas y de coordinación que cubre. El vacío podría dar paso a privatización, fragmentación o autoridades arbitrarias, pero también a alternativas más democráticas. La forma de sustituir sus funciones es un conflicto político abierto.
+- **Marco filosófico:** realismo capitalista, sociedad del cansancio, nacionalismo, propaganda, responsabilidad y consecuencias no intencionadas, traducidos a decisiones y prácticas cotidianas. Las relaciones personales también tienen estructuras y contradicciones.
+- **Punk y Tierras:** las estéticas cyberpunk, biopunk y solarpunk deben afectar la concepción del progreso, el cuerpo, la tecnología, la naturaleza y el poder. Las asociaciones filosóficas por Tierra son líneas de exploración, no ideologías homogéneas de sus habitantes.
+
+Desarrollo ampliado: notas-temas/Marco-Filosofico-y-Estructuras.md e instituciones/SATT.md.
