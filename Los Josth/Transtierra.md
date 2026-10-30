@@ -479,38 +479,38 @@ El desarrollo tecnológico no se detuvo. En 540 de Ovryn, el físico Sorel Jem p
 Casi al final del siglo, en 580 de Jynex, el Instituto Amitiano de Bioingeniería anunció la culminación del primer prototipo funcional de Vox Biogénica, un dispositivo autónomo capaz de generar su propia energía mediante bacterias simbiosis. Este avance fue liderado por la doctora Tessa Ural, cuyos estudios en simbiosis mitocelular abrieron nuevas posibilidades para la exploración de regiones no conectadas a nodos tradicionales.
 Las relaciones exteriores de Amitia fueron diplomáticamente activas. En 515 de Syron, el embajador Colyn Vreel firmó el Tratado de Komori con Teknara, permitiendo el acceso compartido a módulos de purificación médica tras un brote de regolitis bioluminiscente en los bosques fronterizos. Este gesto de cooperación fue considerado un modelo de diplomacia sanitaria.
 Sin embargo, no todo fue armonía. En 565 de Leifx, estallaron tensiones con Atharis tras denuncias de vertido de residuos Lísys en la cuenca del Río Clarion. Activistas atharianos como Vel Krass acusaron a la SATT de negligencia ambiental, lo que derivó en protestas masivas en las ciudades ribereñas de Clarival y Tenahr.
-#### La Revolución Reformista (597–605 DT)
-600 DT – La caída de la SATT y el golpe reformista
-Tras la disolución del brazo militar de la SATT y el colapso de su dictadura tecnocrática, un grupo de antiguos miembros y simpatizantes de la institución, liderados por Lena Yokany, inició un movimiento reformista destinado a purgar la corrupción institucional y devolver legitimidad a la SATT. Durante estos años, la SATT había perdido gran parte de su cohesión interna, debilitada por denuncias de abuso de poder, deserciones y desgaste económico.
-La coalición reformista contó con el apoyo de facciones populares, estudiantes y trabajadores urbanos, pero también fue financiada y respaldada discretamente por una alianza de empresarios y sectores privados que veían en la reorganización de la SATT una oportunidad para obtener mayores libertades comerciales y eliminar regulaciones.
-601–603 DT – El gobierno reformista y sus contradicciones
-La SATT reformada logró instalarse formalmente durante aproximadamente tres años. Sin embargo, su estructura era frágil: distintos grupos dentro del movimiento tenían intereses contradictorios. Lena y los reformistas buscaban transparencia y justicia institucional; los empresarios buscaban libertad económica sin controles; los militares oportunistas deseaban preservar privilegios. Esta tensión interna limitó la capacidad de la SATT reformada de gobernar con eficacia y generó conflictos latentes dentro del aparato de seguridad y administración.
-Durante este periodo se realizaron intentos de reorganización administrativa, creación de nuevas oficinas y protocolos, y se impulsó una narrativa de apertura y justicia que contrastaba con los abusos del pasado. Sin embargo, la coexistencia de objetivos divergentes provocó descontento entre las facciones populares, que percibieron traiciones y favoritismos hacia el sector privado, minando el apoyo ciudadano.
-604–605 DT – La contrarrevolución y el fin de la reforma
-Ante la creciente inestabilidad, las fuerzas de Amitia y los restos de los altos mandos de la antigua SATT se organizaron para retomar el control. La represión fue rápida y decidida, combinando operaciones militares con campañas de propaganda que acusaban a los reformistas de traición y de actuar en beneficio de intereses económicos.
-En 605 DT, se lanzo una ofensiva para arrebatarles el poder a los reformistas, finalmente la noche del , los líderes del movimiento reformista, incluidos los principales cabecillas, fueron ejecutados públicamente, marcando el fin definitivo de la SATT reformada y consolidando la autoridad central de Amitia. La ejecución sirvió además como espectáculo político para reinstaurar el miedo y asegurar la estabilidad de la región.
-El fracaso del movimiento reformista dejó profundas secuelas. La SATT nunca volvió a reinstaurarse como fuerza centralizada, y la Transtierra experimentó un crecimiento del aislacionismo, con cada Tierra enfocada en su autonomía y protegiendo su soberanía frente a intervenciones externas. El vacío de poder facilitó la expansión del sector privado, especialmente en industrias extractivas y comerciales, sin supervisión regulatoria, creando desigualdades y resentimientos que perdurarían durante los siglos siguientes.
-Simultáneamente, la figura de Lena Yokany y otros reformistas fue recordada como símbolo de resistencia y conciencia civil, dando origen a leyendas y relatos históricos que, aunque idealizados, reflejaban la lucha por una SATT más justa y menos corrupta. Este periodo marcó así el inicio de los Siglos Perdidos, caracterizados por el aislamiento, la desconfianza entre Tierras y la consolidación de intereses privados sobre la gobernanza pública
-1. Desplazamientos masivos y diásporas
-Tras la caída de la SATT, muchas poblaciones que dependían de los servicios y protección de la institución quedan desamparadas.
-Se forman diásporas en las afueras de las ciudades importantes, algunas de ellas en domos vitales, otros asentamientos improvisados.
-Migraciones internas y conflictos por recursos intensifican la desigualdad social y consolidan guetos culturales que persisten por generaciones.
-2. Colapso parcial de la tecnología centralizada
-Sin la SATT centralizada, la red Lísys se vuelve inoperante en muchas regiones.
-Esto provoca interrupciones en transporte, comunicaciones y control de fronteras inter-Tierras.
-La falta de mantenimiento de las Vox deja a los inmigrantes y agentes dependientes en situaciones precarias.
-3. Auge del sector privado y extracción de recursos
-Empresas mineras y comerciales aprovechan la debilidad institucional para consolidar monopolios en Derat y otras Tierras periféricas.
-Esto marca el inicio de un poder económico paralelo al político, que influirá en los Siglos Perdidos.
-4. Conflictos locales y microguerras
-Sin una fuerza central fuerte, pequeñas revueltas, rebeliones paramilitares y disputas territoriales aumentan.
-Tecnara y Atharis registran incidentes violentos donde los gobiernos locales deben intervenir sin coordinación transterrena.
-5. Primeros movimientos ideológicos hacia el aislacionismo
-La caída de la SATT y la manipulación del sector privado fomentan un discurso cultural y político centrado en la autosuficiencia y la desconfianza hacia otras Tierras.
-Surgen los primeros textos, escuelas y líderes que promueven priorizar la Tierra Natal por encima de toda cooperación transterrena.
-6. Reformas educativas y culturales fallidas
-Los intentos de imponer currículos unificados o programas de concientización civil fracasan ante la resistencia de las comunidades locales.
-Esto contribuye al estancamiento cultural y la fragmentación ideológica de la Transtierra.
+#### El Régimen de Excepción y el golpe de Estado (579–588 DT)
+
+En 579 DT, los altos mandos de la **SATT** ejecutaron un golpe de Estado contra el gobierno civil de la potencia continental de **Amitia**. No fue una simple ampliación de atribuciones ni una toma gradual del poder: la dirigencia de la SATT desplazó al gobierno y estableció un régimen autoritario que utilizó la estructura administrativa, militar y de seguridad transterrana para ejercer la represión. El golpe fue posible porque la SATT llevaba siglos acumulando competencias, recursos, autonomía operativa y capacidad coercitiva; el Régimen de Excepción fue la ruptura abierta del equilibrio que todavía la vinculaba al poder civil.
+
+El régimen terminó formalmente en **588 DT**, después de que el nuevo gobierno amitiano recuperara el control político. Sus principales dirigentes fueron juzgados, pero los procesos no produjeron una depuración completa de la institución. La influencia acumulada por la SATT y la dependencia del Estado respecto de su fuerza armada hicieron inviable —o políticamente demasiado costoso— desmantelarla por completo. Muchos responsables conservaron sus cargos o posiciones dentro del aparato, aunque quedaron bajo vigilancia del nuevo gobierno y con menos margen para actuar abiertamente.
+
+De ese arreglo surgió un equilibrio inestable: el gobierno democrático necesitaba que la SATT siguiera existiendo como fuerza armada y como estructura operativa, pero desconfiaba de sus mandos y procuraba mantenerlos sujetos a supervisión. La SATT, por su parte, conservaba redes, experiencia, recursos y presencia institucional, pero debía medir sus movimientos para no provocar una nueva intervención. El fin del Régimen de Excepción no significó que sus responsables desaparecieran ni que la institución se transformara de raíz; significó que el poder civil volvió a imponer límites, incompletos y negociados, sobre una organización que seguía siendo demasiado poderosa para ignorarla.
+
+La situación de los antiguos agentes represores fue desigual. Los juicios a la dirigencia no equivalieron a procesar a todos los participantes de la maquinaria represiva. Algunos agentes fueron apartados, otros permanecieron protegidos por el secreto institucional y otros continuaron sus carreras. La vigilancia del nuevo gobierno y la fragilidad del acuerdo hicieron que cualquier intento de revelar responsabilidades pudiera convertirse en una crisis política.
+
+Esta herencia explica el peligro que representaba **Bastean**. Su venganza no amenazaba únicamente a individuos concretos: podía exponer la continuidad entre los agentes que participaron en la represión, los mandos que conservaron influencia y el aparato que el gobierno democrático había decidido mantener bajo control. Su investigación y sus asesinatos podían desestabilizar el arreglo posterior al golpe, revelar hasta dónde había llegado la complicidad y obligar al gobierno a elegir entre justicia, estabilidad y protección de una institución que todavía necesitaba.
+
+### La Revolución Reformista y la contrarrevolución (599–605 DT)
+
+**599 DT — Caída de la SATT y triunfo de la Rebelión**
+
+Poco después de la muerte de Yen, la Rebelión encabezada por Lena Yokany derribó el orden de la SATT. El movimiento reunió a antiguos miembros y simpatizantes de la institución, facciones populares, estudiantes y trabajadores urbanos. También recibió apoyo discreto de empresarios y sectores privados que esperaban que la reorganización eliminara regulaciones y ampliara sus libertades comerciales. La coalición compartía el rechazo al antiguo orden, pero no un proyecto económico ni político completamente uniforme.
+
+**599–605 DT — Seis años de gobierno revolucionario**
+
+El gobierno revolucionario permaneció en el poder aproximadamente seis años. Durante ese tiempo intentó reconstruir servicios, reorganizar recursos y devolver legitimidad a la administración transterrana. Lena y sus aliados buscaban transparencia y justicia institucional; los empresarios favorecían la liberalización; sectores militares y administrativos intentaban conservar influencia y privilegios. La nueva dirigencia también heredó el problema de cómo coordinar las Tierras sin reproducir la subordinación que había caracterizado a la SATT.
+
+La Rebelión sustituyó a los antiguos mandos y transformó prioridades e instituciones, pero no consiguió construir una alternativa estable a la autoridad central. Ante las dificultades de coordinación, las emergencias y las disputas territoriales, el gobierno concentró decisiones en el centro. Esa centralización podía producir resultados materiales y recuperar servicios, pero también abrió espacio a nuevas formas de vigilancia, coerción y privilegio. El período no fue un deterioro uniforme: sus logros y abusos serían recordados de maneras incompatibles.
+
+**604–605 DT — Crisis y contrarrevolución**
+
+Las contradicciones de la coalición, los conflictos internos y la oposición de fuerzas desplazadas debilitaron al gobierno. La contrarrevolución reunió actores diversos: antiguos sectores de poder, mandos y redes supervivientes de la SATT, gobiernos territoriales, facciones perjudicadas por la centralización y comunidades que rechazaban la autoridad común. No fue una restauración idéntica del régimen anterior ni un bloque unido por una sola motivación.
+
+En 605 DT, la contrarrevolución terminó imponiéndose y puso fin al gobierno revolucionario. **Lena sobrevivió durante los años de gobierno y hasta el avance de la contrarrevolución**; su destino final pertenece a ese proceso de caída y no a una ejecución inmediata tras la victoria contrarrevolucionaria. Los abusos cometidos por facciones revolucionarias y las decisiones que Lena asumió políticamente serían utilizados contra ella, aunque no convierten automáticamente a la contrarrevolución en una fuerza justa ni hacen equivalentes a ambos proyectos.
+
+La caída del gobierno no restauró sin más la antigua SATT. La autoridad transterrana perdió su capacidad de imponerse y comenzó un proceso prolongado de fragmentación. El aislacionismo, la desconfianza entre Tierras y la expansión de intereses privados se consolidaron durante los Siglos Perdidos, como resultado de conflictos y decisiones acumuladas, no como consecuencia automática de un solo acontecimiento.
+
 ### Teknara
 #### La era de la Exploracion
 Década 0–50 DT: Primer contacto y extracción
