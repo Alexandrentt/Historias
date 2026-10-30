@@ -10,6 +10,12 @@ tags: [personaje, equipo-b4, amitia]
 **Arco:** Fe en evidencia → comprensión de que evidencia necesita protección política
 **Final:** Deserta; vive en tierra natal; se casa; tiene hijos; muere de viejo, feliz y en paz
 
+## Interés por la tecnología
+
+Alec es un **entusiasta genuino de la tecnología**. No sabe de máquinas, equipos y computadoras únicamente porque sea su responsabilidad dentro de B4: le encanta averiguar cómo funcionan las cosas por dentro, entender sus mecanismos y sistemas, y descubrir por qué algo funciona —o deja de funcionar— de determinada manera.
+
+Su trabajo técnico y su curiosidad personal se alimentan mutuamente, pero no son lo mismo. Incluso fuera de sus obligaciones puede interesarse por un aparato o sistema solo por el placer de comprenderlo. Esta afición encaja con la tecnología de su época: computadoras todavía modestas y equipos que requieren conocimiento práctico, observación y experimentación; no lo convierte en un hacker de tecnología futurista.
+
 ## Relación con [[Herday]]
 - Lo ve como figura de liderazgo y autoridad
 - Casi paternal
