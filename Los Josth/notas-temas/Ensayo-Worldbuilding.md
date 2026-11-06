@@ -154,7 +154,7 @@ La CTT evolucionó hacia un brazo ejecutor: la **SATT (Superintendencia Administ
 
 Tres tecnologías y fenómenos definen la era:
 
-- **Lísys.** Para conectar las Tierras había un obstáculo físico: por el Portal no cruza nada que no esté vivo, y ningún cable kilodacmico podría hacerlo. La solución —impulsada por la ingeniera athariana **Lísys Marr** y financiada por la CTT— fue biotecnológica: **serpientes amónicas** naváreas, modificadas para transportar cables en su interior, cruzaban el Portal y mantenían el flujo de datos. Nacida como red civil, Lísys fue absorbida por el aparato de vigilancia de la SATT y quedó fuera del alcance de todo ciudadano.
+- **Lísys y las redes interterritoriales.** Su funcionamiento, la Raunet local, las serpientes amónicas, los nodos clandestinos y los límites de comunicación se describen en [Redes y comunicaciones](#redes-y-comunicaciones).
 - **Los Domos Vitales.** Para contener a las poblaciones migrantes —que comenzaban a formar guetos—, Amitia construyó superestructuras que las albergaban y a la vez las recluían: ciudades cerradas, sin luz solar, iluminadas con paneles y lámparas, de construcción caótica y tres niveles —superiores (familias antiguas y consejo), intermedios (comercio, templos, escuelas) e inferiores (callejones, humedad, delincuencia)—. Se replicaron en Návar, Teknara y Atharis, pero ninguno tan grande y caótico como los amitianos.
 - **Los saltadores y la migración.** El Portal hacía casi imposible controlar quién cruzaba —custodiar cada metro de su circunferencia, con océanos y montañas, era inviable—, así que la CTT se concentró en las rutas conocidas. Los migrantes empezaron a cruzar por rutas no oficiales: así nacieron los **saltadores**, y con ellos el **DPIT** (Documento Personal de Identificación de la Tierra), los permisos de vox y un círculo vicioso de restricciones, filas y xenofobia. Antes de la SATT la vox era un artefacto casi al alcance de cualquiera; la CTT la monopolizó y le añadió la vigilancia de la población migrante.
 
@@ -235,7 +235,7 @@ Cada Tierra conserva su propia lengua, costumbres, religiosidad y arquitectura, 
 
 ### Ciencia y tecnología
 
-El eje tecnológico del mundo es el tránsito: el **campo AT**, la **vox** en sus múltiples generaciones (mecánica, modular, biogénica, algal), y la red **Lísys** —con su antecesora civil, la **Raunet**, que funcionaba dentro de cada Tierra por separado—. A ello se suman la bioingeniería médico-militar de Teknara, la energía fotónica de Atharis y los campos experimentales de Terra.
+El eje tecnológico del mundo es el tránsito: el **campo AT**, la **vox** en sus múltiples generaciones (mecánica, modular, biogénica, algal), las redes locales **Raunet** y los enlaces interterritoriales **Lísys**. Su arquitectura se desarrolla en la sección [Redes y comunicaciones](#redes-y-comunicaciones). A ello se suman la bioingeniería médico-militar de Teknara, la energía fotónica de Atharis y los campos experimentales de Terra.
 
 ### Fuentes de contenido canónico
 
