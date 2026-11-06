@@ -20,8 +20,7 @@ tags: [tierra, atharis, ecología, tecnología, lísys]
 
 ## Economía y Tecnología
 - **Energía Solar:** Proveedor global de baterías fotónicas de bajo impacto y paneles orgánicos de helio-silicona auto-reparables.
-- **Proyecto Lísys:** Cuna de la tecnología de datos de la SATT, nombrada en honor a la ingeniera athariana **Lísys Marr**.
-- **Investigación Lísys:** Atharis fue uno de los centros de investigación que impulsaron el desarrollo biotecnológico de los enlaces interterritoriales. La infraestructura Lísys se describe en [[notas-temas/Ensayo-Worldbuilding#redes-y-comunicaciones]].
+- **Proyecto Lísys:** Investigación athariana que contribuyó al desarrollo biotecnológico de los enlaces interterritoriales, nombrados en honor a la ingeniera **Lísys Marr**. La infraestructura se describe en [[notas-temas/Ensayo-Worldbuilding#redes-y-comunicaciones]].
 - **Turismo Regulado:** Sistema de cupos anuales para proteger rutas naturales y biomas de la sobrecarga.
 
 ## Sociedad
