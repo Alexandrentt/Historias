@@ -50,7 +50,7 @@ El Portal es una estructura fija de gran magnitud, con forma de **muro que circu
 - La secuencia es **1 → 2 → 3 → 4 → 5 → 6 → 7**; al cruzar en sentido inverso se retrocede. Al llegar a la 7 se alcanzan los hemisferios que se habían omitido en el primer viaje.
 - Consecuencia geopolítica: **Derat (5) es contigua a Khorza (4) y a Návar (6)**, y Khorza (4) a Atharis (3). De ahí que las primeras guerras se libraran en esa vecindad.
 
-**Reglas del Portal.** El Portal no deja cruzar nada que no esté vivo, y hasta hoy se desconoce cómo distingue lo vivo de lo inerte.
+**Reglas del Portal.** El Portal no permite transportar materia inerte de una Tierra a otra por sí sola, y hasta hoy se desconoce cómo distingue lo vivo de lo inerte. Esto no implica que bloquee toda señal electromagnética: una señal puede atravesar el plano del Portal y continuar hacia el otro hemisferio de la misma Tierra, pero no alcanza por propagación convencional la Tierra contigua.
 
 | Regla | Definición |
 |---|---|
