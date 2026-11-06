@@ -64,6 +64,24 @@ El Portal es una estructura fija de gran magnitud, con forma de **muro que circu
 
 Estas reglas no fueron un detalle técnico: moldearon la política y la economía de todas las eras, desde las migraciones controladas hasta las restricciones comerciales.
 
+### Redes y comunicaciones
+
+La Transtierra no dispone de una Internet única. Cada Tierra desarrolló su propia **Raunet (Red Unificada de Nodos Electrónicos Territoriales)**: redes informáticas locales e independientes, con tecnologías comparables a las de finales del siglo XX. Dentro de cada Tierra se utilizan radio, antenas, satélites, cableado de fibra óptica y redes inalámbricas. Hay sitios y servicios habituales, pero no existe una infraestructura social global ni plataformas masivas compartidas entre las siete Tierras.
+
+Es importante distinguir el comportamiento del Portal respecto a las señales. Una señal electromagnética puede atravesar el plano del Portal y continuar hacia el otro hemisferio de su misma Tierra, como si nada la bloqueara. Sin embargo, no puede utilizar ese paso para llegar a otra Tierra. El límite no es que el Portal absorba toda señal que lo atraviese, sino que la propagación convencional no establece comunicación entre mundos distintos.
+
+**Lísys** resuelve ese aislamiento mediante transporte físico de datos. El proyecto, nombrado en honor a la ingeniera athariana **Lísys Marr**, emplea serpientes amónicas navaríes modificadas que llevan en su interior un cable de fibra óptica. Las serpientes deben permanecer en movimiento al cruzar el Portal, porque un objeto inerte que quedara atravesándolo terminaría desintegrándose. En las estaciones terminales, máquinas leen y procesan los datos, los reintroducen en el sistema y coordinan su transmisión. La velocidad de procesamiento electrónico no elimina el límite físico: los datos avanzan al ritmo al que las serpientes pueden desplazarse y ser atendidas por los nodos.
+
+Hay **varias serpientes por cada par de Tierras**, con puntos de comunicación distribuidos en sus hemisferios. Por tanto, Lísys no es una sola criatura que conecte toda la Transtierra ni un cable continuo que una los siete mundos. Es una infraestructura de enlaces físicos entre pares de Tierras, con capacidad limitada, costosa y difícil de ampliar. La SATT controla una parte sustancial de ella y algunos gobiernos tienen acceso; esto no significa que la SATT administre todas las redes locales ni que sea un gobierno mundial.
+
+Al margen de los enlaces oficiales existen redes clandestinas. Ingenieros y entusiastas conectan módulos propios a los cables o a los puntos de acceso Lísys; algunos dispositivos se adhieren físicamente a las serpientes, como parásitos. Esas conexiones permiten intercambiar información fuera de los canales autorizados. La SATT puede destruir servidores, nodos o foros identificables, pero las comunidades pueden reconstruirse en otros lugares. Su topología y sus protocolos concretos siguen abiertos: no debe tratarse como una Internet global mágica, sino como una red fragmentada, físicamente dependiente y vulnerable.
+
+El **lárian** es un medio de comunicación biológico independiente de Raunet y Lísys. Cada organismo mantiene un vínculo telepático con su gemelo, semejante a una señal de radio que puede alcanzar otra Tierra. Como su señal natural no tiene suficiente potencia para largas distancias, se utilizan amplificadores. En el capítulo 1, la mochila que carga Yen contiene el equipo amplificador; no es el propio lárian. Tampoco deben confundirse estos equipos con los audífonos intracraneales: la diadema de audio se conecta electrónicamente a un reproductor portátil y no necesita un amplificador externo.
+
+> **Límite de continuidad:** la arquitectura concreta de los servidores clandestinos, el número de estaciones por hemisferio, la capacidad de cada serpiente, la latencia y los protocolos de enrutamiento todavía no están definidos. No conviene fijar cifras ni una topología completa hasta desarrollarlos.
+
+---
+
 ### La Vox
 
 Cada Tierra tiene una **atmósfera respirable solo por sus nativos**. Por eso el tránsito exige la **vox**, dispositivo que (a) **filtra y adapta el aire** de la Tierra ajena y (b) **traduce** la lengua franca amitiana, con **~1,5 s de retraso** —retraso que la narrativa convierte en recurso dramático: se contesta a la frase anterior.
