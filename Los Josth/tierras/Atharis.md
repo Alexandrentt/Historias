@@ -6,7 +6,7 @@ tags: [tierra, atharis, ecología, tecnología, lísys]
 
 **Tipo:** Tierra  
 **Rol:** La Tierra del Sol y la Conciencia Ambiental  
-**Tecnología:** Sede de la [[Lísys]] (Lógica Integrada de Supervisión Interna)
+**Tecnología:** Cuna de la investigación que dio origen a [[Lísys]]
 
 ## Características
 - **Geografía:** Cordilleras de roca pizarrosa, valles bioluminiscentes y cordillera de Menten (vetas de cuarzo solar).
@@ -21,7 +21,7 @@ tags: [tierra, atharis, ecología, tecnología, lísys]
 ## Economía y Tecnología
 - **Energía Solar:** Proveedor global de baterías fotónicas de bajo impacto y paneles orgánicos de helio-silicona auto-reparables.
 - **Proyecto Lísys:** Cuna de la tecnología de datos de la SATT, nombrada en honor a la ingeniera athariana **Lísys Marr**.
-- **Cristales Lísys:** Tecnologia de transmisión de datos de alta velocidad gestionada por especialistas en fusión cuántica.
+- **Investigación Lísys:** Atharis fue uno de los centros de investigación que impulsaron el desarrollo biotecnológico de los enlaces interterritoriales. La infraestructura Lísys se describe en [[notas-temas/Ensayo-Worldbuilding#redes-y-comunicaciones]].
 - **Turismo Regulado:** Sistema de cupos anuales para proteger rutas naturales y biomas de la sobrecarga.
 
 ## Sociedad
