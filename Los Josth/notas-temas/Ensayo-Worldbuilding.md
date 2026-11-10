@@ -24,7 +24,7 @@ El prefijo *trans* responde a la naturaleza funcional del Portal. El segundo com
 
 ### Las Siete Tierras (orden único)
 
-**"Tierra N" es nomenclatura burocrática de la SATT**; cada Tierra tiene nombre nativo. Las numeradas **8 a 13 son anexos administrados**, no integrados. «Siete mundos» designa al núcleo.
+**"Tierra N" es nomenclatura burocrática de la SATT**; cada Tierra tiene nombre nativo. La Transtierra tiene **exactamente siete Tierras**: no existen anexos administrativos 8–13. «Siete mundos» designa el conjunto completo. La Tierra 8 de la cosmología es una promesa posterior y no forma parte de la Transtierra histórica.
 
 | N.º | Nombre nativo | Rasgo | Observación |
 |---|---|---|---|
@@ -35,8 +35,6 @@ El prefijo *trans* responde a la naturaleza funcional del Portal. El segundo com
 | 5 | **Derat** | Minería (madianita, Balatium), ocupación, resistencia | **Operación Tierra 5** |
 | 6 | **Návar** | Archipiélago de islas flotantes; fe Dehista | Origen de Yen |
 | 7 | **Terra** | Zona Restringida; anomalías biomecánicas; sin habitantes | Puerta de los Yuman |
-| 8 | **Karel** | Anexo | Ver colisión de nombres, §III |
-| 13 | **Lenthir** | Anexo mayor, poco cartografiado | — |
 
 **El orden no es natural, es político.** No hubo razón física para que Amitia fuera Tierra 1: la numeración la impuso **Ancit Blind**, político amitiano, en una revista científica durante la Era de la Exploración. Es el nacimiento de lo que hacia el año 400 d.t. se llamaría **amitocentrismo**.
 
@@ -84,7 +82,7 @@ El **lárian** es un medio de comunicación biológico independiente de Raunet y
 
 ### La Vox
 
-Cada Tierra tiene una **atmósfera respirable solo por sus nativos**. Por eso el tránsito exige la **vox**, dispositivo que (a) **filtra y adapta el aire** de la Tierra ajena y (b) **traduce** la lengua franca amitiana, con **~1,5 s de retraso** —retraso que la narrativa convierte en recurso dramático: se contesta a la frase anterior.
+Cada Tierra tiene una **atmósfera respirable solo por sus nativos**. Por eso el tránsito exige la **Vox**, dispositivo que filtra y adapta el aire de la Tierra ajena. Durante la época de Yen (589–599 DT) **no traduce automáticamente**; esa capacidad pertenece a una generación tecnológica posterior.
 
 La voz no es solo técnica: en Návar tenía un origen pesquero y religioso, y en la novela funciona como signo de intimidad —quien puede quitársela solo lo hace en privado. Un forastero sin vox funcional no sobrevive al entorno ajeno más de **diez minutos**.
 
