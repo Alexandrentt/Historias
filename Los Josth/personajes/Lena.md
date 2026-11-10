@@ -36,7 +36,7 @@ La orientación de Lena puede formar parte de su vida sin que su arco político 
 
 ## Posible pareja: criterio narrativo, no canon
 
-La posibilidad de que Lena tenga una pareja queda abierta, pero la antigua propuesta de Odile Marren como restauradora de documentos se retira. No se conserva a Odile como personaje establecido ni como heredera canónica de la biblioteca clandestina.
+La posibilidad de que Lena tenga una pareja queda abierta, pero no hay una persona ni una relación establecidas como canon. La biblioteca clandestina tampoco tiene una heredera individual definida.
 
 Si se crea una pareja para Lena, su función no debe ser una repetición de Yokany ni limitarse a ofrecerle consuelo, descanso o una vida normal fuera de la política. La relación debería tener autonomía propia.
 
@@ -50,7 +50,7 @@ Esta pareja potencial necesita convicciones, relaciones, proyectos y límites pr
 
 - **Vol. 1:** Cree que la SATT puede reformarse desde dentro. Es amiga y apoyo de Yen, aunque sus maneras de afrontar los problemas son distintas.
 - **Vol. 2 (Bastean):** Cruza límites institucionales para proteger al equipo. Empieza a justificar excepciones por sus fines, pero esto no debe reducirse a una única transgresión que explique todo lo posterior.
-- **Vol. 3–4:** Pierde confianza en la posibilidad de reformar la SATT. La biblioteca clandestina y la conservación de testimonios pueden formar parte de su actividad política, pero sus métodos, alcance y colaboradores deben desarrollarse sin depender de Odile.
+- **Vol. 3–4:** Pierde confianza en la posibilidad de reformar la SATT. La biblioteca clandestina y la conservación de testimonios pueden formar parte de su actividad política, pero sus métodos, alcance y colaboradores deben desarrollarse sin depender de una persona o personaje todavía no definido.
 - **Vol. 5 (Isla):** Tras los acontecimientos de la isla, cuida de Yen durante un tiempo mientras esta permanece catatónica. Finalmente decide marcharse porque la organización revolucionaria necesita su presencia. Es una decisión dolorosa, no automáticamente heroica ni necesariamente correcta.
 - **Vol. 6 y etapa posterior:** La Rebelión consigue la victoria poco después de la muerte de Yen. Lena sobrevive y participa en el nuevo gobierno, que permanece en el poder aproximadamente seis años. Su arco no termina con la victoria militar: continúa durante la reorganización y el ejercicio del poder.
 - **Contrarrevolución:** Las fuerzas contrarias al nuevo orden terminan haciendo caer al gobierno. Lena sobrevive hasta que la contrarrevolución logra imponerse; su destino final debe desarrollarse dentro de ese proceso y no tratarse como una ejecución inmediatamente posterior a la victoria rebelde.
