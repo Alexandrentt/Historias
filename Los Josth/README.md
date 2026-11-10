@@ -7,7 +7,7 @@ Proyecto literario colaborativo desarrollado con FOAM (Feature-Oriented Architec
 
 - **capitulos/** - Capítulos finalizados de la novela
 - **borradores/** - Versiones en desarrollo y ediciones anteriores
-- **personajes/** - Fichas de caracteres principales
+- **personajes/** - Wiki de personajes, fichas individuales e índice cronológico
 - **tierras/** - Mundos y locaciones
 - **tramas/** - Arcos narrativos principales
 - **notas-temas/** - Temas centrales y conflictos
@@ -15,6 +15,8 @@ Proyecto literario colaborativo desarrollado con FOAM (Feature-Oriented Architec
 
 ## 🔗 Índices
 
+- [Wiki de personajes](personajes/README.md) - Índice de fichas y navegación cronológica
+- [Cronología de personajes](personajes/Cronologia-Personajes.md) - Acontecimientos compartidos, de 579 DT en adelante
 - [FOAM-INDICE.md](FOAM-INDICE.md) - Índice navegable de Foam (referencias interconectadas)
 - [INDICE.md](INDICE.md) - Índice tradicional del proyecto
 - [Biblia-de-la-serie-Yen.md](Biblia-de-la-serie-Yen.md) - Biblia narrativa y worldbuilding
