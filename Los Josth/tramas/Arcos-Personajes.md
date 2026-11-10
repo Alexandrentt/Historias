@@ -65,7 +65,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 ## 3. Lena — la ternura convertida en infraestructura
 
 **Trayectoria:** reforma idealista → rebelión radical → gobierno revolucionario → caída ante la contrarrevolución.
-**Edad:** 29 → 39. **Nombre completo:** Helena SinClear. **Origen:** familia acomodada de Amitia.
+**Edad:** 29 años en 589 DT; aproximadamente 45 en 605 DT. **Nombre completo:** Helena SinClear. **Origen:** familia acomodada de Amitia.
 **Motivación inicial:** su hermana murió a manos de un inmigrante (por eso entra a la SATT). **Orientación:** bisexual; **oculta por seguridad, no por vergüenza** (su familia y la SATT usaban la intimidad como palanca).
 
 | Vol. | Movimiento | Planta → Cosecha |
