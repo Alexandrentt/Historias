@@ -32,7 +32,7 @@ Pasa un tiempo hasta que Yen es despedida o expulsada de la SATT. Mientras tanto
 
 ### Regreso a Návar
 
-Yen regresa a su hogar en Navar. Entra en un estado de **suicidio pasivo**: deja de comer hasta estar en un estado casi esquelético. Su pelo sigue creciendo —el cabello de los naváreos toma 10 años en volver a crecer después de cortarse—, simbolizando el tiempo que ha pasado y la decadencia física.
+Yen regresa a su hogar en Návar. Entra en un estado de **suicidio pasivo**: deja de comer hasta estar en un estado casi esquelético. Su pelo sigue creciendo —el cabello de los naváreos toma 10 años en volver a crecer después de cortarse—, simbolizando el tiempo que ha pasado y la decadencia física.
 
 ### La Rebelión de Lena y Zhan
 
@@ -136,7 +136,7 @@ El sistema que juró servir la consumió y luego la olvidó.
 - Cultura que la abandonó y a la que regresó
 
 ### La Deidad/El Espectro
-- Figura de la religión navarí
+- Figura del Dehismo, la religión navárea.
 - Ofrece elegir: pasado, presente o futuro
 - Yen elige pasado (ya no cree en futuro)
 - No es redención; es constatación
