@@ -5,14 +5,14 @@ tags: [personaje, equipo-b4, amitia, arco-lena, reforma, rebelion]
 # Lena
 
 **Nombre completo:** Helena SinClear  
-**Edad:** 29 años (589 DT); edad al final de su arco por fijar según la cronología de la contrarrevolución  
+**Edad:** 29 años en 589 DT; aproximadamente 45 en 605 DT  
 **Origen:** Familia acomodada de Amitia  
 **Rol:** Compañera de [[Yen]] → figura central y gobernante de la [[Rebelion]]  
 **Equipo:** [[Equipo B4]]  
 **Trasfondo:** Abandonó familia y expectativas para unirse a [[SATT]]; perdió a su hermana a manos de un inmigrante  
 **Orientación:** Bisexual  
 **Pareja:** No definida. La posibilidad de una pareja permanece abierta; no hay personaje ni relación establecidos como canon.  
-**Estado final:** Sobrevive a la victoria revolucionaria y permanece en el poder durante varios años. La contrarrevolución termina haciendo caer su gobierno y provoca su final; los detalles concretos de captura, juicio y muerte quedan por desarrollar.
+**Estado final:** Sobrevive al gobierno revolucionario (599–605 DT). Tras la victoria contrarrevolucionaria es juzgada en procesos inspirados en Núremberg y ejecutada junto con otros dirigentes reformistas.
 
 > **Canon:** esta ficha registra las decisiones vigentes. Las ideas expresamente marcadas como posibilidades no deben tratarse como hechos establecidos.
 
@@ -24,6 +24,22 @@ Su cariño se expresa a menudo mediante acciones concretas, logística y cuidado
 
 Lena no debe convertirse en una mártir impecable ni en una villana caricaturesca. Puede conservar convicciones sinceras sobre la libertad y la igualdad mientras toma decisiones que contradicen esos principios.
 
+## Trasfondo familiar
+
+- Familia particularmente acomodada de Amitia.
+- Su hermana murió a manos de un inmigrante; este hecho influye en su entrada a la SATT, pero no debe justificar automáticamente xenofobia ni convertir su motivación en una explicación simple.
+- Su bisexualidad no fue castigada legalmente, pero su familia pudo utilizar aspectos de su vida privada como palanca.
+- Un hermano la apoya, aunque no existe una reconciliación familiar plena.
+- Abandona las expectativas familiares, como Yen abandona su tierra.
+
+## Historia personal anterior y vínculos fuera del equipo
+
+Antes de que la Rebelión ocupe el centro de su vida, Lena también tuvo relaciones que no se convirtieron en una pareja formal. Una de ellas fue con un joven de aproximadamente 20–21 años cuando ella tenía alrededor de 27. Él quería que la relación se volviera romántica; Lena no quería una relación de ese tipo. Nunca llegaron a besarse y conservaron la amistad.
+
+Lena trabajaba en la SATT y fue quien lo ayudó a entrar. Él progresó dentro de la institución. No se distanciaron por una pelea ni porque el rechazo destruyera la amistad: sus vidas tomaron caminos distintos. Los comentarios de sus amigos sobre la posibilidad de que fueran pareja le resultaban incómodos y a Lena le molestaban.
+
+De aquella época conserva recuerdos asociados a fumar juntos. El cigarrillo puede funcionar como una memoria sensorial de ese período; Lena fuma ocasionalmente, no como hábito constante ni como rasgo que la defina. El nombre del joven y el contenido exacto de esa relación no se fijan en esta ficha mientras no estén establecidos en otra fuente.
+
 ## Orientación, intimidad y Vox
 
 **[CANON]** Lena es bisexual. La bisexualidad no debe utilizarse como explicación automática de sus conflictos ni como motivo de castigo narrativo.
@@ -33,60 +49,6 @@ Lena no debe convertirse en una mártir impecable ni en una villana caricaturesc
 La relación entre Lena y Yen es una amistad profunda, con afecto, confianza, diferencias de temperamento y maneras incompatibles de expresar preocupación. Pueden herirse intentando protegerse, pero no existe un beso, una cicatriz asociada a él ni una disculpa por ese episodio.
 
 La orientación de Lena puede formar parte de su vida sin que su arco político dependa de una relación romántica. No se ha decidido si tendrá pareja.
-
-## Posible pareja: criterio narrativo, no canon
-
-La posibilidad de que Lena tenga una pareja queda abierta, pero no hay una persona ni una relación establecidas como canon. La biblioteca clandestina tampoco tiene una heredera individual definida.
-
-Si se crea una pareja para Lena, su función no debe ser una repetición de Yokany ni limitarse a ofrecerle consuelo, descanso o una vida normal fuera de la política. La relación debería tener autonomía propia.
-
-Una posibilidad temática que interesa explorar es una persona que la quiera genuinamente y que, aun compartiendo parte de sus objetivos, no esté de acuerdo con hasta dónde puede llegar la Rebelión. Puede comprender las dificultades de gobernar y aun así negarse a justificar determinadas medidas. Lena puede interpretar sus objeciones como ingenuidad, falta de compromiso o incapacidad para asumir responsabilidades; la otra persona puede entender sus razones sin seguirla.
-
-Esta pareja potencial necesita convicciones, relaciones, proyectos y límites propios. No debe existir únicamente para ser la conciencia moral de Lena. Su género, identidad, historia y eventual existencia siguen sin decidirse.
-
-## Arco político y emocional
-
-**Reformismo → disidencia → revolución → gobierno → contrarrevolución**
-
-- **Vol. 1:** Cree que la SATT puede reformarse desde dentro. Es amiga y apoyo de Yen, aunque sus maneras de afrontar los problemas son distintas.
-- **Vol. 2 (Bastean):** Cruza límites institucionales para proteger al equipo. Empieza a justificar excepciones por sus fines, pero esto no debe reducirse a una única transgresión que explique todo lo posterior.
-- **Vol. 3–4:** Pierde confianza en la posibilidad de reformar la SATT. La biblioteca clandestina y la conservación de testimonios pueden formar parte de su actividad política, pero sus métodos, alcance y colaboradores deben desarrollarse sin depender de una persona o personaje todavía no definido.
-- **Vol. 5 (Isla):** Tras los acontecimientos de la isla, cuida de Yen durante un tiempo mientras esta permanece catatónica. Finalmente decide marcharse porque la organización revolucionaria necesita su presencia. Es una decisión dolorosa, no automáticamente heroica ni necesariamente correcta.
-- **Vol. 6 y etapa posterior:** La Rebelión consigue la victoria poco después de la muerte de Yen. Lena sobrevive y participa en el nuevo gobierno, que permanece en el poder aproximadamente seis años. Su arco no termina con la victoria militar: continúa durante la reorganización y el ejercicio del poder.
-- **Contrarrevolución:** Las fuerzas contrarias al nuevo orden terminan haciendo caer al gobierno. Lena sobrevive hasta que la contrarrevolución logra imponerse; su destino final debe desarrollarse dentro de ese proceso y no tratarse como una ejecución inmediatamente posterior a la victoria rebelde.
-
-## La Rebelión: victoria y contradicción
-
-La Rebelión no consigue imaginar una organización política que prescinda de una autoridad central a la que estén sujetas todas las Tierras. Aunque combate a la SATT y transforma sus instituciones, conserva la premisa de que la convivencia transterrana requiere una estructura común con capacidad de imponer decisiones.
-
-Esto no significa que sus integrantes sean hipócritas ni que quieran restaurar exactamente la SATT. Pueden cambiar la legitimidad, los funcionarios, las prioridades, la distribución de recursos y los mecanismos de gobierno, pero continúan pensando dentro de una relación política de subordinación al centro.
-
-La alternativa de autoorganización entre las Tierras no es una solución perfecta ni sencilla. Tendría que resolver coordinación, infraestructura compartida, disputas, desigualdades entre territorios, emergencias y protección de derechos. La tragedia política consiste en que Lena y buena parte de la Rebelión no logran imaginar o sostener una respuesta que no dependa de una autoridad superior.
-
-La centralización también ofrece una promesa emocional: orden, estabilidad y la sensación de que alguien puede garantizar que las cosas funcionen. Ante la incertidumbre, el gobierno revolucionario puede preferir la capacidad de imponer decisiones a la negociación constante y a la autonomía local.
-
-## Los años en el poder
-
-La duración prevista del gobierno revolucionario es de aproximadamente seis años. Esta periodización es una guía de desarrollo, no una cronología cerrada:
-
-1. **Victoria:** caída del antiguo orden, legitimidad revolucionaria y expectativas enormes. Lena puede creer que lo peor ha terminado.
-2. **Reconstrucción:** reorganización de recursos, servicios e instituciones. El gobierno centraliza decisiones para evitar una nueva fragmentación.
-3. **Consolidación:** antiguos compañeros de lucha se convierten en funcionarios, administradores y mandos. Aparecen disputas sobre cargos, privilegios y dirección política.
-4. **Contradicciones:** medidas excepcionales se vuelven habituales. El gobierno puede restringir libertades o emplear la fuerza en nombre de la estabilidad.
-5. **Fractura:** surgen oposiciones dentro de la propia Rebelión. Algunos consideran que Lena traicionó los ideales; otros creen que no ha sido suficientemente contundente.
-6. **Crisis y contrarrevolución:** el gobierno enfrenta una crisis decisiva y las fuerzas contrarrevolucionarias terminan imponiéndose. El resultado no restaura exactamente el mundo anterior.
-
-No todos los años deben representar un deterioro lineal. El gobierno puede conseguir mejoras materiales reales, recuperar servicios y reducir abusos concretos. Distintos grupos pueden recordar esos años de maneras incompatibles: como un período de reconstrucción y dignidad recuperada, o como una época de vigilancia, coerción y represión. Ambas memorias pueden coexistir.
-
-Lena no necesita convertirse en una dictadora para que la contradicción funcione. El centro dramático es cómo una revolución que pretendía cambiar las relaciones de poder termina creando nuevas relaciones de dependencia, autoridad y privilegio. Puede seguir creyendo en sus ideales y, al mismo tiempo, confundir la protección de la revolución con la protección de su propio gobierno.
-
-## Autoorganización, realismo capitalista y los límites de lo imaginable
-
-La incapacidad de imaginar otra organización política es una extensión del eje del realismo capitalista: se puede reconocer que el sistema existente produce injusticias y, aun así, percibir sus estructuras fundamentales como inevitables.
-
-En el caso de la Rebelión, la premisa incuestionada no es necesariamente el mercado, sino la necesidad de una autoridad central que gobierne sobre todas las Tierras. Cambiar quién ocupa esa autoridad parece imaginable; prescindir de la subordinación al centro, mucho menos.
-
-La autoorganización debe tratarse como una posibilidad histórica y política difícil, no como una utopía sin conflictos. La historia no debe afirmar que habría resuelto todos los problemas, sino mostrar que la Rebelión no consigue convertirla en una alternativa practicable.
 
 ## Relaciones complejas
 
@@ -113,13 +75,16 @@ Si Lena tiene pareja, debe existir una discrepancia política genuina: alguien q
 
 Se une a Lena después del arco de la isla. Su lealtad militar se transforma en lealtad revolucionaria. La relación entre ambos debe desarrollarse también a través de sus desacuerdos sobre la dirección y los límites del nuevo gobierno.
 
-## Trasfondo familiar
+## Arco político y emocional
 
-- Familia particularmente acomodada de Amitia.
-- Su hermana murió a manos de un inmigrante; este hecho influye en su entrada a la SATT, pero no debe justificar automáticamente xenofobia ni convertir su motivación en una explicación simple.
-- Su bisexualidad no fue castigada legalmente, pero su familia pudo utilizar aspectos de su vida privada como palanca.
-- Un hermano la apoya, aunque no existe una reconciliación familiar plena.
-- Abandona las expectativas familiares, como Yen abandona su tierra.
+**Reformismo → disidencia → revolución → gobierno → contrarrevolución**
+
+- **Vol. 1:** Cree que la SATT puede reformarse desde dentro. Es amiga y apoyo de Yen, aunque sus maneras de afrontar los problemas son distintas.
+- **Vol. 2 (Bastean):** Cruza límites institucionales para proteger al equipo. Empieza a justificar excepciones por sus fines, pero esto no debe reducirse a una única transgresión que explique todo lo posterior.
+- **Vol. 3–4:** Pierde confianza en la posibilidad de reformar la SATT. La biblioteca clandestina y la conservación de testimonios pueden formar parte de su actividad política, pero sus métodos, alcance y colaboradores deben desarrollarse sin depender de una persona o personaje todavía no definido.
+- **Vol. 5 (Isla):** Tras los acontecimientos de la isla, cuida de Yen durante un tiempo mientras esta permanece catatónica. Finalmente decide marcharse porque la organización revolucionaria necesita su presencia. Es una decisión dolorosa, no automáticamente heroica ni necesariamente correcta.
+- **Vol. 6 y etapa posterior:** La Rebelión consigue la victoria poco después de la muerte de Yen. Lena sobrevive y participa en el nuevo gobierno, que permanece en el poder aproximadamente seis años. Su arco no termina con la victoria militar: continúa durante la reorganización y el ejercicio del poder.
+- **Contrarrevolución:** Las fuerzas contrarias al nuevo orden terminan haciendo caer al gobierno. Lena sobrevive durante los aproximadamente seis años del gobierno revolucionario (599–605 DT). Tras la victoria contrarrevolucionaria es capturada, juzgada en procesos inspirados en Núremberg y ejecutada junto con otros dirigentes reformistas. Los procesos juzgan responsabilidades reales, pero también sirven a los vencedores para legitimar el nuevo orden; no deben tratarse como justicia neutral ni como una absolución automática de los crímenes cometidos por la Rebelión.
 
 ## Evolución moral
 
@@ -133,11 +98,44 @@ Se une a Lena después del arco de la isla. Su lealtad militar se transforma en 
 
 **Núcleo:** Lena no abandona necesariamente sus ideales; puede reproducir relaciones de poder que no consigue imaginar cómo reemplazar.
 
+## La Rebelión: victoria y contradicción
+
+La Rebelión no consigue imaginar una organización política que prescinda de una autoridad central a la que estén sujetas todas las Tierras. Aunque combate a la SATT y transforma sus instituciones, conserva la premisa de que la convivencia transterrana requiere una estructura común con capacidad de imponer decisiones.
+
+Esto no significa que sus integrantes sean hipócritas ni que quieran restaurar exactamente la SATT. Pueden cambiar la legitimidad, los funcionarios, las prioridades, la distribución de recursos y los mecanismos de gobierno, pero continúan pensando dentro de una relación política de subordinación al centro.
+
+La alternativa de autoorganización entre las Tierras no es una solución perfecta ni sencilla. Tendría que resolver coordinación, infraestructura compartida, disputas, desigualdades entre territorios, emergencias y protección de derechos. La tragedia política consiste en que Lena y buena parte de la Rebelión no logran imaginar o sostener una respuesta que no dependa de una autoridad superior.
+
+La centralización también ofrece una promesa emocional: orden, estabilidad y la sensación de que alguien puede garantizar que las cosas funcionen. Ante la incertidumbre, el gobierno revolucionario puede preferir la capacidad de imponer decisiones a la negociación constante y a la autonomía local.
+
+## Autoorganización, realismo capitalista y los límites de lo imaginable
+
+La incapacidad de imaginar otra organización política es una extensión del eje del realismo capitalista: se puede reconocer que el sistema existente produce injusticias y, aun así, percibir sus estructuras fundamentales como inevitables.
+
+En el caso de la Rebelión, la premisa incuestionada no es necesariamente el mercado, sino la necesidad de una autoridad central que gobierne sobre todas las Tierras. Cambiar quién ocupa esa autoridad parece imaginable; prescindir de la subordinación al centro, mucho menos.
+
+La autoorganización debe tratarse como una posibilidad histórica y política difícil, no como una utopía sin conflictos. La historia no debe afirmar que habría resuelto todos los problemas, sino mostrar que la Rebelión no consigue convertirla en una alternativa practicable.
+
+## Los años en el poder
+
+La duración prevista del gobierno revolucionario es de aproximadamente seis años. Esta periodización es una guía de desarrollo, no una cronología cerrada:
+
+1. **Victoria:** caída del antiguo orden, legitimidad revolucionaria y expectativas enormes. Lena puede creer que lo peor ha terminado.
+2. **Reconstrucción:** reorganización de recursos, servicios e instituciones. El gobierno centraliza decisiones para evitar una nueva fragmentación.
+3. **Consolidación:** antiguos compañeros de lucha se convierten en funcionarios, administradores y mandos. Aparecen disputas sobre cargos, privilegios y dirección política.
+4. **Contradicciones:** medidas excepcionales se vuelven habituales. El gobierno puede restringir libertades o emplear la fuerza en nombre de la estabilidad.
+5. **Fractura:** surgen oposiciones dentro de la propia Rebelión. Algunos consideran que Lena traicionó los ideales; otros creen que no ha sido suficientemente contundente.
+6. **Crisis y contrarrevolución:** el gobierno enfrenta una crisis decisiva y las fuerzas contrarrevolucionarias terminan imponiéndose. El resultado no restaura exactamente el mundo anterior.
+
+No todos los años deben representar un deterioro lineal. El gobierno puede conseguir mejoras materiales reales, recuperar servicios y reducir abusos concretos. Distintos grupos pueden recordar esos años de maneras incompatibles: como un período de reconstrucción y dignidad recuperada, o como una época de vigilancia, coerción y represión. Ambas memorias pueden coexistir.
+
+Lena no necesita convertirse en una dictadora para que la contradicción funcione. El centro dramático es cómo una revolución que pretendía cambiar las relaciones de poder termina creando nuevas relaciones de dependencia, autoridad y privilegio. Puede seguir creyendo en sus ideales y, al mismo tiempo, confundir la protección de la revolución con la protección de su propio gobierno.
+
 ## La contrarrevolución y el final de Lena
 
 La Rebelión triunfa poco después de la muerte de Yen y permanece en el poder aproximadamente seis años. La contrarrevolución no es una simple repetición del antiguo régimen: reúne fuerzas, intereses y memorias que se oponen al nuevo orden por motivos que pueden ser incompatibles entre sí.
 
-Lena sobrevive durante el período de gobierno revolucionario y hasta que la contrarrevolución logra hacer su trabajo. Su captura, juicio, ejecución o eventual destino deben definirse en relación con el proceso concreto de caída del gobierno, no como un castigo inmediato por sus ideales.
+Lena sobrevive durante el gobierno revolucionario de aproximadamente seis años (599–605 DT). Tras la derrota, es capturada, juzgada y ejecutada junto con otros dirigentes reformistas en procesos inspirados en Núremberg.
 
 Las ejecuciones extrajudiciales cometidas por sectores de la Rebelión y las decisiones que Lena asume políticamente pueden formar parte de los argumentos utilizados contra ella. No deben funcionar como una justificación automática de la contrarrevolución ni como una equivalencia moral simplista entre ambos bandos.
 
@@ -149,6 +147,16 @@ En los siglos perdidos, el aislacionismo termina imponiéndose. No debe presenta
 
 La ironía histórica es que la Rebelión destruye el antiguo orden, pero no logra construir una alternativa capaz de sobrevivir a su propio gobierno. Su legado cambia la Transtierra incluso después de su derrota.
 
+## Posible pareja: criterio narrativo, no canon
+
+La posibilidad de que Lena tenga una pareja queda abierta, pero no hay una persona ni una relación establecidas como canon. La biblioteca clandestina tampoco tiene una heredera individual definida.
+
+Si se crea una pareja para Lena, su función no debe ser una repetición de Yokany ni limitarse a ofrecerle consuelo, descanso o una vida normal fuera de la política. La relación debería tener autonomía propia.
+
+Una posibilidad temática que interesa explorar es una persona que la quiera genuinamente y que, aun compartiendo parte de sus objetivos, no esté de acuerdo con hasta dónde puede llegar la Rebelión. Puede comprender las dificultades de gobernar y aun así negarse a justificar determinadas medidas. Lena puede interpretar sus objeciones como ingenuidad, falta de compromiso o incapacidad para asumir responsabilidades; la otra persona puede entender sus razones sin seguirla.
+
+Esta pareja potencial necesita convicciones, relaciones, proyectos y límites propios. No debe existir únicamente para ser la conciencia moral de Lena. Su género, identidad, historia y eventual existencia siguen sin decidirse.
+
 ## Notas narrativas
 
 - Lena no debe ser una mártir moralmente impecable ni una villana de caricatura.
@@ -157,7 +165,6 @@ La ironía histórica es que la Rebelión destruye el antiguo orden, pero no log
 - Yen muere antes de conocer el resultado del proyecto de Lena. Lena vive en el mundo que ayudó a construir y debe afrontar sus contradicciones.
 - La pareja de Lena, si existe, debe poder quererla y oponerse a sus decisiones sin convertirse en su conciencia moral externa.
 - La Rebelión no es una restauración idéntica de la SATT, pero tampoco logra romper la premisa de una autoridad central sobre todas las Tierras.
-
 
 ### El objeto prestado y el papel doblado — escena posible, sin resolver
 
