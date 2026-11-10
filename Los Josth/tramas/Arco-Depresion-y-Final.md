@@ -199,7 +199,7 @@ Estas preguntas permanecen abiertas. Es parte de la tragedia.
 - La SATT nunca vuelve a ser lo que era
 - El aislacionismo posterior es consecuencia directa de su rebelión
 - Se convierte en mártir para movimientos futuros
-- **[[Odile Marren]] hereda la biblioteca clandestina**: el archivo y la memoria sobreviven a Lena
+- **El destino de la biblioteca clandestina queda abierto**: el archivo puede sobrevivir mediante copias y redes de conservación, pero no hay una heredera individual establecida.
 
 ### Rish
 - Tumba sin nombre
@@ -244,6 +244,6 @@ Pero la historia existe. Y en existir, es una forma de resistencia.
 
 - **[FIJADO]** La caída no es "alivio" ni misterio: hay **arrepentimiento a mitad de caída**.
 - El Espectro es **constatación, no redención**.
-- Se muestra el **daño en los supervivientes**: Lena nunca sabe la verdad; Odile queda con el archivo.
+- Se muestra el **daño en los supervivientes**: Lena nunca sabe la verdad; la continuidad del archivo no depende de una heredera ya definida.
 - No se embellece el cuerpo; la caída es un fallo físico, no una escena estética.
 - El único acto libre es el arrepentimiento.
