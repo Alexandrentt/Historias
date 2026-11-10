@@ -19,6 +19,10 @@ Su idealismo inicial funciona como máscara defensiva ante la incertidumbre de l
 
 La depresión funcional es un marco de planificación, no una etiqueta que la narración deba pronunciar. Yen puede seguir trabajando mientras se vacía por dentro. Su sufrimiento no debe convertirse en toda su personalidad.
 
+## Gustos y vida cotidiana
+
+A Yen también le gusta leer, sobre todo ciencia ficción y fantasía, pero no es una afición tan central ni tan constante como lo es para Lena. Puede disfrutar de un libro en sus ratos libres, aunque la música tiene un lugar más importante en su vida cotidiana: escucha música en su reproductor físico y suele refugiarse en ella cuando está sola. No convertir la lectura en uno de sus rasgos definitorios ni presentarla como alguien que lleva libros consigo a todas partes.
+
 ## Historia cronológica
 
 ### Antes de 589 DT — Návar y su familia
