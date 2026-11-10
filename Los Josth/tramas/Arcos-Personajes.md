@@ -20,7 +20,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 |---|---|---|---|
 | 1 | Probarse que merece estar | Hace pública su deducción sin medir a quién expone | Culpa desproporcionada; el caso se entierra; Herday muere |
 | 2 | Que la verdad sirva | Copia la prueba fuera de cadena | El sistema borra el caso; gana una cicatriz (hombro/mano) |
-| 3 | Ser feliz sin culpa | Calla ante Lena el beso y a Rish | El secreto se vuelve estructura; microfisuras (sueño, voces) |
+| 3 | Construir una vida afectiva y pertenecer | Comienza su relación con Rish en 593 DT; la amistad con Lena permanece platónica. Cualquier silencio concreto sobre Rish debe fijarse en escena, sin recuperar el beso descartado | La intimidad ofrece refugio, pero no elimina las microfisuras (sueño, voces) |
 | 4 | Reconciliarse con su origen | Toma partido por su comunidad frente a su familia | Pierde la fe Dehista; vuelve «cambiada», no curada |
 | 5 | Salvar a alguien para no fallar otra vez | Se separa y la capturan | Amputación; alucinación; estrangula a Rish |
 | 6 | No ser carga | Decide no despedirse | Catatonia; primer intento; suicidio pasivo; caída |
@@ -40,7 +40,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 ## 2. Rish — la redención imposible
 
 **Trayectoria:** culpa → paranoia → amor → redención dudosa → muerte.
-**Edad:** 30 → 40. **Origen:** Amitia. **Rango:** jefe del equipo B4 → director (589–591) → agente de campo.
+**Edad:** 30 años en 589 DT; muere en 597 DT (aprox. 38 años). **Origen:** Amitia. **Rango:** jefe del equipo B4 → director (589–591) → agente de campo.
 **Secreto (que el lector ve pronto):** cómplice de la represión 579–588; encubridor bajo autoridad; **n.º 38 de la Lista-40**. **Yen nunca lo sabe; Lena lo sabe a medias.**
 
 | Vol. | Movimiento | Sentido |
@@ -57,7 +57,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 - Su **muerte** no es castigo divino: es el resultado del mismo silencio que cultivó. Si hubiera hablado antes, Yen tendría una verdad; sin verdad, él es una silueta sobre la que su mente proyecta el juicio.
 - Refleja a **Bastean** por contraste: venganza pública vs. redención silenciosa; **ambas estrategias fracasan**.
 
-**Relaciones:** Yen (mentor→amante, 593–598) · Lena (desconfianza mutua; ella lo lee como «parte de la máquina») · Zhan (lo conoce mejor que nadie del equipo, por oficio).
+**Relaciones:** Yen (mentor→pareja, 593–597) · Lena (desconfianza mutua; ella lo lee como «parte de la máquina») · Zhan (lo conoce mejor que nadie del equipo, por oficio).
 **Símbolos:** playa (espejo de Yen) · tumba sin nombre (existencia negada).
 
 ---
@@ -83,7 +83,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 
 **Relaciones:** Yen (amistad profunda) · Rish (ambigüedad moral; calla lo que sabe) · Zhan (aliado en la reforma).
 **Símbolos:** infraestructura · biblioteca clandestina · cadenas rotas.
-**Final:** sobrevive a la victoria revolucionaria y permanece en el gobierno durante aproximadamente seis años; la contrarrevolución termina derrotándolo. Su destino debe seguir la cronología vigente de la caída del régimen.
+**Final:** sobrevive al gobierno revolucionario de 599–605 DT; tras la victoria contrarrevolucionaria es juzgada y ejecutada junto con otros dirigentes reformistas.
 
 
 ---
@@ -100,7 +100,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 | 3 | Puente con trabajadores, turnos y muelles | Familia elegida; la obediencia puede ser traición |
 | 4 | Ve a la gente por la que murió Kluar | Su rabia cambia de objeto: de venganza a «que no vuelva a pasar» |
 | 5 | Su oportunidad de venganza y la decisión de no tomarla | Coherencia que lo habilita para la reforma |
-| 6 | Se une a la rebelión | Ejecutado (o destino incierto) |
+| 6 | Se une a la rebelión | Destino posterior a la derrota: pendiente de fijar |
 
 **Congruencia:** su transición a reformista no es arbitraria — es consecuencia de todo lo que vio. Su lenguaje son **actos, no discursos**; por eso se une a Lena sin arengas. Representa al hombre que «habría sido distinto con otro sistema».
 **Símbolos:** disciplina (escudo→trampa) · lealtad · actos decisivos.
