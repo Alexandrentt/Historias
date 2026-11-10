@@ -17,6 +17,8 @@ Proyecto literario colaborativo desarrollado con FOAM (Feature-Oriented Architec
 
 - [Wiki de personajes](personajes/README.md) - Índice de fichas y navegación cronológica
 - [Cronología de personajes](personajes/Cronologia-Personajes.md) - Acontecimientos compartidos, de 579 DT en adelante
+- [Canon fijado](notas-temas/Canon.md) - Fuente única de continuidad
+- [Auditoría de congruencia](notas-temas/Auditoria-de-Congruencia.md) - Estado de contradicciones y pendientes
 - [FOAM-INDICE.md](FOAM-INDICE.md) - Índice navegable de Foam (referencias interconectadas)
 - [INDICE.md](INDICE.md) - Índice tradicional del proyecto
 - [Biblia-de-la-serie-Yen.md](Biblia-de-la-serie-Yen.md) - Biblia narrativa y worldbuilding
