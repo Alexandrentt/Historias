@@ -1,15 +1,16 @@
 # Auditoría de congruencia documental — La Transtierra / Yen
 
-**Fecha de revisión:** 13 de octubre de 2026  
+**Primera revisión:** 13 de octubre de 2026  
+**Actualización de sincronización:** 9 de noviembre de 2026  
 **Repositorio revisado:** `Alexandrentt/Historias`, rama predeterminada consultada durante la auditoría.  
-**Propósito:** registrar contradicciones entre documentos sin modificar todavía el canon, las fichas ni los capítulos.  
+**Propósito:** registrar contradicciones documentales y mantener el estado de su resolución. La primera auditoría fue diagnóstica; la actualización de noviembre registra cambios ya aplicados en canon, fichas y documentos de estructura.  
 **Jerarquía aplicada:** `notas-temas/Canon.md` prevalece sobre biblias, fichas y arcos, tal como declara el propio documento. Esta auditoría distingue contradicciones textuales, ambigüedades narrativas y decisiones que siguen abiertas.
 
 ## Resumen ejecutivo
 
 La documentación tiene una arquitectura útil, pero el canon no está propagado de forma fiable. Los problemas más graves no son de estilo: afectan la fecha de acontecimientos centrales, la duración de la relación Yen–Rish, la cronología del prólogo, la regla de la vox y el desenlace. Hay, además, alternativas de borrador mezcladas con hechos supuestamente fijados.
 
-No se ha editado ningún archivo existente. Las resoluciones de este informe son propuestas para una pasada posterior de sincronización, no cambios automáticos de canon.
+La auditoría inicial no modificó archivos. Desde entonces se aplicó una ronda de sincronización documental; el estado actualizado de cada hallazgo aparece al final. Las decisiones pendientes siguen sin convertirse en canon por inferencia.
 
 ## Hallazgos prioritarios
 
@@ -138,3 +139,31 @@ Los arcos incluyen formulaciones como «puede ser», «o», «lo que falta» y a
 Se inspeccionaron el canon, la línea temporal, las reglas narrativas, las fichas de Yen/Rish/Herday/Zhan, el índice, los seis volúmenes, arcos seleccionados, la lista de responsables, los capítulos iniciales y los resúmenes de worldbuilding; además se buscaron referencias cruzadas en el repositorio. Esta es una auditoría documental de primera pasada, no una validación exhaustiva de cada párrafo de los documentos de cientos de miles de caracteres ni de cada PDF exportado.
 
 **Estado:** informe creado; archivos existentes sin modificar. Las decisiones marcadas como propuestas no se consideran canon hasta que se aplique la ronda de sincronización.
+
+
+---
+
+## Actualización de estado — 9 de noviembre de 2026
+
+Esta sección prevalece sobre el estado histórico de las recomendaciones anteriores. Se sincronizaron el canon maestro, las fichas de personaje, la línea temporal, la wiki, los arcos y la sinopsis de seis volúmenes.
+
+| Hallazgo | Estado actual | Aplicación |
+|---|---|---|
+| A-01 — Muerte de Herday | **Resuelto** | Fijada en 589 DT, al cierre del volumen 1; corregidas ficha, canon y sinopsis. |
+| A-02 — Muerte de Rish | **Resuelto** | Fijada en 597 DT; eliminada su edad posterior a la muerte. |
+| A-03 — Duración Yen–Rish | **Resuelto** | Relación 593–597 DT; ya no se afirma «cinco años exactos». |
+| A-04 — Prólogo y referencias temporales | **Parcial** | Canon y línea temporal fijan el tramo isla–caída en aproximadamente año y medio. Falta una auditoría línea por línea del prólogo y las cartas. |
+| A-05 — Vox | **Resuelto en documentación maestra** | No traduce automáticamente en 589–599; Yen conserva la Vox en la playa y se la quita solo en las excepciones fijadas. La azotea es una excepción deliberada. |
+| A-06 — Caída de Yen | **Resuelto en documentación maestra** | Se fija la secuencia: intención, cambio de decisión, intento de retroceder, resbalón y caída. Falta comprobar que el capítulo lo exprese con claridad física. |
+| A-07 — Momento de intervención del Espectro | **Pendiente** | Falta precisar cómo se articula el diálogo con el instante de muerte y el impacto, y propagarlo a la escena. |
+| A-08 — Secuencia política de 599 DT | **Parcial** | Se fijan el gobierno 599–605 y la ejecución posterior de Lena. El orden exacto de toma de la Central, control del edificio, demolición y regreso de Yen sigue pendiente. |
+| A-09 — Origen del apodo Yen | **Resuelto** | Lena propone el apodo; la ficha de Yen y el canon ya lo reflejan. |
+| A-10 — Parentesco de Tali | **Resuelto** | Tali es hermana mayor; Varrily es tía. |
+| A-11 — Presencia del Espectro por capítulo | **Pendiente** | Requiere auditoría de capítulos y no se resuelve con esta sincronización de fichas. |
+| A-12 — Muerte de Bastean | **Resuelto en formulación documental** | Se distingue muerte bajo custodia, versión oficial y referencia sospechosa a tres disparos. No se afirma un suicidio comprobado. |
+| A-13 — Worldbuilding heredado | **Parcial** | Canon y Ensayo-Worldbuilding fijan siete Tierras y eliminan anexos. La Biblia antigua y el ensayo histórico se marcan como documentos de archivo o borradores cuando conservan alternativas. Falta una pasada exhaustiva por todos los materiales derivados y capítulos. |
+| A-14 — Destino de Zhan | **Pendiente, explícito** | Se conserva como decisión abierta. No afirmar su ejecución como hecho. |
+
+### Criterio para la siguiente pasada
+
+No conviene seguir corrigiendo frases aisladas sin una secuencia de verificación. La próxima revisión debe cotejar el prólogo y los capítulos con las fechas ancla, después revisar las menciones residuales de Tierras descartadas y, por último, comprobar la presencia del Espectro y regenerar los materiales exportados. El destino de Zhan, el momento exacto de la visión y el orden político de 599 no deben cerrarse sin una decisión narrativa expresa.
