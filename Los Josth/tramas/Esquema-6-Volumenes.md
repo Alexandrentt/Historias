@@ -25,7 +25,7 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 3. **«El ingeniero».** Explosión por un tanque sin revisión; la muerte se vuelve mediática y la verdad se estira. Yen entiende cómo se fabrica una «versión oficial»: **investigar también puede enterrar**. Lena la guía para que no se queme viva.
 4. **«Cámaras en mantenimiento».** Un secuestro en Zona Portal donde *justo* las cámaras estaban en mantenimiento: primer presagio del patrón de encubrimiento. Zhan la corrige como a una igual por primera vez.
 5. **«El caso que nadie cubre».** Una desaparición no mediática (obrero migrante). El equipo resuelve el hecho y nadie lo publica: hay vidas sacrificables para el sistema. Contrapunto del ingeniero.
-6. **«Mitad del alquiler».** Caso pequeño y urbano (extorsión/tráfico de credenciales). Lena propone que se muden juntas: nace el hogar, con subtexto romántico.
+6. **«Mitad del alquiler».** Caso pequeño y urbano (extorsión/tráfico de credenciales). Lena propone que se muden juntas: nace un hogar elegido y se consolida una amistad profunda, sin subtexto romántico.
 7. **«El último aviso» (clímax).** Operación rutinaria que se vuelve caos: **Herday es asesinado** (daga navárea; la versión oficial dice envenenamiento). Rish asciende a director; el equipo se fractura y se suelda a la vez. Epígrafe final: «No te preocupes, Tali. Aquí estoy a salvo.»
 
 **Conflictos.** Externo: la corrupción que se disfraza de procedimiento. Interno: el síndrome del impostor de Yen y su culpa **desproporcionada** (no causó la muerte de Kluar, pero se lo atribuye); el resentimiento de Zhan; el duelo de Alec.
@@ -73,7 +73,7 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 - **«Casi descubiertos».** Alguien se acerca demasiado a la biblioteca; el equipo debe sacrificar una prueba para salvar una persona. Zhan rompe una orden. El secreto demuestra que tiene costo real.
 - **«Playa» (cierre).** Primer uso del leitmotiv: el único sitio sin paredes, sin cámaras, sin sellos, donde por unas horas pueden fingir que son personas. **Yen y Rish se vuelven pareja.** El lector ya ve lo que Yen no: el secreto sigue vivo.
 
-**Conflictos.** Externo: el sistema que rastrea filtraciones y busca chivos expiatorios. Interno: el secreto de Rish; el amor no correspondido de Lena; el duelo de Zhan convertido en identidad.
+**Conflictos.** Externo: el sistema que rastrea filtraciones y busca chivos expiatorios. Interno: el secreto de Rish; la amistad y las diferencias de cuidado entre Lena y Yen; el duelo de Zhan convertido en identidad.
 
 **Resolución.** Se gana un **hogar** —construido sobre secretos— y se formaliza la célula que será la biblioteca clandestina. Imagen final: la playa como refugio… y como lugar que la historia todavía no ha profanado.
 
@@ -138,12 +138,12 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 - **Renuncia/expulsión de la SATT y regreso a Návar.** Mientras sus compañeros forman la rebelión, Yen queda al margen: entra en **suicidio pasivo**, deja de comer hasta quedar casi esquelética. Su cabello naváreo crece (reloj de diez años).
 - **Ciclo C — «El declive».** Recaída; deja de comer. Escena de cuidado: **el día de playa que sale mal**; la multitud y el atardecer la quiebran. La rebelión ya no le llega: las visitas se espacian.
 - **El «casi» del secreto.** Algo de Rish existe en el mundo (una cinta mojada, una nota incompleta). Yen llega a rozarlo: suficiente para saber que hubo verdad, no suficiente para sanar. Si Lena tiene el resto completo, calla por proteger. El secreto se hereda como una enfermedad (Rish → Yen → Lena).
-- **La rebelión y su contrarrevolución (telón de fondo).** Lena y Zhan toman la Central temporalmente. Las **ejecuciones extrajudiciales** de los reformistas dan la justificación para juzgarlos (eco de Núremberg). El viejo sistema se reorganiza y los captura. Lena sobrevive a la victoria revolucionaria y participa en el gobierno durante aproximadamente seis años; la contrarrevolución termina derrotándolo. El destino del archivo y de sus copias queda abierto.
+- **La rebelión y su contrarrevolución (telón de fondo).** Lena y Zhan toman la Central temporalmente. Las ejecuciones extrajudiciales cometidas por sectores reformistas y las responsabilidades políticas del gobierno revolucionario forman parte de los argumentos utilizados por la contrarrevolución. Lena sobrevive al gobierno de aproximadamente seis años (599–605 DT); tras la derrota es capturada, juzgada y ejecutada en procesos inspirados en Núremberg. Los juicios no son neutrales: también legitiman el nuevo orden. El destino del archivo y de sus copias queda abierto.
 - **La caída (599).** Diez años exactos desde que Yen entró a la SATT (589 → 599), con la institución a punto de caer y su edificio a punto de ser demolido: Yen se pone el viejo uniforme, viaja a Amitia, **no se despide** (para no preocupar a Lena), sube al último piso de la Central, **se arrepiente** —y **se resbala y cae**. El Espectro le muestra su vida; la visión es la novela y termina justo antes del impacto. Cuerpo desintegrado en el Portal; sin tumba; olvidada.
 
 **Conflictos.** Externo: la SATT y la red de la familia cerrándose sobre el equipo; la rebelión y su represión. Interno: la depresión funcional de Yen; la imposibilidad de un duelo limpio; la culpa de los que la cuidan.
 
-**Resolución.** No hay victoria política; hay **costo humano**. Yen muere sola, creyendo que es una carga; Lena muere sin saber la verdad; Alec y Yokany sobreviven en paz; Zhan cae con la rebelión. Último latido: una escena corta donde **el mundo sigue** (un rumor de reforma, una caja del archivo cambiando de manos, una radio que menciona «incidentes» sin nombres). La historia de Yen termina exactamente donde debía: no en la victoria, sino en el precio de intentar ser verdad dentro de una máquina que fabrica silencio.
+**Resolución.** No hay victoria política para Yen; hay **costo humano**. Yen muere sola, creyendo que es una carga. Lena continúa en el gobierno revolucionario durante seis años y es ejecutada tras la contrarrevolución, sin conocer la verdad sobre Rish ni la muerte de Yen. Alec y Yokany sobreviven en paz. El destino de Zhan después de la derrota permanece pendiente. Último latido: una escena corta donde **el mundo sigue** (un rumor de reforma, una caja del archivo cambiando de manos, una radio que menciona «incidentes» sin nombres). La historia de Yen termina exactamente donde debía: no en la victoria, sino en el precio de intentar ser verdad dentro de una máquina que fabrica silencio.
 
 ---
 
@@ -161,14 +161,14 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 | Personaje | Destino |
 |---|---|
 | **Yen** | Catatonia, suicidio pasivo, caída; sin tumba |
-| **Rish** | Asesinado por Yen en la playa; tumba sin nombre |
+| **Rish** | Muere en 597 DT, estrangulado por Yen durante su percepción alterada; tumba sin nombre |
 | **Lena** | Lidera la rebelión; participa en el gobierno revolucionario durante unos seis años; cae con la contrarrevolución |
 
-| **Zhan** | Se une a la rebelión; ejecutado (o destino incierto) |
+| **Zhan** | Se une a la Rebelión; destino tras la derrota pendiente de fijar |
 | **Alec** | Deserta; se casa con Yokany; muere viejo y feliz |
 | **Yokany** | Sobrevive con Alec; red civil de la memoria |
 | **Bastean** | Muere en custodia (3 disparos en la espalda) |
-| **Herday** | Asesinado por Bastean (590, apertura del arco) |
+| **Herday** | Asesinado por Bastean en 589 DT, al cierre del volumen 1 |
 
 ## Notas de congruencia
 
