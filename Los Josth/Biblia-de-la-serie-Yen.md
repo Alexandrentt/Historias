@@ -48,7 +48,7 @@ Se comunica de manera directa y toma las cosas como se dicen. Cuando alguien le 
 
 Es hiperconsciente de sí misma en el espacio social. Sabe exactamente qué está haciendo con sus manos, cómo suena su voz, qué hace su cara. Esa automonitorización es agotadora y constante. Los momentos en que deja de monitorizarse porque algo la absorbe completamente son raros y el lector los siente como alivio.
 
-En su tiempo libre lee, principalmente ciencia ficción y fantasía, y escucha música en un reproductor físico con audífonos. No va a cargar un libro a todos lados pero en su cuarto y en sus días libres es donde más cómoda está. Prefiere quedarse en casa antes que salir. No siente soledad cuando está sola, pero sí sabe la diferencia entre estar sola y sentirse sola, y la segunda le pesa más de lo que admite.
+En su tiempo libre escucha música en un reproductor físico con audífonos; la música es una afición más constante y característica para ella. También puede disfrutar de la lectura, especialmente ciencia ficción y fantasía, pero no es una afición tan central como para Lena. No va a cargar un libro a todos lados; en su cuarto y en sus días libres es donde más cómoda está. Prefiere quedarse en casa antes que salir. No siente soledad cuando está sola, pero sí sabe la diferencia entre estar sola y sentirse sola, y la segunda le pesa más de lo que admite.
 
 ## Helena SinClear (Lena)
 
