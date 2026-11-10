@@ -40,11 +40,11 @@ Véanse [[Herday]], [[Bastean]], [[Yen]], [[Lena]], [[Zhan]], [[Rish]] y [[Alec]
 
 El equipo atraviesa una etapa de relativa estabilidad. La documentación de Alec y la red de conservación terminan dando forma a la biblioteca clandestina. Lena participa en su construcción y su reformismo se vuelve más activo. Zhan desarrolla vínculos fuera de la estructura estrictamente institucional. Yokany aparece como agente civil con objetivos propios y una relación con Alec.
 
-En 593 DT, Yen y Rish comienzan una relación afectiva que se prolonga durante cinco años, hasta los acontecimientos de la isla. La relación ofrece a Yen un período de seguridad y pertenencia, pero está atravesada por el secreto del pasado de Rish.
+En 593 DT, Yen y Rish comienzan una relación afectiva que termina con la muerte de Rish en 597 DT. No se fija una duración exacta en años y meses. La relación ofrece a Yen un período de seguridad y pertenencia, pero está atravesada por el secreto del pasado de Rish.
 
 Véanse [[Yen]], [[Rish]], [[Lena]], [[Alec]] y [[Zhan]]. Yokany todavía no tiene ficha independiente en esta carpeta.
 
-## 595–596 DT — Regreso a Navar
+## 595–596 DT — Regreso a Návar
 
 Yen regresa a Navar y se enfrenta a su familia, sus raíces y la fractura de su fe. Vuelve a Amitia cambiada, pero no curada. La red clandestina y la desconfianza de Lena hacia la institución continúan desarrollándose mientras el secreto de Rish permanece sin resolverse.
 
@@ -74,7 +74,7 @@ Véanse [[Yen]], [[Lena]], [[Rish]] y [[Alec]].
 
 La Rebelión liderada por Lena triunfa poco después de la muerte de Yen. Lena y Zhan participan en el nuevo orden; el gobierno revolucionario permanece en el poder aproximadamente seis años antes de caer ante la contrarrevolución. La historia de Lena continúa más allá de los seis volúmenes centrados en Yen.
 
-El destino final de Lena y el de Zhan requieren conservar las distinciones entre lo establecido y lo pendiente. La caída del gobierno está prevista; los detalles de captura, juicio, ejecución y destino individual no deben completarse por suposición.
+Lena sobrevive al gobierno revolucionario de 599–605 DT y es ejecutada tras la victoria contrarrevolucionaria en procesos inspirados en Núremberg. El destino de Zhan después de la derrota permanece pendiente de fijar.
 
 Alec se retira y construye una vida familiar con Yokany. Su final contrasta con quienes permanecen en la lucha política.
 
