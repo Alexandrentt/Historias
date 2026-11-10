@@ -18,7 +18,7 @@ tags: [personaje, equipo-b4, amitia, arco-lena, reforma, rebelion]
 
 ## Características Fundamentales
 
-Lena es uno de los pilares morales del equipo, la más crítica con la SATT y su corrupción. Es directa, crítica y protectora; intenta mantener unido al grupo y no se queda callada ante las injusticias. No es ingenua, pero sí optimista: cree que las personas pueden cambiar las cosas.
+Lena es uno de los pilares morales del equipo, la más crítica con la SATT y su corrupción. Es directa, crítica y protectora; intenta mantener unido al grupo y no se queda callada ante las injusticias. No es ingenua, pero sí optimista: cree que las personas pueden cambiar las cosas. Le gusta leer y la lectura forma parte importante de su vida personal: no es solo un pasatiempo ocasional, sino una afición a la que vuelve por gusto y que también influye en cómo conecta con otras personas.
 
 Su cariño se expresa a menudo mediante acciones concretas, logística y cuidado práctico, no necesariamente mediante confesiones sentimentales. Su evolución política nace de su experiencia con las instituciones y de su dificultad creciente para aceptar que los mecanismos de reforma no alteran las condiciones que producen los abusos.
 
@@ -34,9 +34,9 @@ Lena no debe convertirse en una mártir impecable ni en una villana caricaturesc
 
 ## Historia personal anterior y vínculos fuera del equipo
 
-Antes de que la Rebelión ocupe el centro de su vida, Lena también tuvo relaciones que no se convirtieron en una pareja formal. Una de ellas fue con un joven de aproximadamente 20–21 años cuando ella tenía alrededor de 27. Él quería que la relación se volviera romántica; Lena no quería una relación de ese tipo. Nunca llegaron a besarse y conservaron la amistad.
+Antes de que la Rebelión ocupe el centro de su vida, Lena tuvo un vínculo ambiguo con un joven de aproximadamente 20–21 años cuando ella tenía alrededor de 27. Lena trabajaba en la SATT y fue quien lo ayudó a entrar; él progresó dentro de la institución. Además de hablar, él le escribía cartas. Tenía una forma de expresarse poética y encontraba en la lectura un terreno común con Lena: le compartía pensamientos, referencias y palabras que poco a poco la fueron acercando emocionalmente a él. No fue un cortejo basado únicamente en las cartas, sino una intimidad que se construyó también en sus conversaciones y en el gusto compartido por leer.
 
-Lena trabajaba en la SATT y fue quien lo ayudó a entrar. Él progresó dentro de la institución. No se distanciaron por una pelea ni porque el rechazo destruyera la amistad: sus vidas tomaron caminos distintos. Los comentarios de sus amigos sobre la posibilidad de que fueran pareja le resultaban incómodos y a Lena le molestaban.
+Lena llegó a sentirse atraída y a encariñarse con él; no fue un sentimiento completamente unilateral ni un simple rechazo. Sin embargo, el vínculo nunca terminó de convertirse en una relación formal y no llegaron a besarse. La ambivalencia de Lena respecto a comprometerse y las circunstancias de ambos dejaron aquello en un casi algo. No se distanciaron por una pelea: sus vidas tomaron caminos distintos. Los comentarios de sus amigos sobre la posibilidad de que fueran pareja le resultaban incómodos y a Lena le molestaban.
 
 De aquella época conserva recuerdos asociados a fumar juntos. El cigarrillo puede funcionar como una memoria sensorial de ese período; Lena fuma ocasionalmente, no como hábito constante ni como rasgo que la defina. El nombre del joven y el contenido exacto de esa relación no se fijan en esta ficha mientras no estén establecidos en otra fuente.
 
