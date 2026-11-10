@@ -26,7 +26,7 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 4. **«Cámaras en mantenimiento».** Un secuestro en Zona Portal donde *justo* las cámaras estaban en mantenimiento: primer presagio del patrón de encubrimiento. Zhan la corrige como a una igual por primera vez.
 5. **«El caso que nadie cubre».** Una desaparición no mediática (obrero migrante). El equipo resuelve el hecho y nadie lo publica: hay vidas sacrificables para el sistema. Contrapunto del ingeniero.
 6. **«Mitad del alquiler».** Caso pequeño y urbano (extorsión/tráfico de credenciales). Lena propone que se muden juntas: nace un hogar elegido y se consolida una amistad profunda, sin subtexto romántico.
-7. **«El último aviso» (clímax).** Operación rutinaria que se vuelve caos: **Herday es asesinado** (daga navárea; la versión oficial dice envenenamiento). Rish asciende a director; el equipo se fractura y se suelda a la vez. Epígrafe final: «No te preocupes, Tali. Aquí estoy a salvo.»
+7. **«El último aviso» (clímax).** Operación rutinaria que se vuelve caos: **Herday es asesinado en 589 DT** (daga navárea; la versión oficial dice envenenamiento). Rish asciende a director; el equipo se fractura y se suelda a la vez. Epígrafe final: «No te preocupes, Tali. Aquí estoy a salvo.»
 
 **Conflictos.** Externo: la corrupción que se disfraza de procedimiento. Interno: el síndrome del impostor de Yen y su culpa **desproporcionada** (no causó la muerte de Kluar, pero se lo atribuye); el resentimiento de Zhan; el duelo de Alec.
 
@@ -49,7 +49,7 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 - **«Control de daños».** La SATT se vuelve antagonista: protocolo de prensa, guiones, retiradas de acceso. Yen entiende que el sistema no quiere la verdad, quiere **estabilidad narrativa**; calla frente a un micrófono para no ser triturada.
 - **«La redada».** Ven el **protocolo de limpieza** en acción (cajas, sellos, «resguardo»). Bastean lo usa como parte de su mensaje. Lena cruza su línea (esconde una cinta/negativo): nace la reformadora.
 - **«Interrogatorio» y «Captura».** Bastean siembra duda (a Zhan: su hermano «no era tan ajeno»; a Rish: lo llama por su nombre completo). Es capturado, pero la autodestrucción del lugar destruye las pruebas incriminatorias.
-- **«Muerte en custodia».** Oficialmente «circunstancias misteriosas»; en realidad se suicida con **tres disparos en la espalda**. La Lista no se publica; los responsables reales no aparecen.
+- **«Muerte en custodia».** La versión oficial registra «circunstancias misteriosas»; la referencia a tres disparos por la espalda vuelve sospechosa cualquier explicación simple. La mecánica real de su muerte queda oscurecida por la institución. La Lista no se publica; los responsables reales no aparecen.
 
 **Conflictos.** Externo: la guerra contra el archivo (Bastean vs. la SATT; el sistema como verdadero antagonista). Interno: Yen entre verdad y pertenencia; Rish entre arriba y su equipo; Lena entre protocolo y protección; Zhan entre lealtad institucional y lealtad a personas.
 
