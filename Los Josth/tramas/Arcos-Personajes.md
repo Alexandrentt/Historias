@@ -80,7 +80,6 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 **Congruencia:**
 - Su cariño se expresa como **logística, no como confesión**: por eso su primer acto «político» es esconder un negativo, no dar un discurso. La reforma nace del cuidado.
 - Su **muerte es política**: las ejecuciones extrajudiciales de su propia facción dan la justificación para juzgarla (eco de Núremberg). No muere por amar.
-- La relación con **Odile** corrige el tropo: el personaje queer no existe solo para amar sin ser amado; tiene una vida propia que sobrevive.
 
 **Relaciones:** Yen (amistad profunda) · Rish (ambigüedad moral; calla lo que sabe) · Zhan (aliado en la reforma).
 **Símbolos:** infraestructura · biblioteca clandestina · cadenas rotas.
