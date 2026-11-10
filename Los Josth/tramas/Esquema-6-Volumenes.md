@@ -162,8 +162,8 @@ tags: [trama, esquema, 6-volumenes, sinopsis, estructura, yen]
 |---|---|
 | **Yen** | Catatonia, suicidio pasivo, caída; sin tumba |
 | **Rish** | Asesinado por Yen en la playa; tumba sin nombre |
-| **Lena** | Lidera la rebelión; ejecutada como traidora; Odile hereda el archivo |
-| **Odile** | Sobrevive; guardiana de la biblioteca |
+| **Lena** | Lidera la rebelión; participa en el gobierno revolucionario durante unos seis años; cae con la contrarrevolución |
+
 | **Zhan** | Se une a la rebelión; ejecutado (o destino incierto) |
 | **Alec** | Deserta; se casa con Yokany; muere viejo y feliz |
 | **Yokany** | Sobrevive con Alec; red civil de la memoria |
