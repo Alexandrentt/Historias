@@ -1,86 +1,74 @@
 ---
-tags: [personaje, antagonista, arco-bastean, navar]
+tags: [personaje, antagonista, arco-bastean, navar, represion]
 ---
 
 # Bastean
 
-**Status:** Antagonista/Protagonista moral del [[Arco-Bastean]]
-**Rol:** Exagente de [[SATT]]; vengado
-**Origen:** [[Navar]]
-**Motivación:** Represión mató a su hija
-**Muerte:** Suicidio en custodia (3 disparos en espalda)
+**Nombre:** Bastean  
+**Origen:** Návar  
+**Rol:** Exagente de la SATT, represor desertor y antagonista central del volumen 2  
+**Motivación:** La muerte de su hija durante la Operación Tierra 5 (Derat, 586 DT)  
+**Estado final:** Muere bajo custodia de la SATT; las circunstancias reales quedan deliberadamente oscurecidas por la versión oficial.
 
-## Trasfondo
-- Fue agente durante [[Represion-Dictadura]] (579–588 DT)
-- **Cómplice inicialmente; luego desertor**
-- Fuerzas represivas matan a su hija
-- Años después, decide venganza sistemática
+## Identidad y contradicción moral
 
-## Estrategia de Venganza
+Bastean es víctima y verdugo a la vez. Participó en el aparato represivo antes de desertar; años después, la muerte de su hija a manos de ese mismo aparato lo lleva a organizar una venganza contra quienes participaron en la operación. Su sufrimiento explica su motivación, pero no absuelve su complicidad previa ni los asesinatos que comete.
 
-### Modus Operandi
-- Asesinatos "rituales" para comunicación pública (NO ocultismo)
-- Daga ceremonial navarí como firma + desvío
-- Diseñados para ser noticieros, generar presión mediática
+No es un justiciero limpio ni un asesino sin causa. Su estrategia contiene una intuición política válida —la institución puede triturar pruebas entregadas en privado— y una respuesta moralmente destructiva: convertir la exposición pública en una secuencia de asesinatos.
 
-### Motivación Real
-- **No oculta crímenes; los expone públicamente**
-- Fuerza a [[SATT]] a confront realidad que quiere silenciar
-- Si solo entrega pruebas, institución las tritura
-- Creando escena pública fuerza que sistema tenga que combatir
+## Historia cronológica
 
-### [[Lista-Venganza]]
-- 40 cabecillas involucrados en represión
-- Proporcional a sus crímenes
-- [[Herday]] es primero; [[Rish]] está en la lista
+### 579–588 DT — Participación en la represión
 
-## Relación con [[Yen]]
+Bastean fue agente durante el Régimen de Excepción. Fue cómplice del aparato represivo y posteriormente desertó. La represión no lo convierte retrospectivamente en inocente.
 
-### Momento Clave
-- Durante persecución/pelea, [[Yen]] aparece desarmada, con cuchillo de [[Rish]]
-- [[Bastean]] la ve
-- **"La pequeña me recuerda a mi hija"**
-- **Le perdona la vida**
-- Escena establece humanidad de [[Bastean]]
+### 586 DT — Operación Tierra 5 en Derat
 
-### Ironia
-- [[Yen]] representa la inocencia que [[Bastean]] perdió
-- Su perdón es su único acto de aceptación de límites
-- También lo convierte en vulnerable a captura
+Durante el barrido represivo en un poblado minero de Derat muere su hija. La operación también implica detenciones, desapariciones, falsificación de causas de muerte y la incautación del arma ceremonial navárea, que luego desaparece del inventario. Bastean vincula la muerte de su hija con los responsables de la operación y construye la Lista-40.
 
-## Captura
-- Batalla final en central de [[SATT]]
-- Se infiltra como guardia
-- Eventos de [[Arco-Bastean]] lo llevan a captura
-- Lugar explota dañando evidencia de complicidad institucional
+### 589 DT — La lista aparece
 
-## Muerte
-- Custodia de [[SATT]]
-- **Versión oficial:** Murió en "circunstancias misteriosas"
-- **Realidad:** Se suicida (3 disparos en espalda)
-- **Interpretación:** Aceptación de derrota; último acto de agencia
+El lector recibe indicios de que existe una lista y de que Rish está relacionado con ella. La identidad y el propósito de Bastean se revelan gradualmente; sus asesinatos no son ocultismo, sino mensajes públicos.
 
-## Epígrafes y Verdad Oficial
-- Documentos finales presentan a [[Bastean]] como "asesino random"
-- Móviles políticos se borran
-- Complicidad institucional se invisibiliza
-- [[Yen]] es obligada a escribir reporte falsificado
+### 590–591 DT — Arco Bastean
 
-## Reflejo de [[Rish]]
-Ambos participaron en represión:
-- **[[Bastean]]**: Venganza → muerte pública
-- **[[Rish]]**: Redención → morte privada
-- **Impacto:** Ambas estrategias fallan; sistema absorbe/invisibiliza
+Bastean persigue a los implicados en la Operación Tierra 5. Utiliza una daga ceremonial navárea como firma y como instrumento para desviar la interpretación mediática hacia un supuesto crimen ritual de origen externo. La estética de los asesinatos es deliberada: busca que el sistema tenga que responder públicamente.
 
-## Símbolos Personales
-- 🔪 **Daga ceremonial navarí** — Firma cultural; conexión con [[Yen]]
-- 👧 **Hija muerta** — Motivación que no se resuelve
-- 📋 **[[Lista-40]]** — Justicia paralela
-- 🌊 **Confusión moral** — ¿Es héroe o villano?
+Durante el enfrentamiento con Yen, la ve desarmada y le perdona la vida porque le recuerda a su hija. Ese gesto lo humaniza, pero no lo redime. También lo vuelve vulnerable a la captura.
 
-## Notas Narrativas
-- Bastean es tan víctima del sistema como represor
-- Su estrategia de "exposición forzada" es más honesta que "ocultación burocrática" pero igual inefectiva
-- Su perdón a [[Yen]] humaniza sin redimir
-- Su muerte en custodia replica la represión que combatía
-- Su final es trágico porque es "correcto" pero impotente
+Bastean se infiltra como guardia en la Central de la SATT y termina capturado. La destrucción del lugar y de la evidencia permite que la institución oculte la conexión entre los asesinatos y la represión.
+
+### Muerte bajo custodia
+
+La versión oficial registra su muerte como ocurrida en «circunstancias misteriosas». La documentación alude a tres disparos por la espalda, una descripción que vuelve sospechosa cualquier explicación simple de suicidio. No presentar el suicidio como un hecho comprobado: la muerte ocurre bajo custodia y el mecanismo real queda cubierto por la opacidad institucional.
+
+## La Lista-40
+
+La lista contiene cuarenta responsables del barrido represivo de 586 DT. Está ordenada por grado de responsabilidad creciente, no por el orden en que Bastean ejecuta los asesinatos. Bastean mata a quienes puede alcanzar y deja deliberadamente vivos a los arquitectos de mayor rango para obligarlos a contemplar las consecuencias.
+
+[[Herday]] aparece como el n.º 37; [[Rish]] es el n.º 38. Rish fue informante joven durante el barrido y luego ocupó una posición de mayor responsabilidad. Bastean es capturado antes de llegar a él. [[Kluar]], hermano de [[Zhan]], aparece como n.º 12 y muere en 589 DT, antes del capítulo 1, con la causa oficial de accidente laboral.
+
+La lista completa y sus estados se conservan en [[../tramas/Lista-40]].
+
+## Relaciones y espejos
+
+### [[Yen]]
+
+Bastean reconoce en ella algo que le recuerda a su hija y decide no matarla. Yen no comprende por completo el sentido de ese perdón. La escena debe mostrar humanidad sin convertirlo en un personaje absuelto.
+
+### [[Rish]]
+
+Ambos participaron en la represión. Bastean busca venganza pública y exposición; Rish intenta una redención silenciosa mientras continúa ocultando su pasado. Sus estrategias fracasan de maneras distintas.
+
+### [[Herday]]
+
+Herday es la primera víctima de Bastean dentro del arco narrativo. La versión oficial atribuye su muerte a envenenamiento, mientras que la verdad apunta a un asesinato con la daga ceremonial.
+
+## Método, símbolos y función narrativa
+
+**La daga ceremonial:** firma cultural y herramienta de comunicación pública; no es un objeto ocultista.  
+**La hija:** pérdida que explica su motivación, sin absolverlo.  
+**La Lista-40:** justicia paralela y archivo de responsabilidades que la institución quiere borrar.  
+**La exposición pública:** su intento de impedir que la SATT convierta los crímenes en expedientes invisibles.
+
+Bastean no debe ser llamado simplemente héroe o villano. Su historia pregunta qué ocurre cuando alguien que participó en la violencia intenta combatir la impunidad reproduciendo violencia.
