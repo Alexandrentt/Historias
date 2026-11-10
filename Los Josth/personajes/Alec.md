@@ -1,68 +1,76 @@
 ---
-tags: [personaje, equipo-b4, amitia]
+tags: [personaje, equipo-b4, amitia, tecnologia, archivo]
 ---
 
 # Alec
 
-**Edad:** 26–30 años (589 DT)
-**Rol:** Técnico + documentador de evidencia del equipo B4
-**Equipo:** [[Equipo B4]]
-**Arco:** Fe en evidencia → comprensión de que evidencia necesita protección política
-**Final:** Deserta; vive en tierra natal; se casa; tiene hijos; muere de viejo, feliz y en paz
+**Nombre registral:** Klish Amaram Sears Koj Dhu Al Ecam  
+**Nombre de uso:** Alec  
+**Edad:** 26–30 años al inicio (589 DT)  
+**Origen:** Amitia  
+**Rol:** Técnico y documentador de evidencia del equipo B4  
+**Estado final:** Deserta de la SATT; vuelve a su tierra natal, forma una familia con Yokany y muere viejo, feliz y en paz.
 
-## Interés por la tecnología
+## Identidad y carácter
 
-Alec es un **entusiasta genuino de la tecnología**. No sabe de máquinas, equipos y computadoras únicamente porque sea su responsabilidad dentro de B4: le encanta averiguar cómo funcionan las cosas por dentro, entender sus mecanismos y sistemas, y descubrir por qué algo funciona —o deja de funcionar— de determinada manera.
+Alec es un entusiasta genuino de la tecnología. No sabe de máquinas, equipos y computadoras únicamente porque sea su responsabilidad dentro de B4: le encanta averiguar cómo funcionan las cosas por dentro, entender sus mecanismos y descubrir por qué algo funciona —o deja de funcionar— de determinada manera. Su curiosidad no es una fachada profesional ni lo convierte en un hacker omnisciente. La tecnología de su época todavía exige conocimiento práctico, observación y experimentación.
 
-Su trabajo técnico y su curiosidad personal se alimentan mutuamente, pero no son lo mismo. Incluso fuera de sus obligaciones puede interesarse por un aparato o sistema solo por el placer de comprenderlo. Esta afición encaja con la tecnología de su época: computadoras todavía modestas y equipos que requieren conocimiento práctico, observación y experimentación; no lo convierte en un hacker de tecnología futurista.
+Su manera de participar en el equipo suele ser discreta. No necesita pronunciar discursos para cambiar el curso de una situación: documenta, duplica, conserva, mueve una caja o avisa a una fuente. Su entusiasmo también puede expresarse en conversaciones cotidianas y en su interés por enseñar a otros cómo funciona un aparato.
 
-## Relación con [[Herday]]
-- Lo ve como figura de liderazgo y autoridad
-- Casi paternal
-- Muerte de [[Herday]] lo afecta especialmente
-- Duelo que lo acompaña durante multiple volúmenes
+## Historia y evolución cronológica
 
-## Arco Emocional
-**Fe en verdad → Desencanto → Aceptación de límites → Paz**
+### Antes de 589 DT — Formación y vínculo con Herday
 
-- **Vol. 1–2**: Profundamente afectado por muerte de [[Herday]]
-- **Vol. 2 (Bastean)**: Ve que evidencia se destruye misteriosamente
-- **Vol. 3–4**: Realiza actos pequeños pero decisivos
-  - Guardar copias de documentos
-  - Mover evidencia a lugares seguro
-  - Avisar a fuentes sobre peligro
-- **Vol. 5–6**: Se da cuenta de que [[SATT]] no cambiará
-  - No participa en [[Rebelion]] de [[Lena]]
-  - Deserta tranquilamente
-  - Se reinstala en tierra natal
+Su relación con Herday es cercana y casi paternal. Lo considera una figura de autoridad y liderazgo; la muerte de Herday lo afecta especialmente y se convierte en un duelo que arrastra durante varios volúmenes.
 
-## Acciones Clave (SIN discursos)
-- Documentación sistemática
-- Creación de "redundancia" de pruebas
-- Red silenciosa de protección de fuentes
-- Estas acciones mudas conectan casos episódicos con mitología sin que se note
+### 589 DT — Incorporación de Yen y muerte de Herday
 
-## Final Diferente
-- **Único del equipo con final + o neutro**
-- Se casa
-- Tiene muchos hijos
-- Vive en paz hasta muerte natural
-- **Contraste:** Mientras otros luchan/caen, [[Alec]] simplemente se retira
-- Representa la opción "desertor pero feliz" en contraposición a militancia destructiva
+Alec ya forma parte del equipo B4 cuando Yen llega. Su relación inicial con ella es cordial, aunque más distante que la amistad que Yen desarrolla con Lena. Tras la muerte de Herday, ambos comparten el duelo desde posiciones distintas.
 
-## Símbolos Personales
-- 📋 **Documentación** — Su manera de honrar a [[Herday]]
-- 🏡 **Tierra natal** — Refugio verdadero
-- 👨‍👩‍👧‍👦 **Familia** — Lo que logra cuando se retira
+### 590–591 DT — El caso Bastean
 
-## Rol Narrativo
-- Contraste con [[Lena]] (reforma radical que falla)
-- Contraste con [[Yen]] (suicidio pasivo)
-- Contraste con [[Rish]] (redención imposible)
-- Representa que "retirarse gracefully" es opción válida
-- Sus actos silenciosos importan sin necesidad de revolución
+Ve cómo la evidencia puede destruirse o desaparecer incluso cuando el equipo logra recuperarla. Comprende que conservar una prueba dentro de una cadena institucional no garantiza que sobreviva. Esta experiencia no lo convierte de inmediato en un activista: lo vuelve más cuidadoso con el destino material de la información.
 
-## Notas Narrativas
-- No es cobardía desertar; es sabiduría
-- Su paz final subraya que [[Lena]]'s rebelión y [[Yen]]'s muerte eran opciones, no inevitabilidades
-- Único que entiende que cambiar [[SATT]] desde dentro/fuera es imposible, así que simplemente se va
+### 592–596 DT — Biblioteca y red civil
+
+Participa en la conservación de copias fuera de los circuitos oficiales. Sus acciones incluyen documentación sistemática, redundancia de pruebas, traslado de documentos a lugares seguros y aviso a fuentes en peligro. Su vínculo con Yokany se desarrolla en paralelo a la red civil; ella tiene objetivos y agencia propios, no es un apéndice de su arco.
+
+### 597 DT — La isla
+
+Registra y duplica evidencia durante la operación. Aprende que, en un lugar construido para borrar personas y rastros, una prueba solo tiene posibilidades de sobrevivir si existe fuera del circuito que la controla. La prótesis de Yen será adaptada con ayuda de Alec y de un técnico teknariano.
+
+### 598–599 DT — Retirada
+
+Alec comprende que la SATT no va a cambiar de la manera que él esperaba. No se suma a la Rebelión de Lena. Deserta con calma y vuelve a su tierra natal. Su decisión no se presenta como cobardía ni como una solución universal: es la respuesta que él puede sostener.
+
+### Después de 599 DT — Vida fuera de la institución
+
+Se casa con Yokany, tiene muchos hijos y vive hasta una edad avanzada. Es el final más pacífico del equipo B4. Nunca pierde un brazo ni es asesinado por Bastean.
+
+## Relaciones
+
+### [[Herday]] — Figura casi paternal
+
+Herday representa una autoridad respetada y un vínculo de confianza. La documentación se convierte para Alec en una forma de honrarlo.
+
+### [[Yen]] — Compañera
+
+La relación es cordial y relativamente distante. El duelo compartido por Herday y las experiencias de trabajo crean una solidaridad sin necesidad de convertirlos en confidentes íntimos.
+
+### [[Yokany]] — Compañera y socia civil
+
+Yokany es sorda y utiliza la lengua de señas como comunicación, intimidad y herramienta de supervivencia. Tiene una campaña propia por la seguridad laboral y participa en la búsqueda de personas desaparecidas no mediáticas. Su relación con Alec es un pacto entre personas con proyectos y límites propios, no un melodrama de celos ni una dependencia unilateral.
+
+## Función temática
+
+Alec contrapone la conservación de evidencia a la confianza ingenua en que una institución la protegerá. También contrasta con Lena, que permanece y trata de transformar el poder; con Yen, cuyo deterioro se vuelve inseparable de la institución; y con Rish, cuya redención privada fracasa.
+
+Su final demuestra que la rebelión y el sacrificio no son las únicas respuestas posibles. Retirarse no repara el sistema, pero permite que algunas personas construyan una vida fuera de él.
+
+## Símbolos y notas de escritura
+
+**Documentación:** su manera de honrar a Herday y de impedir que la verdad desaparezca.  
+**Tecnología:** curiosidad por comprender mecanismos, no solo por utilizarlos.  
+**Tierra natal y familia:** la vida que consigue al retirarse.
+
+No reducirlo a «el técnico». Debe conservar humor, curiosidad, relaciones y una vida privada que no gire enteramente alrededor de la SATT.
