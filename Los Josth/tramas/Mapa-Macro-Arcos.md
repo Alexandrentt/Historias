@@ -18,7 +18,7 @@ tags: [trama, macro, arcos, estructura, 6-volumenes, yen, satt]
 |---|---|---|---|---|
 | 1 | Aprende que investigar puede enterrar. No supera el síndrome del impostor: aprende a ocultarlo. | La deducción pública que expone a las familias deratitas | Voz interna que duda | El "desastre" del discurso ante Herday |
 | 2 | Culpa por Bastean y por la copia de la prueba. Primera decisión adulta. | Copia la prueba fuera de cadena | La lista; la cicatriz del hombro | El sistema borra el caso |
-| 3 | Pertenencia y pareja. Su momento más feliz. | Calla ante Lena sobre el beso y sobre Rish | Microfisuras: sueño, voces, la playa | La playa como refugio comprado |
+| 3 | Pertenencia y pareja con Rish. Su momento más feliz. | Comienza su relación con Rish en 593 DT; la amistad con Lena sigue siendo platónica. El silencio concreto sobre Rish queda pendiente de escena. | Microfisuras: sueño, voces, la playa | La playa como refugio comprado |
 | 4 | La hija que huyó. Confronta la fe, el padre muerto, la familia. Pierde la fe en el Dehismo. | Toma partido por su comunidad frente a su familia | El hogar como herida | Vuelve "cambiada", no curada |
 | 5 | La isla. Amputación, alucinación, Rish. | Se separa para salvar a alguien y la capturan | La cicatriz del hombro | El brazo; la muerte de Rish |
 | 6 | Catatonia, falsa mejoría, primer intento, caída. | Decide no despedirse | El cabello que crece; las cartas a Tali | La caída y el arrepentimiento |
@@ -31,7 +31,7 @@ Ternura convertida en infraestructura.
 |---|---|---|---|
 | 2 | Primera línea técnica cruzada (esconde la cinta) | "Los medios por los fines" | Nace la reformadora |
 | 3 | Construye la biblioteca clandestina | El archivo como acto de amor | Célula, sin querer |
-| 4 | Pasa de "reformar desde dentro" a "obligar al sistema" | La desconfianza hacia Rish deja de ser celos y se vuelve lectura política | Radicalización ética |
+| 4 | Pasa de "reformar desde dentro" a "obligar al sistema" | La desconfianza hacia Rish se afirma como lectura política de la institución, no como rivalidad romántica | Radicalización ética |
 | 5 | Elige qué sacrifica para sacar a Yen | — | La isla la deja sola |
 | 6 | Cuida y luego se va a liderar la rebelión | Su amor convertido en ética | Cae con el gobierno tras seis años de revolución |
 
@@ -48,7 +48,7 @@ Resentimiento → lealtad → brújula propia.
 | 3 | Gana peso humano; puente con los trabajadores | — | Familia elegida |
 | 4 | Ve a la gente por la que murió Kluar | Rabia convertida en principio | Coherente para la reforma |
 | 5 | Su oportunidad de venganza y la decisión que lo marca | — | Se une a Lena sin discursos |
-| 6 | Se une a la rebelión | — | Ejecutado (o destino incierto) |
+| 6 | Se une a la rebelión | — | Destino posterior a la derrota pendiente de fijar |
 
 ## Alec y Yokany
 
@@ -114,7 +114,7 @@ Detalle completo en `tramas/Arco-Depresion-y-Final.md` § "Ciclos del Vol. 6 y e
 | El ingeniero | V1 | Yen/Zhan | Cómo se fabrica la verdad pública |
 | Cámaras en mantenimiento | V1 | Yen | Primera pista del patrón de encubrimiento |
 | El caso que nadie cubre | V1 | Lena/Yen | Contrapunto del ingeniero |
-| Las Horas Muertas (Karel) | V3 | Lena | Experimento corporativo |
+| Las Horas Muertas (experimento corporativo; Tierra por definir) | V3 | Lena | Experimento corporativo |
 | Código 3600 | V3 | Yen | Perfiles clonados; eco de su precariedad |
 | Protocolo de extinción | V4 | Zhan | Chivo expiatorio; silencio de Rish |
 | La peor excusa | V4 | Yen | Víctima inmigrante como su padre |
