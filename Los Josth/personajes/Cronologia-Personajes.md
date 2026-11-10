@@ -32,7 +32,7 @@ Bastean persigue a los responsables de la represión y convierte sus asesinatos 
 
 El caso cambia a todos de manera distinta. Yen descubre que la verdad puede ser enterrada; Lena cruza límites para proteger pruebas; Zhan comienza a revisar su lealtad; Rish intenta proteger al equipo y queda apartado de la cadena de mando; Alec aprende que la evidencia necesita copias y protección.
 
-**Nota de continuidad:** la ficha de Herday sitúa su muerte en el arco Bastean, mientras otros documentos ubican el inicio del arco o el asesinato en años ligeramente distintos. Esta página conserva el intervalo 589–591 DT y no fija un año más preciso.
+Herday muere en 589 DT, al cierre del volumen 1. El arco Bastean se desarrolla en 590–591 DT; la investigación posterior revela la conexión entre su asesinato y la represión.
 
 Véanse [[Herday]], [[Bastean]], [[Yen]], [[Lena]], [[Zhan]], [[Rish]] y [[Alec]].
 
@@ -46,7 +46,7 @@ Véanse [[Yen]], [[Rish]], [[Lena]], [[Alec]] y [[Zhan]]. Yokany todavía no tie
 
 ## 595–596 DT — Regreso a Návar
 
-Yen regresa a Navar y se enfrenta a su familia, sus raíces y la fractura de su fe. Vuelve a Amitia cambiada, pero no curada. La red clandestina y la desconfianza de Lena hacia la institución continúan desarrollándose mientras el secreto de Rish permanece sin resolverse.
+Yen regresa a Návar y se enfrenta a su familia, sus raíces y la fractura de su fe. Vuelve a Amitia cambiada, pero no curada. La red clandestina y la desconfianza de Lena hacia la institución continúan desarrollándose mientras el secreto de Rish permanece sin resolverse.
 
 Véanse [[Yen]], [[Lena]], [[Rish]] y [[Zhan]].
 
