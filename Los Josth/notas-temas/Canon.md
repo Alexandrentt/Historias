@@ -4,196 +4,193 @@ tags: [tema, canon, continuidad, worldbuilding, yen, satt]
 
 # Canon fijado — La Transtierra / Yen
 
-**Documento:** Fuente única de verdad para continuidad
-**Estado:** Borrador de trabajo — cada decisión está marcada como **[FIJADO]** o **[A DECIDIR]**
-**Prioridad:** Este documento anula cualquier contradicción en `Biblia-de-la-serie-Yen.md`, las fichas de personaje o los arcos.
+**Documento:** fuente única de verdad para la continuidad narrativa y del mundo.  
+**Estado:** canon de trabajo consolidado. Las decisiones abiertas se marcan expresamente como **[PENDIENTE]**.  
+**Jerarquía:** este documento prevalece sobre biblias antiguas, fichas, arcos, resúmenes y capítulos.
 
-> Regla de mantenimiento: cuando un documento contradiga esta tabla, **manda esta tabla** y se corrige el otro documento. Toda decisión nueva se anota aquí el mismo día.
-
----
-
-## 1. Nombres canónicos
-
-| Personaje | Forma fijada | Variantes a eliminar | Nota |
-|---|---|---|---|
-| Yenriel Illatyl Maren Argo | **Yenriel Illatyl** | Earendil, Illatil | "Íatyl" se **conserva** como la forma en que los amitianos deforman el apellido (no es error); "Yen" nace de Lena. |
-| Apodo | **Yen** | Yenriel (en boca de Lena) | Ver §11: quién la llama Yen y cuándo. |
-| Helena SinClear | **Lena** | — | Nombre completo **Helena SinClear**. |
-| Risham Serway Zhan | **Rish** | Zhan/Klish como nombre de Rish | El falso amigo "Zhan" se elimina; **Zhan** es el soldado del equipo. |
-| Klish Amaram Sears Koj Dhu Al Ecam | **Alec** | Ash | "Alec" es el apodo; el nombre largo es el registral. |
-| Bastean | **Bastean** | Bastian | Mantener "Bastean". |
-| La institución | **SATT** | SAT | Superintendencia Administrativa de la Transtierra. |
-| Transtierra / Tierra | **Transtierra** (el conjunto) | — | Nunca "Transtierra" como una Tierra concreta. |
-| Religión navárea | **Dehismo** | Dhë/Dehismo como dos cosas | **Dehismo** = religión; **Dhë** = deidad/espectro; **Seol** = alma; **Saol** = lugar de descanso. |
-| Demónimo | **naváreo / navárea** | navarí, navareo | "Daga navarí" → **daga navárea**. Si se conserva "navarí", queda reservado solo al culto. **[A DECIDIR]** |
-| Tierra natal | **Návar** | Navar | Nombre nativo. Ver §4. |
-
-**Sobre "Yen":** [FIJADO] Lo puso **Lena**, no Yen. Corregir `capitulos/La novata/01.md`, donde Yen pide ser llamada Yen. Yen lo acepta porque es la primera vez que alguien la nombra como persona y no como apellido de archivo.
+> **Regla de mantenimiento:** cuando otro documento contradiga esta página, se corrige el otro documento. Una propuesta no se convierte en canon por aparecer repetida en varios archivos. Las decisiones nuevas se incorporan aquí y luego se propagan.
 
 ---
 
-## 2. Cronología y años
+## 1. Nombres y términos canónicos
 
-**[FIJADO]** Régimen de Excepción: **579–588 DT** (no 580–585). Termina decretado, no transitado.
-
-| Año | Edad de Yen | Evento | Volumen |
-|---|---|---|---|
-| 579 | 15 | Inicio del Régimen de Excepción. **Rish tiene 20** y es agente joven; entra como cómplice del aparato. **[FIJADO]** Se borra el comentario "Rish no participó porque las fechas no cuadran". | — |
-| 586 | 22 | Operación **Tierra 5** (Derat): barrido represivo en el poblado minero. Muere la hija de Bastean. Se incauta y "pierde" el arma ceremonial. Ver `tramas/Lista-40.md`. | — |
-| 588 | 24 | Fin del Régimen de Excepción. El gobierno civil democrático de Amitia recupera el control; los dirigentes golpistas son juzgados, pero muchos mandos conservan cargos y la SATT sigue como fuerza armada bajo vigilancia estatal. | — |
-| 589 | 25 | **Vol. 1 — La Novata.** Yen (25) entra a la SATT. Prime caso Vath. Muerte de Herday (fin de "diez años"). | 1 |
-| 590–591 | 26–27 | **Vol. 2 — Bastean.** Asesinatos rituales, captura y muerte en custodia. Rish degradado. | 2 |
-| 592–594 | 28–30 | **Vol. 3 — Contrabando + Romance.** Biblioteca clandestina. Playa (593). | 3 |
-| 595–596 | 31–32 | **Vol. 4 — Regreso a Návar.** Muerte del padre. Ruptura de la fe. | 4 |
-| 597 | 33 | **Vol. 5 — La Isla.** Amputación, estrangulamiento de Rish, catatonia. | 5 |
-| 598 | 34 | **Vol. 6.** Catatonia, falso mejora, primer intento, renuncia/expulsión. | 6 |
-| 599 | 35 | Caída desde la Central. **Exactamente diez años** desde 589. Poco después, la Rebelión de Lena derriba el antiguo orden de la SATT. | 6 |
-| 605 | — | La contrarrevolución termina imponiéndose tras aproximadamente seis años de gobierno revolucionario (599–605 DT). Los principales dirigentes reformistas son juzgados en procesos inspirados en Núremberg y ejecutados; Lena está entre ellos. Comienzan los Siglos Perdidos. | — |
-
-> **[FIJADO]** "Diez años" = 589 → 599. Se elimina cualquier mención de una muerte en 600.
-
-**Prólogo vs. isla.** [FIJADO] El prólogo es **el mismo día** de la caída (no "un mes/tres meses atrás"): Yen sube a la azotea y el Espectro le muestra los diez años. Las expresiones "un mes atrás / tres meses atrás / meses atrás" se borran o se convierten en referencias relativas dentro del relato (p. ej. "el invierno en que…"). El tramo isla → caída es de **año y medio**, no tres meses. **[A DECIDIR]**: si la primera carta a Tali dice "hace tres meses", se cambia a "hace un año y medio".
-
----
-
-## 3. Calendario y cosmología
-
-**[FIJADO]** La serie ocurre en **589–599 DT** ("Después de la Transtierra"), que es un cómputo **local**. El cierre del portal que sitúa la Cosmología (990–999) es posterior: **Yen vive unos cuatrocientos años antes del cierre.** No es error; es escala.
-
-- **[FIJADO]** El calendario oficial amitiano tiene 500 días por año, 10 meses de 50 días, 10 semanas de 5 días por mes y 4 estaciones de 125 días. Los cinco días de la semana son Zira, Kato, Leif, Pazu y Miku. El orden cíclico se ancla en Kato para preservar la fecha histórica 06 Qyloz 2015, día Kato. Ver `notas-temas/Calendario.md`. Año 2015 = aparición del Portal; DT es el cómputo local usado para la cronología de Yen.
-- **[FIJADO]** El **Espectro/Dhë habla con cada alma una vez**, al morir. Esto explica el marco narrativo (ver `notas-temas/Regla-de-Narracion.md`).
-
----
-
-## 4. Las Tierras (numeración burocrática + nombre nativo)
-
-**[FIJADO]** "Tierra N" es **nomenclatura administrativa de la SATT**. Cada Tierra tiene nombre nativo. "Siete mundos" = el **núcleo** (Tierras 1–7). Las numeradas 8–13 son **anexos** administrados, no integrados.
-
-### Cómo funciona el Portal (mecánica) y por qué el orden es único
-
-**[FIJADO]** El Portal es un muro que circunda cada planeta por el ecuador. Conecta las Tierras en **secuencia ordenada y fija**:
-
-- Cruzar de **hemisferio norte a sur** dentro de una Tierra lleva a la **siguiente** Tierra de la secuencia.
-- **Secuencia única:** 1 → 2 → 3 → 4 → 5 → 6 → 7. Al llegar a la 7 se alcanzan los hemisferios que se omitieron en el primer viaje.
-- Cada Tierra está en un **universo distinto**; su atmósfera solo es respirable por nativos, por eso la **vox** es obligatoria.
-- El orden **no es natural, es político**: Ancit Blind (amitiano) fijó Amitia = Tierra 1; es el nacimiento del *amitocentrismo*.
-
-### Orden único de las Tierras (resuelto)
-
-| N.º | Nombre nativo | Nota |
+| Elemento | Forma canónica | Nota |
 |---|---|---|
-| 1 | Amitia | Capital, Sede SATT, Ciudad Thary |
-| 2 | Teknara | Biopunk, túneles, gremios |
-| 3 | Atharis | Domos Vitales, solar |
-| 4 | Khorza | Bosque húmedo, josthe |
-| 5 | **Derat** | Minería, ocupación; **Operación Tierra 5** |
-| 6 | Návar | Archipiélago, Dehismo; origen de Yen |
-| 7 | Terra | Zona Reservada |
-| 8 | Karel | Anexo (ver colisión de nombres) |
-| 13 | Lenthir | Anexo mayor, poco cartografiado |
-
-**Por qué Derat = Tierra 5.** La **Operación Tierra 5** (Régimen, poblado minero, familias deratitas, la hija de Bastean) ocurre en Derat, que está "bajo ocupación de El Régimen". Se **descarta** la versión que hacía Tierra 5 = Khorza, incompatible con la minería y con la ocupación. `tierras/mundo.md` y `Transtierra.md` quedan alineados a esta tabla.
-
-> **Colisión de nombres "Tierra 8".** En la **cosmología** es el mundo perfecto prometido (sin muerte). En la **administración** de la SATT es el anexo **Karel**. La SATT explota la coincidencia para vender la anexión como paraíso. 
-
----
-
-## 5. Reglas de la vox
-
-**[FIJADO]** La **vox** es el dispositivo obligatorio de tránsito y comunicación entre Tierras.
-
-| Regla | Definición |
-|---|---|
-| **Quién** | Obligatoria para todo ciudadano no nativo en espacio público y para todo agente en servicio. Se acopla a la mandíbula. |
-| **Qué hace** | (a) **Filtra/adapta la atmósfera** de cada Tierra; (b) **traduce** la lengua franca amitiana. |
-| **Retraso** | ~1,5 s de retraso de traducción. En escenas de tensión, ese retraso es un recurso dramático (contestás a la frase anterior). |
-| **Sin vox** | Solo en **espacio privado o en bolsas atmosféricas** donde la atmósfera es compatible. |
-| **El cubículo** | **Yen solo se la quita en su cubículo vital.** Es su único gesto de intimidad. |
-| **La playa** | **[FIJADO]** La playa es una **bolsa atmosférica sin cobertura**: naváreos y amitianos pueden respirar y hablar sin vox. Es el único sitio "sin paredes". Esto es lo que la vuelve refugio. |
-| **El beso** | **[FIJADO]** Un beso con vox puesta es imposible: el acople bloquea la mandíbula y devuelve un chasquido. Por eso el beso Lena–Yen solo puede ocurrir **en casa de Lena o en el cubículo**. La playa lo permite porque no hay vox. |
+| Protagonista | **Yenriel Illatyl** | Forma registral abreviada. «Yen» es el apodo que le propone Lena. |
+| Apodo | **Yen** | Lo propone Lena en el volumen 1; Yen lo acepta. |
+| Deformación amitiana | **Íatyl** | Deformación del apellido, no error cuando aparece en ese contexto. |
+| Lena | **Helena SinClear** | «Lena» es la forma habitual. |
+| Rish | **Risham Serway Zhan** | «Rish» es la forma de uso. No confundir su segundo nombre con Zhan, el soldado de B4. |
+| Alec | **Klish Amaram Sears Koj Dhu Al Ecam** | «Alec» es su nombre de uso. «Ash» queda descartado. |
+| Bastean | **Bastean** | No «Bastian». |
+| Institución | **SATT** | Superintendencia Administrativa de la Transtierra. No abreviar como SAT en la documentación narrativa. |
+| Religión navárea | **Dehismo** | **Dhë** es la deidad/espectro; **Seol**, el alma; **Saol**, el lugar de descanso. |
+| Demónimo | **naváreo / navárea** | La forma vigente es «daga navárea», no «daga navarí». |
+| Tierra natal de Yen | **Návar** | Nombre nativo. |
+| Conjunto de mundos | **Transtierra** | Designa el conjunto, no una Tierra individual. |
 
 ---
 
-## 6. Voseo
+## 2. Cronología maestra
 
-**[FIJADO]** El voseo (`sos / pará / conectá / creés / olvidálo`) es el **dialecto naváreo materno de Yen**, que aflora sobre todo **bajo estrés** y en su voz interna en cursiva.
+El Régimen de Excepción se extiende de **579 a 588 DT**. No debe sustituirse por el intervalo 580–585.
 
-- En Návar, su voz interna habla **solo en voseo**.
-- En Amitia intenta neutralizarlo; se le escapa como descuido → **[FIJADO] es caracterización, no error de estilo.**
-- **Regla de estilo:** el voseo aparece en la voz interna y en los descuidos; su habla "neutral" es siempre esfuerzo.
+| Año | Edad de Yen | Acontecimiento fijado |
+|---|---:|---|
+| 579 | 15 | Comienza el Régimen de Excepción. Rish tiene 20 años y participa como agente joven y cómplice; no pertenece a la cúpula golpista. |
+| 586 | 22 | Operación Tierra 5 en Derat. Muere la hija de Bastean; el arma ceremonial es incautada y desaparece del inventario. |
+| 588 | 24 | Termina el Régimen. El gobierno civil democrático de Amitia recupera la autoridad formal; los principales dirigentes golpistas son juzgados, pero la SATT no se disuelve y numerosos mandos conservan cargos bajo vigilancia estatal. |
+| 589 | 25 | Volumen 1. Yen entra a la SATT; muere Herday. Kluar ya había muerto antes del capítulo 1. |
+| 590–591 | 26–27 | Volumen 2. Caso Bastean, captura y muerte de Bastean bajo custodia. Rish pierde su puesto de director y queda como agente de campo. |
+| 592–594 | 28–30 | Volumen 3. Se desarrolla la biblioteca clandestina. Yen y Rish comienzan su relación en 593. |
+| 595–596 | 31–32 | Volumen 4. Regreso a Návar; muere el padre de Yen y se fractura su fe dehista. |
+| 597 | 33 | Volumen 5. Isla: amputación del brazo izquierdo de Yen, muerte de Rish a manos de Yen y catatonia. |
+| 598 | 34 | Volumen 6. Recuperación parcial, falsa mejoría, primer intento de suicidio y posterior deterioro. |
+| 599 | 35 | Yen cae desde la Central. Poco después, la Rebelión derriba el antiguo orden de la SATT. |
+| 599–605 | — | Gobierno revolucionario durante aproximadamente seis años. La contrarrevolución se impone en 605 DT. |
+| 605 | — | Lena y otros dirigentes reformistas son juzgados en procesos inspirados en Núremberg y ejecutados. Comienzan los Siglos Perdidos. |
+
+**Diez años de Yen:** el arco principal abarca de 589 a 599 DT. No hay una muerte de Yen en 600.
+
+**Isla y caída:** entre la isla de 597 y la caída de 599 transcurre aproximadamente año y medio. No reducir ese tramo a tres meses. El prólogo y el final corresponden al mismo día de 599 DT.
+
+**Relación Yen–Rish:** comienza en 593 y termina con la muerte de Rish en 597. No describirla como «cinco años exactos»; los días y meses no están fijados.
+
+**Edad de Lena:** tiene 29 años en 589 DT. Su edad aproximada en 605 sería 45 años; no asignar día de cumpleaños sin fuente.
 
 ---
 
-## 7. Jerarquía y rangos
+## 3. Calendario y marco cosmológico
 
-**[FIJADO]** Cadena en Vol. 1: **Herday → Rish → equipo B4.**
+La cronología de Yen utiliza el cómputo local DT. El calendario oficial amitiano tiene 500 días por año, diez meses de 50 días, diez semanas de cinco días por mes y cuatro estaciones de 125 días. Los días de la semana son Zira, Kato, Leif, Pazu y Miku. El orden cíclico se ancla en Kato para preservar la fecha histórica 06 Qyloz 2015, día Kato. Ver [[Calendario]].
 
-| Personaje | Rango en Vol. 1 | Rango después |
+El cierre del Portal situado en la cronología cosmológica (990–999) es posterior a la vida de Yen; ella vive unos cuatrocientos años antes de ese cierre. No es un error de escala.
+
+El Espectro/Dhë habla con cada alma una sola vez, al morir. La visión de Yen es una **visión-memoria**, no un viaje temporal ni un bucle. La conversación funciona como marco narrativo; no es una absolución ni una redención.
+
+---
+
+## 4. Las siete Tierras y el Portal
+
+La Transtierra consta de **exactamente siete Tierras**. No existen Tierras 8–13 ni anexos administrativos en el canon actual. Toda mención a Karel, Lenthir o mundos adicionales es material descartado u obsoleto y debe eliminarse de los documentos activos.
+
+| N.º administrativo | Nombre nativo | Rasgo general |
 |---|---|---|
-| Herday | Jefe del equipo / supervisor directo | — (muere 589) |
-| Rish | **Segundo al mando, con autoridad operativa sobre el equipo** (puede asignar y reasignar). No es aún director. | Asciende a director nominal en 589 al morir Herday; degradado a agente de campo en 591. |
-| Yen | Archivista en prácticas asignada al equipo | Agente de campo en 591, mismo nivel que Rish. |
-| Zhan / Alec / Lena | Miembros del equipo | Igual. |
+| 1 | Amitia | Sede de la SATT y Ciudad Thary |
+| 2 | Teknara | Biopunk, túneles y gremios |
+| 3 | Atharis | Domos vitales y energía solar |
+| 4 | Khorza | Bosque húmedo y josthe |
+| 5 | Derat | Minería y ocupación; escenario de la Operación Tierra 5 |
+| 6 | Návar | Archipiélago y origen de Yen; tradición dehista |
+| 7 | Terra | Zona reservada |
 
-- **[FIJADO]** "Director" solo se usa para Rish **entre 589 y 591**. Antes y después, "supervisor" o "agente de campo".
-- La degradación de Rish tras el Vol. 2 es **política**, no romántica: "sabe demasiado / no fue útil para la versión oficial".
+El Portal es un muro que circunda cada planeta por el ecuador y conecta las Tierras en una secuencia fija. Cruzar del hemisferio norte al sur lleva a la siguiente Tierra; al llegar a la séptima se alcanzan los hemisferios omitidos durante el primer recorrido. Cada Tierra pertenece a un universo distinto y su atmósfera solo es respirable por sus nativos, por lo que la Vox es necesaria para los no nativos.
 
----
+El orden no es natural sino político: Ancit Blind, amitiano, fijó Amitia como Tierra 1. Esa decisión está en el origen del amitocentrismo.
 
-## 8. Tali y Varrily
-
-**[FIJADO]** Parentesco:
-
-- **Tali** es la **hermana mayor de Yen**. Es quien recibe las cartas y quien le manda escribir el diario.
-- **Varrily** es la **tía** de ambas, en Návar; da alojamiento cuando Yen regresa en el Vol. 4.
-
-> El epígrafe final ("aquí estoy a salvo") es un golpe contra Tali: la carta que promete seguridad llega cuando Yen ya no puede enviarla. **[A DECIDIR]**: si Tali responde o si la última carta queda sin enviar. Recomendado: **sin enviar**, y que la encuentre Varrily.
+**Derat es Tierra 5.** La Operación Tierra 5 de 586 DT ocurre allí, en el poblado minero donde muere la hija de Bastean. Se descarta la versión que asignaba Tierra 5 a Khorza.
 
 ---
 
-## 9. "Ciclo" frente a "sin bucle"
+## 5. Reglas de la Vox durante la época de Yen
 
-**[FIJADO]** **No hay bucle.** El Espectro "espera cada vez que alguien elija distinto" sugiere **repetición de patrón**, no literal. La historia se cuenta con memoria imperfecta, no con rueda.
+La Vox es un dispositivo obligatorio de adaptación atmosférica para el tránsito entre Tierras. Se acopla a la mandíbula y cubre la zona inferior del rostro y las orejas.
 
-- Se elimina la frase "el ciclo se repite" del resumen; se reemplaza por "el patrón se repite: el sistema borra y la verdad sobrevive a medias".
-- La única repetición estructural admitida es la del **secreto que se hereda** (Rish → Yen → Lena).
+**Entre 589 y 599 DT no traduce automáticamente.** La traducción automática pertenece a una generación tecnológica posterior. No atribuir a la Vox de Yen traducción simultánea ni un retraso de traducción.
 
----
+Yen se quita la Vox en tres situaciones fijadas: en su cubículo vital, en la azotea del prólogo y una vez en Návar cuando ve a su madre. La azotea es una excepción narrativa deliberada, no una regla general de uso. La única vez que Rish ve a Yen sin Vox es durante el encuentro de Návar en que ella ve a su madre.
 
-## 10. Brazo y Alec
+**La playa no es una excepción atmosférica.** Yen conserva la Vox allí. La playa puede ser un refugio emocional y un espacio fuera de las paredes institucionales sin que eso implique que los personajes puedan quitarse la Vox.
 
-**[FIJADO]** Manda la biblia:
-
-- La **amputación del brazo izquierdo de Yen ocurre en la isla (Vol. 5)**, no con Bastean.
-- **Alec muere viejo, feliz y en paz** tras desertar. Nunca pierde el brazo, nunca lo mata Bastean.
-
-**Reutilización del borrador (cap. 16–17):** [FIJADO] En la confrontación con Bastean (Vol. 2), Yen sufre una **lesión grave en el hombro y la mano derecha, con cicatriz permanente**, sin amputación. Esa cicatriz **prefigura** la amputación de la isla y justifica su miedo físico. El "corte de brazo" del borrador se elimina.
+**No existe un beso entre Yen y Lena.** La amistad entre ambas es profunda, pero no romántica ni sexual. El antiguo episodio del beso queda eliminado y no debe aparecer como hecho, recuerdo, cicatriz o conflicto.
 
 ---
 
-## 11. Otros fijados
+## 6. Voz y voseo de Yen
 
-| Tema | Decisión |
-|---|---|
-| **Nombre de Yen** | Lena se lo pone (Vol. 1). |
-| **Alec/Ash** | Solo **Alec**; "Ash" se elimina. |
-| **Kluar** | Hermano **de Zhan**, muere en 589 **antes del cap. 1** (atribuido a accidente). Ver Lista-40 n.º 12. |
-| **Quién conoce el secreto de Rish** | **[FIJADO]** El lector lo sabe pronto (azotea + lista); **Yen nunca lo sabe**; **Lena lo sabe a medias** y calla. |
-| **Vox de Yen** | Solo sin vox en el cubículo (y en la playa). |
-| **Espectro** | Habla con cada alma **una vez**. |
-| **SATT** | Superintendencia Administrativa de la Transtierra; sistema que se auto-protege. |
+El voseo (sos, pará, conectá, creés, olvidalo) es parte del dialecto naváreo materno de Yen y aflora especialmente bajo estrés y en su voz interna en cursiva.
+
+En Návar, su voz interna habla en voseo. En Amitia intenta neutralizarlo y puede escapársele como descuido. Es caracterización, no error de estilo. Su habla neutral es un esfuerzo de adaptación.
 
 ---
 
-## 12. Checklist de corrección
+## 7. Jerarquía y rangos del equipo B4
 
-- [x] Unificar "SAT" → "SATT" en todos los documentos.
-- [x] Fijar apellido "Illatyl"; "Íatyl" se conserva como deformación amitiana.
-- [x] Borrar "Rish no participó porque las fechas no cuadran".
-- [x] Corregir "Régimen 580–585" → "579–588".
-- [x] Corregir "muerte en 600" → "599".
-- [x] **Orden único de Tierras confirmado**: 1 Amitia · 2 Teknara · 3 Atharis · 4 Khorza · 5 Derat · 6 Návar · 7 Terra (Derat = Tierra 5).
-- [x] Corregir el prólogo ("un año y medio atrás"; "Tierra 6").
-- [x] Corregir cap. 1: es Lena quien la nombra "Yen".
-- [x] Unificar demónimo a "naváreo/navárea".
-- [ ] **[A DECIDIR]** Si se conserva "navarí" (daga navarí), queda reservado solo al culto.
+La cadena de mando al inicio del volumen 1 es **Herday → Rish → equipo B4**.
+
+| Personaje | Situación en 589 DT | Evolución |
+|---|---|---|
+| Herday | Jefe del equipo y supervisor directo | Muere en 589 DT. |
+| Rish | Segundo al mando, con autoridad operativa para asignar y reasignar tareas | Asciende a director nominal tras la muerte de Herday; es degradado políticamente y vuelve a agente de campo en 591 DT. |
+| Yen | Archivista en prácticas asignada a B4 | Pasa a agente de campo tras el caso Bastean. |
+| Zhan, Alec y Lena | Integrantes de B4 | Conservan sus funciones dentro del equipo. |
+
+El título de director para Rish corresponde al período posterior a la muerte de Herday y anterior a su degradación. La degradación es política: sabe demasiado y deja de ser útil para la versión institucional. No es una maniobra romántica para acercarlo a Yen.
+
+---
+
+## 8. Familia de Yen
+
+Tali es la hermana mayor de Yen, destinataria de sus cartas y quien le anima a escribir un diario. No es su cuñada.
+
+Varrily es la tía de Yen y Tali, y ofrece alojamiento a Yen cuando regresa a Návar en el volumen 4.
+
+**[PENDIENTE]** La última carta a Tali puede quedar sin enviar y ser encontrada por Varrily, pero esa solución no debe tratarse como hecho hasta que el capítulo correspondiente la establezca.
+
+---
+
+## 9. Personajes y hechos de continuidad
+
+**Herday:** muere en 589 DT, asesinado por Bastean con la daga ceremonial. La versión oficial dice envenenamiento accidental; su familia no conoce la verdad.
+
+**Kluar:** hermano de Zhan. Muere en 589 DT antes del capítulo 1; la causa oficial es un accidente laboral. Figura como n.º 12 de la Lista-40.
+
+**Bastean:** fue agente represivo y desertó. Su hija murió durante la Operación Tierra 5 en Derat, en 586 DT. La muerte de Bastean ocurre bajo custodia; la versión oficial habla de circunstancias misteriosas y la referencia a tres disparos por la espalda no debe presentarse como un suicidio comprobado.
+
+**Rish:** participó como agente joven en la represión y aparece como n.º 38 de la Lista-40. Yen nunca conoce ese pasado. Lena conoce parte de la verdad, no la totalidad, y decide callar ante Yen.
+
+**Yen:** la lesión del caso Bastean afecta el hombro y la mano derecha y deja una cicatriz. La amputación del brazo izquierdo ocurre en la isla, en 597 DT.
+
+**Alec:** deserta de la SATT, se casa con Yokany, tiene hijos y muere viejo, feliz y en paz. Nunca pierde un brazo.
+
+**Zhan:** se une a la Rebelión. Su destino posterior a la derrota revolucionaria permanece **[PENDIENTE]**; no escribir su ejecución como hecho consumado.
+
+**Lena:** sobrevive al gobierno revolucionario de 599–605 DT. Tras la victoria contrarrevolucionaria es juzgada y ejecutada junto con otros dirigentes reformistas. No tiene pareja establecida como canon.
+
+---
+
+## 10. Arcos y principios narrativos fijados
+
+- La historia de Yen tiene como antagonismo principal las estructuras sociales, económicas, institucionales, culturales y relacionales, no un villano individual.
+- Yen trabaja dentro de la SATT y participa en su funcionamiento. No es observadora exterior ni víctima sin agencia.
+- La SATT cumple funciones necesarias, pero reproduce abusos, desigualdades y encubrimientos. Los agentes de rango inferior tienen autoridad sobre la población y, a la vez, poco poder sobre las decisiones superiores; no son inocentes por definición.
+- El deterioro de Yen es acumulativo. Condiciones estructurales, relaciones, decisiones y consecuencias se retroalimentan. No reducir toda su personalidad al sufrimiento ni convertir su final en una conclusión mecánica.
+- Yen es asexual, pero no aromántica. Puede enamorarse y desarrollar una relación romántica con Rish. No inferir preferencias físicas o sexuales no establecidas ni convertir su orientación en causa de su deterioro.
+- La culpa de Yen es desproporcionada en los volúmenes 1–2. En la isla comete un acto irreversible bajo condiciones extremas de trauma y percepción alterada. No borrar su agencia ni convertir el hecho en castigo moral.
+- La caída de Yen: llega a la azotea con intención suicida, se quita la Vox y la deja caer; después cambia de decisión, intenta retroceder, resbala y cae. La caída física ocurre por el resbalón, no por un salto deliberado consumado. El arrepentimiento a mitad de la caída debe ser legible.
+- La Rebelión triunfa poco después de la muerte de Yen. Su victoria no ocurre gracias a la muerte de Yen.
+- El gobierno revolucionario dura aproximadamente seis años, de 599 a 605 DT. No representa una restauración idéntica de la SATT, pero conserva la premisa de una autoridad central sobre todas las Tierras.
+- La autoorganización entre Tierras es una alternativa difícil, no una utopía sin conflictos.
+- El aislacionismo de los Siglos Perdidos surge de conflictos y decisiones acumuladas; no es una consecuencia automática ni monocausal de la Rebelión.
+- Los estilos punk de las Tierras deben afectar la concepción del progreso, el cuerpo, la tecnología, la naturaleza y el poder. No convertirlos en ideologías homogéneas de sus habitantes.
+
+---
+
+## 11. Decisiones todavía abiertas
+
+- La fecha exacta dentro de 597 DT de la muerte de Rish y la duración precisa de su relación con Yen.
+- Los días y meses exactos de los acontecimientos del prólogo, la isla y el regreso a Návar.
+- El destino de Zhan después de la derrota revolucionaria.
+- Si la última carta a Tali queda sin enviar y quién la encuentra.
+- El nombre y desarrollo de la persona con quien Lena tuvo una relación ambigua en su pasado, si se decide nombrarla en la narración.
+- Si Lena tendrá una pareja durante su arco político; no hay personaje ni relación establecidos.
+- El destino final de la biblioteca clandestina y de sus copias.
+- La cronología interna exacta de los acontecimientos políticos de 599 DT: toma de la Central, caída del antiguo orden, demolición y regreso de Yen.
+
+---
+
+## 12. Criterio de mantenimiento
+
+Las fichas individuales desarrollan carácter, biografía, relaciones, contradicciones y escenas. [[Correcciones-de-Continuidad]] conserva el registro de correcciones y su propagación. [[Auditoria-de-Congruencia]] registra problemas documentales pendientes. [[Linea-Temporal]] organiza los acontecimientos. [[../personajes/README]] es la entrada a la wiki.
+
+Los PDF y las biblias exportadas son materiales derivados, no fuentes de autoridad. Deben revisarse o regenerarse después de cerrar una ronda de cambios en los documentos Markdown.
