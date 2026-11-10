@@ -10,6 +10,7 @@
 
 ### Arcos Narrativos
 - **[Arco Principal](tramas/Arco-Principal.md)** - La odisea de búsqueda y descubrimiento
+- **[Planes de temporadas](tramas/Planes-de-temporadas.md)** - Anotaciones, variantes de finales y escenas posibles
 
 ### Temas Centrales
 - **[Sistema de Inventario](notas-temas/Sistema-de-Inventario.md)** - Gestión RPG de recursos y supervivencia
