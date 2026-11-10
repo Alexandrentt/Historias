@@ -6,7 +6,7 @@ tags: [indice, wiki, personajes]
 
 Índice de las fichas de personaje de *Los Josth*. Esta carpeta funciona como una wiki: cada ficha es la página principal de una persona y sus enlaces internos conectan relaciones, acontecimientos, instituciones y arcos.
 
-La navegación está organizada por **cronología de la historia**, no por importancia ni por orden alfabético. Para seguir los acontecimientos compartidos, consulta [[Cronologia-Personajes]]. Para la progresión dramática por volumen, consulta [[../tramas/Arcos-Personajes]] y [[../tramas/Esquema-6-Volumenes]].
+La navegación está organizada por **cronología de la historia**, no por importancia ni por orden alfabético. Para seguir los acontecimientos compartidos, consulta [[Cronologia-Personajes]]. Para la progresión dramática por volumen, consulta [[../tramas/Arcos-Personajes]] y [[../tramas/Esquema-6-Volumenes]]. La autoridad de continuidad es [[../notas-temas/Canon]]; las discrepancias detectadas se registran en [[../notas-temas/Auditoria-de-Congruencia]].
 
 ## Personajes principales y equipo B4
 
