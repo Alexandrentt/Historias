@@ -82,7 +82,7 @@ La existencia de una pareja no está decidida. Si se desarrolla, debe tener auto
 
 La posibilidad más interesante por ahora es una persona que la quiera genuinamente, comparta algunas de sus preocupaciones y, aun así, no esté de acuerdo con hasta dónde puede llegar la Rebelión. Puede comprender las dificultades de gobernar sin aceptar que cualquier medida se justifique en nombre de la revolución. Lena puede considerar ingenuas sus objeciones o interpretarlas como falta de compromiso; la otra persona puede entenderla sin seguirla.
 
-No se ha decidido su género, identidad, historia ni si finalmente existirá. Odile Marren, como propuesta de restauradora y heredera de la biblioteca, queda retirada del canon.
+No se ha decidido su género, identidad, historia ni si finalmente existirá. No hay una pareja ni una heredera individual de la biblioteca clandestina establecidas como canon.
 
 ## La contrarrevolución
 
@@ -125,4 +125,4 @@ La propaganda puede operar mediante selección, encuadre, silencios y repetició
 - La autoorganización es una alternativa difícil y no idealizada.
 - El aislacionismo de los Siglos Perdidos surge de procesos históricos acumulados, no de una causalidad automática.
 - La victoria revolucionaria no ocurre gracias a la muerte de Yen.
-- La pareja de Lena sigue sin decidirse; Odile Marren queda retirada como propuesta canónica.
+- La pareja de Lena sigue sin decidirse; no hay una pareja ni una heredera individual de la biblioteca establecidas como canon.
