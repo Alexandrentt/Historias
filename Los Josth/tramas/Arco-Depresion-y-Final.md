@@ -30,7 +30,7 @@ Yen tiene un primer intento de suicidio, pero es salvada por Lena. Este evento e
 
 Pasa un tiempo hasta que Yen es despedida o expulsada de la SATT. Mientras tanto, sus compañeros están creando una rebelión para acabar con la institución. Yen no está presente en estos acontecimientos; se queda al margen.
 
-### Regreso a Navar
+### Regreso a Návar
 
 Yen regresa a su hogar en Navar. Entra en un estado de **suicidio pasivo**: deja de comer hasta estar en un estado casi esquelético. Su pelo sigue creciendo —el cabello de los naváreos toma 10 años en volver a crecer después de cortarse—, simbolizando el tiempo que ha pasado y la decadencia física.
 
@@ -56,7 +56,7 @@ Diez años después de cuando se unió a la SATT, y ya con esta última a punto 
 
 ### La Visión con la Deidad
 
-Antes de llegar al suelo, se presenta una deidad de la religión navarí (el "vigilante" o "espectro"). Lo que hace es mostrarle el pasado, el presente o el futuro —lo que ella elija.
+Antes de llegar al suelo, se presenta una deidad del Dehismo, la religión navárea (el "vigilante" o "espectro"). Lo que hace es mostrarle el pasado, el presente o el futuro —lo que ella elija.
 
 Yen pide ver los acontecimientos que la llevaron a ahí, y esa es toda la historia que vemos: los 10 años de su vida desde que entró a la SATT hasta ese momento.
 
@@ -77,8 +77,7 @@ Yen pide ver los acontecimientos que la llevaron a ahí, y esa es toda la histor
 - Su ejecución es referencia implícita a los Juicios de Núremberg
 
 ### Zhan
-- Si aún seguía vivo, sufre el mismo destino que Lena (ejecución)
-- Murió apoyando la rebelión, no por venganza personal sino por desesperación moral
+- Se une a la Rebelión y participa en su lucha. Su destino después de la derrota permanece pendiente de fijar; no afirmar que fue ejecutado ni darlo por muerto.
 
 ### Alec
 - Vivió hasta el inicio de la revolución pero no participó
@@ -130,7 +129,7 @@ El sistema que juró servir la consumió y luego la olvidó.
 - Último acto: volver a ponérselo
 - Simboliza que muere como agente, no como persona
 
-### El Cabello Navarí
+### El cabello naváreo
 - Crece durante 10 años
 - Simboliza el tiempo transcurrido
 - La decadencia física del suicidio pasivo
@@ -180,7 +179,7 @@ Este silencio es trágico porque:
 ### La Contradicción Final
 
 La historia termina con una contradicción que no resuelve:
-- ¿Fue la caída un accidente o un suicidio?
+- ¿Cómo debe interpretarse emocionalmente el final: como un intento suicida que se interrumpe o como un accidente después del arrepentimiento? La mecánica física está fijada: Yen cambia de decisión, intenta retroceder, resbala y cae.
 - ¿La visión es real o alucinación moribunda?
 - ¿Yen encontró paz al final?
 
@@ -197,7 +196,7 @@ Estas preguntas permanecen abiertas. Es parte de la tragedia.
 ### Lena
 - Su rebelión inspira a otros a seguir luchando
 - La SATT nunca vuelve a ser lo que era
-- El aislacionismo posterior es consecuencia directa de su rebelión
+- El aislacionismo posterior surge de conflictos, rupturas y decisiones acumuladas; la Rebelión contribuye a esa memoria histórica, pero no es su causa única ni automática.
 - Se convierte en mártir para movimientos futuros
 - **El destino de la biblioteca clandestina queda abierto**: el archivo puede sobrevivir mediante copias y redes de conservación, pero no hay una heredera individual establecida.
 
@@ -215,13 +214,13 @@ Pero la historia existe. Y en existir, es una forma de resistencia.
 
 ## Ciclos del Vol. 6 y escenas de cuidado
 
-**Problema:** año y medio de depresión con la protagonista catatónica puede ser una meseta (Lena de enfermera, la rebelión fuera de cámara). **Solución:** estructurar el volumen en **tres ciclos** de "mejoría aparente → recaída → mejoría", cada uno con una **escena de cuidado distinta**, y mostrar la rebelión a través de lo que llega a la habitación. El cuidado es **colectivo**: no solo Lena.
+**Problema:** año y medio de recuperación y deterioro, con Yen catatónica al principio, puede convertirse en una meseta si Lena queda como enfermera y la Rebelión ocurre fuera de cámara. **Solución:** estructurar el volumen en **tres ciclos** de "mejoría aparente → recaída → mejoría", cada uno con una **escena de cuidado distinta**, y mostrar la rebelión a través de lo que llega a la habitación. El cuidado es **colectivo**: no solo Lena.
 
 | Ciclo | Estado de Yen | Escena de cuidado | Lo que llega a la habitación | Planta/cosecha |
 |---|---|---|---|---|
 | **A — El primer destello** (598, temprano) | Catatonia; primer contacto | **Las señas.** [[Lena]] aprende lengua de señas de [[Yokany]]; Yen solo responde a señas. Su primera frase lúcida es una seña. | [[Zhan]] deja informes "por si acaso"; Lena los traduce en voz alta. | La seña del cap. 1 cobra |
 | **B — La falsa mejoría** (598, medio) | Mejoría aparente; vuelve a hablar | **La prótesis y Wesson.** Le adaptan una prótesis teknariana; un viejo robot de asistencia, **Wesson**, le hace compañía. | Radio comunitaria; **un caso mínimo** que Yen resuelve como analista desde la cama. | La mente que analiza se reactiva; la canción *El reloj* |
-| **C — El declive** (599) | Recaída; deja de comer | **El día de playa que sale mal.** Intentan darle una salida sin vox; la multitud y el atardecer la quiebran. | La rebelión ya no le llega: las visitas se espacian. | La playa como cuchillo (inversión) |
+| **C — El declive** (599) | Recaída; deja de comer | **El día de playa que sale mal.** Intentan darle una salida, pero Yen conserva la Vox; la multitud y el atardecer la quiebran. | La rebelión ya no le llega: las visitas se espacian. | La playa como cuchillo (inversión) |
 
 **Colocación del primer intento:** va **después del ciclo B**, sobre la falsa mejoría. Así no se lee como "alivio" sino como caída desde un punto alto.
 
