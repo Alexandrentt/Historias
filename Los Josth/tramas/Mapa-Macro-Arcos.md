@@ -33,13 +33,9 @@ Ternura convertida en infraestructura.
 | 3 | Construye la biblioteca clandestina | El archivo como acto de amor | Célula, sin querer |
 | 4 | Pasa de "reformar desde dentro" a "obligar al sistema" | La desconfianza hacia Rish deja de ser celos y se vuelve lectura política | Radicalización ética |
 | 5 | Elige qué sacrifica para sacar a Yen | — | La isla la deja sola |
-| 6 | Cuida y luego se va a liderar la rebelión | Su amor convertido en ética | Ejecutada como traidora |
+| 6 | Cuida y luego se va a liderar la rebelión | Su amor convertido en ética | Cae con el gobierno tras seis años de revolución |
 
-**[RESUELTO en `personajes/Lena.md`]** (ver también Canon §11, tarea 9):
-- **Relación correspondida:** [[Odile Marren]], restauradora de documentos; sobrevive a Lena y hereda la biblioteca clandestina.
-- **Muerte por su proyecto:** las ejecuciones extrajudiciales de su facción dan la justificación política; muere por sus decisiones de poder, no por su deseo.
-- **El puñetazo:** viene de la fe y el susto de Yen (no de homofobia); el daño es real; Yen se disculpa después.
-- **Contradicción resuelta:** la bisexualidad no era ilegal, pero su familia y la SATT la usaban como palanca. Lena se esconde por seguridad, no por vergüenza social.
+**[REVISIÓN DE CONTINUIDAD]** La pareja de Lena no está definida. No hay relación correspondida establecida ni heredera individual de la biblioteca clandestina. Lena y Yen mantienen una amistad profunda; el episodio del beso y el puñetazo queda eliminado. La bisexualidad de Lena no es ilegal, aunque su familia y la SATT podían utilizar su intimidad como palanca.
 
 ## Zhan
 
