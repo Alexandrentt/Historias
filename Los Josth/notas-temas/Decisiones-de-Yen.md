@@ -10,7 +10,7 @@ tags: [tema, yen, agencia, arco, decisiones, culpa]
 |---|---|---|---|
 | **1** | Hace pública la deducción del cap. 1 sin medir a quién expone | Queda expuesta la **comunidad deratita**; familias enteras señaladas | **Desproporcionada**: no causó el derrumbe del túnel ni la muerte de Bastean, pero se lo atribuye todo |
 | **2** | Copia la prueba **fuera de cadena** para que no la borren | La copia la deja expuesta; el sistema la rastrea | **Desproporcionada**: hace lo correcto y aun así se culpa |
-| **3** | Calla ante Lena sobre **el beso** y sobre **Rish** | El secreto se hereda; la amistad se agrieta | Exacta a medias: callar por miedo, no por proteger |
+| **3** | Construye una relación afectiva con Rish desde 593 DT; la amistad con Lena permanece platónica. El silencio concreto de Yen sobre Rish queda pendiente de fijar en escena. | La intimidad ofrece refugio, pero no resuelve las tensiones acumuladas | No recuperar el beso descartado ni inventar un secreto nuevo para sustituirlo |
 | **4** | Toma partido por **su comunidad** frente a su familia | Rompe un pacto familiar; pierde la fe en el Dehismo | Exacta |
 | **5** | Se separa para salvar a alguien y la capturan | Amputación; alucinación; muerte de Rish | **Exacta y tremenda**: la única cosa que sí hizo |
 | **6** | Decide **no despedirse** | Muere sola; Lena nunca lo sabe | Exacta: el carácter, al final, causa todo |
