@@ -149,13 +149,13 @@ Varrily es la tía de Yen y Tali, y ofrece alojamiento a Yen cuando regresa a N�
 
 **Rish:** participó como agente joven en la represión y aparece como n.º 38 de la Lista-40. Yen nunca conoce ese pasado. Lena conoce parte de la verdad, no la totalidad, y decide callar ante Yen.
 
-**Yen:** la lesión del caso Bastean afecta el hombro y la mano derecha y deja una cicatriz. La amputación del brazo izquierdo ocurre en la isla, en 597 DT.
+**Yen:** la lesión del caso Bastean afecta el hombro y la mano derecha y deja una cicatriz. La amputación del brazo izquierdo ocurre en la isla, en 597 DT. Le gusta leer, especialmente ciencia ficción y fantasía, pero es una afición secundaria; la música tiene más peso en su vida cotidiana. La lectura es un rasgo más marcado de Lena.
 
 **Alec:** deserta de la SATT, se casa con Yokany, tiene hijos y muere viejo, feliz y en paz. Nunca pierde un brazo.
 
 **Zhan:** se une a la Rebelión. Su destino posterior a la derrota revolucionaria permanece **[PENDIENTE]**; no escribir su ejecución como hecho consumado.
 
-**Lena:** sobrevive al gobierno revolucionario de 599–605 DT. Tras la victoria contrarrevolucionaria es juzgada y ejecutada junto con otros dirigentes reformistas. No tiene pareja establecida como canon.
+**Lena:** sobrevive al gobierno revolucionario de 599–605 DT. Tras la victoria contrarrevolucionaria es juzgada y ejecutada junto con otros dirigentes reformistas. Le gusta leer; es una afición importante para ella. En su pasado tuvo un vínculo ambiguo con un joven de la SATT, de unos 20–21 años cuando ella tenía alrededor de 27. Él compartía su gusto por la lectura y, además de hablar, le escribía cartas con un estilo poético. Lena llegó a encariñarse y sentirse atraída por él, pero el vínculo no se formalizó y nunca se besaron. Sus vidas tomaron caminos distintos, sin una ruptura ni una pelea. El nombre del joven y otros detalles siguen sin fijarse.
 
 ---
 
