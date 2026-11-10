@@ -407,9 +407,9 @@ Año 167 DT: el ejército amitiano interviene en disputas locales en Atharis, ju
 Año 182 DT: redacción del Tratado de Amitia, que busca regular de manera unilateral el comercio transterrano (rechazado por Návar).
 Año 196 DT: consolidación de un bloque amitiano de colonias, lo que dará pie a su liderazgo en la futura CTT.
 Návar
-Año 151 DT: apogeo de colonias naváreos mixtas en Atharis. Su modelo es visto como más “cultural que militar”.
+Año 151 DT: apogeo de colonias naváreas mixtas en Atharis. Su modelo es visto como más “cultural que militar”.
 Año 164 DT: surgimiento de pensadores naváreos que critican el expansionismo amitiano y promueven una Transtierra de cooperación.
-Año 175 DT: decadencia de la influencia naváreo en Tekanara, desplazados por bases militares amitianas.
+Año 175 DT: decadencia de la influencia navárea en Tekanara, desplazados por bases militares amitianas.
 Año 190 DT: clanes naváreos se reorientan: dejan de competir con Amitia en colonización y se concentran en ser intermediarios comerciales.
 ⚖️ Balance de la Era de la Exploración (0–200 DT)
 Amitia construyó un modelo imperial, centralizado y militarizado, obsesionado con el control territorial.
@@ -570,7 +570,7 @@ Año 27 DT: clanes naváreos establecen la primera colonia mixta cerca del Porta
 🔹 Década 50–100 DT: Guerra y desconfianza
 Año 53 DT: estalla la Primera Guerra de la Transtierra entre Derat y Khorza. Atharis, aunque no fue invadida directamente al inicio, se convierte en campo de paso y sufre desplazamientos de población.
 Año 58 DT: Atharis pide ayuda a Návar y Amitia para contener incursiones deratitas; la respuesta es tardía.
-Año 63 DT: primera militarización del Portal dentro de Atharis: se levantan fortificaciones conjuntas amitianas y naváreos.
+Año 63 DT: primera militarización del Portal dentro de Atharis: se levantan fortificaciones conjuntas amitianas y naváreas.
 Año 71 DT: tras la guerra, Atharis queda marcada como “frontera viva” de la Transtierra: un lugar estratégico pero vulnerable.
 Año 89 DT: tensiones internas: algunas ciudades-estado ven con buenos ojos la protección amitiana; otras lo consideran ocupación.
 🔹 Década 100–150 DT: La sombra amitiana
