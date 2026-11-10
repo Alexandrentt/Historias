@@ -28,7 +28,7 @@ Lena no debe convertirse en una mártir impecable ni en una villana caricaturesc
 
 - Familia particularmente acomodada de Amitia.
 - Su hermana murió a manos de un inmigrante; este hecho influye en su entrada a la SATT, pero no debe justificar automáticamente xenofobia ni convertir su motivación en una explicación simple.
-- Su bisexualidad no fue castigada legalmente, pero su familia pudo utilizar aspectos de su vida privada como palanca.
+- Su bisexualidad no estaba castigada legalmente, pero Lena la mantenía discreta por seguridad, no por vergüenza: su familia y la SATT podían utilizar aspectos de su vida privada como palanca.
 - Un hermano la apoya, aunque no existe una reconciliación familiar plena.
 - Abandona las expectativas familiares, como Yen abandona su tierra.
 
