@@ -14,7 +14,7 @@ El arco de Bastean es sobre cómo dos estrategias opuestas (venganza pública vs
 ## Antagonista: [[Bastean]]
 - Exagente de [[SATT]] durante represión
 - Desertor que se vengó años después
-- Motivated: mató a su hija
+- Motivación: la represión mató a su hija durante la Operación Tierra 5 en Derat, en 586 DT.
 
 ## Mecánica de Crimen
 
@@ -26,11 +26,11 @@ El arco de Bastean es sobre cómo dos estrategias opuestas (venganza pública vs
 
 ### [[Lista-40]]
 - Cabecillas de represión (579–588 DT)
-- Bastean mata en orden proporcional a crimes
-- [[Herday]] es primero
+- La Lista-40 se ordena por responsabilidad creciente; el orden de los asesinatos es táctico, no correlativo.
+- [[Herday]] es la primera víctima de la secuencia narrativa del caso, aunque ocupa el n.º 37 en la Lista-40.
 - [[Rish]] está en la lista
 
-### Arma: [[Daga-Navarí]]
+### Arma: daga ceremonial navárea ([[Daga-Navarí]])
 - Firma ceremonial
 - Rareza que desvía investigación
 - Inicialmente sospecha en "naváreos" / "inmigrantes"
