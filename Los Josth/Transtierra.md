@@ -13,7 +13,7 @@ Y al final, como bien señala el Eji Kilo en su Antítesis del Fin de la Histori
 Queden estas páginas como testimonio de lo que fuimos y advertencia de lo que podríamos volver a ser. Porque aunque el portale esté cerrado, su eco persiste en cada mapa estelar, en cada niño que mira al cielo preguntándose si, allá arriba, alguien más repite nuestros mismos errores.  
 —Archivomaestro Yrthán, Último Cronista de la Biblioteca de Syron.  
 *No fue el primer día, pero sí el último que todos recordaron igual. Y eso basta para llamarlo el inicio.*
-> **Orden canónico de las Tierras (fuente única: `notas-temas/Canon.md` §4).** Nomenclatura burocrática de la SATT: **1 Amitia · 2 Teknara · 3 Atharis · 4 Khorza · 5 Derat · 6 Návar · 7 Terra.** "Siete mundos" = este núcleo. Las numeradas 8–13 son anexos (Karel, Lenthir). Este ensayo es anterior a la estandarización; donde sus cifras discrepen, manda `Canon.md`.
+> **Orden canónico de las Tierras (fuente única: `notas-temas/Canon.md` §4).** La Transtierra consta de exactamente siete Tierras: **1 Amitia · 2 Teknara · 3 Atharis · 4 Khorza · 5 Derat · 6 Návar · 7 Terra.** No existen anexos administrativos 8–13. Toda mención a Karel o Lenthir en borradores anteriores queda descartada. La Tierra 8 pertenece únicamente a la cosmología posterior y no forma parte de la Transtierra histórica. Este ensayo conserva pasajes de versiones anteriores; donde discrepe, manda `Canon.md`.
 
 # Fundamentos de la Transtierra:
 ## Principios Preliminares
