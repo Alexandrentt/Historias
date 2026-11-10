@@ -182,7 +182,7 @@ El desenlace, largamente sospechado y finalmente revelado, es el corazón cosmol
 
 En **997 Vornx** se revela la verdad del ciclo universal; en **999 Pazu 30** el Arquitecto **cierra la Transtierra** y separa definitivamente los mundos. Al **Espectro** —el «mayor traidor y, aun así, bondadoso», que se sacrificó por un bien mayor— le queda la tarea de consolar a cada alma, una sola vez, mostrándole cualquier acontecimiento en el libro del destino; solo tras consolar a los muertos de todas las Tierras anteriores podría ser digno del cielo nuevo.
 
-> **Colisión de nombres «Tierra 8».** En la **cosmología**, «Tierra 8» es el mundo perfecto prometido. En la **administración** de la SATT, «Tierra 8» es el **anexo Karel**. La coincidencia no es casual: la SATT la explotó para vender la anexión como paraíso.
+> **Tierra 8 en la cosmología.** La Tierra 8 es el mundo perfecto prometido en el marco cosmológico posterior. No es una Tierra administrativa ni forma parte de la Transtierra histórica de siete mundos.
 
 ---
 
@@ -204,7 +204,7 @@ En **997 Vornx** se revela la verdad del ciclo universal; en **999 Pazu 30** el 
 
 **7. Terra.** Zona Restringida bajo control SATT: anomalías biomecánicas, ecosistemas muertos, el **campo AT (Antitecnológico)**, el proyecto Kaos.exe y los filamentos de materia oscura del cráter de Vornx. No hay población estable; su importancia es científica y simbólica, y por ella llegaron los Yuman.
 
-**Anexos.** Además de Karel (8) y Lenthir (13), se administran otras tierras numeradas 8–13, no integradas al núcleo.
+**Sin anexos administrativos.** La numeración oficial termina en Tierra 7. Cualquier referencia a anexos 8–13, Karel o Lenthir pertenece a versiones descartadas.
 
 ---
 
@@ -250,5 +250,5 @@ Este ensayo fija las siguientes versiones **únicas** para evitar contradiccione
 1. **Orden de las Tierras:** 1 Amitia · 2 Teknara · 3 Atharis · 4 **Khorza** · 5 **Derat** · 6 Návar · 7 Terra. El esquema original del PDF numeraba Derat=4 y Khorza=5; se corrige a **Khorza=4, Derat=5**, porque la Operación Tierra 5 se desarrolla en Derat y porque el orden canónico deja a **Derat contigua a Khorza y a Návar**, y a Khorza contigua a Atharis, lo que sostiene la geografía de las guerras.
 2. **Institución:** **SATT** (nunca «SAT»). El ensayo fuente usaba «SAT» en su periodización; se unifica.
 3. **Cronología de la novela:** la serie ocurre en **589–599 DT**; el cierre del Portal (990–999) es posterior. Donde el ensayo dé fechas de los siglos IX–X, son del marco histórico general, no del canon de la novela.
-4. **«Tierra 8»:** cosmología (mundo perfecto) frente a administración (anexo Karel). Ambas coexisten deliberadamente.
+4. **«Tierra 8»:** pertenece únicamente a la cosmología como mundo prometido; no es un anexo administrativo.
 5. **Nomenclatura nativa:** cada Tierra tiene nombre propio; «Tierra N» es solo etiqueta burocrática.
