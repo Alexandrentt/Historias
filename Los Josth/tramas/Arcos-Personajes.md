@@ -64,46 +64,28 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 
 ## 3. Lena — la ternura convertida en infraestructura
 
-**Trayectoria:** reforma idealista → rebelión radical → ejecución como traidora.
+**Trayectoria:** reforma idealista → rebelión radical → gobierno revolucionario → caída ante la contrarrevolución.
 **Edad:** 29 → 39. **Nombre completo:** Helena SinClear. **Origen:** familia acomodada de Amitia.
 **Motivación inicial:** su hermana murió a manos de un inmigrante (por eso entra a la SATT). **Orientación:** bisexual; **oculta por seguridad, no por vergüenza** (su familia y la SATT usaban la intimidad como palanca).
 
 | Vol. | Movimiento | Planta → Cosecha |
 |---|---|---|
-| 1 | Apoyo emocional de Yen; le roba un beso | Nace el vínculo; el puñetazo de Yen y su disculpa posterior reordenan, no rompen |
+| 1 | Apoya a Yen y construye una amistad profunda | Se establece un vínculo de confianza sin romance entre ambas |
 | 2 | Cruza su primera línea técnica (esconde la cinta) | «Los medios por los fines»: nace la reformadora |
-| 3 | Construye la biblioteca clandestina; conoce a Odile | El archivo como acto de amor; relación correspondida |
+| 3 | Construye la biblioteca clandestina; consolida su red de conservación | El archivo como infraestructura de memoria y resistencia |
 | 4 | De «reformar desde dentro» a «obligar al sistema» | Su desconfianza hacia Rish se vuelve lectura política |
 | 5 | Elige qué sacrifica para sacar a Yen; forma la rebelión | La isla la deja sola; su amor se vuelve ética |
-| 6 | Lidera la rebelión; asume el poder | Es capturada y ejecutada **por su proyecto**, no por su deseo |
+| 6 | Lidera la rebelión y participa en el gobierno revolucionario | La revolución triunfa; la caída del gobierno y su destino llegan después |
 
 **Congruencia:**
 - Su cariño se expresa como **logística, no como confesión**: por eso su primer acto «político» es esconder un negativo, no dar un discurso. La reforma nace del cuidado.
 - Su **muerte es política**: las ejecuciones extrajudiciales de su propia facción dan la justificación para juzgarla (eco de Núremberg). No muere por amar.
 - La relación con **Odile** corrige el tropo: el personaje queer no existe solo para amar sin ser amado; tiene una vida propia que sobrevive.
 
-**Relaciones:** Yen (amor real, no exclusivo ni causa de su muerte) · Odile (pareja correspondida) · Rish (ambigüedad moral; calla lo que sabe) · Zhan (aliado en la reforma).
+**Relaciones:** Yen (amistad profunda) · Rish (ambigüedad moral; calla lo que sabe) · Zhan (aliado en la reforma).
 **Símbolos:** infraestructura · biblioteca clandestina · cadenas rotas.
-**Final:** graba un mensaje de disculpa; jamás supo que Yen se suicidó; **Odile hereda el archivo**.
+**Final:** sobrevive a la victoria revolucionaria y permanece en el gobierno durante aproximadamente seis años; la contrarrevolución termina derrotándolo. Su destino debe seguir la cronología vigente de la caída del régimen.
 
----
-
-## 4. Odile Marren — reparar lo que el sistema borra
-
-**Trayectoria:** oficio discreto → pareja de Lena → guardiana del archivo.
-**Edad:** 31 → 41. **Oficio:** restauradora de documentos en los sótanos de la Central.
-**Función:** es el espejo físico de la biblioteca clandestina; su vida demuestra que hay un afuera del sistema.
-
-| Vol. | Movimiento |
-|---|---|
-| 2 | Aparece restaurando expedientes que la SATT iba a incinerar |
-| 3 | Conoce a Lena; nace la relación; encuaderna el archivo clandestino |
-| 4 | Sostiene a Lena mientras Yen está en Návar; Rish la ve como testigo de su secreto |
-| 5 | Esconde los documentos que Lena saca de la isla |
-| 6 | Lena la deja para liderar; Odile la despide sin drama; **hereda el archivo** |
-
-**Congruencia:** su resistencia es la **paciencia**, no el discurso; por eso sobrevive y por eso es ella —y no un héroe— quien hereda la memoria. Su lección («no me protejas mintiéndome», eco de Yokany) es un principio, no un arrebato.
-**Símbolos:** hilo y papel · paciencia.
 
 ---
 
@@ -214,6 +196,6 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 | Alec sobrevive en paz | Sí | Documentar en vez de combatir; «retirarse gracefully» es coherente |
 | Zhan se vuelve reformista | Sí | La verdad sobre Kluar (V2) y las personas por las que murió (V4) |
 | Bastean perdona a Yen | Sí | Su hija; la estrategia de exposición pública no excluye un acto humano |
-| Odile hereda el archivo | Sí | Reparar lo borrado es su oficio y su ética |
+
 
 **Regla final:** ningún arco termina por lo que le **pasa** al personaje, sino por lo que el personaje **elige** con lo que le pasa. Esa es la congruencia que el conjunto exige.
