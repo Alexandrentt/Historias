@@ -157,3 +157,16 @@ La ironía histórica es que la Rebelión destruye el antiguo orden, pero no log
 - Yen muere antes de conocer el resultado del proyecto de Lena. Lena vive en el mundo que ayudó a construir y debe afrontar sus contradicciones.
 - La pareja de Lena, si existe, debe poder quererla y oponerse a sus decisiones sin convertirse en su conciencia moral externa.
 - La Rebelión no es una restauración idéntica de la SATT, pero tampoco logra romper la premisa de una autoridad central sobre todas las Tierras.
+
+
+### El objeto prestado y el papel doblado — escena posible, sin resolver
+
+En algún momento, Lena le presta un objeto a Yen. Podría ser un libro, aunque no está decidido y tampoco tiene por qué ser algo que caracterice especialmente a Lena. Lo importante no es el objeto, sino lo que Yen descubre mientras lo observa: entre sus páginas o guardado en él hay un papel doblado. Por su aspecto, podría ser una carta.
+
+Lena se da cuenta de que Yen lo ha visto, se lo quita rápidamente y finge que no hay nada que explicar. La escena no revela qué decía el papel ni confirma siquiera que fuera una carta. Podía contener una confesión íntima, un mensaje de alguien importante para Lena o algo completamente banal, como una lista de compras.
+
+La idea arrastra la sospecha de que el papel —o el objeto en el que estaba guardado— guarda relación con aquella persona con la que Lena tuvo algo parecido a un casi-algo, aunque ella no quería que aquello llegara a convertirse en una relación. Esa conexión no debe explicarse ni identificarse en la escena. Tampoco se debe decidir ahora quién escribió el papel, qué decía o qué significó realmente.
+
+**Criterio de puesta en escena:** la reacción de Lena debe ser más reveladora que el contenido. Yen alcanza a notar algo que quizá no debía ver; Lena lo recupera con demasiada rapidez y ambas siguen adelante. El lector puede sospechar que había algo íntimo allí, pero nunca obtiene una confirmación. La ambigüedad es deliberada: incluso al terminar la historia, podría no saberse si era una confesión o una simple lista de compras.
+
+**Estado:** idea narrativa en desarrollo. El objeto, la identidad de la persona vinculada al pasado de Lena, la procedencia del papel y el momento exacto de la escena siguen sin fijarse. No convertir esta posibilidad en canon biográfico ni establecer una pareja para Lena a partir de ella.
