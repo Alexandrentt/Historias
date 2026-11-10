@@ -20,3 +20,15 @@ La atracción física puede existir, pero no es el fundamento de su interés. En
 **Matiz que conviene conservar:** Rish puede ser sentimental y expresivo sin idealizar a Yen. Le tiene que gustar una persona real, con sus contradicciones, su carácter difícil y sus barreras, no una versión perfecta construida por él.
 
 **Pendiente:** decidir en qué escena se manifiesta esta faceta —una carta, una conversación privada o una declaración espontánea— y cuánto de esa cursilería forma parte de su comportamiento habitual frente a cuánto aparece solo cuando está emocionalmente expuesto.
+
+
+## Carta de referencia — texto original
+
+> Sabe, de hecho fue esto mismo de lo que hablé con mi mejor amigo, que pasaría si llegamos a ser algo y ambos estamos lejos?  
+> Porque la decisión de irme a Guatemala ya está tomada, sería complicado, porque cree que tenía muchas ganas de verla
+>
+> Dejando de lado lo físico, lo cual no me importa, usted me gusta por el simple hecho de su forma de ser, me encanta, es una chica completamente increíble, la cual sabe hacer demasiadas cosas, también que se esfuerza mucho para seguir adelante, que no ha dejado de luchar por sus sueños a pesar de todo, lo humilde que es y lo súper amable que es
+>
+> Y no se lo voy a negar, me encanta todo de usted, sus hermosos ojos color café, su bello cabello, usted realmente es una chica hermosa con o sin mascarilla, la cual espero verla algún día sin ella…
+
+**Separación de procedencia:** la conversación con el mejor amigo, la posibilidad de empezar algo a distancia y la decisión de irse a Guatemala pertenecen al casi algo original de Lena. No son experiencias ni circunstancias de Rish. El resto de la carta queda aquí como texto de referencia para estudiar la voz romántica que podría encajar con Rish: admiración por la personalidad y el esfuerzo de la otra persona, junto con atracción física expresada de forma directa y algo cursi. La mención a la mascarilla puede inspirar una reflexión sobre la Vox, pero no debe trasladarse literalmente ni convertirse en una exigencia de intimidad.
