@@ -145,7 +145,7 @@ tags: [trama, personajes, arcos, estructura, congruencia, 6-volumenes]
 ## 8. Herday — el vacío que deja
 
 **Rol:** jefe del equipo B4, figura paternal. **Edad:** 45–55 (589).
-**Función:** su muerte es **catalizador, no misterio**. Primer asesinato de Bastean; **versión oficial: envenenamiento**. Cierra el Arco-Novata, deja un vacío de poder y permite que Rish ascienda y se acerque a Yen sin supervisión.
+**Función:** su muerte en 589 DT es **catalizador, no misterio**. Primer asesinato de Bastean; **versión oficial: envenenamiento**. Cierra el Arco-Novata, deja un vacío de poder y permite que Rish ascienda y se acerque a Yen sin supervisión.
 
 **Congruencia:** importa menos como persona que como **vacío**. Que su lealtad a la SATT quede bajo sospecha tras su muerte («¿sabía algo? ¿era cómplice?») es deliberado y nunca se responde. Su familia recibe una mentira.
 
