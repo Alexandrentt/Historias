@@ -19,7 +19,7 @@ tags: [tema, editorial, plan, revision, pendientes]
 | 6 | Reescribir la **deducción del cap. 1** con el plan de escena | `capitulos/La novata/Plan-deduccion-cap01.md` | 📝 Plan listo; falta reescribir |
 | 7 | Decidir si Rish **libera a Vath** o solo aprovecha la fuga; sembrar lo de la hija de Bastean | `notas-temas/Canon.md` §11 | ⬜ Pendiente |
 | 8 | Resolver **el brazo**: reubicar lo del borrador y fijar el final de Alec | `notas-temas/Canon.md` §10 | ✅ Decidido; falta propagar |
-| 9 | Revisar a **Lena** (relación correspondida, causa de su muerte, puñetazo) antes del V3 | `personajes/Lena.md` + `personajes/Odile Marren.md` | ✅ Resuelto |
+| 9 | Revisar el arco político y las relaciones de **Lena** según el canon vigente | `personajes/Lena.md` y `tramas/Arcos-Personajes.md` | ✅ Revisado; continuar propagando cambios si aparecen contradicciones |
 | 10 | Rebajar la revelación de **la SATT financiando bandas** en el cap. 1 | ver más abajo | ⬜ Pendiente |
 | 11 | Diseñar los **ciclos del Vol. 6** y las escenas de cuidado | `tramas/Arco-Depresion-y-Final.md` § Ciclos · `tramas/Mapa-Macro-Arcos.md` | ✅ Documentado |
 | 12 | Marcar en cada capítulo **qué planta y qué cosecha** lleva | `notas-temas/Plantas-y-Cosechas.md` | 📝 Tabla lista; falta marcar capítulos |
