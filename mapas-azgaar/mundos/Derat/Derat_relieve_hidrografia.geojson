@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "Derat — relieve e hidrografía v2",
+  "name": "Derat — relieve, hidrografía y relevancia geopolítica v2.1",
   "features": [
     {
       "type": "Feature",
@@ -9,7 +9,10 @@
         "kind": "mountain_range",
         "continent": "Alfaguara",
         "description": "Arco montañoso subpolar que bordea cuencas glaciares.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "barrera física y control de pasos; las rutas transmontanas son cuellos de botella potenciales",
+        "geopolitical_confidence": "alta como barrera física; no hay pasos cartografiados",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "LineString",
@@ -52,7 +55,10 @@
         "kind": "highland",
         "continent": "Alfaguara",
         "description": "Meseta fría con depresiones endorreicas.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "divisoria y captación de cuencas interiores; condiciona acceso al agua",
+        "geopolitical_confidence": "media; relieve conceptual propuesto",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "LineString",
@@ -87,7 +93,10 @@
         "kind": "river",
         "continent": "Alfaguara",
         "description": "Río alimentado por glaciares y deshielo estacional.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "cabecera y corredor potencial de agua dulce desde la región polar hacia el interior",
+        "geopolitical_confidence": "media; cauce conceptual, caudal y estacionalidad sin modelar",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "LineString",
@@ -122,7 +131,10 @@
         "kind": "river",
         "continent": "Alfaguara",
         "description": "Curso interior que termina en lagos y salares.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "abastecimiento de cuencas interiores; posible eje de asentamiento y transporte local",
+        "geopolitical_confidence": "media; navegabilidad no establecida",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "LineString",
@@ -153,7 +165,10 @@
         "kind": "river",
         "continent": "Alfaguara",
         "description": "Río de cuenca mixta.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "conexión hidrográfica de la vertiente oriental; posible dependencia hídrica regional",
+        "geopolitical_confidence": "media; cauce conceptual, navegabilidad no establecida",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "LineString",
@@ -184,7 +199,10 @@
         "kind": "lake",
         "continent": "Alfaguara",
         "description": "Lago interior de carácter salobre.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "reserva superficial estratégica; posible nodo de abastecimiento, pesca y asentamiento",
+        "geopolitical_confidence": "media; salinidad exacta y disponibilidad potable sin verificar",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "Polygon",
@@ -229,7 +247,10 @@
         "kind": "lake",
         "continent": "Alfaguara",
         "description": "Lago glaciar.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "reserva glaciar y regulador estacional; acceso difícil y sensible al clima",
+        "geopolitical_confidence": "media; hidrología conceptual",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "Polygon",
@@ -270,7 +291,10 @@
         "kind": "degraded_region",
         "continent": "Alfaguara",
         "description": "Región de alteración minera y presión extractiva; no representa un desierto continuo.",
-        "status": "propuesta geográfica v2"
+        "status": "propuesta geográfica v2",
+        "geopolitical_relevance": "zona de presión extractiva y degradación ambiental descrita en el atlas; no equivale a yacimiento confirmado ni concesión delimitada",
+        "geopolitical_confidence": "alta como zona de presión propuesta; ubicación de minas concretas no definida",
+        "political_status": "lectura geopolítica provisional; no constituye frontera ni control político"
       },
       "geometry": {
         "type": "Polygon",
@@ -680,5 +704,10 @@
         ]
       }
     }
-  ]
+  ],
+  "metadata": {
+    "coordinate_system": "OGC:CRS84 longitude/latitude",
+    "political_caveat": "La relevancia geopolítica describe consecuencias potenciales de la geografía. No define ciudades, minas confirmadas, fronteras, soberanía ni control efectivo.",
+    "derivation": "Atributos analíticos añadidos a las 8 entidades de Alfaguara; geometrías físicas originales conservadas."
+  }
 }
