@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "world": "Derat",
   "continents": [
     {
@@ -38,6 +38,8 @@
     "Derat_geopolitica_Alfaguara.geojson maps analytical zones and hypothetical connectivity only; null geometries record missing georeferenced data and are valid GeoJSON Features.",
     "No city-states, mine coordinates, military garrisons, faction boundaries, or sovereignty polygons have been invented.",
     "La capa geopolítica incluye anclajes temporales documentados (Consejo de Alfaguara, veta de Balatium, Vía de las Sombras y poblado de la Operación Tierra 5); sus geometrías son null hasta obtener coordenadas verificables.",
-    "Bowit, Águila Roja y las fuerzas llamadas Régimen se describen con sus alcances documentados, sin convertir influencia en fronteras."
+    "Bowit, Águila Roja y las fuerzas llamadas Régimen se describen con sus alcances documentados, sin convertir influencia en fronteras.",
+    "Cuatro etiquetas burg de Azgaar dentro del polígono de Alfaguara se añadieron como puntos candidatos con coordenadas CRS84; sus nombres no son canónicos y requieren revisión narrativa.",
+    "La auditoría detecta ocho polígonos de estado Azgaar con intersección superior al 5 % con Alfaguara; sus nombres y límites automáticos no equivalen a ciudades-estado ni a soberanías del canon."
   ]
 }
