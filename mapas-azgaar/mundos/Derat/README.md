@@ -11,7 +11,7 @@
 - `Derat_mundo.svg`: vista general del planeta.
 
 ## Capas geopolíticas
-- `Derat_geopolitica_Alfaguara.geojson`: zonas estratégicas, anclajes históricos, cuatro etiquetas de asentamiento Azgaar para revisión, entidades sin coordenadas y conectividad hipotética.
+- `Derat_geopolitica_Alfaguara.geojson`: zonas estratégicas, anclajes históricos, cuatro etiquetas de asentamiento Azgaar para revisión con proximidad a rutas y ríos, entidades sin coordenadas y conectividad hipotética.
 - `Derat_Azgaar_estados_candidatos_Alfaguara.geojson`: cuatro polígonos de estado extraídos del mapa regional y recortados al contorno propuesto de Alfaguara; solo para revisión visual, no canónicos.
 - `Geopolitica_Derat_v1.md`: análisis de actores, recursos, corredores, ocupación y decisiones pendientes.
 
