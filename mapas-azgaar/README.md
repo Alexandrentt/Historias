@@ -1,37 +1,32 @@
 # Mapas de Azgaar — Historias
 
-Este directorio documenta los cinco mapas recibidos para el proyecto.
+Este directorio organiza el inventario y las copias de los seis mundos registrados: Amitia, Atharis, Derat (continente de Alfaguara), Korza, Návar y Teknara.
 
-## Regla de conservación
+## Estructura
 
-- Los archivos `.map` originales son la fuente de verdad y deben conservarse byte por byte.
-- No reconstruir un mapa únicamente desde PNG, SVG, GeoJSON o exportaciones parciales: esas salidas no sustituyen el proyecto editable.
-- Las copias desglosadas (JSON, SVG, CSV o GeoJSON) se guardarán como material auxiliar para inspección, nunca en lugar del original.
-- Antes de editar un mapa, crear una copia con fecha o una rama/commit independiente.
-- Tras subir los originales, verificar el SHA-256 contra `manifest.json`.
+- manifest.json: inventario técnico, dimensiones, semillas y hashes SHA-256.
+- paquetes/: documentación de los archivos comprimidos y del paquete ZIP.
+- originales/: destino reservado para los .map originales cuando se incorporen individualmente.
+- exportaciones/: destino para imágenes y formatos derivados, nunca sustitutos del original.
+- versiones/: snapshots aprobados antes de cambios importantes.
 
-## Estructura prevista
+## Conservación e integridad
 
-```
-mapas-azgaar/
-  README.md
-  manifest.json
-  originales/
-    Amitia.map
-    Atharis.map
-    Korza .map
-    Návar.map
-    derat(continente de alfaguara).map
-  exportaciones/       # derivados auxiliares, si se generan
-  versiones/           # snapshots aprobados
-```
+- El archivo .map original es la fuente de verdad y debe conservarse byte por byte.
+- Los .map.gz son copias comprimidas sin pérdida; al descomprimirlos deben reproducir exactamente el original.
+- Antes de aceptar una copia, verificar su SHA-256 con manifest.json.
+- No editar directamente el único original; crear una copia o una versión nueva.
+- PNG, SVG, JSON parciales y otros derivados no sustituyen un proyecto editable de Azgaar.
 
-## Estado de carga
+## Estado actual de GitHub
 
-Los metadatos y huellas de los cinco archivos adjuntos están registrados en `manifest.json`. **Los archivos .map originales todavía no están almacenados en este repositorio**; no se marcarán como respaldados hasta verificar su presencia y checksum en GitHub.
+El ZIP que ya está en la raíz del repositorio, Historias_mapas_gz_GitHub.zip, contiene la versión anterior de cinco mapas. Teknara ya está registrado en el manifiesto con sus hashes, pero el ZIP actualizado de seis mapas y el archivo individual Teknara.map.gz todavía no se han incorporado a GitHub.
 
-## Restauración
+El manifiesto marca explícitamente los originales como no cargados individualmente. No se debe interpretar el registro de metadatos como si el archivo binario estuviera respaldado en GitHub.
 
-Abrir https://azgaar.github.io/Fantasy-Map-Generator/, elegir **Load → Machine** y seleccionar el archivo `.map` original. No editar el archivo manualmente.
+## Abrir un mapa
 
-Documentación del formato: https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Data-import
+En Azgaar's Fantasy Map Generator, usa Load → Machine y selecciona el archivo .map original o una copia descomprimida.
+
+- Generador: https://azgaar.github.io/Fantasy-Map-Generator/
+- Formato y datos: https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Data-import
