@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
+  "version": "2.5",
   "world": "Derat",
   "continents": [
     {
@@ -43,6 +43,7 @@
     "Bowit, Águila Roja y las fuerzas llamadas Régimen se describen con sus alcances documentados, sin convertir influencia en fronteras.",
     "Cuatro etiquetas burg de Azgaar dentro del polígono de Alfaguara se añadieron como puntos candidatos con coordenadas CRS84; sus nombres no son canónicos y requieren revisión narrativa.",
     "La auditoría detecta ocho polígonos de estado Azgaar con intersección superior al 5 % con Alfaguara; sus nombres y límites automáticos no equivalen a ciudades-estado ni a soberanías del canon.",
-    "La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson contiene cuatro polígonos recortados a Alfaguara que corresponden a estados Azgaar con burg etiquetado en la región; es material de revisión no canónico."
+    "La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson contiene cuatro polígonos recortados a Alfaguara que corresponden a estados Azgaar con burg etiquetado en la región; es material de revisión no canónico.",
+    "Los cuatro burgs Azgaar candidatos incluyen distancias geodésicas aproximadas a los trazos de ruta y ríos más cercanos del mismo mapa; estas métricas no certifican infraestructura ni disponibilidad de agua."
   ]
 }
