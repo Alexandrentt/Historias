@@ -370,8 +370,8 @@
       "markers.geojson",
       "zones.geojson"
     ],
-    "status": "svg_vector_extraction_generated_locally_binary_upload_pending",
-    "note": "No per-world full GeoJSON export is claimed until generated from the actual map data.",
+    "status": "svg_vector_extraction_archive_published; native_full_export_pending",
+    "note": "The published archive contains the SVG-derived layers described below. It is not a native full Azgaar export.",
     "extraction_method": "SVG embebido dentro de cada archivo .map; geometrías vectoriales convertidas a GeoJSON",
     "limitations": [
       "No es el GeoJSON nativo completo de Azgaar",
@@ -453,6 +453,7 @@
         "total": 4759
       }
     },
-    "github_upload": "pending: binary archive and individual GeoJSON files were not transferred"
+    "github_upload": "archive published at repository root; individual GeoJSON files remain inside the ZIP and are not expanded into per-world folders",
+    "repository_archive": "GeoJSON_Seis_Mundos_Azgaar_descarga.zip"
   }
 }
