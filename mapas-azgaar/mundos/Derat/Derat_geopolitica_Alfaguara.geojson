@@ -52,6 +52,14 @@
       "regional_azgaar_layer": "derat(continente de alfaguara).map; SVG-derived burgs/routes/rivers",
       "finding": "Las distancias a ríos Azgaar guardadas anteriormente (4.7–175 km) no coinciden con las distancias a los ríos de la capa física conceptual (86.5–867 km). Son dos conjuntos geométricos diferentes y no deben tratarse como una misma red hidrográfica.",
       "recommendation": "Mantener separados los campos nearest_azgaar_* y proximity_to_global_proposed_physical_layer. Antes de fusionar capas, revisar georreferenciación y decidir si el relieve conceptual debe ajustarse al mapa regional o viceversa."
+    },
+    "native_map_verification": {
+      "source": "derat(continente de alfaguara).map",
+      "version": "1.158.0",
+      "name": "Bouneia",
+      "seed": "182800799",
+      "verification": "The four burg IDs, names, x/y positions, state IDs, native state names and generated population values were read from the native .map data records. CRS84 coordinates match the linear conversion documented in each burg feature.",
+      "caveat": "Azgaar labels, state names and population values remain generator output, not narrative canon."
     }
   },
   "features": [
@@ -442,7 +450,16 @@
           "source_layer": "Derat_relieve_hidrografia.geojson",
           "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
           "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
-        }
+        },
+        "azgaar_native_map_position": {
+          "x": 394.1,
+          "y": 67.03,
+          "map_width": 1333,
+          "map_height": 632
+        },
+        "azgaar_native_generated_population": 38.91,
+        "population_caveat": "Valor generado por Azgaar; no equivale a población canónica ni debe trasladarse a la narrativa sin aprobación.",
+        "coordinate_conversion": "longitude=-180+(x/1333)*360; latitude=90-(y/632)*180"
       },
       "geometry": {
         "type": "Point",
@@ -466,7 +483,7 @@
         "map_date": "2026-11-12",
         "azgaar_burg_id": 6,
         "azgaar_state_id": 6,
-        "azgaar_state_label": "Neutiersian League",
+        "azgaar_state_label": "Neutiersia",
         "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
         "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo",
         "nearest_azgaar_route_id": "route25",
@@ -490,7 +507,16 @@
           "source_layer": "Derat_relieve_hidrografia.geojson",
           "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
           "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
-        }
+        },
+        "azgaar_native_map_position": {
+          "x": 188.63,
+          "y": 68.76,
+          "map_width": 1333,
+          "map_height": 632
+        },
+        "azgaar_native_generated_population": 54.795,
+        "population_caveat": "Valor generado por Azgaar; no equivale a población canónica ni debe trasladarse a la narrativa sin aprobación.",
+        "coordinate_conversion": "longitude=-180+(x/1333)*360; latitude=90-(y/632)*180"
       },
       "geometry": {
         "type": "Point",
@@ -538,7 +564,16 @@
           "source_layer": "Derat_relieve_hidrografia.geojson",
           "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
           "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
-        }
+        },
+        "azgaar_native_map_position": {
+          "x": 157.13,
+          "y": 89.42,
+          "map_width": 1333,
+          "map_height": 632
+        },
+        "azgaar_native_generated_population": 2.685,
+        "population_caveat": "Valor generado por Azgaar; no equivale a población canónica ni debe trasladarse a la narrativa sin aprobación.",
+        "coordinate_conversion": "longitude=-180+(x/1333)*360; latitude=90-(y/632)*180"
       },
       "geometry": {
         "type": "Point",
@@ -586,7 +621,16 @@
           "source_layer": "Derat_relieve_hidrografia.geojson",
           "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
           "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
-        }
+        },
+        "azgaar_native_map_position": {
+          "x": 183.54,
+          "y": 48.06,
+          "map_width": 1333,
+          "map_height": 632
+        },
+        "azgaar_native_generated_population": 2.63,
+        "population_caveat": "Valor generado por Azgaar; no equivale a población canónica ni debe trasladarse a la narrativa sin aprobación.",
+        "coordinate_conversion": "longitude=-180+(x/1333)*360; latitude=90-(y/632)*180"
       },
       "geometry": {
         "type": "Point",
