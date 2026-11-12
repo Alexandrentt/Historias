@@ -370,7 +370,89 @@
       "markers.geojson",
       "zones.geojson"
     ],
-    "status": "tool_published_exports_pending",
-    "note": "No per-world full GeoJSON export is claimed until generated from the actual map data."
+    "status": "svg_vector_extraction_generated_locally_binary_upload_pending",
+    "note": "No per-world full GeoJSON export is claimed until generated from the actual map data.",
+    "extraction_method": "SVG embebido dentro de cada archivo .map; geometrías vectoriales convertidas a GeoJSON",
+    "limitations": [
+      "No es el GeoJSON nativo completo de Azgaar",
+      "No reconstruye la malla de celdas ni todos sus atributos",
+      "Los lagos no se extrajeron porque aparecen como elementos SVG <use>",
+      "No sustituye los archivos .map originales"
+    ],
+    "local_archive": "GeoJSON_Seis_Mundos_Azgaar.zip",
+    "local_archive_bytes": 7452860,
+    "total_features": 24976,
+    "layers": [
+      "rivers",
+      "routes",
+      "states",
+      "borders",
+      "lakes",
+      "ice",
+      "labels"
+    ],
+    "feature_counts": {
+      "Amitia": {
+        "rivers": 1194,
+        "routes": 1724,
+        "states": 501,
+        "borders": 1200,
+        "ice": 4,
+        "labels": 100,
+        "lakes": 0,
+        "total": 4723
+      },
+      "Atharis": {
+        "rivers": 717,
+        "routes": 1154,
+        "states": 482,
+        "borders": 1359,
+        "ice": 1023,
+        "labels": 121,
+        "lakes": 0,
+        "total": 4856
+      },
+      "Derat": {
+        "rivers": 1766,
+        "routes": 1293,
+        "states": 683,
+        "borders": 872,
+        "ice": 0,
+        "labels": 100,
+        "lakes": 0,
+        "total": 4714
+      },
+      "Korza": {
+        "rivers": 1682,
+        "routes": 0,
+        "states": 0,
+        "borders": 0,
+        "ice": 220,
+        "labels": 0,
+        "lakes": 0,
+        "total": 1902
+      },
+      "Navar": {
+        "rivers": 860,
+        "routes": 1519,
+        "states": 457,
+        "borders": 1069,
+        "ice": 17,
+        "labels": 100,
+        "lakes": 0,
+        "total": 4022
+      },
+      "Teknara": {
+        "rivers": 1069,
+        "routes": 1660,
+        "states": 488,
+        "borders": 1270,
+        "ice": 172,
+        "labels": 100,
+        "lakes": 0,
+        "total": 4759
+      }
+    },
+    "github_upload": "pending: binary archive and individual GeoJSON files were not transferred"
   }
 }
