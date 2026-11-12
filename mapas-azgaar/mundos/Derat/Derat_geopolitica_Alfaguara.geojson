@@ -1,30 +1,40 @@
 {
   "type": "FeatureCollection",
-  "name": "Derat — análisis geopolítico preliminar de Alfaguara v1",
+  "name": "Derat — análisis geopolítico y anclajes históricos de Alfaguara v2",
   "metadata": {
     "world": "Derat",
     "focus_continent": "Alfaguara",
     "coordinate_system": "OGC:CRS84 longitude/latitude",
-    "status": "propuesta analítica; no canon aprobado",
+    "status": "análisis geopolítico provisional con anclajes históricos documentados; no canon cartográfico",
     "source_layers": [
       "Alfaguara.geojson",
       "Derat_continentes.geojson",
       "Derat_relieve_hidrografia.geojson"
     ],
-    "method": "Overlay interpretativo construido a partir de la geografía física conceptual ya publicada y de los hechos narrativos documentados.",
+    "method": "Overlay interpretativo construido a partir de la geografía física conceptual ya publicada y de los hechos narrativos documentados. Se añadieron anclajes temporales y entidades nombradas documentadas; cuando la fuente no proporciona coordenadas, la geometría permanece null.",
     "hard_limits": [
       "No se inventan ni se localizan ciudades-estado: el repositorio no contiene coordenadas verificadas para ellas.",
       "No se trazan fronteras políticas ni se atribuye soberanía sobre polígonos.",
       "No se asignan minas exactas: Cuenca de Ceniza representa presión extractiva y degradación propuestas, no un inventario de yacimientos.",
       "No se atribuye un área territorial concreta a Bowit, Águila Roja o las fuerzas de ocupación.",
-      "Los corredores son ejes de estudio, no carreteras, vías navegables ni rutas confirmadas."
+      "Los corredores son ejes de estudio, no carreteras, vías navegables ni rutas confirmadas.",
+      "Los anclajes históricos (Consejo de Alfaguara, veta de Balatium, Vía de las Sombras y poblado de la Operación Tierra 5) no reciben coordenadas inventadas."
     ],
     "next_data_needed": [
       "Coordenadas y nombres canónicos de las ciudades-estado de Alfaguara.",
       "Localización confirmada de yacimientos de Madianita y Balatium, plantas de procesamiento y concesiones.",
       "Fuentes de agua dulce, acuíferos, puntos de captación y asentamientos dependientes.",
       "Rutas reales, puertos, pasos de montaña, puestos de control y nodos logísticos.",
-      "Fechas y evidencia de control militar, administración civil y alianzas locales."
+      "Fechas y evidencia de control militar, administración civil y alianzas locales.",
+      "Ubicación cartográfica del Consejo de Alfaguara, de la veta de Balatium y del poblado minero de 586 DT; trazado de la Vía de las Sombras."
+    ],
+    "source_documents": [
+      "Los Josth/notas-temas/Canon.md",
+      "Los Josth/Transtierra.md",
+      "Los Josth/tierras/Derat.md",
+      "odisey/tierras/Alfaguara.md",
+      "Los Josth/tramas/Lista-40.md",
+      "Los Josth/notas-temas/Linea-Temporal.md"
     ]
   },
   "features": [
@@ -284,7 +294,96 @@
         ],
         "known_canon": "Los actores existen en el marco narrativo, pero sus límites de control, guarniciones, alianzas y fechas deben documentarse.",
         "mapping_rule": "Separar control militar, administración civil, influencia, concesiones económicas y legitimidad local en capas distintas.",
-        "status": "no cartografiar hasta disponer de evidencias fechadas"
+        "status": "no cartografiar hasta disponer de evidencias fechadas",
+        "actor_profiles": [
+          {
+            "actor": "Bowit",
+            "documented_scope": "influencia sobre buena parte de Alfaguara",
+            "structure": "jerárquica",
+            "certainty": "alcance general documentado; límites, enclaves y control directo sin georreferenciar",
+            "source": "Los Josth/Transtierra.md; odisey/tierras/Alfaguara.md"
+          },
+          {
+            "actor": "Águila Roja",
+            "documented_scope": "movimiento original fragmentado en células",
+            "structure": "células independientes que siguen intereses propios",
+            "certainty": "fragmentación documentada; áreas de actividad no georreferenciadas",
+            "source": "Los Josth/Transtierra.md; odisey/tierras/Alfaguara.md"
+          },
+          {
+            "actor": "Régimen / fuerzas extranjeras",
+            "documented_scope": "protección de intereses extractivos y rutas comerciales",
+            "structure": "presencia militar externa; relación institucional exacta por período pendiente",
+            "certainty": "función general documentada; puestos y perímetro desconocidos",
+            "source": "Los Josth/Transtierra.md; Los Josth/tierras/Derat.md"
+          }
+        ],
+        "institutional_note": "No equiparar automáticamente la ocupación histórica de la CTT, las fuerzas amitianas llamadas Régimen, la SATT y el Régimen de Excepción de Amitia (579–588 DT). La continuidad institucional y la cadena de mando en cada período requieren precisión documental.",
+        "temporal_scope": "Períodos documentados distintos: ocupación indirecta desde 132 DT; primeras células de Águila Roja desde 153 DT; ciudades-estado desde 166 DT; Consejo de Alfaguara en 191 DT; veta de Balatium hallada en 520 Ovryn; ocupación y explotación presentes en los marcos narrativos posteriores."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-consejo-historico",
+      "properties": {
+        "name": "Consejo de Alfaguara",
+        "kind": "historical_resistance_centre",
+        "continent": "Alfaguara",
+        "documented_event": "En 191 DT se convierte en foco de resistencia contra el Régimen.",
+        "temporal_start": "191 DT",
+        "political_role": "foco de resistencia; el documento no establece que sea capital ni que controle toda Alfaguara",
+        "location_status": "topónimo confirmado; coordenadas y emplazamiento exacto no documentados",
+        "source": "Los Josth/Transtierra.md, sección histórica de Derat, año 191 DT",
+        "status": "anclaje histórico documentado; georreferenciación pendiente"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-veta-balatium",
+      "properties": {
+        "name": "Veta de Balatium de la meseta de Alfaguara",
+        "kind": "documented_resource_discovery",
+        "continent": "Alfaguara",
+        "documented_event": "Descubrimiento por equipo de perforación magnetométrica de la SATT en 520 Ovryn; asociado al geólogo Lukas Derai.",
+        "temporal_start": "520 Ovryn",
+        "resource": "Balatium",
+        "location_status": "la fuente sitúa la veta en la meseta de Alfaguara, pero no da coordenadas ni permite asignarla a un polígono físico concreto",
+        "environmental_effects_documented": "aceleración de la desertificación y agotamiento de mantos freáticos superficiales durante su explotación",
+        "source": "Los Josth/Transtierra.md, sección La era de la SATT",
+        "status": "hallazgo documentado; punto minero no georreferenciado"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-via-de-las-sombras",
+      "properties": {
+        "name": "Vía de las Sombras",
+        "kind": "documented_smuggling_corridor",
+        "continent": "Alfaguara",
+        "documented_event": "Corredor nocturno mantenido por exmineros y comerciantes locales; bordea asentamientos abandonados y evade peajes SATT.",
+        "temporal_start": "posterior al auge de la veta de Balatium; fecha exacta pendiente",
+        "function": "transporte informal y resistencia económica",
+        "location_status": "existencia y función documentadas; trazado, extremos, longitud y nodos no especificados",
+        "source": "Los Josth/Transtierra.md, sección La era de la SATT; Los Josth/tierras/Derat.md",
+        "status": "corredor confirmado en el relato; geometría pendiente"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-operacion-tierra-5",
+      "properties": {
+        "name": "Poblado minero de la Operación Tierra 5",
+        "kind": "historical_repressive_operation_site",
+        "continent": "Alfaguara",
+        "temporal_start": "586 DT",
+        "documented_event": "Barrido represivo en un poblado minero de Derat; muere la hija de Bastean y se incauta el arma ceremonial navárea.",
+        "location_status": "poblado minero confirmado; nombre propio y coordenadas no constan en las fuentes consultadas",
+        "source": "Los Josth/notas-temas/Canon.md; Los Josth/tramas/Lista-40.md; Los Josth/notas-temas/Linea-Temporal.md",
+        "status": "evento canónico; emplazamiento exacto pendiente"
       },
       "geometry": null
     }
