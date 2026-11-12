@@ -126,6 +126,58 @@
       "uploaded": false
     },
     {
+      "file": "derat(continente de alfaguara).map",
+      "generator_version": "1.158.0",
+      "saved_date": "2026-11-12",
+      "seed": "182800799",
+      "timestamp_ms": 1794506586148,
+      "width": 1333,
+      "height": 632,
+      "map_name": "Bouneia",
+      "graph": {
+        "width": 1333,
+        "height": 632,
+        "points": 100000,
+        "sampling": "square",
+        "jitter": 0.9
+      },
+      "geography": {
+        "mapSize": 100,
+        "latitude": 50,
+        "longitude": 50,
+        "coordinates": {
+          "latT": 180,
+          "latN": 90,
+          "latS": -90,
+          "lonT": 360,
+          "lonW": -180,
+          "lonE": 180
+        }
+      },
+      "climate": {
+        "temperature": {
+          "equator": 44,
+          "northPole": 12,
+          "southPole": 10
+        },
+        "precipitation": 500,
+        "winds": [
+          225,
+          45,
+          225,
+          315,
+          135,
+          315
+        ]
+      },
+      "culture_set": "european",
+      "bytes": 15745658,
+      "gzip_bytes": 3923124,
+      "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
+      "repository_path": "mapas-azgaar/originales/derat(continente de alfaguara).map",
+      "uploaded": false
+    },
+    {
       "file": "Korza .map",
       "generator_version": "1.158.0",
       "saved_date": "2026-11-12",
@@ -230,41 +282,41 @@
       "uploaded": false
     },
     {
-      "file": "derat(continente de alfaguara).map",
+      "file": "Teknara.map",
       "generator_version": "1.158.0",
       "saved_date": "2026-11-12",
-      "seed": "182800799",
-      "timestamp_ms": 1794506586148,
-      "width": 1333,
-      "height": 632,
-      "map_name": "Bouneia",
+      "seed": "674432764",
+      "timestamp_ms": 1794498728187,
+      "width": 800,
+      "height": 1165,
+      "map_name": "Teknara",
       "graph": {
-        "width": 1333,
-        "height": 632,
+        "width": 800,
+        "height": 1165,
         "points": 100000,
         "sampling": "square",
         "jitter": 0.9
       },
       "geography": {
         "mapSize": 100,
-        "latitude": 50,
+        "latitude": 25,
         "longitude": 50,
         "coordinates": {
           "latT": 180,
           "latN": 90,
           "latS": -90,
-          "lonT": 360,
-          "lonW": -180,
-          "lonE": 180
+          "lonT": 123.6,
+          "lonW": -61.8,
+          "lonE": 61.8
         }
       },
       "climate": {
         "temperature": {
-          "equator": 44,
-          "northPole": 12,
-          "southPole": 10
+          "equator": 20,
+          "northPole": -17,
+          "southPole": -19
         },
-        "precipitation": 500,
+        "precipitation": 170,
         "winds": [
           225,
           45,
@@ -274,12 +326,18 @@
           315
         ]
       },
-      "culture_set": "european",
-      "bytes": 15745658,
-      "gzip_bytes": 3923124,
-      "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
-      "repository_path": "mapas-azgaar/originales/derat(continente de alfaguara).map",
+      "bytes": 14982851,
+      "gzip_bytes": 3704720,
+      "sha256": "dd9bc3f301e5c2b2be2eeb63c242930f4b5e54e30fe59a44e21f982fd6a40f50",
+      "gzip_sha256": "3fc8d367a2dd8a47403b7a5e63d925620e22f6c0eaefa11f1750d2ea3dbe2042",
+      "repository_path": "mapas-azgaar/originales/Teknara.map",
+      "compressed_local_path": "mapas-azgaar/paquetes/Teknara.map.gz",
       "uploaded": false
     }
-  ]
+  ],
+  "compressed_archive": {
+    "repository_path": "Historias_mapas_gz_GitHub.zip",
+    "repository_version": "5 mapas (snapshot anterior a Teknara)",
+    "updated_six_map_package": "Preparado localmente; pendiente de reemplazar el ZIP del repositorio"
+  }
 }
