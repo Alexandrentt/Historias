@@ -5,7 +5,7 @@
     "world": "Derat",
     "focus_continent": "Alfaguara",
     "coordinate_system": "OGC:CRS84 longitude/latitude",
-    "status": "análisis geopolítico provisional con anclajes históricos documentados; no canon cartográfico",
+    "status": "análisis geopolítico provisional; capas físicas conceptuales y datos regionales Azgaar se mantienen separados; no canon cartográfico",
     "source_layers": [
       "Alfaguara.geojson",
       "Derat_continentes.geojson",
@@ -46,6 +46,12 @@
       "extraction": "SVG labels converted to CRS84 longitude/latitude",
       "caveat": "Los cuatro burgs incluidos son etiquetas del mapa Azgaar, no asentamientos canónicos confirmados. Los nombres de estados Azgaar son igualmente provisionales y no deben sustituir el marco de ciudades-estado de la narración.",
       "proximity_analysis": "Se calcularon distancias geodésicas desde cada burg candidato a la ruta y al río vectorial más cercanos extraídos del mismo SVG. Las rutas son trazos del mapa, no infraestructura histórica confirmada."
+    },
+    "cross_layer_audit": {
+      "global_physical_layer": "Derat_relieve_hidrografia.geojson",
+      "regional_azgaar_layer": "derat(continente de alfaguara).map; SVG-derived burgs/routes/rivers",
+      "finding": "Las distancias a ríos Azgaar guardadas anteriormente (4.7–175 km) no coinciden con las distancias a los ríos de la capa física conceptual (86.5–867 km). Son dos conjuntos geométricos diferentes y no deben tratarse como una misma red hidrográfica.",
+      "recommendation": "Mantener separados los campos nearest_azgaar_* y proximity_to_global_proposed_physical_layer. Antes de fusionar capas, revisar georreferenciación y decidir si el relieve conceptual debe ajustarse al mapa regional o viceversa."
     }
   },
   "features": [
@@ -420,7 +426,23 @@
         "nearest_azgaar_river_id": "river2883",
         "nearest_azgaar_river_distance_km": 82.3,
         "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
-        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura.",
+        "proximity_to_global_proposed_physical_layer": {
+          "nearest_physical_feature": "Cordillera de la Muralla Norte",
+          "nearest_physical_feature_kind": "mountain_range",
+          "nearest_physical_feature_distance_km": 80.6,
+          "nearest_surface_water": "Río Rojo",
+          "nearest_surface_water_kind": "river",
+          "nearest_surface_water_distance_km": 867,
+          "nearest_proposed_river": "Río Rojo",
+          "nearest_proposed_river_distance_km": 867,
+          "nearest_proposed_lake": null,
+          "nearest_proposed_lake_distance_km": null,
+          "distance_to_cuenca_de_ceniza_km": 1444.3,
+          "source_layer": "Derat_relieve_hidrografia.geojson",
+          "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
+          "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
+        }
       },
       "geometry": {
         "type": "Point",
@@ -452,7 +474,23 @@
         "nearest_azgaar_river_id": "river714",
         "nearest_azgaar_river_distance_km": 4.7,
         "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
-        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura.",
+        "proximity_to_global_proposed_physical_layer": {
+          "nearest_physical_feature": "Lago de las Nieves",
+          "nearest_physical_feature_kind": "lake",
+          "nearest_physical_feature_distance_km": 163.6,
+          "nearest_surface_water": "Lago de las Nieves",
+          "nearest_surface_water_kind": "lake",
+          "nearest_surface_water_distance_km": 163.6,
+          "nearest_proposed_river": "Río del Deshielo",
+          "nearest_proposed_river_distance_km": 173.6,
+          "nearest_proposed_lake": "Lago de las Nieves",
+          "nearest_proposed_lake_distance_km": 163.6,
+          "distance_to_cuenca_de_ceniza_km": 2421,
+          "source_layer": "Derat_relieve_hidrografia.geojson",
+          "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
+          "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
+        }
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +522,23 @@
         "nearest_azgaar_river_id": "river773",
         "nearest_azgaar_river_distance_km": 16.6,
         "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
-        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura.",
+        "proximity_to_global_proposed_physical_layer": {
+          "nearest_physical_feature": "Cordillera de la Muralla Norte",
+          "nearest_physical_feature_kind": "mountain_range",
+          "nearest_physical_feature_distance_km": 545.4,
+          "nearest_surface_water": "Lago de las Nieves",
+          "nearest_surface_water_kind": "lake",
+          "nearest_surface_water_distance_km": 719.6,
+          "nearest_proposed_river": "Río de las Cuencas",
+          "nearest_proposed_river_distance_km": 793,
+          "nearest_proposed_lake": "Lago de las Nieves",
+          "nearest_proposed_lake_distance_km": 719.6,
+          "distance_to_cuenca_de_ceniza_km": 2664.7,
+          "source_layer": "Derat_relieve_hidrografia.geojson",
+          "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
+          "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
+        }
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +570,23 @@
         "nearest_azgaar_river_id": "river1097",
         "nearest_azgaar_river_distance_km": 175,
         "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
-        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura.",
+        "proximity_to_global_proposed_physical_layer": {
+          "nearest_physical_feature": "Río del Deshielo",
+          "nearest_physical_feature_kind": "river",
+          "nearest_physical_feature_distance_km": 86.5,
+          "nearest_surface_water": "Río del Deshielo",
+          "nearest_surface_water_kind": "river",
+          "nearest_surface_water_distance_km": 86.5,
+          "nearest_proposed_river": "Río del Deshielo",
+          "nearest_proposed_river_distance_km": 86.5,
+          "nearest_proposed_lake": "Lago de las Nieves",
+          "nearest_proposed_lake_distance_km": 124.6,
+          "distance_to_cuenca_de_ceniza_km": 2758.9,
+          "source_layer": "Derat_relieve_hidrografia.geojson",
+          "method": "Distancia geodésica aproximada (Haversine sobre segmentos en proyección local) entre el punto Azgaar y la línea o perímetro del elemento físico conceptual más cercano.",
+          "caveat": "Esta capa física conceptual no coincide espacialmente con las líneas fluviales del mapa regional Azgaar. Estas distancias no deben mezclarse con nearest_azgaar_river_distance_km ni interpretarse como disponibilidad de agua. La capa física es propuesta, no levantamiento topográfico."
+        }
       },
       "geometry": {
         "type": "Point",
