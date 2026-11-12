@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "name": "Derat — análisis geopolítico preliminar de Alfaguara v1",
+  "metadata": {
+    "world": "Derat",
+    "focus_continent": "Alfaguara",
+    "coordinate_system": "OGC:CRS84 longitude/latitude",
+    "status": "propuesta analítica; no canon aprobado",
+    "source_layers": [
+      "Alfaguara.geojson",
+      "Derat_continentes.geojson",
+      "Derat_relieve_hidrografia.geojson"
+    ],
+    "method": "Overlay interpretativo construido a partir de la geografía física conceptual ya publicada y de los hechos narrativos documentados.",
+    "hard_limits": [
+      "No se inventan ni se localizan ciudades-estado: el repositorio no contiene coordenadas verificadas para ellas.",
+      "No se trazan fronteras políticas ni se atribuye soberanía sobre polígonos.",
+      "No se asignan minas exactas: Cuenca de Ceniza representa presión extractiva y degradación propuestas, no un inventario de yacimientos.",
+      "No se atribuye un área territorial concreta a Bowit, Águila Roja o las fuerzas de ocupación.",
+      "Los corredores son ejes de estudio, no carreteras, vías navegables ni rutas confirmadas."
+    ],
+    "next_data_needed": [
+      "Coordenadas y nombres canónicos de las ciudades-estado de Alfaguara.",
+      "Localización confirmada de yacimientos de Madianita y Balatium, plantas de procesamiento y concesiones.",
+      "Fuentes de agua dulce, acuíferos, puntos de captación y asentamientos dependientes.",
+      "Rutas reales, puertos, pasos de montaña, puestos de control y nodos logísticos.",
+      "Fechas y evidencia de control militar, administración civil y alianzas locales."
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "alfaguara-zona-hidrica-central",
+      "properties": {
+        "name": "Sistema de cuencas interiores",
+        "kind": "strategic_hydrological_region",
+        "continent": "Alfaguara",
+        "strategic_value": [
+          "abastecimiento de agua",
+          "asentamiento",
+          "agricultura de cuenca",
+          "posible transporte local"
+        ],
+        "physical_basis": [
+          "Altiplano de las Cuencas",
+          "Río de las Cuencas",
+          "Gran Lago Interior"
+        ],
+        "political_implication": "Los asentamientos que dependan de esta red podrían negociar acceso, captación y mantenimiento; no se conoce qué ciudades la controlan.",
+        "control": "sin determinar",
+        "certainty": "media: región derivada de hidrografía conceptual",
+        "status": "zona de análisis propuesta; no frontera ni jurisdicción"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130,
+              63
+            ],
+            [
+              -119,
+              65
+            ],
+            [
+              -105,
+              64
+            ],
+            [
+              -91,
+              62
+            ],
+            [
+              -86,
+              58
+            ],
+            [
+              -91,
+              52
+            ],
+            [
+              -102,
+              50
+            ],
+            [
+              -116,
+              51
+            ],
+            [
+              -128,
+              55
+            ],
+            [
+              -130,
+              63
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-cuenca-ceniza-presion",
+      "properties": {
+        "name": "Zona de presión extractiva de Cuenca de Ceniza",
+        "kind": "extractive_pressure_region",
+        "continent": "Alfaguara",
+        "strategic_value": [
+          "extracción estratégica potencial",
+          "infraestructura industrial",
+          "presión ambiental",
+          "dependencia logística"
+        ],
+        "physical_basis": [
+          "Cuenca de Ceniza"
+        ],
+        "political_implication": "Es un candidato para estudiar concesiones, vigilancia y dependencia de corredores. El polígono no identifica minas ni demuestra ocupación militar.",
+        "resources": [
+          "Madianita",
+          "Balatium"
+        ],
+        "resource_location_status": "los materiales son estratégicos en el canon de Derat; su localización exacta dentro de este polígono no está confirmada",
+        "control": "sin determinar",
+        "certainty": "media para presión extractiva propuesta; baja para ubicación de depósitos",
+        "status": "zona de análisis propuesta; no concesión ni frontera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96,
+              52
+            ],
+            [
+              -91,
+              56
+            ],
+            [
+              -77,
+              58
+            ],
+            [
+              -69,
+              55
+            ],
+            [
+              -74,
+              50
+            ],
+            [
+              -88,
+              49
+            ],
+            [
+              -96,
+              52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-eje-deshielo-cuencas",
+      "properties": {
+        "name": "Eje hidrográfico polar–interior",
+        "kind": "hydrological_study_axis",
+        "continent": "Alfaguara",
+        "strategic_value": [
+          "agua dulce",
+          "estacionalidad",
+          "conectividad entre cabeceras y cuencas"
+        ],
+        "physical_basis": [
+          "Río del Deshielo",
+          "Altiplano de las Cuencas"
+        ],
+        "political_implication": "Permite estudiar dependencia aguas arriba/abajo y vulnerabilidad de captaciones. No se representa como carretera ni ruta navegable.",
+        "control": "sin determinar",
+        "certainty": "media",
+        "status": "eje de análisis; geometría sigue el cauce conceptual"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            82
+          ],
+          [
+            -132,
+            75
+          ],
+          [
+            -119,
+            68
+          ],
+          [
+            -110,
+            61
+          ],
+          [
+            -99,
+            55
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-eje-cuencas-ceniza",
+      "properties": {
+        "name": "Eje de conectividad interior hacia Cuenca de Ceniza",
+        "kind": "hypothetical_logistics_axis",
+        "continent": "Alfaguara",
+        "strategic_value": [
+          "abastecimiento de enclaves",
+          "movimiento de mineral",
+          "acceso a agua",
+          "dependencia de pasos"
+        ],
+        "physical_basis": [
+          "Gran Lago Interior",
+          "Cuenca de Ceniza"
+        ],
+        "political_implication": "Hipótesis para investigar cómo se conectaría una zona extractiva con agua y asentamientos. No afirma que exista una ruta, carretera o control sobre ella.",
+        "control": "sin determinar",
+        "certainty": "baja; eje conceptual sin infraestructura cartografiada",
+        "status": "hipótesis de conectividad; no ruta existente"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103,
+            58
+          ],
+          [
+            -96,
+            57
+          ],
+          [
+            -89,
+            56
+          ],
+          [
+            -82,
+            55
+          ],
+          [
+            -74,
+            54
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-nodos-urbanos-pendientes",
+      "properties": {
+        "name": "Ciudades-estado de Alfaguara — localización pendiente",
+        "kind": "unmapped_political_settlement_system",
+        "continent": "Alfaguara",
+        "known_canon": "Derat está fragmentada en ciudades-estado; no se ha verificado aquí el inventario georreferenciado.",
+        "required_mapping": "Cada ciudad deberá añadirse como Point independiente cuando exista nombre y coordenada en una fuente del repositorio.",
+        "control": "no asignado",
+        "status": "registro de datos faltantes; sin geometría deliberadamente"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-areas-control-pendientes",
+      "properties": {
+        "name": "Control territorial de facciones — pendiente de evidencia",
+        "kind": "unmapped_control_areas",
+        "actors": [
+          "fuerzas de ocupación amitianas",
+          "Bowit",
+          "células de Águila Roja",
+          "autoridades de las ciudades-estado"
+        ],
+        "known_canon": "Los actores existen en el marco narrativo, pero sus límites de control, guarniciones, alianzas y fechas deben documentarse.",
+        "mapping_rule": "Separar control militar, administración civil, influencia, concesiones económicas y legitimidad local en capas distintas.",
+        "status": "no cartografiar hasta disponer de evidencias fechadas"
+      },
+      "geometry": null
+    }
+  ]
+}
