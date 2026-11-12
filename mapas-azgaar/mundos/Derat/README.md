@@ -10,5 +10,6 @@
 - `Derat_relieve_hidrografia.geojson`: 18 elementos propuestos de relieve, ríos, lagos y zonas físicas.
 - `Derat_mundo.svg`: vista general del planeta.
 - `Geografia_Derat.md`: atlas descriptivo y reglas de continuidad.
+- `Geopolitica_Derat_v1.md`: análisis de actores, recursos, corredores, ocupación y decisiones pendientes; documento propositivo, no canon cerrado.
 
 Vardena y Edravia son nombres propuestos para esta versión. Las capas son datos GeoJSON/SVG editables, no archivos nativos `.map` de Azgaar. El mapa regional original de Alfaguara no se sobrescribe.
