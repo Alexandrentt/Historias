@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "world": "Derat",
   "continents": [
     {
@@ -25,13 +25,15 @@
     "Derat_relieve_hidrografia.geojson",
     "Derat_mundo.svg",
     "Derat_geopolitica_Alfaguara.geojson",
-    "Geopolitica_Derat_v1.md"
+    "Geopolitica_Derat_v1.md",
+    "Derat_Azgaar_estados_candidatos_Alfaguara.geojson"
   ],
   "format_note": "GeoJSON/SVG editables; no son archivos nativos .map de Azgaar.",
   "layers": {
     "physical": "Derat_relieve_hidrografia.geojson",
     "political_analysis": "Derat_geopolitica_Alfaguara.geojson",
-    "political_analysis_status": "provisional; no political borders or faction-control polygons"
+    "political_analysis_status": "provisional; no political borders or faction-control polygons",
+    "azgaar_state_candidates": "Derat_Azgaar_estados_candidatos_Alfaguara.geojson"
   },
   "notes": [
     "Derat_relieve_hidrografia.geojson includes geopolitical_relevance and geopolitical_confidence attributes for Alfaguara physical features.",
@@ -40,6 +42,7 @@
     "La capa geopolítica incluye anclajes temporales documentados (Consejo de Alfaguara, veta de Balatium, Vía de las Sombras y poblado de la Operación Tierra 5); sus geometrías son null hasta obtener coordenadas verificables.",
     "Bowit, Águila Roja y las fuerzas llamadas Régimen se describen con sus alcances documentados, sin convertir influencia en fronteras.",
     "Cuatro etiquetas burg de Azgaar dentro del polígono de Alfaguara se añadieron como puntos candidatos con coordenadas CRS84; sus nombres no son canónicos y requieren revisión narrativa.",
-    "La auditoría detecta ocho polígonos de estado Azgaar con intersección superior al 5 % con Alfaguara; sus nombres y límites automáticos no equivalen a ciudades-estado ni a soberanías del canon."
+    "La auditoría detecta ocho polígonos de estado Azgaar con intersección superior al 5 % con Alfaguara; sus nombres y límites automáticos no equivalen a ciudades-estado ni a soberanías del canon.",
+    "La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson contiene cuatro polígonos recortados a Alfaguara que corresponden a estados Azgaar con burg etiquetado en la región; es material de revisión no canónico."
   ]
 }
