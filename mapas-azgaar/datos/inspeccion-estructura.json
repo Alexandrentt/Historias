@@ -1,0 +1,8589 @@
+[
+  {
+    "world": "Amitia",
+    "source_file": "Amitia.map.gz",
+    "container": "Historias_mapas_gz_GitHub.zip",
+    "compressed_size_bytes": 3871772,
+    "compressed_sha256": "2d956945911211f65f399bd6692b137e5530104863fc7cf738c1488ba34635ee",
+    "uncompressed_size_bytes": 15714410,
+    "uncompressed_sha256": "0016c788d9d9059f38a587ea7f831e38799ca06f4b4bc74240df975b0b417d70",
+    "record_count": 56,
+    "azgaar_version": "1.157.0",
+    "saved_date": "2026-11-12",
+    "seed": "250750147",
+    "canvas": {
+      "width": 800,
+      "height": 1165
+    },
+    "map_name": "Bacsesia",
+    "geography": {
+      "latT": 63,
+      "latN": 32.7,
+      "latS": -30.3,
+      "lonT": 43.3,
+      "lonW": -21.6,
+      "lonE": 21.7
+    },
+    "graph": {
+      "width": 800,
+      "height": 1165,
+      "points": 100000,
+      "sampling": "square",
+      "jitter": 0.9
+    },
+    "grid": {
+      "spacing": 3.05,
+      "cellsX": 262,
+      "cellsY": 382,
+      "points": {
+        "count": 100084,
+        "item_type": "list"
+      },
+      "boundary": {
+        "count": 646,
+        "item_type": "list"
+      },
+      "grid_features": {
+        "count": 199,
+        "item_type": "int"
+      }
+    },
+    "terrain": {
+      "height_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "land_cells_height_ge_20": 52390,
+      "water_cells_height_lt_20": 47694,
+      "precipitation_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "feature_id_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "distance_to_water_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "temperature_values": {
+        "count": 100084,
+        "item_type": "int"
+      }
+    },
+    "entities": {
+      "biomes": 13,
+      "pack_features": 163,
+      "cultures_including_wildlands": 14,
+      "states_including_neutrals": 101,
+      "states_excluding_neutrals": 100,
+      "burgs_including_placeholder": 1897,
+      "burgs_excluding_placeholder": 1896,
+      "religions_including_none": 24,
+      "religions_excluding_none": 23,
+      "provinces_including_placeholder": 674,
+      "provinces_excluding_placeholder": 673,
+      "rivers": 1194,
+      "routes": 1724,
+      "markers": 438,
+      "zones": 17
+    },
+    "svg": {
+      "path": "mapas-azgaar/visualizaciones/fuentes/Amitia.svg.gz",
+      "characters": 5153224,
+      "xml_valid": true
+    },
+    "preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Amitia.png",
+    "band_preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Amitia-franja-ecuatorial.png",
+    "center_sample_band": {
+      "definition": "145 km north-south, centered on latitude 0",
+      "wgs84_limit_degrees_approx": 0.6556676,
+      "method": "equirectangular bounds + grid point centers; preliminary sample, not polygon intersection",
+      "sampled_cells": 2072,
+      "land_samples": 1042,
+      "water_samples": 1030,
+      "land_sample_percent": 50.29,
+      "longitude_min_sampled": -21.5876,
+      "longitude_max_sampled": 21.6383,
+      "one_degree_bins": [
+        {
+          "longitude_degree": -22,
+          "land": 0,
+          "water": 27,
+          "samples": 27
+        },
+        {
+          "longitude_degree": -21,
+          "land": 0,
+          "water": 48,
+          "samples": 48
+        },
+        {
+          "longitude_degree": -20,
+          "land": 0,
+          "water": 49,
+          "samples": 49
+        },
+        {
+          "longitude_degree": -19,
+          "land": 0,
+          "water": 48,
+          "samples": 48
+        },
+        {
+          "longitude_degree": -18,
+          "land": 11,
+          "water": 35,
+          "samples": 46
+        },
+        {
+          "longitude_degree": -17,
+          "land": 1,
+          "water": 46,
+          "samples": 47
+        },
+        {
+          "longitude_degree": -16,
+          "land": 0,
+          "water": 47,
+          "samples": 47
+        },
+        {
+          "longitude_degree": -15,
+          "land": 2,
+          "water": 46,
+          "samples": 48
+        },
+        {
+          "longitude_degree": -14,
+          "land": 37,
+          "water": 12,
+          "samples": 49
+        },
+        {
+          "longitude_degree": -13,
+          "land": 36,
+          "water": 15,
+          "samples": 51
+        },
+        {
+          "longitude_degree": -12,
+          "land": 13,
+          "water": 34,
+          "samples": 47
+        },
+        {
+          "longitude_degree": -11,
+          "land": 20,
+          "water": 24,
+          "samples": 44
+        },
+        {
+          "longitude_degree": -10,
+          "land": 30,
+          "water": 21,
+          "samples": 51
+        },
+        {
+          "longitude_degree": -9,
+          "land": 42,
+          "water": 8,
+          "samples": 50
+        },
+        {
+          "longitude_degree": -8,
+          "land": 33,
+          "water": 16,
+          "samples": 49
+        },
+        {
+          "longitude_degree": -7,
+          "land": 47,
+          "water": 0,
+          "samples": 47
+        },
+        {
+          "longitude_degree": -6,
+          "land": 52,
+          "water": 0,
+          "samples": 52
+        },
+        {
+          "longitude_degree": -5,
+          "land": 47,
+          "water": 0,
+          "samples": 47
+        },
+        {
+          "longitude_degree": -4,
+          "land": 44,
+          "water": 1,
+          "samples": 45
+        },
+        {
+          "longitude_degree": -3,
+          "land": 33,
+          "water": 15,
+          "samples": 48
+        },
+        {
+          "longitude_degree": -2,
+          "land": 49,
+          "water": 0,
+          "samples": 49
+        },
+        {
+          "longitude_degree": -1,
+          "land": 47,
+          "water": 0,
+          "samples": 47
+        },
+        {
+          "longitude_degree": 0,
+          "land": 47,
+          "water": 0,
+          "samples": 47
+        },
+        {
+          "longitude_degree": 1,
+          "land": 46,
+          "water": 0,
+          "samples": 46
+        },
+        {
+          "longitude_degree": 2,
+          "land": 45,
+          "water": 0,
+          "samples": 45
+        },
+        {
+          "longitude_degree": 3,
+          "land": 32,
+          "water": 14,
+          "samples": 46
+        },
+        {
+          "longitude_degree": 4,
+          "land": 29,
+          "water": 18,
+          "samples": 47
+        },
+        {
+          "longitude_degree": 5,
+          "land": 46,
+          "water": 1,
+          "samples": 47
+        },
+        {
+          "longitude_degree": 6,
+          "land": 48,
+          "water": 0,
+          "samples": 48
+        },
+        {
+          "longitude_degree": 7,
+          "land": 50,
+          "water": 0,
+          "samples": 50
+        },
+        {
+          "longitude_degree": 8,
+          "land": 44,
+          "water": 0,
+          "samples": 44
+        },
+        {
+          "longitude_degree": 9,
+          "land": 49,
+          "water": 0,
+          "samples": 49
+        },
+        {
+          "longitude_degree": 10,
+          "land": 42,
+          "water": 6,
+          "samples": 48
+        },
+        {
+          "longitude_degree": 11,
+          "land": 16,
+          "water": 30,
+          "samples": 46
+        },
+        {
+          "longitude_degree": 12,
+          "land": 4,
+          "water": 46,
+          "samples": 50
+        },
+        {
+          "longitude_degree": 13,
+          "land": 0,
+          "water": 48,
+          "samples": 48
+        },
+        {
+          "longitude_degree": 14,
+          "land": 0,
+          "water": 50,
+          "samples": 50
+        },
+        {
+          "longitude_degree": 15,
+          "land": 0,
+          "water": 48,
+          "samples": 48
+        },
+        {
+          "longitude_degree": 16,
+          "land": 0,
+          "water": 52,
+          "samples": 52
+        },
+        {
+          "longitude_degree": 17,
+          "land": 0,
+          "water": 47,
+          "samples": 47
+        },
+        {
+          "longitude_degree": 18,
+          "land": 0,
+          "water": 50,
+          "samples": 50
+        },
+        {
+          "longitude_degree": 19,
+          "land": 0,
+          "water": 48,
+          "samples": 48
+        },
+        {
+          "longitude_degree": 20,
+          "land": 0,
+          "water": 50,
+          "samples": 50
+        },
+        {
+          "longitude_degree": 21,
+          "land": 0,
+          "water": 30,
+          "samples": 30
+        }
+      ],
+      "csv_path": "mapas-azgaar/datos/muestras-centros-franja-ecuatorial/Amitia.csv"
+    },
+    "records": [
+      {
+        "index": 0,
+        "name": "header",
+        "length": 112,
+        "type": "text"
+      },
+      {
+        "index": 1,
+        "name": "map_options",
+        "length": 26841,
+        "type": "dict",
+        "keys": [
+          "seed",
+          "graph",
+          "geography",
+          "climate",
+          "cultures",
+          "lore",
+          "units",
+          "style",
+          "burgs",
+          "labels",
+          "military",
+          "transports",
+          "eras",
+          "customIcons",
+          "goods",
+          "coastline",
+          "relief"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "deprecated_map_coordinates",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 3,
+        "name": "biomes",
+        "length": 2077,
+        "count": 13,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "color",
+          "habitability",
+          "development",
+          "iconsDensity",
+          "icons",
+          "cost"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "deprecated_notes",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 5,
+        "name": "svg",
+        "length": 5153224,
+        "type": "text"
+      },
+      {
+        "index": 6,
+        "name": "grid_metadata",
+        "length": 1585124,
+        "type": "dict",
+        "keys": [
+          "spacing",
+          "cellsX",
+          "cellsY",
+          "boundary",
+          "points",
+          "features"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "grid_height",
+        "length": 271434,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 8,
+        "name": "grid_precipitation",
+        "length": 260065,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 9,
+        "name": "grid_feature_ids",
+        "length": 237006,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 10,
+        "name": "grid_distance_to_water",
+        "length": 225033,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 11,
+        "name": "grid_temperature",
+        "length": 299206,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 12,
+        "name": "pack_features",
+        "length": 166613,
+        "count": 163,
+        "item_type": "int"
+      },
+      {
+        "index": 13,
+        "name": "cultures",
+        "length": 2352,
+        "count": 14,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "base",
+          "origins",
+          "shield",
+          "type",
+          "tags"
+        ]
+      },
+      {
+        "index": 14,
+        "name": "states",
+        "length": 457278,
+        "count": 101,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "economy",
+          "tags",
+          "neighbors",
+          "diplomacy",
+          "urban",
+          "rural",
+          "burgs",
+          "area",
+          "cells",
+          "provinces"
+        ]
+      },
+      {
+        "index": 15,
+        "name": "burgs",
+        "length": 856176,
+        "count": 1897,
+        "item_type": "int"
+      },
+      {
+        "index": 16,
+        "name": "pack_biome_ids",
+        "length": 139562,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 17,
+        "name": "pack_burg_ids",
+        "length": 142888,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 18,
+        "name": "pack_confluence",
+        "length": 138825,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 19,
+        "name": "pack_culture_ids",
+        "length": 160068,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 20,
+        "name": "pack_river_flux",
+        "length": 162652,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 21,
+        "name": "pack_population",
+        "length": 437337,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 22,
+        "name": "pack_river_ids",
+        "length": 153026,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 23,
+        "name": "deprecated_roads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 24,
+        "name": "pack_cell_score",
+        "length": 171037,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 25,
+        "name": "pack_state_ids",
+        "length": 189310,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 26,
+        "name": "pack_religion_ids",
+        "length": 190359,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 27,
+        "name": "pack_province_ids",
+        "length": 242875,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 28,
+        "name": "deprecated_crossroads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 29,
+        "name": "religions",
+        "length": 5146,
+        "count": 24,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "origins",
+          "tags"
+        ]
+      },
+      {
+        "index": 30,
+        "name": "provinces",
+        "length": 217136,
+        "count": 674,
+        "item_type": "int"
+      },
+      {
+        "index": 31,
+        "name": "name_bases",
+        "length": 885,
+        "type": "name_base_text"
+      },
+      {
+        "index": 32,
+        "name": "rivers",
+        "length": 308657,
+        "count": 1194,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "source",
+          "mouth",
+          "discharge",
+          "length",
+          "width",
+          "widthFactor",
+          "sourceWidth",
+          "parent",
+          "cells",
+          "group",
+          "tags",
+          "basin",
+          "name",
+          "type"
+        ]
+      },
+      {
+        "index": 33,
+        "name": "deprecated_rulers",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 34,
+        "name": "fonts",
+        "length": 759,
+        "type": "json"
+      },
+      {
+        "index": 35,
+        "name": "markers",
+        "length": 117542,
+        "count": 438,
+        "item_type": "dict",
+        "first_item_keys": [
+          "icon",
+          "type",
+          "dx",
+          "px",
+          "x",
+          "y",
+          "cell",
+          "i",
+          "name",
+          "tags",
+          "note"
+        ]
+      },
+      {
+        "index": 36,
+        "name": "cell_routes",
+        "length": 609561,
+        "type": "json"
+      },
+      {
+        "index": 37,
+        "name": "routes",
+        "length": 570082,
+        "count": 1724,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "group",
+          "name",
+          "feature",
+          "points",
+          "tags"
+        ]
+      },
+      {
+        "index": 38,
+        "name": "zones",
+        "length": 5749,
+        "count": 17,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "note",
+          "type",
+          "cells",
+          "color",
+          "tags"
+        ]
+      },
+      {
+        "index": 39,
+        "name": "ice",
+        "length": 1376,
+        "type": "json"
+      },
+      {
+        "index": 40,
+        "name": "pack_good_ids",
+        "length": 138403,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 41,
+        "name": "deprecated_goods",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 42,
+        "name": "markets",
+        "length": 265890,
+        "count": 103,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "centerBurgId",
+          "color",
+          "goods",
+          "feePaid",
+          "rural"
+        ]
+      },
+      {
+        "index": 43,
+        "name": "deals",
+        "length": 1177509,
+        "type": "record"
+      },
+      {
+        "index": 44,
+        "name": "pack_market_ids",
+        "length": 192940,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 45,
+        "name": "deprecated_custom_good_icons",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 46,
+        "name": "measurers",
+        "length": 107,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "type",
+          "points"
+        ]
+      },
+      {
+        "index": 47,
+        "name": "added_labels",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 48,
+        "name": "styles",
+        "length": 21389,
+        "type": "dict",
+        "keys": [
+          "biomes",
+          "borders",
+          "burgIcons",
+          "cells",
+          "coastline",
+          "compass",
+          "coordinates",
+          "cultures",
+          "emblems",
+          "fogging",
+          "goods",
+          "grid",
+          "heightmap",
+          "ice",
+          "journeys",
+          "labels",
+          "lakes",
+          "landmass",
+          "legend",
+          "map",
+          "markers",
+          "markets",
+          "military",
+          "ocean",
+          "population"
+        ]
+      },
+      {
+        "index": 49,
+        "name": "relief",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 50,
+        "name": "layers",
+        "length": 510,
+        "type": "dict",
+        "keys": [
+          "order",
+          "active"
+        ]
+      },
+      {
+        "index": 51,
+        "name": "graph_overrides",
+        "length": 2,
+        "type": "dict",
+        "keys": []
+      },
+      {
+        "index": 52,
+        "name": "journeys",
+        "length": 14293,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "type",
+          "segments",
+          "i",
+          "color"
+        ]
+      },
+      {
+        "index": 53,
+        "name": "legends",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 54,
+        "name": "pack_prosperity",
+        "length": 194999,
+        "type": "numeric_array",
+        "count": 69154
+      },
+      {
+        "index": 55,
+        "name": "pack_development",
+        "length": 192505,
+        "type": "numeric_array",
+        "count": 69154
+      }
+    ]
+  },
+  {
+    "world": "Atharis",
+    "source_file": "Atharis.map.gz",
+    "container": "Historias_mapas_gz_GitHub.zip",
+    "compressed_size_bytes": 3489436,
+    "compressed_sha256": "70fcc73b55630ba8dcab51893c04ce57c3f50a9f251c528645e79df1e2c66732",
+    "uncompressed_size_bytes": 14355599,
+    "uncompressed_sha256": "3e55ac0c8297d5e6d3b140e6c727bb4fb0e32a6dc4e425d4f25bd75bf10a86c2",
+    "record_count": 56,
+    "azgaar_version": "1.157.0",
+    "saved_date": "2026-11-12",
+    "seed": "502339303",
+    "canvas": {
+      "width": 777,
+      "height": 760
+    },
+    "map_name": "Iscia",
+    "geography": {
+      "latT": 120.6,
+      "latN": 45.4,
+      "latS": -75.2,
+      "lonT": 123.3,
+      "lonW": -61.6,
+      "lonE": 61.7
+    },
+    "graph": {
+      "width": 777,
+      "height": 760,
+      "points": 100000,
+      "sampling": "square",
+      "jitter": 0.9
+    },
+    "grid": {
+      "spacing": 2.43,
+      "cellsX": 320,
+      "cellsY": 313,
+      "points": {
+        "count": 100160,
+        "item_type": "list"
+      },
+      "boundary": {
+        "count": 634,
+        "item_type": "list"
+      },
+      "grid_features": {
+        "count": 202,
+        "item_type": "int"
+      }
+    },
+    "terrain": {
+      "height_values": {
+        "count": 100160,
+        "item_type": "int"
+      },
+      "land_cells_height_ge_20": 47201,
+      "water_cells_height_lt_20": 52959,
+      "precipitation_values": {
+        "count": 100160,
+        "item_type": "int"
+      },
+      "feature_id_values": {
+        "count": 100160,
+        "item_type": "int"
+      },
+      "distance_to_water_values": {
+        "count": 100160,
+        "item_type": "int"
+      },
+      "temperature_values": {
+        "count": 100160,
+        "item_type": "int"
+      }
+    },
+    "entities": {
+      "biomes": 13,
+      "pack_features": 148,
+      "cultures_including_wildlands": 16,
+      "states_including_neutrals": 101,
+      "states_excluding_neutrals": 100,
+      "burgs_including_placeholder": 1686,
+      "burgs_excluding_placeholder": 1685,
+      "religions_including_none": 39,
+      "religions_excluding_none": 38,
+      "provinces_including_placeholder": 796,
+      "provinces_excluding_placeholder": 795,
+      "rivers": 1114,
+      "routes": 1634,
+      "markers": 426,
+      "zones": 16
+    },
+    "svg": {
+      "path": "mapas-azgaar/visualizaciones/fuentes/Atharis.svg.gz",
+      "characters": 4337500,
+      "xml_valid": true
+    },
+    "preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Atharis.png",
+    "band_preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Atharis-franja-ecuatorial.png",
+    "center_sample_band": {
+      "definition": "145 km north-south, centered on latitude 0",
+      "wgs84_limit_degrees_approx": 0.6556676,
+      "method": "equirectangular bounds + grid point centers; preliminary sample, not polygon intersection",
+      "sampled_cells": 1108,
+      "land_samples": 808,
+      "water_samples": 300,
+      "land_sample_percent": 72.92,
+      "longitude_min_sampled": -61.4794,
+      "longitude_max_sampled": 61.7,
+      "one_degree_bins": [
+        {
+          "longitude_degree": -62,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -61,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -60,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -59,
+          "land": 1,
+          "water": 8,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -58,
+          "land": 8,
+          "water": 2,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -57,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -56,
+          "land": 8,
+          "water": 2,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -55,
+          "land": 2,
+          "water": 8,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -54,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -53,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -52,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -51,
+          "land": 0,
+          "water": 10,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -50,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -49,
+          "land": 3,
+          "water": 8,
+          "samples": 11
+        },
+        {
+          "longitude_degree": -48,
+          "land": 2,
+          "water": 5,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -47,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -46,
+          "land": 0,
+          "water": 11,
+          "samples": 11
+        },
+        {
+          "longitude_degree": -45,
+          "land": 3,
+          "water": 6,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -44,
+          "land": 8,
+          "water": 2,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -43,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -42,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -41,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -40,
+          "land": 12,
+          "water": 0,
+          "samples": 12
+        },
+        {
+          "longitude_degree": -39,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -38,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -37,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -36,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -35,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": -34,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -33,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -32,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -31,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -30,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -29,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -28,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -27,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": -26,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -25,
+          "land": 8,
+          "water": 1,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -24,
+          "land": 7,
+          "water": 3,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -23,
+          "land": 7,
+          "water": 2,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -22,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -21,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -20,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -19,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -18,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": -17,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -16,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -15,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -14,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -13,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -12,
+          "land": 0,
+          "water": 9,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -11,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -10,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -9,
+          "land": 0,
+          "water": 10,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -8,
+          "land": 0,
+          "water": 10,
+          "samples": 10
+        },
+        {
+          "longitude_degree": -7,
+          "land": 0,
+          "water": 11,
+          "samples": 11
+        },
+        {
+          "longitude_degree": -6,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -5,
+          "land": 0,
+          "water": 12,
+          "samples": 12
+        },
+        {
+          "longitude_degree": -4,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -3,
+          "land": 0,
+          "water": 9,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -2,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -1,
+          "land": 0,
+          "water": 11,
+          "samples": 11
+        },
+        {
+          "longitude_degree": 0,
+          "land": 0,
+          "water": 9,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 1,
+          "land": 0,
+          "water": 10,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 2,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 3,
+          "land": 5,
+          "water": 4,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 4,
+          "land": 6,
+          "water": 3,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 5,
+          "land": 5,
+          "water": 2,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 6,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 7,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 8,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 9,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 10,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 11,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 12,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 13,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 14,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 15,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 16,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 17,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 18,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 19,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": 20,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 21,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": 22,
+          "land": 12,
+          "water": 0,
+          "samples": 12
+        },
+        {
+          "longitude_degree": 23,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 24,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 25,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 26,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 27,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 28,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": 29,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 30,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 31,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 32,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 33,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 34,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 35,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 36,
+          "land": 11,
+          "water": 0,
+          "samples": 11
+        },
+        {
+          "longitude_degree": 37,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 38,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 39,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 40,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 41,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 42,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 43,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 44,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 45,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 46,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 47,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 48,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 49,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 50,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 51,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 52,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 53,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 54,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 55,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 56,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 57,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 58,
+          "land": 5,
+          "water": 4,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 59,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 60,
+          "land": 0,
+          "water": 10,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 61,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        }
+      ],
+      "csv_path": "mapas-azgaar/datos/muestras-centros-franja-ecuatorial/Atharis.csv"
+    },
+    "records": [
+      {
+        "index": 0,
+        "name": "header",
+        "length": 111,
+        "type": "text"
+      },
+      {
+        "index": 1,
+        "name": "map_options",
+        "length": 26843,
+        "type": "dict",
+        "keys": [
+          "seed",
+          "graph",
+          "geography",
+          "climate",
+          "cultures",
+          "lore",
+          "units",
+          "style",
+          "burgs",
+          "labels",
+          "military",
+          "transports",
+          "eras",
+          "customIcons",
+          "goods",
+          "coastline",
+          "relief"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "deprecated_map_coordinates",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 3,
+        "name": "biomes",
+        "length": 2077,
+        "count": 13,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "color",
+          "habitability",
+          "development",
+          "iconsDensity",
+          "icons",
+          "cost"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "deprecated_notes",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 5,
+        "name": "svg",
+        "length": 4337500,
+        "type": "text"
+      },
+      {
+        "index": 6,
+        "name": "grid_metadata",
+        "length": 1566208,
+        "type": "dict",
+        "keys": [
+          "spacing",
+          "cellsX",
+          "cellsY",
+          "boundary",
+          "points",
+          "features"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "grid_height",
+        "length": 268549,
+        "type": "numeric_array",
+        "count": 100160
+      },
+      {
+        "index": 8,
+        "name": "grid_precipitation",
+        "length": 267498,
+        "type": "numeric_array",
+        "count": 100160
+      },
+      {
+        "index": 9,
+        "name": "grid_feature_ids",
+        "length": 216305,
+        "type": "numeric_array",
+        "count": 100160
+      },
+      {
+        "index": 10,
+        "name": "grid_distance_to_water",
+        "length": 225624,
+        "type": "numeric_array",
+        "count": 100160
+      },
+      {
+        "index": 11,
+        "name": "grid_temperature",
+        "length": 283969,
+        "type": "numeric_array",
+        "count": 100160
+      },
+      {
+        "index": 12,
+        "name": "pack_features",
+        "length": 151034,
+        "count": 148,
+        "item_type": "int"
+      },
+      {
+        "index": 13,
+        "name": "cultures",
+        "length": 2704,
+        "count": 16,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "base",
+          "origins",
+          "shield",
+          "type",
+          "tags"
+        ]
+      },
+      {
+        "index": 14,
+        "name": "states",
+        "length": 385558,
+        "count": 101,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "economy",
+          "tags",
+          "neighbors",
+          "diplomacy",
+          "urban",
+          "rural",
+          "burgs",
+          "area",
+          "cells",
+          "provinces"
+        ]
+      },
+      {
+        "index": 15,
+        "name": "burgs",
+        "length": 760493,
+        "count": 1686,
+        "item_type": "int"
+      },
+      {
+        "index": 16,
+        "name": "pack_biome_ids",
+        "length": 129635,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 17,
+        "name": "pack_burg_ids",
+        "length": 132095,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 18,
+        "name": "pack_confluence",
+        "length": 128655,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 19,
+        "name": "pack_culture_ids",
+        "length": 152882,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 20,
+        "name": "pack_river_flux",
+        "length": 153287,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 21,
+        "name": "pack_population",
+        "length": 386328,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 22,
+        "name": "pack_river_ids",
+        "length": 142630,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 23,
+        "name": "deprecated_roads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 24,
+        "name": "pack_cell_score",
+        "length": 159132,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 25,
+        "name": "pack_state_ids",
+        "length": 173114,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 26,
+        "name": "pack_religion_ids",
+        "length": 178227,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 27,
+        "name": "pack_province_ids",
+        "length": 223199,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 28,
+        "name": "deprecated_crossroads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 29,
+        "name": "religions",
+        "length": 8777,
+        "count": 39,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "origins",
+          "tags"
+        ]
+      },
+      {
+        "index": 30,
+        "name": "provinces",
+        "length": 254934,
+        "count": 796,
+        "item_type": "int"
+      },
+      {
+        "index": 31,
+        "name": "name_bases",
+        "length": 885,
+        "type": "name_base_text"
+      },
+      {
+        "index": 32,
+        "name": "rivers",
+        "length": 290311,
+        "count": 1114,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "source",
+          "mouth",
+          "discharge",
+          "length",
+          "width",
+          "widthFactor",
+          "sourceWidth",
+          "parent",
+          "cells",
+          "group",
+          "tags",
+          "basin",
+          "name",
+          "type"
+        ]
+      },
+      {
+        "index": 33,
+        "name": "deprecated_rulers",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 34,
+        "name": "fonts",
+        "length": 759,
+        "type": "json"
+      },
+      {
+        "index": 35,
+        "name": "markers",
+        "length": 121526,
+        "count": 426,
+        "item_type": "dict",
+        "first_item_keys": [
+          "icon",
+          "type",
+          "dx",
+          "px",
+          "x",
+          "y",
+          "cell",
+          "i",
+          "name",
+          "tags",
+          "note"
+        ]
+      },
+      {
+        "index": 36,
+        "name": "cell_routes",
+        "length": 550642,
+        "type": "json"
+      },
+      {
+        "index": 37,
+        "name": "routes",
+        "length": 508354,
+        "count": 1634,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "group",
+          "name",
+          "feature",
+          "points",
+          "tags"
+        ]
+      },
+      {
+        "index": 38,
+        "name": "zones",
+        "length": 6168,
+        "count": 16,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "note",
+          "type",
+          "cells",
+          "color",
+          "tags"
+        ]
+      },
+      {
+        "index": 39,
+        "name": "ice",
+        "length": 161596,
+        "type": "json"
+      },
+      {
+        "index": 40,
+        "name": "pack_good_ids",
+        "length": 128248,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 41,
+        "name": "deprecated_goods",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 42,
+        "name": "markets",
+        "length": 199171,
+        "count": 77,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "centerBurgId",
+          "color",
+          "goods",
+          "feePaid",
+          "rural"
+        ]
+      },
+      {
+        "index": 43,
+        "name": "deals",
+        "length": 1095826,
+        "type": "record"
+      },
+      {
+        "index": 44,
+        "name": "pack_market_ids",
+        "length": 172938,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 45,
+        "name": "deprecated_custom_good_icons",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 46,
+        "name": "measurers",
+        "length": 105,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "type",
+          "points"
+        ]
+      },
+      {
+        "index": 47,
+        "name": "added_labels",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 48,
+        "name": "styles",
+        "length": 21389,
+        "type": "dict",
+        "keys": [
+          "biomes",
+          "borders",
+          "burgIcons",
+          "cells",
+          "coastline",
+          "compass",
+          "coordinates",
+          "cultures",
+          "emblems",
+          "fogging",
+          "goods",
+          "grid",
+          "heightmap",
+          "ice",
+          "journeys",
+          "labels",
+          "lakes",
+          "landmass",
+          "legend",
+          "map",
+          "markers",
+          "markets",
+          "military",
+          "ocean",
+          "population"
+        ]
+      },
+      {
+        "index": 49,
+        "name": "relief",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 50,
+        "name": "layers",
+        "length": 510,
+        "type": "dict",
+        "keys": [
+          "order",
+          "active"
+        ]
+      },
+      {
+        "index": 51,
+        "name": "graph_overrides",
+        "length": 2,
+        "type": "dict",
+        "keys": []
+      },
+      {
+        "index": 52,
+        "name": "journeys",
+        "length": 17624,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "type",
+          "segments",
+          "i",
+          "color"
+        ]
+      },
+      {
+        "index": 53,
+        "name": "legends",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 54,
+        "name": "pack_prosperity",
+        "length": 178230,
+        "type": "numeric_array",
+        "count": 64074
+      },
+      {
+        "index": 55,
+        "name": "pack_development",
+        "length": 178228,
+        "type": "numeric_array",
+        "count": 64074
+      }
+    ]
+  },
+  {
+    "world": "Khorza",
+    "source_file": "Korza .map.gz",
+    "container": "Historias_mapas_gz_GitHub.zip",
+    "compressed_size_bytes": 4910450,
+    "compressed_sha256": "5192e2c6de65e13a476b8ab99a75e166ca26027dfd4649aea5c80d338db9a477",
+    "uncompressed_size_bytes": 15561886,
+    "uncompressed_sha256": "823e3414d8090b0436a4c8ccafc4cb132d68e1667ec795b9bbc65e3cadbae56f",
+    "record_count": 56,
+    "azgaar_version": "1.158.0",
+    "saved_date": "2026-11-12",
+    "seed": "466668104",
+    "canvas": {
+      "width": 800,
+      "height": 1165
+    },
+    "map_name": "Vileland",
+    "geography": {
+      "latT": 180,
+      "latN": 90,
+      "latS": -90,
+      "lonT": 123.6,
+      "lonW": -61.8,
+      "lonE": 61.8
+    },
+    "graph": {
+      "width": 800,
+      "height": 1165,
+      "points": 100000,
+      "sampling": "square",
+      "jitter": 0.9
+    },
+    "grid": {
+      "spacing": 3.05,
+      "cellsX": 262,
+      "cellsY": 382,
+      "points": {
+        "count": 100084,
+        "item_type": "list"
+      },
+      "boundary": {
+        "count": 646,
+        "item_type": "list"
+      },
+      "grid_features": {
+        "count": 306,
+        "item_type": "int"
+      }
+    },
+    "terrain": {
+      "height_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "land_cells_height_ge_20": 85842,
+      "water_cells_height_lt_20": 14242,
+      "precipitation_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "feature_id_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "distance_to_water_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "temperature_values": {
+        "count": 100084,
+        "item_type": "int"
+      }
+    },
+    "entities": {
+      "biomes": 13,
+      "pack_features": 296,
+      "cultures_including_wildlands": 2,
+      "states_including_neutrals": 1,
+      "states_excluding_neutrals": 0,
+      "burgs_including_placeholder": 1,
+      "burgs_excluding_placeholder": 0,
+      "religions_including_none": 2,
+      "religions_excluding_none": 1,
+      "provinces_including_placeholder": 1,
+      "provinces_excluding_placeholder": 0,
+      "rivers": 1682,
+      "routes": 0,
+      "markers": 466,
+      "zones": 3
+    },
+    "svg": {
+      "path": "mapas-azgaar/visualizaciones/fuentes/Khorza.svg.gz",
+      "characters": 8176994,
+      "xml_valid": true
+    },
+    "preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Khorza.png",
+    "band_preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Khorza-franja-ecuatorial.png",
+    "center_sample_band": {
+      "definition": "145 km north-south, centered on latitude 0",
+      "wgs84_limit_degrees_approx": 0.6556676,
+      "method": "equirectangular bounds + grid point centers; preliminary sample, not polygon intersection",
+      "sampled_cells": 733,
+      "land_samples": 577,
+      "water_samples": 156,
+      "land_sample_percent": 78.72,
+      "longitude_min_sampled": -61.6687,
+      "longitude_max_sampled": 61.5497,
+      "one_degree_bins": [
+        {
+          "longitude_degree": -62,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -61,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -60,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -59,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -58,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -57,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -56,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -55,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -54,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -53,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -52,
+          "land": 5,
+          "water": 1,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -51,
+          "land": 4,
+          "water": 1,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -50,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -49,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -48,
+          "land": 2,
+          "water": 3,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -47,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -46,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -45,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -44,
+          "land": 1,
+          "water": 7,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -43,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -42,
+          "land": 2,
+          "water": 5,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -41,
+          "land": 3,
+          "water": 1,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -40,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -39,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -38,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -37,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -36,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -35,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -34,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -33,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -32,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -31,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -30,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -29,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -28,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -27,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -26,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -25,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -24,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -23,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -22,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -21,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -20,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -19,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -18,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -17,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -16,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -15,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -14,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -13,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -12,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -11,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -10,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -9,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -8,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -7,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -6,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -5,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -4,
+          "land": 3,
+          "water": 1,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -3,
+          "land": 3,
+          "water": 3,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -2,
+          "land": 3,
+          "water": 2,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -1,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 0,
+          "land": 2,
+          "water": 3,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 1,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 2,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 3,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 4,
+          "land": 2,
+          "water": 3,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 5,
+          "land": 3,
+          "water": 2,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 6,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 7,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 8,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 9,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 10,
+          "land": 2,
+          "water": 6,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 11,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 12,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 13,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 14,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 15,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 16,
+          "land": 1,
+          "water": 6,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 17,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 18,
+          "land": 5,
+          "water": 4,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 19,
+          "land": 2,
+          "water": 4,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 20,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 21,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 22,
+          "land": 5,
+          "water": 1,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 23,
+          "land": 2,
+          "water": 3,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 24,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 25,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 26,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 27,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 28,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 29,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 30,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 31,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 32,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 33,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 34,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 35,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 36,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 37,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 38,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 39,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 40,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 41,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 42,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 43,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 44,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 45,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 46,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 47,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 48,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 49,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 50,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 51,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 52,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 53,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 54,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 55,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 56,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 57,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 58,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 59,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 60,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 61,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        }
+      ],
+      "csv_path": "mapas-azgaar/datos/muestras-centros-franja-ecuatorial/Khorza.csv"
+    },
+    "records": [
+      {
+        "index": 0,
+        "name": "header",
+        "length": 112,
+        "type": "text"
+      },
+      {
+        "index": 1,
+        "name": "map_options",
+        "length": 26839,
+        "type": "dict",
+        "keys": [
+          "seed",
+          "graph",
+          "geography",
+          "climate",
+          "cultures",
+          "lore",
+          "units",
+          "style",
+          "burgs",
+          "labels",
+          "military",
+          "transports",
+          "eras",
+          "customIcons",
+          "goods",
+          "coastline",
+          "relief"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "deprecated_map_coordinates",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 3,
+        "name": "biomes",
+        "length": 2077,
+        "count": 13,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "color",
+          "habitability",
+          "development",
+          "iconsDensity",
+          "icons",
+          "cost"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "deprecated_notes",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 5,
+        "name": "svg",
+        "length": 8176994,
+        "type": "text"
+      },
+      {
+        "index": 6,
+        "name": "grid_metadata",
+        "length": 1590572,
+        "type": "dict",
+        "keys": [
+          "spacing",
+          "cellsX",
+          "cellsY",
+          "boundary",
+          "points",
+          "features"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "grid_height",
+        "length": 311272,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 8,
+        "name": "grid_precipitation",
+        "length": 238910,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 9,
+        "name": "grid_feature_ids",
+        "length": 214863,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 10,
+        "name": "grid_distance_to_water",
+        "length": 212711,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 11,
+        "name": "grid_temperature",
+        "length": 313764,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 12,
+        "name": "pack_features",
+        "length": 182771,
+        "count": 296,
+        "item_type": "int"
+      },
+      {
+        "index": 13,
+        "name": "cultures",
+        "length": 275,
+        "count": 2,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "base",
+          "origins",
+          "shield",
+          "type",
+          "tags"
+        ]
+      },
+      {
+        "index": 14,
+        "name": "states",
+        "length": 435,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "economy",
+          "tags",
+          "neighbors",
+          "diplomacy",
+          "urban",
+          "rural",
+          "burgs",
+          "area",
+          "cells",
+          "provinces"
+        ]
+      },
+      {
+        "index": 15,
+        "name": "burgs",
+        "length": 3,
+        "count": 1,
+        "item_type": "int"
+      },
+      {
+        "index": 16,
+        "name": "pack_biome_ids",
+        "length": 223176,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 17,
+        "name": "pack_burg_ids",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 18,
+        "name": "pack_confluence",
+        "length": 193198,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 19,
+        "name": "pack_culture_ids",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 20,
+        "name": "pack_river_flux",
+        "length": 223837,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 21,
+        "name": "pack_population",
+        "length": 486821,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 22,
+        "name": "pack_river_ids",
+        "length": 218636,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 23,
+        "name": "deprecated_roads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 24,
+        "name": "pack_cell_score",
+        "length": 221013,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 25,
+        "name": "pack_state_ids",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 26,
+        "name": "pack_religion_ids",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 27,
+        "name": "pack_province_ids",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 28,
+        "name": "deprecated_crossroads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 29,
+        "name": "religions",
+        "length": 278,
+        "count": 2,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "origins",
+          "tags"
+        ]
+      },
+      {
+        "index": 30,
+        "name": "provinces",
+        "length": 3,
+        "count": 1,
+        "item_type": "int"
+      },
+      {
+        "index": 31,
+        "name": "name_bases",
+        "length": 885,
+        "type": "name_base_text"
+      },
+      {
+        "index": 32,
+        "name": "rivers",
+        "length": 441657,
+        "count": 1682,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "source",
+          "mouth",
+          "discharge",
+          "length",
+          "width",
+          "widthFactor",
+          "sourceWidth",
+          "parent",
+          "cells",
+          "group",
+          "tags",
+          "basin",
+          "name",
+          "type"
+        ]
+      },
+      {
+        "index": 33,
+        "name": "deprecated_rulers",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 34,
+        "name": "fonts",
+        "length": 759,
+        "type": "json"
+      },
+      {
+        "index": 35,
+        "name": "markers",
+        "length": 132683,
+        "count": 466,
+        "item_type": "dict",
+        "first_item_keys": [
+          "icon",
+          "type",
+          "dx",
+          "px",
+          "x",
+          "y",
+          "cell",
+          "i",
+          "name",
+          "tags",
+          "note"
+        ]
+      },
+      {
+        "index": 36,
+        "name": "cell_routes",
+        "length": 2,
+        "type": "json"
+      },
+      {
+        "index": 37,
+        "name": "routes",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 38,
+        "name": "zones",
+        "length": 844,
+        "count": 3,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "note",
+          "type",
+          "cells",
+          "color",
+          "tags"
+        ]
+      },
+      {
+        "index": 39,
+        "name": "ice",
+        "length": 338948,
+        "type": "json"
+      },
+      {
+        "index": 40,
+        "name": "pack_good_ids",
+        "length": 191899,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 41,
+        "name": "deprecated_goods",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 42,
+        "name": "markets",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 43,
+        "name": "deals",
+        "length": 2,
+        "type": "record"
+      },
+      {
+        "index": 44,
+        "name": "pack_market_ids",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 45,
+        "name": "deprecated_custom_good_icons",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 46,
+        "name": "measurers",
+        "length": 107,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "type",
+          "points"
+        ]
+      },
+      {
+        "index": 47,
+        "name": "added_labels",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 48,
+        "name": "styles",
+        "length": 21493,
+        "type": "dict",
+        "keys": [
+          "biomes",
+          "borders",
+          "burgIcons",
+          "cells",
+          "coastline",
+          "compass",
+          "coordinates",
+          "cultures",
+          "emblems",
+          "fogging",
+          "goods",
+          "grid",
+          "heightmap",
+          "ice",
+          "journeys",
+          "labels",
+          "lakes",
+          "landmass",
+          "legend",
+          "map",
+          "markers",
+          "markets",
+          "military",
+          "ocean",
+          "population"
+        ]
+      },
+      {
+        "index": 49,
+        "name": "relief",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 50,
+        "name": "layers",
+        "length": 470,
+        "type": "dict",
+        "keys": [
+          "order",
+          "active"
+        ]
+      },
+      {
+        "index": 51,
+        "name": "graph_overrides",
+        "length": 2,
+        "type": "dict",
+        "keys": []
+      },
+      {
+        "index": 52,
+        "name": "journeys",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 53,
+        "name": "legends",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 54,
+        "name": "pack_prosperity",
+        "length": 191803,
+        "type": "numeric_array",
+        "count": 95902
+      },
+      {
+        "index": 55,
+        "name": "pack_development",
+        "length": 247795,
+        "type": "numeric_array",
+        "count": 95902
+      }
+    ]
+  },
+  {
+    "world": "Návar",
+    "source_file": "Návar.map.gz",
+    "container": "Historias_mapas_gz_GitHub.zip",
+    "compressed_size_bytes": 3444984,
+    "compressed_sha256": "e5f9aeb983d1d52eb8d70bd2bf71f7b0831b530357699acaaf4345d70363fa45",
+    "uncompressed_size_bytes": 13963939,
+    "uncompressed_sha256": "e0eadc154f16c6ff2bfb669071626628e79c81ed373924b71e11d3802bbc07c7",
+    "record_count": 56,
+    "azgaar_version": "1.158.0",
+    "saved_date": "2026-11-12",
+    "seed": "785450965",
+    "canvas": {
+      "width": 800,
+      "height": 1165
+    },
+    "map_name": "Ereia",
+    "geography": {
+      "latT": 27,
+      "latN": 13.5,
+      "latS": -13.5,
+      "lonT": 18.5,
+      "lonW": -9.2,
+      "lonE": 9.3
+    },
+    "graph": {
+      "width": 800,
+      "height": 1165,
+      "points": 100000,
+      "sampling": "square",
+      "jitter": 0.9
+    },
+    "grid": {
+      "spacing": 3.05,
+      "cellsX": 262,
+      "cellsY": 382,
+      "points": {
+        "count": 100084,
+        "item_type": "list"
+      },
+      "boundary": {
+        "count": 646,
+        "item_type": "list"
+      },
+      "grid_features": {
+        "count": 199,
+        "item_type": "int"
+      }
+    },
+    "terrain": {
+      "height_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "land_cells_height_ge_20": 45348,
+      "water_cells_height_lt_20": 54736,
+      "precipitation_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "feature_id_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "distance_to_water_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "temperature_values": {
+        "count": 100084,
+        "item_type": "int"
+      }
+    },
+    "entities": {
+      "biomes": 13,
+      "pack_features": 160,
+      "cultures_including_wildlands": 16,
+      "states_including_neutrals": 101,
+      "states_excluding_neutrals": 100,
+      "burgs_including_placeholder": 1582,
+      "burgs_excluding_placeholder": 1581,
+      "religions_including_none": 39,
+      "religions_excluding_none": 38,
+      "provinces_including_placeholder": 636,
+      "provinces_excluding_placeholder": 635,
+      "rivers": 860,
+      "routes": 1519,
+      "markers": 430,
+      "zones": 15
+    },
+    "svg": {
+      "path": "mapas-azgaar/visualizaciones/fuentes/Návar.svg.gz",
+      "characters": 4502907,
+      "xml_valid": true
+    },
+    "preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Návar.png",
+    "band_preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Návar-franja-ecuatorial.png",
+    "center_sample_band": {
+      "definition": "145 km north-south, centered on latitude 0",
+      "wgs84_limit_degrees_approx": 0.6556676,
+      "method": "equirectangular bounds + grid point centers; preliminary sample, not polygon intersection",
+      "sampled_cells": 4840,
+      "land_samples": 3676,
+      "water_samples": 1164,
+      "land_sample_percent": 75.95,
+      "longitude_min_sampled": -9.1961,
+      "longitude_max_sampled": 9.2748,
+      "one_degree_bins": [
+        {
+          "longitude_degree": -10,
+          "land": 38,
+          "water": 15,
+          "samples": 53
+        },
+        {
+          "longitude_degree": -9,
+          "land": 166,
+          "water": 94,
+          "samples": 260
+        },
+        {
+          "longitude_degree": -8,
+          "land": 222,
+          "water": 40,
+          "samples": 262
+        },
+        {
+          "longitude_degree": -7,
+          "land": 221,
+          "water": 42,
+          "samples": 263
+        },
+        {
+          "longitude_degree": -6,
+          "land": 261,
+          "water": 0,
+          "samples": 261
+        },
+        {
+          "longitude_degree": -5,
+          "land": 265,
+          "water": 0,
+          "samples": 265
+        },
+        {
+          "longitude_degree": -4,
+          "land": 266,
+          "water": 0,
+          "samples": 266
+        },
+        {
+          "longitude_degree": -3,
+          "land": 171,
+          "water": 87,
+          "samples": 258
+        },
+        {
+          "longitude_degree": -2,
+          "land": 266,
+          "water": 0,
+          "samples": 266
+        },
+        {
+          "longitude_degree": -1,
+          "land": 125,
+          "water": 139,
+          "samples": 264
+        },
+        {
+          "longitude_degree": 0,
+          "land": 184,
+          "water": 79,
+          "samples": 263
+        },
+        {
+          "longitude_degree": 1,
+          "land": 218,
+          "water": 40,
+          "samples": 258
+        },
+        {
+          "longitude_degree": 2,
+          "land": 158,
+          "water": 110,
+          "samples": 268
+        },
+        {
+          "longitude_degree": 3,
+          "land": 261,
+          "water": 1,
+          "samples": 262
+        },
+        {
+          "longitude_degree": 4,
+          "land": 257,
+          "water": 0,
+          "samples": 257
+        },
+        {
+          "longitude_degree": 5,
+          "land": 211,
+          "water": 54,
+          "samples": 265
+        },
+        {
+          "longitude_degree": 6,
+          "land": 183,
+          "water": 77,
+          "samples": 260
+        },
+        {
+          "longitude_degree": 7,
+          "land": 95,
+          "water": 164,
+          "samples": 259
+        },
+        {
+          "longitude_degree": 8,
+          "land": 91,
+          "water": 164,
+          "samples": 255
+        },
+        {
+          "longitude_degree": 9,
+          "land": 17,
+          "water": 58,
+          "samples": 75
+        }
+      ],
+      "csv_path": "mapas-azgaar/datos/muestras-centros-franja-ecuatorial/Návar.csv"
+    },
+    "records": [
+      {
+        "index": 0,
+        "name": "header",
+        "length": 112,
+        "type": "text"
+      },
+      {
+        "index": 1,
+        "name": "map_options",
+        "length": 26834,
+        "type": "dict",
+        "keys": [
+          "seed",
+          "graph",
+          "geography",
+          "climate",
+          "cultures",
+          "lore",
+          "units",
+          "style",
+          "burgs",
+          "labels",
+          "military",
+          "transports",
+          "eras",
+          "customIcons",
+          "goods",
+          "coastline",
+          "relief"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "deprecated_map_coordinates",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 3,
+        "name": "biomes",
+        "length": 2077,
+        "count": 13,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "color",
+          "habitability",
+          "development",
+          "iconsDensity",
+          "icons",
+          "cost"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "deprecated_notes",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 5,
+        "name": "svg",
+        "length": 4502907,
+        "type": "text"
+      },
+      {
+        "index": 6,
+        "name": "grid_metadata",
+        "length": 1585176,
+        "type": "dict",
+        "keys": [
+          "spacing",
+          "cellsX",
+          "cellsY",
+          "boundary",
+          "points",
+          "features"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "grid_height",
+        "length": 266484,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 8,
+        "name": "grid_precipitation",
+        "length": 264451,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 9,
+        "name": "grid_feature_ids",
+        "length": 255578,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 10,
+        "name": "grid_distance_to_water",
+        "length": 224154,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 11,
+        "name": "grid_temperature",
+        "length": 299491,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 12,
+        "name": "pack_features",
+        "length": 149845,
+        "count": 160,
+        "item_type": "int"
+      },
+      {
+        "index": 13,
+        "name": "cultures",
+        "length": 2717,
+        "count": 16,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "base",
+          "origins",
+          "shield",
+          "type",
+          "tags"
+        ]
+      },
+      {
+        "index": 14,
+        "name": "states",
+        "length": 394683,
+        "count": 101,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "economy",
+          "tags",
+          "neighbors",
+          "diplomacy",
+          "urban",
+          "rural",
+          "burgs",
+          "area",
+          "cells",
+          "provinces"
+        ]
+      },
+      {
+        "index": 15,
+        "name": "burgs",
+        "length": 714002,
+        "count": 1582,
+        "item_type": "int"
+      },
+      {
+        "index": 16,
+        "name": "pack_biome_ids",
+        "length": 123550,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 17,
+        "name": "pack_burg_ids",
+        "length": 125943,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 18,
+        "name": "pack_confluence",
+        "length": 122628,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 19,
+        "name": "pack_culture_ids",
+        "length": 132631,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 20,
+        "name": "pack_river_flux",
+        "length": 140697,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 21,
+        "name": "pack_population",
+        "length": 354826,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 22,
+        "name": "pack_river_ids",
+        "length": 131671,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 23,
+        "name": "deprecated_roads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 24,
+        "name": "pack_cell_score",
+        "length": 145584,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 25,
+        "name": "pack_state_ids",
+        "length": 168647,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 26,
+        "name": "pack_religion_ids",
+        "length": 168751,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 27,
+        "name": "pack_province_ids",
+        "length": 215043,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 28,
+        "name": "deprecated_crossroads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 29,
+        "name": "religions",
+        "length": 8877,
+        "count": 39,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "origins",
+          "tags"
+        ]
+      },
+      {
+        "index": 30,
+        "name": "provinces",
+        "length": 207096,
+        "count": 636,
+        "item_type": "int"
+      },
+      {
+        "index": 31,
+        "name": "name_bases",
+        "length": 885,
+        "type": "name_base_text"
+      },
+      {
+        "index": 32,
+        "name": "rivers",
+        "length": 221008,
+        "count": 860,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "source",
+          "mouth",
+          "discharge",
+          "length",
+          "width",
+          "widthFactor",
+          "sourceWidth",
+          "parent",
+          "cells",
+          "group",
+          "tags",
+          "basin",
+          "name",
+          "type"
+        ]
+      },
+      {
+        "index": 33,
+        "name": "deprecated_rulers",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 34,
+        "name": "fonts",
+        "length": 759,
+        "type": "json"
+      },
+      {
+        "index": 35,
+        "name": "markers",
+        "length": 122238,
+        "count": 430,
+        "item_type": "dict",
+        "first_item_keys": [
+          "icon",
+          "type",
+          "dx",
+          "px",
+          "x",
+          "y",
+          "cell",
+          "i",
+          "name",
+          "tags",
+          "note"
+        ]
+      },
+      {
+        "index": 36,
+        "name": "cell_routes",
+        "length": 523882,
+        "type": "json"
+      },
+      {
+        "index": 37,
+        "name": "routes",
+        "length": 485259,
+        "count": 1519,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "group",
+          "name",
+          "feature",
+          "points",
+          "tags"
+        ]
+      },
+      {
+        "index": 38,
+        "name": "zones",
+        "length": 30569,
+        "count": 15,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "note",
+          "type",
+          "cells",
+          "color",
+          "tags"
+        ]
+      },
+      {
+        "index": 39,
+        "name": "ice",
+        "length": 19681,
+        "type": "json"
+      },
+      {
+        "index": 40,
+        "name": "pack_good_ids",
+        "length": 122404,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 41,
+        "name": "deprecated_goods",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 42,
+        "name": "markets",
+        "length": 221597,
+        "count": 87,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "centerBurgId",
+          "color",
+          "goods",
+          "feePaid",
+          "rural"
+        ]
+      },
+      {
+        "index": 43,
+        "name": "deals",
+        "length": 929034,
+        "type": "record"
+      },
+      {
+        "index": 44,
+        "name": "pack_market_ids",
+        "length": 174472,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 45,
+        "name": "deprecated_custom_good_icons",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 46,
+        "name": "measurers",
+        "length": 106,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "type",
+          "points"
+        ]
+      },
+      {
+        "index": 47,
+        "name": "added_labels",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 48,
+        "name": "styles",
+        "length": 21493,
+        "type": "dict",
+        "keys": [
+          "biomes",
+          "borders",
+          "burgIcons",
+          "cells",
+          "coastline",
+          "compass",
+          "coordinates",
+          "cultures",
+          "emblems",
+          "fogging",
+          "goods",
+          "grid",
+          "heightmap",
+          "ice",
+          "journeys",
+          "labels",
+          "lakes",
+          "landmass",
+          "legend",
+          "map",
+          "markers",
+          "markets",
+          "military",
+          "ocean",
+          "population"
+        ]
+      },
+      {
+        "index": 49,
+        "name": "relief",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 50,
+        "name": "layers",
+        "length": 510,
+        "type": "dict",
+        "keys": [
+          "order",
+          "active"
+        ]
+      },
+      {
+        "index": 51,
+        "name": "graph_overrides",
+        "length": 2,
+        "type": "dict",
+        "keys": []
+      },
+      {
+        "index": 52,
+        "name": "journeys",
+        "length": 11756,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "type",
+          "segments",
+          "i",
+          "color"
+        ]
+      },
+      {
+        "index": 53,
+        "name": "legends",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 54,
+        "name": "pack_prosperity",
+        "length": 169074,
+        "type": "numeric_array",
+        "count": 61154
+      },
+      {
+        "index": 55,
+        "name": "pack_development",
+        "length": 169046,
+        "type": "numeric_array",
+        "count": 61154
+      }
+    ]
+  },
+  {
+    "world": "Derat",
+    "source_file": "derat(continente de alfaguara).map.gz",
+    "container": "Historias_mapas_gz_GitHub.zip",
+    "compressed_size_bytes": 3923124,
+    "compressed_sha256": "0a2a0c5b5e796659e78b000a7a5eb52661c0d69f23e10412a37d79cf0fd8920c",
+    "uncompressed_size_bytes": 15745658,
+    "uncompressed_sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
+    "record_count": 56,
+    "azgaar_version": "1.158.0",
+    "saved_date": "2026-11-12",
+    "seed": "182800799",
+    "canvas": {
+      "width": 1333,
+      "height": 632
+    },
+    "map_name": "Bouneia",
+    "geography": {
+      "latT": 180,
+      "latN": 90,
+      "latS": -90,
+      "lonT": 360,
+      "lonW": -180,
+      "lonE": 180
+    },
+    "graph": {
+      "width": 1333,
+      "height": 632,
+      "points": 100000,
+      "sampling": "square",
+      "jitter": 0.9
+    },
+    "grid": {
+      "spacing": 2.9,
+      "cellsX": 460,
+      "cellsY": 218,
+      "points": {
+        "count": 100280,
+        "item_type": "list"
+      },
+      "boundary": {
+        "count": 678,
+        "item_type": "list"
+      },
+      "grid_features": {
+        "count": 352,
+        "item_type": "int"
+      }
+    },
+    "terrain": {
+      "height_values": {
+        "count": 100280,
+        "item_type": "int"
+      },
+      "land_cells_height_ge_20": 50201,
+      "water_cells_height_lt_20": 50079,
+      "precipitation_values": {
+        "count": 100280,
+        "item_type": "int"
+      },
+      "feature_id_values": {
+        "count": 100280,
+        "item_type": "int"
+      },
+      "distance_to_water_values": {
+        "count": 100280,
+        "item_type": "int"
+      },
+      "temperature_values": {
+        "count": 100280,
+        "item_type": "int"
+      }
+    },
+    "entities": {
+      "biomes": 13,
+      "pack_features": 272,
+      "cultures_including_wildlands": 16,
+      "states_including_neutrals": 101,
+      "states_excluding_neutrals": 100,
+      "burgs_including_placeholder": 1091,
+      "burgs_excluding_placeholder": 1090,
+      "religions_including_none": 83,
+      "religions_excluding_none": 82,
+      "provinces_including_placeholder": 517,
+      "provinces_excluding_placeholder": 516,
+      "rivers": 1766,
+      "routes": 1293,
+      "markers": 450,
+      "zones": 12
+    },
+    "svg": {
+      "path": "mapas-azgaar/visualizaciones/fuentes/Derat.svg.gz",
+      "characters": 5855994,
+      "xml_valid": true
+    },
+    "preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Derat.png",
+    "band_preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Derat-franja-ecuatorial.png",
+    "center_sample_band": {
+      "definition": "145 km north-south, centered on latitude 0",
+      "wgs84_limit_degrees_approx": 0.6556676,
+      "method": "equirectangular bounds + grid point centers; preliminary sample, not polygon intersection",
+      "sampled_cells": 756,
+      "land_samples": 551,
+      "water_samples": 205,
+      "land_sample_percent": 72.88,
+      "longitude_min_sampled": -179.5274,
+      "longitude_max_sampled": 179.8974,
+      "one_degree_bins": [
+        {
+          "longitude_degree": -180,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -179,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -178,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -177,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -176,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -175,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -174,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -173,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -171,
+          "land": 1,
+          "water": 2,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -170,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -169,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -168,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -167,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -166,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -165,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -164,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -163,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -162,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -161,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -160,
+          "land": 1,
+          "water": 2,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -159,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -158,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -157,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -156,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -155,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -154,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -153,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -152,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -151,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -150,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -149,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -148,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -147,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -146,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -145,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -144,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -143,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -142,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -141,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -140,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -139,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -138,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -137,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -136,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -135,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -134,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -133,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -131,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -130,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -129,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -127,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -126,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -125,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -124,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -123,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -122,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -121,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -120,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -119,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -118,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -117,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -116,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -115,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -114,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -113,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -112,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -111,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -110,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -108,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -107,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -106,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -105,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -104,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -103,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -102,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -101,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -100,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -99,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -98,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -97,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -96,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -95,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -94,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -93,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -92,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -91,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -90,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -89,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -88,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -87,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -85,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -84,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -83,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -82,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -81,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -80,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -79,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -78,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -77,
+          "land": 1,
+          "water": 2,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -76,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -75,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -74,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -73,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -72,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -71,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -70,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -69,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -68,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -67,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -66,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -65,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -64,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -63,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -62,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -61,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -60,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -59,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -58,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -57,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -56,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -55,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -54,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -53,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -52,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -51,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -50,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -49,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -48,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -47,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -46,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -45,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -44,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -43,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -42,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -41,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -40,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -39,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -38,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -37,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -36,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -35,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -34,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -33,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -32,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -30,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -29,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -28,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -27,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -26,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -25,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -24,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -23,
+          "land": 1,
+          "water": 1,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -22,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -21,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -20,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -19,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -18,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -17,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -16,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -15,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -14,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -13,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -12,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -11,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -10,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": -9,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -8,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -7,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -6,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -5,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -4,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -3,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": -2,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": -1,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 0,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 1,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 3,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 4,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 5,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 6,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 7,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 8,
+          "land": 1,
+          "water": 1,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 9,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 10,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 11,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 12,
+          "land": 1,
+          "water": 2,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 13,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 14,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 15,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 16,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 18,
+          "land": 1,
+          "water": 1,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 19,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 20,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 21,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 22,
+          "land": 1,
+          "water": 1,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 23,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 24,
+          "land": 2,
+          "water": 1,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 25,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 26,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 27,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 28,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 29,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 30,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 31,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 32,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 33,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 34,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 35,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 36,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 37,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 38,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 39,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 40,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 41,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 42,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 43,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 44,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 45,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 46,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 47,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 48,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 49,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 50,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 51,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 52,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 53,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 54,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 55,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 56,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 57,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 58,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 59,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 60,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 61,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 62,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 63,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 64,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 65,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 66,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 67,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 68,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 69,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 70,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 71,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 72,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 73,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 74,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 75,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 76,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 77,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 78,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 79,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 80,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 81,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 82,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 83,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 84,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 85,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 86,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 87,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 88,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 89,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 90,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 91,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 92,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 93,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 94,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 95,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 96,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 97,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 98,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 99,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 100,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 101,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 102,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 103,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 104,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 105,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 106,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 107,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 108,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 109,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 110,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 111,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 112,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 113,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 115,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 116,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 117,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 118,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 119,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 120,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 121,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 122,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 123,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 124,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 126,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 127,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 128,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 129,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 130,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 131,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 132,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 133,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 134,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 135,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 136,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 137,
+          "land": 2,
+          "water": 0,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 138,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 139,
+          "land": 1,
+          "water": 2,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 140,
+          "land": 1,
+          "water": 1,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 141,
+          "land": 1,
+          "water": 0,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 142,
+          "land": 1,
+          "water": 1,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 144,
+          "land": 2,
+          "water": 1,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 145,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 147,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 148,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 149,
+          "land": 2,
+          "water": 1,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 150,
+          "land": 1,
+          "water": 2,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 151,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 152,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 153,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 154,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 155,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 156,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 157,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 158,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 159,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 160,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 161,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 162,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 163,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 164,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 165,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 166,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 167,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 168,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 169,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 170,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 171,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 172,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 173,
+          "land": 0,
+          "water": 1,
+          "samples": 1
+        },
+        {
+          "longitude_degree": 174,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 175,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 176,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 177,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 178,
+          "land": 0,
+          "water": 2,
+          "samples": 2
+        },
+        {
+          "longitude_degree": 179,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        }
+      ],
+      "csv_path": "mapas-azgaar/datos/muestras-centros-franja-ecuatorial/Derat.csv"
+    },
+    "records": [
+      {
+        "index": 0,
+        "name": "header",
+        "length": 112,
+        "type": "text"
+      },
+      {
+        "index": 1,
+        "name": "map_options",
+        "length": 26832,
+        "type": "dict",
+        "keys": [
+          "seed",
+          "graph",
+          "geography",
+          "climate",
+          "cultures",
+          "lore",
+          "units",
+          "style",
+          "burgs",
+          "labels",
+          "military",
+          "transports",
+          "eras",
+          "customIcons",
+          "goods",
+          "coastline",
+          "relief"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "deprecated_map_coordinates",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 3,
+        "name": "biomes",
+        "length": 2077,
+        "count": 13,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "color",
+          "habitability",
+          "development",
+          "iconsDensity",
+          "icons",
+          "cost"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "deprecated_notes",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 5,
+        "name": "svg",
+        "length": 5855994,
+        "type": "text"
+      },
+      {
+        "index": 6,
+        "name": "grid_metadata",
+        "length": 1604503,
+        "type": "dict",
+        "keys": [
+          "spacing",
+          "cellsX",
+          "cellsY",
+          "boundary",
+          "points",
+          "features"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "grid_height",
+        "length": 276946,
+        "type": "numeric_array",
+        "count": 100280
+      },
+      {
+        "index": 8,
+        "name": "grid_precipitation",
+        "length": 319216,
+        "type": "numeric_array",
+        "count": 100280
+      },
+      {
+        "index": 9,
+        "name": "grid_feature_ids",
+        "length": 211772,
+        "type": "numeric_array",
+        "count": 100280
+      },
+      {
+        "index": 10,
+        "name": "grid_distance_to_water",
+        "length": 230905,
+        "type": "numeric_array",
+        "count": 100280
+      },
+      {
+        "index": 11,
+        "name": "grid_temperature",
+        "length": 300514,
+        "type": "numeric_array",
+        "count": 100280
+      },
+      {
+        "index": 12,
+        "name": "pack_features",
+        "length": 212871,
+        "count": 272,
+        "item_type": "int"
+      },
+      {
+        "index": 13,
+        "name": "cultures",
+        "length": 2715,
+        "count": 16,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "base",
+          "origins",
+          "shield",
+          "type",
+          "tags"
+        ]
+      },
+      {
+        "index": 14,
+        "name": "states",
+        "length": 406182,
+        "count": 101,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "economy",
+          "tags",
+          "neighbors",
+          "diplomacy",
+          "urban",
+          "rural",
+          "burgs",
+          "area",
+          "cells",
+          "provinces"
+        ]
+      },
+      {
+        "index": 15,
+        "name": "burgs",
+        "length": 496508,
+        "count": 1091,
+        "item_type": "int"
+      },
+      {
+        "index": 16,
+        "name": "pack_biome_ids",
+        "length": 150247,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 17,
+        "name": "pack_burg_ids",
+        "length": 145432,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 18,
+        "name": "pack_confluence",
+        "length": 144400,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 19,
+        "name": "pack_culture_ids",
+        "length": 158499,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 20,
+        "name": "pack_river_flux",
+        "length": 179196,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 21,
+        "name": "pack_population",
+        "length": 425888,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 22,
+        "name": "pack_river_ids",
+        "length": 167672,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 23,
+        "name": "deprecated_roads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 24,
+        "name": "pack_cell_score",
+        "length": 188202,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 25,
+        "name": "pack_state_ids",
+        "length": 194437,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 26,
+        "name": "pack_religion_ids",
+        "length": 198909,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 27,
+        "name": "pack_province_ids",
+        "length": 243847,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 28,
+        "name": "deprecated_crossroads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 29,
+        "name": "religions",
+        "length": 19887,
+        "count": 83,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "origins",
+          "tags"
+        ]
+      },
+      {
+        "index": 30,
+        "name": "provinces",
+        "length": 170987,
+        "count": 517,
+        "item_type": "int"
+      },
+      {
+        "index": 31,
+        "name": "name_bases",
+        "length": 885,
+        "type": "name_base_text"
+      },
+      {
+        "index": 32,
+        "name": "rivers",
+        "length": 458492,
+        "count": 1766,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "source",
+          "mouth",
+          "discharge",
+          "length",
+          "width",
+          "widthFactor",
+          "sourceWidth",
+          "parent",
+          "cells",
+          "group",
+          "tags",
+          "basin",
+          "name",
+          "type"
+        ]
+      },
+      {
+        "index": 33,
+        "name": "deprecated_rulers",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 34,
+        "name": "fonts",
+        "length": 759,
+        "type": "json"
+      },
+      {
+        "index": 35,
+        "name": "markers",
+        "length": 121973,
+        "count": 450,
+        "item_type": "dict",
+        "first_item_keys": [
+          "icon",
+          "type",
+          "dx",
+          "px",
+          "x",
+          "y",
+          "cell",
+          "i",
+          "name",
+          "tags",
+          "note"
+        ]
+      },
+      {
+        "index": 36,
+        "name": "cell_routes",
+        "length": 609732,
+        "type": "json"
+      },
+      {
+        "index": 37,
+        "name": "routes",
+        "length": 522171,
+        "count": 1293,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "group",
+          "name",
+          "feature",
+          "points",
+          "tags"
+        ]
+      },
+      {
+        "index": 38,
+        "name": "zones",
+        "length": 3702,
+        "count": 12,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "note",
+          "type",
+          "cells",
+          "color",
+          "tags"
+        ]
+      },
+      {
+        "index": 39,
+        "name": "ice",
+        "length": 2,
+        "type": "json"
+      },
+      {
+        "index": 40,
+        "name": "pack_good_ids",
+        "length": 143365,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 41,
+        "name": "deprecated_goods",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 42,
+        "name": "markets",
+        "length": 178078,
+        "count": 71,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "centerBurgId",
+          "color",
+          "goods",
+          "feePaid",
+          "rural"
+        ]
+      },
+      {
+        "index": 43,
+        "name": "deals",
+        "length": 726476,
+        "type": "record"
+      },
+      {
+        "index": 44,
+        "name": "pack_market_ids",
+        "length": 205513,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 45,
+        "name": "deprecated_custom_good_icons",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 46,
+        "name": "measurers",
+        "length": 106,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "type",
+          "points"
+        ]
+      },
+      {
+        "index": 47,
+        "name": "added_labels",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 48,
+        "name": "styles",
+        "length": 21493,
+        "type": "dict",
+        "keys": [
+          "biomes",
+          "borders",
+          "burgIcons",
+          "cells",
+          "coastline",
+          "compass",
+          "coordinates",
+          "cultures",
+          "emblems",
+          "fogging",
+          "goods",
+          "grid",
+          "heightmap",
+          "ice",
+          "journeys",
+          "labels",
+          "lakes",
+          "landmass",
+          "legend",
+          "map",
+          "markers",
+          "markets",
+          "military",
+          "ocean",
+          "population"
+        ]
+      },
+      {
+        "index": 49,
+        "name": "relief",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 50,
+        "name": "layers",
+        "length": 510,
+        "type": "dict",
+        "keys": [
+          "order",
+          "active"
+        ]
+      },
+      {
+        "index": 51,
+        "name": "graph_overrides",
+        "length": 2,
+        "type": "dict",
+        "keys": []
+      },
+      {
+        "index": 52,
+        "name": "journeys",
+        "length": 12266,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "type",
+          "segments",
+          "i",
+          "color"
+        ]
+      },
+      {
+        "index": 53,
+        "name": "legends",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 54,
+        "name": "pack_prosperity",
+        "length": 198911,
+        "type": "numeric_array",
+        "count": 71635
+      },
+      {
+        "index": 55,
+        "name": "pack_development",
+        "length": 198908,
+        "type": "numeric_array",
+        "count": 71635
+      }
+    ]
+  },
+  {
+    "world": "Teknara",
+    "source_file": "Teknara.map.gz",
+    "container": "Teknara.map.gz",
+    "compressed_size_bytes": 3704720,
+    "compressed_sha256": "3fc8d367a2dd8a47403b7a5e63d925620e22f6c0eaefa11f1750d2ea3dbe2042",
+    "uncompressed_size_bytes": 14982851,
+    "uncompressed_sha256": "dd9bc3f301e5c2b2be2eeb63c242930f4b5e54e30fe59a44e21f982fd6a40f50",
+    "record_count": 56,
+    "azgaar_version": "1.158.0",
+    "saved_date": "2026-11-12",
+    "seed": "674432764",
+    "canvas": {
+      "width": 800,
+      "height": 1165
+    },
+    "map_name": "Thia",
+    "geography": {
+      "latT": 180,
+      "latN": 90,
+      "latS": -90,
+      "lonT": 123.6,
+      "lonW": -61.8,
+      "lonE": 61.8
+    },
+    "graph": {
+      "width": 800,
+      "height": 1165,
+      "points": 100000,
+      "sampling": "square",
+      "jitter": 0.9
+    },
+    "grid": {
+      "spacing": 3.05,
+      "cellsX": 262,
+      "cellsY": 382,
+      "points": {
+        "count": 100084,
+        "item_type": "list"
+      },
+      "boundary": {
+        "count": 646,
+        "item_type": "list"
+      },
+      "grid_features": {
+        "count": 191,
+        "item_type": "int"
+      }
+    },
+    "terrain": {
+      "height_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "land_cells_height_ge_20": 49033,
+      "water_cells_height_lt_20": 51051,
+      "precipitation_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "feature_id_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "distance_to_water_values": {
+        "count": 100084,
+        "item_type": "int"
+      },
+      "temperature_values": {
+        "count": 100084,
+        "item_type": "int"
+      }
+    },
+    "entities": {
+      "biomes": 13,
+      "pack_features": 152,
+      "cultures_including_wildlands": 16,
+      "states_including_neutrals": 101,
+      "states_excluding_neutrals": 100,
+      "burgs_including_placeholder": 1711,
+      "burgs_excluding_placeholder": 1710,
+      "religions_including_none": 38,
+      "religions_excluding_none": 37,
+      "provinces_including_placeholder": 704,
+      "provinces_excluding_placeholder": 703,
+      "rivers": 1069,
+      "routes": 1660,
+      "markers": 491,
+      "zones": 14
+    },
+    "svg": {
+      "path": "mapas-azgaar/visualizaciones/fuentes/Teknara.svg.gz",
+      "characters": 4909931,
+      "xml_valid": true
+    },
+    "preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Teknara.png",
+    "band_preview_png": "mapas-azgaar/visualizaciones/vistas-previas/Teknara-franja-ecuatorial.png",
+    "center_sample_band": {
+      "definition": "145 km north-south, centered on latitude 0",
+      "wgs84_limit_degrees_approx": 0.6556676,
+      "method": "equirectangular bounds + grid point centers; preliminary sample, not polygon intersection",
+      "sampled_cells": 736,
+      "land_samples": 148,
+      "water_samples": 588,
+      "land_sample_percent": 20.11,
+      "longitude_min_sampled": -61.6548,
+      "longitude_max_sampled": 61.4771,
+      "one_degree_bins": [
+        {
+          "longitude_degree": -62,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -61,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -60,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -59,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -58,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -57,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -56,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -55,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -54,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -53,
+          "land": 0,
+          "water": 9,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -52,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -51,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -50,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -49,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -48,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -47,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -46,
+          "land": 0,
+          "water": 9,
+          "samples": 9
+        },
+        {
+          "longitude_degree": -45,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -44,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -43,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -42,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -41,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -40,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -39,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -38,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -37,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -36,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -35,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -34,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -33,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -32,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -31,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -30,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -29,
+          "land": 2,
+          "water": 4,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -28,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -27,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -26,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -25,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -24,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -23,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -22,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -21,
+          "land": 5,
+          "water": 1,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -20,
+          "land": 4,
+          "water": 3,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -19,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -18,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -17,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -16,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -15,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -14,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -13,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -12,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": -11,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": -10,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -9,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -8,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -7,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -6,
+          "land": 1,
+          "water": 6,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -5,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": -4,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": -3,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -2,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": -1,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 0,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 1,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 2,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 3,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 4,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 5,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 6,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 7,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 8,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 9,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 10,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 11,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 12,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 13,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 14,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 15,
+          "land": 6,
+          "water": 1,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 16,
+          "land": 1,
+          "water": 5,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 17,
+          "land": 3,
+          "water": 6,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 18,
+          "land": 0,
+          "water": 3,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 19,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 20,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 21,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 22,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 23,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 24,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 25,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 26,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 27,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 28,
+          "land": 0,
+          "water": 9,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 29,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 30,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 31,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 32,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 33,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 34,
+          "land": 2,
+          "water": 2,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 35,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 36,
+          "land": 9,
+          "water": 0,
+          "samples": 9
+        },
+        {
+          "longitude_degree": 37,
+          "land": 3,
+          "water": 0,
+          "samples": 3
+        },
+        {
+          "longitude_degree": 38,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 39,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 40,
+          "land": 7,
+          "water": 0,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 41,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 42,
+          "land": 5,
+          "water": 0,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 43,
+          "land": 8,
+          "water": 0,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 44,
+          "land": 4,
+          "water": 0,
+          "samples": 4
+        },
+        {
+          "longitude_degree": 45,
+          "land": 10,
+          "water": 0,
+          "samples": 10
+        },
+        {
+          "longitude_degree": 46,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 47,
+          "land": 6,
+          "water": 0,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 48,
+          "land": 2,
+          "water": 6,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 49,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 50,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 51,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 52,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 53,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 54,
+          "land": 0,
+          "water": 7,
+          "samples": 7
+        },
+        {
+          "longitude_degree": 55,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 56,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 57,
+          "land": 0,
+          "water": 8,
+          "samples": 8
+        },
+        {
+          "longitude_degree": 58,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 59,
+          "land": 0,
+          "water": 5,
+          "samples": 5
+        },
+        {
+          "longitude_degree": 60,
+          "land": 0,
+          "water": 6,
+          "samples": 6
+        },
+        {
+          "longitude_degree": 61,
+          "land": 0,
+          "water": 4,
+          "samples": 4
+        }
+      ],
+      "csv_path": "mapas-azgaar/datos/muestras-centros-franja-ecuatorial/Teknara.csv"
+    },
+    "records": [
+      {
+        "index": 0,
+        "name": "header",
+        "length": 112,
+        "type": "text"
+      },
+      {
+        "index": 1,
+        "name": "map_options",
+        "length": 26841,
+        "type": "dict",
+        "keys": [
+          "seed",
+          "graph",
+          "geography",
+          "climate",
+          "cultures",
+          "lore",
+          "units",
+          "style",
+          "burgs",
+          "labels",
+          "military",
+          "transports",
+          "eras",
+          "customIcons",
+          "goods",
+          "coastline",
+          "relief"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "deprecated_map_coordinates",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 3,
+        "name": "biomes",
+        "length": 2077,
+        "count": 13,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "color",
+          "habitability",
+          "development",
+          "iconsDensity",
+          "icons",
+          "cost"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "deprecated_notes",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 5,
+        "name": "svg",
+        "length": 4909931,
+        "type": "text"
+      },
+      {
+        "index": 6,
+        "name": "grid_metadata",
+        "length": 1584752,
+        "type": "dict",
+        "keys": [
+          "spacing",
+          "cellsX",
+          "cellsY",
+          "boundary",
+          "points",
+          "features"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "grid_height",
+        "length": 271329,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 8,
+        "name": "grid_precipitation",
+        "length": 242747,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 9,
+        "name": "grid_feature_ids",
+        "length": 212149,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 10,
+        "name": "grid_distance_to_water",
+        "length": 226831,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 11,
+        "name": "grid_temperature",
+        "length": 295372,
+        "type": "numeric_array",
+        "count": 100084
+      },
+      {
+        "index": 12,
+        "name": "pack_features",
+        "length": 152473,
+        "count": 152,
+        "item_type": "int"
+      },
+      {
+        "index": 13,
+        "name": "cultures",
+        "length": 2705,
+        "count": 16,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "base",
+          "origins",
+          "shield",
+          "type",
+          "tags"
+        ]
+      },
+      {
+        "index": 14,
+        "name": "states",
+        "length": 441264,
+        "count": 101,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "economy",
+          "tags",
+          "neighbors",
+          "diplomacy",
+          "urban",
+          "rural",
+          "burgs",
+          "area",
+          "cells",
+          "provinces"
+        ]
+      },
+      {
+        "index": 15,
+        "name": "burgs",
+        "length": 774674,
+        "count": 1711,
+        "item_type": "int"
+      },
+      {
+        "index": 16,
+        "name": "pack_biome_ids",
+        "length": 143428,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 17,
+        "name": "pack_burg_ids",
+        "length": 131610,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 18,
+        "name": "pack_confluence",
+        "length": 128241,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 19,
+        "name": "pack_culture_ids",
+        "length": 163664,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 20,
+        "name": "pack_river_flux",
+        "length": 150386,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 21,
+        "name": "pack_population",
+        "length": 394006,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 22,
+        "name": "pack_river_ids",
+        "length": 141766,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 23,
+        "name": "deprecated_roads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 24,
+        "name": "pack_cell_score",
+        "length": 149931,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 25,
+        "name": "pack_state_ids",
+        "length": 175924,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 26,
+        "name": "pack_religion_ids",
+        "length": 177907,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 27,
+        "name": "pack_province_ids",
+        "length": 226723,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 28,
+        "name": "deprecated_crossroads",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 29,
+        "name": "religions",
+        "length": 8461,
+        "count": 38,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "i",
+          "origins",
+          "tags"
+        ]
+      },
+      {
+        "index": 30,
+        "name": "provinces",
+        "length": 233882,
+        "count": 704,
+        "item_type": "int"
+      },
+      {
+        "index": 31,
+        "name": "name_bases",
+        "length": 885,
+        "type": "name_base_text"
+      },
+      {
+        "index": 32,
+        "name": "rivers",
+        "length": 283031,
+        "count": 1069,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "source",
+          "mouth",
+          "discharge",
+          "length",
+          "width",
+          "widthFactor",
+          "sourceWidth",
+          "parent",
+          "cells",
+          "group",
+          "tags",
+          "basin",
+          "name",
+          "type"
+        ]
+      },
+      {
+        "index": 33,
+        "name": "deprecated_rulers",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 34,
+        "name": "fonts",
+        "length": 759,
+        "type": "json"
+      },
+      {
+        "index": 35,
+        "name": "markers",
+        "length": 140628,
+        "count": 491,
+        "item_type": "dict",
+        "first_item_keys": [
+          "icon",
+          "type",
+          "dx",
+          "px",
+          "x",
+          "y",
+          "cell",
+          "i",
+          "name",
+          "tags",
+          "note"
+        ]
+      },
+      {
+        "index": 36,
+        "name": "cell_routes",
+        "length": 564939,
+        "type": "json"
+      },
+      {
+        "index": 37,
+        "name": "routes",
+        "length": 529167,
+        "count": 1660,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "group",
+          "name",
+          "feature",
+          "points",
+          "tags"
+        ]
+      },
+      {
+        "index": 38,
+        "name": "zones",
+        "length": 15333,
+        "count": 14,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "name",
+          "note",
+          "type",
+          "cells",
+          "color",
+          "tags"
+        ]
+      },
+      {
+        "index": 39,
+        "name": "ice",
+        "length": 61445,
+        "type": "json"
+      },
+      {
+        "index": 40,
+        "name": "pack_good_ids",
+        "length": 127662,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 41,
+        "name": "deprecated_goods",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 42,
+        "name": "markets",
+        "length": 222570,
+        "count": 86,
+        "item_type": "dict",
+        "first_item_keys": [
+          "i",
+          "centerBurgId",
+          "color",
+          "goods",
+          "feePaid",
+          "rural"
+        ]
+      },
+      {
+        "index": 43,
+        "name": "deals",
+        "length": 1091425,
+        "type": "record"
+      },
+      {
+        "index": 44,
+        "name": "pack_market_ids",
+        "length": 179929,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 45,
+        "name": "deprecated_custom_good_icons",
+        "length": 0,
+        "type": "deprecated_or_empty"
+      },
+      {
+        "index": 46,
+        "name": "measurers",
+        "length": 106,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "type",
+          "points"
+        ]
+      },
+      {
+        "index": 47,
+        "name": "added_labels",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 48,
+        "name": "styles",
+        "length": 21493,
+        "type": "dict",
+        "keys": [
+          "biomes",
+          "borders",
+          "burgIcons",
+          "cells",
+          "coastline",
+          "compass",
+          "coordinates",
+          "cultures",
+          "emblems",
+          "fogging",
+          "goods",
+          "grid",
+          "heightmap",
+          "ice",
+          "journeys",
+          "labels",
+          "lakes",
+          "landmass",
+          "legend",
+          "map",
+          "markers",
+          "markets",
+          "military",
+          "ocean",
+          "population"
+        ]
+      },
+      {
+        "index": 49,
+        "name": "relief",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 50,
+        "name": "layers",
+        "length": 510,
+        "type": "dict",
+        "keys": [
+          "order",
+          "active"
+        ]
+      },
+      {
+        "index": 51,
+        "name": "graph_overrides",
+        "length": 2,
+        "type": "dict",
+        "keys": []
+      },
+      {
+        "index": 52,
+        "name": "journeys",
+        "length": 9977,
+        "count": 1,
+        "item_type": "dict",
+        "first_item_keys": [
+          "name",
+          "type",
+          "segments",
+          "i",
+          "color"
+        ]
+      },
+      {
+        "index": 53,
+        "name": "legends",
+        "length": 2,
+        "count": 0,
+        "item_type": null
+      },
+      {
+        "index": 54,
+        "name": "pack_prosperity",
+        "length": 178410,
+        "type": "numeric_array",
+        "count": 63794
+      },
+      {
+        "index": 55,
+        "name": "pack_development",
+        "length": 178297,
+        "type": "numeric_array",
+        "count": 63794
+      }
+    ]
+  }
+]

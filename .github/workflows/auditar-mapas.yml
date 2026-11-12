@@ -1,0 +1,53 @@
+name: Auditar fuentes Azgaar
+
+on:
+  push:
+    branches:
+      - worldbuilding/geografia-y-terra
+    paths:
+      - "mapas-azgaar/herramientas/**"
+      - ".github/workflows/auditar-mapas.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: worldbuilding/geografia-y-terra
+
+      - name: Install SVG renderer
+        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin
+
+      - name: Install Azgaar geometry dependency
+        run: npm install --no-save --package-lock=false delaunator
+
+      - name: Extract and inspect original map records
+        run: python mapas-azgaar/herramientas/inspeccionar_azgaar.py
+
+      - name: Rebuild Voronoi cells and intersect equatorial band
+        run: node mapas-azgaar/herramientas/muestrear_voronoi.mjs
+
+      - name: Commit derived map data and previews
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mapas-azgaar/datos/inspeccion-estructura.json
+          git add mapas-azgaar/datos/franja-ecuatorial.json
+          git add mapas-azgaar/datos/franja-ecuatorial/*.csv
+          git add mapas-azgaar/datos/ecuador-exacto/*.csv
+          git add mapas-azgaar/datos/muestras-centros-franja-ecuatorial/*.csv
+          git add mapas-azgaar/visualizaciones/fuentes/*.svg.gz
+          git add mapas-azgaar/visualizaciones/vistas-previas/*.png
+          git add mapas-azgaar/visualizaciones/Portal-cobertura-ecuatorial.svg
+          git add mapas-azgaar/visualizaciones/Portal-cobertura-ecuatorial.png
+          git add mapas-azgaar/visualizaciones/Portal-linea-ecuatorial.svg
+          git add mapas-azgaar/visualizaciones/Portal-linea-ecuatorial.png
+          git diff --cached --quiet && exit 0
+          git commit -m "Add Voronoi-based equatorial band audit and map previews [skip ci]"
+          git push origin HEAD:worldbuilding/geografia-y-terra
