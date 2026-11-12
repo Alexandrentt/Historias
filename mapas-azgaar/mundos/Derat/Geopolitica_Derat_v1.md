@@ -315,3 +315,19 @@ El problema se conserva explícitamente en `metadata.topology_audit` y en las pr
 ### Bloqueo técnico pendiente
 
 La conversión SVG→GeoJSON parece suficiente para localizar etiquetas de burg, pero los polígonos derivados presentan cruces entre estados. La corrección requiere reconstruir las geometrías desde los datos nativos de celdas/estados del archivo `.map` de Azgaar, o validar una exportación oficial del propio generador. Hasta completar esa reconstrucción, los cuatro polígonos deben permanecer marcados como candidatos topológicamente no validados.
+
+
+## 17. Verificación directa de los burgs y nombres estatales en el archivo .map nativo
+
+Se inspeccionó el archivo original `derat(continente de alfaguara).map` (Azgaar 1.158.0, mapa `Bouneia`, semilla `182800799`). Los cuatro burgs se confirmaron directamente en los registros nativos:
+
+| Burg | ID | x nativo | y nativo | Estado nativo | Población generada por Azgaar |
+|---|---:|---:|---:|---|---:|
+| Cochambe | 61 | 394.10 | 67.03 | Maclifia | 38.91 |
+| Chaus | 6 | 188.63 | 68.76 | **Neutiersia** | 54.795 |
+| Monthimozoy | 36 | 157.13 | 89.42 | Combrierolia | 2.685 |
+| Bory | 87 | 183.54 | 48.06 | Bory | 2.63 |
+
+Las coordenadas CRS84 guardadas en el GeoJSON coinciden con la conversión lineal del mapa (longitud = −180 + x/1333 × 360; latitud = 90 − y/632 × 180). Se añadieron x/y nativos y población generada como metadatos auditables; la población es una salida del generador, no un dato narrativo.
+
+**Corrección de nombre:** el registro nativo del estado 6 dice `Neutiersia`. La etiqueta `Neutiersian League` procedía de la exportación SVG y se ha sustituido en las capas candidatas. El cruce topológico previamente detectado entre los polígonos de Combrierolia y Neutiersia sigue pendiente de reconstrucción; cambiar el nombre no corrige la geometría.
