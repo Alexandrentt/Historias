@@ -220,3 +220,24 @@ Se creó la capa independiente `Derat_Azgaar_estados_candidatos_Alfaguara.geojso
 La capa no se fusiona con la geopolítica narrativa: **son divisiones automáticas del mapa Azgaar, no ciudades-estado confirmadas ni territorios de facciones**. El recorte al continente tampoco es una frontera política. Los cuatro burgs relacionados son Cochambe, Chaus, Monthimozoy y Bory; sus nombres también permanecen pendientes de aprobación.
 
 La selección de cuatro estados no afirma que sean los únicos polígonos que tocan Alfaguara. El inventario geométrico más amplio detectó otros cuatro estados con intersección significativa pero sin un burg etiquetado dentro del continente. Se excluyen de esta capa de revisión para no sugerir asentamientos que el mapa no identifica de forma explícita.
+
+
+## 13. Proximidad de los burgs candidatos a rutas y ríos del mapa
+
+Se midió la distancia geodésica entre los cuatro burgs de Alfaguara y las líneas más cercanas de las capas SVG-derived `routes.geojson` y `rivers.geojson` del mismo mapa Azgaar. Los resultados se añadieron a las propiedades de cada punto en `Derat_geopolitica_Alfaguara.geojson`.
+
+| Burg candidato | Ruta Azgaar más cercana | Distancia | Río Azgaar más cercano | Distancia |
+|---|---|---:|---|---:|
+| Cochambe | route43 | 0.1 km | river2883 | 82.3 km |
+| Chaus | route25 | 1.3 km | river714 | 4.7 km |
+| Monthimozoy | route25 | 0.4 km | river773 | 16.6 km |
+| Bory | route1256 | 0.3 km | river1097 | 175.0 km |
+
+### Interpretación limitada
+
+- **Chaus** es el candidato con mayor proximidad a un cauce, a unos 4.7 km en línea geodésica. Eso no demuestra que el agua sea potable, permanente o suficiente.
+- **Monthimozoy** está relativamente cerca de una línea fluvial (16.6 km), pero no se ha verificado si existe conexión de captación.
+- **Cochambe** y **Bory** aparecen muy cerca de trazos de ruta, pero alejados de los ríos vectoriales más próximos. Podrían depender de acuíferos, lagos, captación artificial o abastecimiento externo; no elegir una explicación sin datos.
+- Las distancias a rutas no prueban que sean carreteras transitables, rutas comerciales históricas ni vías controladas por una facción.
+
+Las cifras son medidas de proximidad sobre geometrías extraídas del mapa, no datos de terreno verificados. Sirven para priorizar revisión: Chaus y Monthimozoy merecen comprobar primero su relación con agua superficial; Cochambe y Bory requieren investigar abastecimiento y logística.
