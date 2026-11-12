@@ -11,13 +11,19 @@ Los seis mapas preparados corresponden a estos mundos:
 
 ## Fuente de verdad y estado
 
-Los archivos originales `.map` / `.map.gz` son la fuente de verdad. El ZIP histórico y los comprimidos no deben reemplazarse sin verificar los hashes. El manifiesto enumera seis mapas preparados, pero los seis binarios individuales aún no están publicados en sus carpetas de mundo.
+Los archivos originales `.map` / `.map.gz` son la fuente de verdad. El manifiesto conserva el registro de los mapas originales. La publicación de los seis binarios originales en sus carpetas individuales sigue pendiente.
 
-## GeoJSON
+## GeoJSON extraído desde SVG
+
+Se generó un paquete GIS a partir de las geometrías SVG incrustadas en los seis archivos `.map`. Contiene capas de ríos, rutas, estados, fronteras, hielo y etiquetas, además de manifiestos por mundo. El informe `datos/EXTRACCION_SVG_GEOJSON.md` detalla el método y los conteos.
+
+**Limitación importante:** esta extracción vectoriza elementos visibles del SVG. No equivale a una exportación nativa completa de Azgaar: no reconstruye la malla de celdas, alturas, biomas ni todos los objetos internos. La capa de lagos está vacía porque los símbolos SVG de lagos no se convirtieron en esta pasada. No debe usarse como sustituto de los datos fuente.
+
+El paquete ZIP generado se conserva como artefacto descargable de la conversación; no se afirma que ese ZIP ni sus 49 archivos estén publicados en este repositorio.
+
+## Exportación nativa completa
 
 Se incorporó `datos/export_azgaar_geojson.py` para generar capas GIS desde la exportación JSON Full de cada mapa. Produce polígonos de celdas y capas de rutas, ríos, marcadores y zonas. Consulta `datos/README.md` para los pasos.
-
-**Estado de las exportaciones:** la herramienta ya está publicada; los GeoJSON completos de los seis mapas todavía no se han generado ni subido. No se crearán polígonos aproximados a partir de los metadatos del manifiesto ni se presentarán como exportaciones reales.
 
 ## Derat
 
