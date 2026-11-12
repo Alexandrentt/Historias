@@ -211,3 +211,12 @@ Esta lista es una lectura geométrica del mapa, no una identificación de las ci
 ### Resultado y siguiente operación
 
 Ahora existe una base espacial real para revisar cuatro asentamientos y ocho polígonos candidatos. La siguiente tarea técnica es contrastar cada uno con el boceto continental del autor y decidir cuáles se conservan, se renombran, se fusionan o se eliminan. Después se podrán asociar a cada ciudad-estado fuentes de agua, rutas y recursos, sin confundir los límites automáticos de Azgaar con el control político narrativo.
+
+
+## 12. Polígonos candidatos derivados del mapa Azgaar
+
+Se creó la capa independiente `Derat_Azgaar_estados_candidatos_Alfaguara.geojson`. Incluye los cuatro estados Azgaar que contienen los cuatro burgs identificados dentro del polígono propuesto de Alfaguara: Bory, Combrierolia, Maclifia y Neutiersian League. Las geometrías se extrajeron de la capa SVG-derived `states.geojson`, se convirtieron a CRS84, se intersectaron con el contorno propuesto de Alfaguara y se simplificaron para revisión visual.
+
+La capa no se fusiona con la geopolítica narrativa: **son divisiones automáticas del mapa Azgaar, no ciudades-estado confirmadas ni territorios de facciones**. El recorte al continente tampoco es una frontera política. Los cuatro burgs relacionados son Cochambe, Chaus, Monthimozoy y Bory; sus nombres también permanecen pendientes de aprobación.
+
+La selección de cuatro estados no afirma que sean los únicos polígonos que tocan Alfaguara. El inventario geométrico más amplio detectó otros cuatro estados con intersección significativa pero sin un burg etiquetado dentro del continente. Se excluyen de esta capa de revisión para no sugerir asentamientos que el mapa no identifica de forma explícita.
