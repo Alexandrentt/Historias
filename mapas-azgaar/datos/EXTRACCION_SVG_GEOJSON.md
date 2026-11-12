@@ -4,7 +4,7 @@
 
 Se procesaron localmente los seis mapas originales del paquete `Historias_Mapas_Organizados_6_mundos.zip`. El resultado local está empaquetado como `GeoJSON_Seis_Mundos_Azgaar.zip` (7,452,860 bytes; 49 archivos, 24,976 entidades).
 
-**Importante:** este artefacto aún no está publicado en este repositorio. El conector de GitHub disponible en esta sesión permite crear objetos Git y commits, pero no puede leer los archivos del contenedor local ni transmitir el ZIP binario desde allí. No se declara que los datos estén subidos.
+**Publicado:** el paquete está en la raíz del repositorio como `GeoJSON_Seis_Mundos_Azgaar_descarga.zip` (7.452.860 bytes; 49 archivos, 24.976 entidades). Los archivos individuales se conservan dentro del ZIP y no se han expandido todavía en las carpetas de cada mundo.
 
 ## Método y alcance
 
@@ -24,8 +24,8 @@ Esta conversión **no equivale a una exportación nativa completa de Azgaar**. N
 | Teknara | 1,069 | 1,660 | 488 | 1,270 | 172 | 100 | 0 | 4,759 |
 | **Total** | **7,288** | **7,350** | **2,611** | **5,770** | **1,436** | **521** | **0** | **24,976** |
 
-## Publicación pendiente
+## Estado de publicación
 
-El archivo ZIP y sus 48 archivos internos deben añadirse como archivos binarios/textuales al repositorio. La herramienta de GitHub de esta sesión no tiene una vía para adjuntar directamente un archivo local del contenedor; por eso este documento solo registra la extracción y no simula una subida inexistente.
+El ZIP completo ya está publicado en la raíz del repositorio. La expansión de los 49 archivos internos en sus respectivas carpetas por mundo queda como tarea organizativa opcional. Esta publicación no convierte la extracción SVG en una exportación nativa completa de Azgaar.
 
 Para una exportación cartográfica completa, generar desde cada mapa un **JSON Full** de Azgaar y ejecutar `datos/export_azgaar_geojson.py`, que está versionado en este repositorio.
