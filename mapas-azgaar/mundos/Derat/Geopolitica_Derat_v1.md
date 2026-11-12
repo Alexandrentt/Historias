@@ -241,3 +241,61 @@ Se midió la distancia geodésica entre los cuatro burgs de Alfaguara y las lín
 - Las distancias a rutas no prueban que sean carreteras transitables, rutas comerciales históricas ni vías controladas por una facción.
 
 Las cifras son medidas de proximidad sobre geometrías extraídas del mapa, no datos de terreno verificados. Sirven para priorizar revisión: Chaus y Monthimozoy merecen comprobar primero su relación con agua superficial; Cochambe y Bory requieren investigar abastecimiento y logística.
+
+
+## 14. Cruce espacial con la geografía física propuesta
+
+Se midió la proximidad de los cuatro burgs Azgaar candidatos a los elementos de `Derat_relieve_hidrografia.geojson`. Los resultados se guardaron en `properties.proximity_to_global_proposed_physical_layer` del GeoJSON geopolítico, separados de las distancias anteriores a las líneas fluviales y rutas extraídas del mapa regional Azgaar.
+
+| Burg candidato | Agua superficial conceptual más cercana | Distancia aprox. | Río conceptual más cercano | Distancia aprox. | Cuenca de Ceniza |
+|---|---|---:|---|---:|---:|
+| Cochambe | Río Rojo | 867 km | Río Rojo | 867 km | 1,444.3 km |
+| Chaus | Lago de las Nieves | 163.6 km | Río del Deshielo | 173.6 km | 2,421 km |
+| Monthimozoy | Lago de las Nieves | 719.6 km | Río de las Cuencas | 793 km | 2,664.7 km |
+| Bory | Río del Deshielo | 86.5 km | Río del Deshielo | 86.5 km | 2,758.9 km |
+
+### Hallazgo crítico: dos redes hidrográficas distintas
+
+Los valores previamente guardados como `nearest_azgaar_river_distance_km` proceden de los trazos fluviales extraídos del SVG del mapa regional Azgaar. La tabla anterior usa los ríos y lagos conceptuales de `Derat_relieve_hidrografia.geojson`. Por ejemplo, Chaus está a 4.7 km de un trazo fluvial Azgaar, pero a unos 173.6 km del Río del Deshielo conceptual; Bory está a 175 km del río Azgaar más cercano y a unos 86.5 km del Río del Deshielo conceptual. No es correcto fusionar esas medidas ni concluir que una fuente de agua está disponible.
+
+La discrepancia revela que las capas no están todavía reconciliadas espacialmente. Aunque ambas expresan coordenadas geográficas, los rasgos conceptuales del atlas global no reproducen la red hidrográfica del mapa regional. Hace falta una decisión de georreferenciación: ajustar la geografía conceptual a la regional, o rediseñar la regional para que corresponda al atlas global. No se debe corregir desplazando puntos a ojo.
+
+### Lectura preliminar por asentamiento
+
+- **Bory:** es el candidato con mayor proximidad a un río de la capa física propuesta (86.5 km) y al Lago de las Nieves (124.6 km). La cercanía no demuestra captación, caudal ni potabilidad.
+- **Chaus:** queda a unos 163.6 km del Lago de las Nieves y a 173.6 km del Río del Deshielo en el atlas conceptual; el río Azgaar regional más cercano está mucho más próximo. Es el caso más claro para revisar el desacople entre capas.
+- **Monthimozoy:** los elementos de agua del atlas conceptual quedan a más de 700 km. No se debe inferir que carece de agua: el mapa conceptual es incompleto y el relato menciona mantos freáticos profundos.
+- **Cochambe:** el Río Rojo conceptual más cercano queda a unos 867 km. Tampoco demuestra ausencia de agua subterránea ni abastecimiento externo.
+
+La Cuenca de Ceniza, como zona propuesta de presión extractiva, queda a más de 1,400 km de los cuatro puntos. Por tanto, no hay base para asociar estos burgs concretos con esa zona extractiva.
+
+## 15. Cronología territorial y consistencia de actores
+
+El cruce de `Los Josth/Transtierra.md`, `Los Josth/tierras/Derat.md`, `odisey/tierras/Alfaguara.md`, `Lista-40.md`, `Linea-Temporal.md` y `Canon.md` permite separar estos niveles:
+
+| Fecha | Hecho narrativo | Consecuencia cartográfica legítima |
+|---|---|---|
+| 127 DT | Tras la derrota de Derat, la CTT impone una zona desmilitarizada alrededor del Portal y tropas extranjeras ocupan posiciones clave | La zona se describe en torno al Portal; no hay geometría regional precisa en la documentación revisada |
+| 132 DT | Empresas amitianas controlan de facto la extracción con protección militar | Registrar concesiones y protección como fenómenos; no inventar polígonos ni instalaciones |
+| 153 DT | Nacen movimientos clandestinos fragmentados; primeras células de Águila Roja | Actor y fecha documentados; sin áreas de actividad localizadas |
+| 166 DT | Colapso económico y aparición de ciudades-estado casi independientes | Estructura política fragmentada; sin inventario de asentamientos ni fronteras |
+| 178 DT | Circulan rumores de alianzas insurgentes, pero no existe unidad real | No representar una coalición territorial consolidada |
+| 191 DT | El Consejo de Alfaguara se convierte en foco de resistencia contra el «Régimen» | Entidad histórica nombrada; ubicación exacta pendiente |
+| 505 Zinex | Renegociación de concesiones mineras de la SATT a cambio de inversión en caminos, transporte pesado y nodos logísticos | Infraestructura y concesiones documentadas en términos generales; sin trazados ni nodos georreferenciados |
+| 520 Ovryn | Descubrimiento de una extensa veta de Balatium en la meseta de Alfaguara; explotación acelera desertificación y agota mantos freáticos superficiales | Recurso y efectos documentados; sin coordenadas del yacimiento |
+| 535 Leifx | Comité de Reclamos Populares con autoridad simbólica y poco margen frente a la SATT | Institución documentada; no es una soberanía territorial |
+| 550 Pazyn | Pozos subterráneos de capacidad limitada abastecen zonas mineras clave y dejan comunidades rurales desabastecidas | Infraestructura hídrica documentada, pero sin localización ni capacidad por pozo |
+| Posterior al auge de Balatium | Vía de las Sombras, corredor nocturno que bordea asentamientos abandonados y evade peajes SATT | Corredor documentado, pero sin extremos ni trazado; mantener geometría null |
+| 586 DT | Operación Tierra 5 en un poblado minero de Derat; muere la hija de Bastean | Hecho canónico por `Canon.md`; poblado sin nombre ni coordenadas |
+
+### Contradicciones documentales que no se convierten en geometría
+
+1. `Los Josth/Transtierra.md` describe al Bowit como un grupo que ejerce poder sobre **buena parte** de Alfaguara. `Los Josth/tierras/Derat.md` lo resume como si controlara Alfaguara sin matices. La lectura prudente es influencia extensa pero no delimitada; no dibujar un polígono de dominio.
+2. La narración histórica identifica al «Régimen» como el nombre local dado a las tropas extranjeras que protegían la frontera y los intereses extractivos, dentro de la historia de la CTT/SATT. La ficha resumida de Derat lo reduce a «fuerzas amitianas». No equiparar automáticamente a todas las tropas de la CTT, la SATT, las empresas privadas de Amitia y el Régimen local como si fueran una sola cadena de mando.
+3. Águila Roja no es un mando unificado en la etapa descrita: el movimiento se fragmenta en células que siguen intereses propios. Los rumores de alianzas no acreditan coordinación real.
+4. Las ciudades-estado funcionan de manera casi independiente, pero los documentos no aportan un inventario fiable, nombres, coordenadas ni límites. Los cuatro burgs Azgaar no rellenan ese vacío: solo son etiquetas generadas del mapa regional.
+5. `Canon.md` fija la cronología del Régimen de Excepción amitiano (579–588 DT) y el evento de 586 DT en Derat. Ese Régimen de Excepción no es el «Régimen» histórico nombrado por los habitantes de Alfaguara para las tropas extranjeras.
+
+### Consecuencia para el modelo
+
+La cartografía disponible sustenta un modelo de capas superpuestas —ocupación, concesiones, ciudades-estado, resistencia, corredores informales y presión hídrica—, no una división territorial cerrada. Los únicos puntos con coordenadas de asentamientos que se mantienen son candidatos generados por Azgaar; los hechos narrativos sin localización siguen como registros con geometría `null`.
