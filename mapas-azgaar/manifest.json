@@ -3,8 +3,8 @@
   "project": "Historias",
   "generator": "Azgaar's Fantasy Map Generator",
   "generated_at": "2026-11-12",
-  "policy": "Los .map originales son la fuente de verdad; los derivados no sustituyen al original.",
-  "original_files_uploaded_to_repository": false,
+  "policy": "Los seis originales se conservan comprimidos en el repositorio; los archivos .map descomprimidos, informes, SVG y vistas son derivados regenerables. Las fuentes no se modifican durante la auditoría.",
+  "original_files_uploaded_to_repository": true,
   "biome_palette": [
     "Marine",
     "Hot desert",
@@ -72,7 +72,61 @@
       "sha256": "0016c788d9d9059f38a587ea7f831e38799ca06f4b4bc74240df975b0b417d70",
       "repository_path": "mapas-azgaar/mundos/Amitia/Amitia.map",
       "uploaded": false,
-      "prepared_locally": true
+      "prepared_locally": true,
+      "world": "Amitia",
+      "archive_member": "Amitia.map.gz",
+      "source_container": "Historias_mapas_gz_GitHub.zip",
+      "analysis": {
+        "longitude_coverage_degrees": 43.3,
+        "longitude_coverage_percent": 12.03,
+        "covers_full_circumference": false,
+        "equatorial_band_land_percent": 50.4024,
+        "equatorial_band_water_percent": 49.5976,
+        "equatorial_band_intersecting_grid_cells": 2419,
+        "voronoi_area_closure_error_percent": 0.000554,
+        "states_array_entries_including_neutrals": 101,
+        "burgs_array_entries_including_placeholder": 1897,
+        "routes": 1724,
+        "equatorial_csv": "mapas-azgaar/datos/franja-ecuatorial/Amitia.csv",
+        "full_preview": "mapas-azgaar/visualizaciones/vistas-previas/Amitia.png",
+        "equatorial_preview": "mapas-azgaar/visualizaciones/vistas-previas/Amitia-franja-ecuatorial.png",
+        "extracted_svg_gzip": "mapas-azgaar/visualizaciones/fuentes/Amitia.svg.gz",
+        "terrain_profile": {
+          "mean_land_height_index": 32.190781747367176,
+          "lowland_percent_of_land": 77.93745025631318,
+          "midland_percent_of_land": 20.347981159841485,
+          "highland_percent_of_land": 1.7145685838453264,
+          "very_high_percent_of_land": 0,
+          "near_coast_percent_of_land": 15.091756835779655,
+          "mean_land_temperature_c": 20.077500315819343,
+          "mean_land_precipitation_index": 8.195208634689308,
+          "mean_max_neighbor_height_delta": 4.510300690254961,
+          "elevation_note": "Azgaar relative height index grouped into 20–39, 40–59, 60–79 and 80–100; not metres",
+          "coastal_note": "Near-coast proxy: land cells with positive distance-field value <= 2 grid steps",
+          "roughness_note": "Area-weighted maximum height-index difference between neighbouring grid cells; not a physical slope"
+        },
+        "world_readme": "mapas-azgaar/mundos/Amitia/README.md",
+        "exact_equator": {
+          "land_percent": 50.6634,
+          "water_percent": 49.3366,
+          "line_closure_error_percent": 0,
+          "intersecting_cells": 326,
+          "longitude_coverage_degrees": 43.3,
+          "covers_full_circumference": false,
+          "terrain_profile": {
+            "mean_land_height_index": 32.248919486607136,
+            "lowland_percent_of_land": 76.91847539084402,
+            "midland_percent_of_land": 20.97792233369507,
+            "highland_percent_of_land": 2.103602275460924,
+            "very_high_percent_of_land": 0,
+            "near_coast_percent_of_land": 21.23759203708084,
+            "mean_land_temperature_c": 19.980797991739422,
+            "mean_land_precipitation_index": 8.28438048728104,
+            "mean_max_neighbor_height_delta": 4.762474807048192
+          },
+          "csv": "mapas-azgaar/datos/ecuador-exacto/Amitia.csv"
+        }
+      }
     },
     {
       "file": "Atharis.map",
@@ -125,7 +179,61 @@
       "sha256": "3e55ac0c8297d5e6d3b140e6c727bb4fb0e32a6dc4e425d4f25bd75bf10a86c2",
       "repository_path": "mapas-azgaar/mundos/Atharis/Atharis.map",
       "uploaded": false,
-      "prepared_locally": true
+      "prepared_locally": true,
+      "world": "Atharis",
+      "archive_member": "Atharis.map.gz",
+      "source_container": "Historias_mapas_gz_GitHub.zip",
+      "analysis": {
+        "longitude_coverage_degrees": 123.30000000000001,
+        "longitude_coverage_percent": 34.25,
+        "covers_full_circumference": false,
+        "equatorial_band_land_percent": 72.7887,
+        "equatorial_band_water_percent": 27.2113,
+        "equatorial_band_intersecting_grid_cells": 1486,
+        "voronoi_area_closure_error_percent": 0.003495,
+        "states_array_entries_including_neutrals": 101,
+        "burgs_array_entries_including_placeholder": 1686,
+        "routes": 1634,
+        "equatorial_csv": "mapas-azgaar/datos/franja-ecuatorial/Atharis.csv",
+        "full_preview": "mapas-azgaar/visualizaciones/vistas-previas/Atharis.png",
+        "equatorial_preview": "mapas-azgaar/visualizaciones/vistas-previas/Atharis-franja-ecuatorial.png",
+        "extracted_svg_gzip": "mapas-azgaar/visualizaciones/fuentes/Atharis.svg.gz",
+        "terrain_profile": {
+          "mean_land_height_index": 34.261440183220536,
+          "lowland_percent_of_land": 75.78663077617108,
+          "midland_percent_of_land": 24.21336922382893,
+          "highland_percent_of_land": 0,
+          "very_high_percent_of_land": 0,
+          "near_coast_percent_of_land": 7.007614222975648,
+          "mean_land_temperature_c": 31.77053185767521,
+          "mean_land_precipitation_index": 5.79596839013205,
+          "mean_max_neighbor_height_delta": 4.134990988947347,
+          "elevation_note": "Azgaar relative height index grouped into 20–39, 40–59, 60–79 and 80–100; not metres",
+          "coastal_note": "Near-coast proxy: land cells with positive distance-field value <= 2 grid steps",
+          "roughness_note": "Area-weighted maximum height-index difference between neighbouring grid cells; not a physical slope"
+        },
+        "world_readme": "mapas-azgaar/mundos/Atharis/README.md",
+        "exact_equator": {
+          "land_percent": 72.8978,
+          "water_percent": 27.1022,
+          "line_closure_error_percent": 0,
+          "intersecting_cells": 393,
+          "longitude_coverage_degrees": 123.30000000000001,
+          "covers_full_circumference": false,
+          "terrain_profile": {
+            "mean_land_height_index": 34.12071080082528,
+            "lowland_percent_of_land": 76.32407673158154,
+            "midland_percent_of_land": 23.675923268418476,
+            "highland_percent_of_land": 0,
+            "very_high_percent_of_land": 0,
+            "near_coast_percent_of_land": 7.3133524384836495,
+            "mean_land_temperature_c": 31.810696646237464,
+            "mean_land_precipitation_index": 5.924861442674334,
+            "mean_max_neighbor_height_delta": 4.264900468218647
+          },
+          "csv": "mapas-azgaar/datos/ecuador-exacto/Atharis.csv"
+        }
+      }
     },
     {
       "file": "derat(continente de alfaguara).map",
@@ -178,7 +286,61 @@
       "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
       "repository_path": "mapas-azgaar/mundos/Derat/derat(continente de alfaguara).map",
       "uploaded": false,
-      "prepared_locally": true
+      "prepared_locally": true,
+      "world": "Derat",
+      "archive_member": "derat(continente de alfaguara).map.gz",
+      "source_container": "Historias_mapas_gz_GitHub.zip",
+      "analysis": {
+        "longitude_coverage_degrees": 360,
+        "longitude_coverage_percent": 100,
+        "covers_full_circumference": true,
+        "equatorial_band_land_percent": 72.5739,
+        "equatorial_band_water_percent": 27.4261,
+        "equatorial_band_intersecting_grid_cells": 1246,
+        "voronoi_area_closure_error_percent": 0,
+        "states_array_entries_including_neutrals": 101,
+        "burgs_array_entries_including_placeholder": 1091,
+        "routes": 1293,
+        "equatorial_csv": "mapas-azgaar/datos/franja-ecuatorial/Derat.csv",
+        "full_preview": "mapas-azgaar/visualizaciones/vistas-previas/Derat.png",
+        "equatorial_preview": "mapas-azgaar/visualizaciones/vistas-previas/Derat-franja-ecuatorial.png",
+        "extracted_svg_gzip": "mapas-azgaar/visualizaciones/fuentes/Derat.svg.gz",
+        "terrain_profile": {
+          "mean_land_height_index": 38.67494393087802,
+          "lowland_percent_of_land": 55.79508877941344,
+          "midland_percent_of_land": 34.68088879284931,
+          "highland_percent_of_land": 9.369938183764768,
+          "very_high_percent_of_land": 0.1540842439724856,
+          "near_coast_percent_of_land": 7.865922194807463,
+          "mean_land_temperature_c": 39.14288179823124,
+          "mean_land_precipitation_index": 10.514436962757538,
+          "mean_max_neighbor_height_delta": 5.550490240309493,
+          "elevation_note": "Azgaar relative height index grouped into 20–39, 40–59, 60–79 and 80–100; not metres",
+          "coastal_note": "Near-coast proxy: land cells with positive distance-field value <= 2 grid steps",
+          "roughness_note": "Area-weighted maximum height-index difference between neighbouring grid cells; not a physical slope"
+        },
+        "world_readme": "mapas-azgaar/mundos/Derat/README.md",
+        "exact_equator": {
+          "land_percent": 72.0965,
+          "water_percent": 27.9035,
+          "line_closure_error_percent": 0,
+          "intersecting_cells": 633,
+          "longitude_coverage_degrees": 360,
+          "covers_full_circumference": true,
+          "terrain_profile": {
+            "mean_land_height_index": 38.67562084093258,
+            "lowland_percent_of_land": 55.877129957481024,
+            "midland_percent_of_land": 34.38403344084209,
+            "highland_percent_of_land": 9.605023808831648,
+            "very_high_percent_of_land": 0.13381279284522454,
+            "near_coast_percent_of_land": 7.199151393601041,
+            "mean_land_temperature_c": 39.1323706181398,
+            "mean_land_precipitation_index": 10.189344275918755,
+            "mean_max_neighbor_height_delta": 5.559507707638174
+          },
+          "csv": "mapas-azgaar/datos/ecuador-exacto/Derat.csv"
+        }
+      }
     },
     {
       "file": "Korza .map",
@@ -231,7 +393,61 @@
       "sha256": "823e3414d8090b0436a4c8ccafc4cb132d68e1667ec795b9bbc65e3cadbae56f",
       "repository_path": "mapas-azgaar/mundos/Korza/Korza .map",
       "uploaded": false,
-      "prepared_locally": true
+      "prepared_locally": true,
+      "world": "Khorza",
+      "archive_member": "Korza .map.gz",
+      "source_container": "Historias_mapas_gz_GitHub.zip",
+      "analysis": {
+        "longitude_coverage_degrees": 123.6,
+        "longitude_coverage_percent": 34.33,
+        "covers_full_circumference": false,
+        "equatorial_band_land_percent": 79.1315,
+        "equatorial_band_water_percent": 20.8685,
+        "equatorial_band_intersecting_grid_cells": 1060,
+        "voronoi_area_closure_error_percent": 0.006762,
+        "states_array_entries_including_neutrals": 1,
+        "burgs_array_entries_including_placeholder": 1,
+        "routes": 0,
+        "equatorial_csv": "mapas-azgaar/datos/franja-ecuatorial/Khorza.csv",
+        "full_preview": "mapas-azgaar/visualizaciones/vistas-previas/Khorza.png",
+        "equatorial_preview": "mapas-azgaar/visualizaciones/vistas-previas/Khorza-franja-ecuatorial.png",
+        "extracted_svg_gzip": "mapas-azgaar/visualizaciones/fuentes/Khorza.svg.gz",
+        "terrain_profile": {
+          "mean_land_height_index": 42.282588057509805,
+          "lowland_percent_of_land": 57.84537361890636,
+          "midland_percent_of_land": 27.580228869565914,
+          "highland_percent_of_land": 10.15791734249079,
+          "very_high_percent_of_land": 4.416480169036953,
+          "near_coast_percent_of_land": 9.014765527200622,
+          "mean_land_temperature_c": 37.29989295321659,
+          "mean_land_precipitation_index": 11.051761601677722,
+          "mean_max_neighbor_height_delta": 7.849781837539437,
+          "elevation_note": "Azgaar relative height index grouped into 20–39, 40–59, 60–79 and 80–100; not metres",
+          "coastal_note": "Near-coast proxy: land cells with positive distance-field value <= 2 grid steps",
+          "roughness_note": "Area-weighted maximum height-index difference between neighbouring grid cells; not a physical slope"
+        },
+        "world_readme": "mapas-azgaar/mundos/Khorza/README.md",
+        "exact_equator": {
+          "land_percent": 79.4953,
+          "water_percent": 20.5047,
+          "line_closure_error_percent": 0.042299,
+          "intersecting_cells": 354,
+          "longitude_coverage_degrees": 123.6,
+          "covers_full_circumference": false,
+          "terrain_profile": {
+            "mean_land_height_index": 42.20007516499265,
+            "lowland_percent_of_land": 59.06536037064646,
+            "midland_percent_of_land": 27.363932853401845,
+            "highland_percent_of_land": 9.198756430941838,
+            "very_high_percent_of_land": 4.3719503450098625,
+            "near_coast_percent_of_land": 9.945254173503727,
+            "mean_land_temperature_c": 37.3136487561057,
+            "mean_land_precipitation_index": 11.030484765865593,
+            "mean_max_neighbor_height_delta": 8.14891208891255
+          },
+          "csv": "mapas-azgaar/datos/ecuador-exacto/Khorza.csv"
+        }
+      }
     },
     {
       "file": "Návar.map",
@@ -284,7 +500,61 @@
       "sha256": "e0eadc154f16c6ff2bfb669071626628e79c81ed373924b71e11d3802bbc07c7",
       "repository_path": "mapas-azgaar/mundos/Navar/Návar.map",
       "uploaded": false,
-      "prepared_locally": true
+      "prepared_locally": true,
+      "world": "Návar",
+      "archive_member": "Návar.map.gz",
+      "source_container": "Historias_mapas_gz_GitHub.zip",
+      "analysis": {
+        "longitude_coverage_degrees": 18.5,
+        "longitude_coverage_percent": 5.14,
+        "covers_full_circumference": false,
+        "equatorial_band_land_percent": 75.8336,
+        "equatorial_band_water_percent": 24.1664,
+        "equatorial_band_intersecting_grid_cells": 5226,
+        "voronoi_area_closure_error_percent": 0.004379,
+        "states_array_entries_including_neutrals": 101,
+        "burgs_array_entries_including_placeholder": 1582,
+        "routes": 1519,
+        "equatorial_csv": "mapas-azgaar/datos/franja-ecuatorial/Návar.csv",
+        "full_preview": "mapas-azgaar/visualizaciones/vistas-previas/Návar.png",
+        "equatorial_preview": "mapas-azgaar/visualizaciones/vistas-previas/Návar-franja-ecuatorial.png",
+        "extracted_svg_gzip": "mapas-azgaar/visualizaciones/fuentes/Návar.svg.gz",
+        "terrain_profile": {
+          "mean_land_height_index": 36.41687310423325,
+          "lowland_percent_of_land": 66.15972734926625,
+          "midland_percent_of_land": 28.231947896530123,
+          "highland_percent_of_land": 4.326927879067425,
+          "very_high_percent_of_land": 1.2813968751362268,
+          "near_coast_percent_of_land": 11.865899282166348,
+          "mean_land_temperature_c": 20.691030520693886,
+          "mean_land_precipitation_index": 6.013006219004901,
+          "mean_max_neighbor_height_delta": 6.036376389482501,
+          "elevation_note": "Azgaar relative height index grouped into 20–39, 40–59, 60–79 and 80–100; not metres",
+          "coastal_note": "Near-coast proxy: land cells with positive distance-field value <= 2 grid steps",
+          "roughness_note": "Area-weighted maximum height-index difference between neighbouring grid cells; not a physical slope"
+        },
+        "world_readme": "mapas-azgaar/mundos/Návar/README.md",
+        "exact_equator": {
+          "land_percent": 74.1032,
+          "water_percent": 25.8968,
+          "line_closure_error_percent": 0.005011,
+          "intersecting_cells": 359,
+          "longitude_coverage_degrees": 18.5,
+          "covers_full_circumference": false,
+          "terrain_profile": {
+            "mean_land_height_index": 36.354299628514894,
+            "lowland_percent_of_land": 63.773819871453625,
+            "midland_percent_of_land": 28.86527618154491,
+            "highland_percent_of_land": 5.67467833822055,
+            "very_high_percent_of_land": 1.6862256087809324,
+            "near_coast_percent_of_land": 13.197585926227593,
+            "mean_land_temperature_c": 20.640124602250665,
+            "mean_land_precipitation_index": 7.452450193302746,
+            "mean_max_neighbor_height_delta": 6.267626513852465
+          },
+          "csv": "mapas-azgaar/datos/ecuador-exacto/Návar.csv"
+        }
+      }
     },
     {
       "file": "Teknara.map",
@@ -294,7 +564,7 @@
       "timestamp_ms": 1794498728187,
       "width": 800,
       "height": 1165,
-      "map_name": "Teknara",
+      "map_name": "Thia",
       "graph": {
         "width": 800,
         "height": 1165,
@@ -338,13 +608,67 @@
       "repository_path": "mapas-azgaar/mundos/Teknara/Teknara.map",
       "compressed_local_path": "mapas-azgaar/paquetes/Teknara.map.gz",
       "uploaded": false,
-      "prepared_locally": true
+      "prepared_locally": true,
+      "world": "Teknara",
+      "archive_member": "Teknara.map.gz",
+      "source_container": "Teknara.map.gz (raíz del repositorio)",
+      "analysis": {
+        "longitude_coverage_degrees": 123.6,
+        "longitude_coverage_percent": 34.33,
+        "covers_full_circumference": false,
+        "equatorial_band_land_percent": 19.7288,
+        "equatorial_band_water_percent": 80.2712,
+        "equatorial_band_intersecting_grid_cells": 1059,
+        "voronoi_area_closure_error_percent": 0.008354,
+        "states_array_entries_including_neutrals": 101,
+        "burgs_array_entries_including_placeholder": 1711,
+        "routes": 1660,
+        "equatorial_csv": "mapas-azgaar/datos/franja-ecuatorial/Teknara.csv",
+        "full_preview": "mapas-azgaar/visualizaciones/vistas-previas/Teknara.png",
+        "equatorial_preview": "mapas-azgaar/visualizaciones/vistas-previas/Teknara-franja-ecuatorial.png",
+        "extracted_svg_gzip": "mapas-azgaar/visualizaciones/fuentes/Teknara.svg.gz",
+        "terrain_profile": {
+          "mean_land_height_index": 29.477650238614547,
+          "lowland_percent_of_land": 88.91074850171564,
+          "midland_percent_of_land": 11.08925149828435,
+          "highland_percent_of_land": 0,
+          "very_high_percent_of_land": 0,
+          "near_coast_percent_of_land": 19.9264953398712,
+          "mean_land_temperature_c": 17.70038214429279,
+          "mean_land_precipitation_index": 13.266543279659539,
+          "mean_max_neighbor_height_delta": 5.241893242910076,
+          "elevation_note": "Azgaar relative height index grouped into 20–39, 40–59, 60–79 and 80–100; not metres",
+          "coastal_note": "Near-coast proxy: land cells with positive distance-field value <= 2 grid steps",
+          "roughness_note": "Area-weighted maximum height-index difference between neighbouring grid cells; not a physical slope"
+        },
+        "world_readme": "mapas-azgaar/mundos/Teknara/README.md",
+        "exact_equator": {
+          "land_percent": 19.3819,
+          "water_percent": 80.6181,
+          "line_closure_error_percent": 0.005011,
+          "intersecting_cells": 359,
+          "longitude_coverage_degrees": 123.6,
+          "covers_full_circumference": false,
+          "terrain_profile": {
+            "mean_land_height_index": 29.74214502663498,
+            "lowland_percent_of_land": 87.50996061726468,
+            "midland_percent_of_land": 12.490039382735322,
+            "highland_percent_of_land": 0,
+            "very_high_percent_of_land": 0,
+            "near_coast_percent_of_land": 17.56470676430684,
+            "mean_land_temperature_c": 17.636205434945907,
+            "mean_land_precipitation_index": 12.573920557039527,
+            "mean_max_neighbor_height_delta": 5.153266145603125
+          },
+          "csv": "mapas-azgaar/datos/ecuador-exacto/Teknara.csv"
+        }
+      }
     }
   ],
   "compressed_archive": {
     "repository_path": "Historias_mapas_gz_GitHub.zip",
-    "repository_version": "5 mapas (snapshot anterior a Teknara)",
-    "updated_six_map_package": "Preparado localmente; pendiente de reemplazar el ZIP del repositorio"
+    "repository_version": "Cinco mapas .map.gz dentro del ZIP histórico y Teknara.map.gz en la raíz",
+    "updated_six_map_package": "No se reemplaza: los seis originales se procesan desde sus ubicaciones actuales"
   },
   "organization": {
     "structure": "mapas-azgaar/mundos/<mundo>/<archivo>.map",
@@ -352,12 +676,90 @@
       "Amitia",
       "Atharis",
       "Derat",
-      "Korza",
+      "Khorza",
       "Navar",
-      "Teknara"
+      "Teknara",
+      "Terra"
     ],
     "decompressed_and_sha256_verified": true,
-    "organized_package": "Historias_Mapas_Organizados_6_mundos.zip",
-    "github_binary_upload_pending": true
+    "organized_package": null,
+    "github_binary_upload_pending": false,
+    "note": "Los seis originales están accesibles en GitHub: cinco mapas .map.gz dentro de Historias_mapas_gz_GitHub.zip y Teknara.map.gz en la raíz. GitHub Actions los descomprime, parsea y procesa directamente; no hace falta adjuntarlos ni duplicarlos en carpetas organizadas. Los originales comprimidos se conservan sin cambios.",
+    "legacy_artifacts_in_repository": [
+      "Historias_mapas_gz_GitHub.zip (paquete histórico de cinco mapas)",
+      "Teknara.map.gz (archivo comprimido en la raíz)"
+    ],
+    "binary_access": "GitHub Actions descomprime y lee los seis archivos originales, reconstruye la malla Voronoi, extrae SVG y genera derivados cartográficos y tabulares.",
+    "inspection_report": "mapas-azgaar/datos/inspeccion-tecnica-fuentes.md",
+    "organized_copies_uploaded": false,
+    "organized_copies_pending": false,
+    "compressed_sources_accessible": true
+  },
+  "planned_worlds": [
+    {
+      "name": "Terra",
+      "administrative_order": 7,
+      "status": "global_geography_reference_and_yen_era_survey_limit",
+      "map_created": false,
+      "source_map_uploaded": false,
+      "reference_geography": "Planeta Tierra real completo: todas las masas terrestres, islas, costas, océanos y accidentes geográficos del globo",
+      "cartographic_band": {
+        "north_south_height_km": 145,
+        "center_latitude_deg": 0,
+        "south_limit_latitude_approx_deg": -0.6557,
+        "north_limit_latitude_approx_deg": 0.6557,
+        "longitude_west_deg": -180,
+        "longitude_east_deg": 180,
+        "coverage": "Toda masa terrestre que intersecte la banda; océano en los espacios restantes dentro de ella",
+        "geodetic_reference": "WGS 84",
+        "meridional_distance_each_side_km": 72.5,
+        "equatorial_circumference_km": 40075.017,
+        "physical_longitude_to_height_ratio_approx": 276.38,
+        "note": "Esta banda no define el mapa físico completo. Es el límite de la cartografía diegética alcanzada en la época de Yen: 145 km de altura norte-sur centrados en el ecuador, medidos como 72.5 km de arco meridiano a cada lado sobre WGS 84. Los límites angulares son aproximados."
+      },
+      "equator_portal": "El Portal recorre el ecuador, línea central de la franja de 145 km que ha podido cartografiarse en tiempos de Yen. La geografía física global permite conocer qué terreno existe en todo el recorrido; la capa diegética distingue lo que los habitantes han logrado cartografiar.",
+      "cartographic_coverage_in_yen_era": "La cartografía sistemática alcanzada en tiempos de Yen se limita a la franja ecuatorial de 145 km de altura norte-sur, por las condiciones climáticas y radiactivas del planeta. El resto de la geografía existe y forma parte del mapa físico global del autor, pero no ha podido cartografiarse en esa época.",
+      "notes": "El mapa físico de Terra debe representar el planeta Tierra real completo. La franja ecuatorial de 145 km no es el mapa completo, sino el límite del conocimiento cartográfico alcanzado en tiempos de Yen debido a las condiciones climáticas y radiactivas. Fuera de ella, los mapas diegéticos deben señalar regiones no cartografiadas, no océano ni vacío.",
+      "full_map_scope": "Geografía física global completa del planeta Tierra real; no limitar el mapa del autor a la franja ecuatorial."
+    }
+  ],
+  "derived_audit": {
+    "status": "first_geometric_audit_completed",
+    "date": "2026-11-12",
+    "source_maps": 6,
+    "format_records_per_map": 56,
+    "grid_points_approx": 100000,
+    "band": {
+      "north_south_km": 145,
+      "center_latitude_deg": 0,
+      "meridional_distance_each_side_km": 72.5,
+      "wgs84_limit_latitude_deg_approx": 0.6556676,
+      "method": "Reconstrucción Voronoi con puntos y límites originales; intersección poligonal exacta con la banda",
+      "maximum_area_closure_error_percent": 0.008354
+    },
+    "key_findings": [
+      "Solo Derat cubre los 360 grados de longitud.",
+      "Los otros cinco mapas representan coberturas longitudinales parciales.",
+      "Khorza no contiene Estados, asentamientos ni rutas registrados.",
+      "Los perfiles de altura relativa, temperatura, precipitación y proximidad al agua muestran contrastes relevantes entre las franjas.",
+      "La línea exacta del Portal (latitud 0°) se calculó por separado de la banda de 145 km; las proporciones de tierra/agua no son idénticas."
+    ],
+    "summary": "mapas-azgaar/datos/Resumen-franja-ecuatorial.md",
+    "geometry_report": "mapas-azgaar/datos/franja-ecuatorial.json",
+    "structure_report": "mapas-azgaar/datos/inspeccion-estructura.json",
+    "route_audit": "mapas-azgaar/rutas/Continuidad-ecuatorial.md",
+    "originals_modified": false,
+    "profile_report": "mapas-azgaar/datos/Perfil-fisico-franja-ecuatorial.md",
+    "exact_portal_line": "mapas-azgaar/datos/ecuador-exacto/",
+    "exact_portal_visualization": "mapas-azgaar/visualizaciones/Portal-linea-ecuatorial.png",
+    "corridor_visualization": "mapas-azgaar/visualizaciones/Portal-cobertura-ecuatorial.png",
+    "maximum_exact_line_closure_error_percent": 0.042299,
+    "exact_line_residual": "Khorza: aproximadamente 0.338 px de línea sin clasificar; no asignada arbitrariamente a tierra o agua.",
+    "common_longitude_interval_degrees": [
+      -9.2,
+      9.3
+    ],
+    "conditional_shared_meridian_finding": "Si las longitudes estuvieran alineadas entre Tierras, no hay un grado del intervalo común donde las seis tengan tierra sobre el ecuador: Teknara es agua en todo ese tramo y Derat es agua aproximadamente de 9° O a 8° E. La alineación de meridianos no está establecida como canon.",
+    "route_planning": "mapas-azgaar/rutas/Planificacion-accesos-Portal.md"
   }
 }

@@ -39,7 +39,9 @@ Estructura fija de gran magnitud con forma de **muro que circunda los planetas p
 | 4 | **Khorza** | Primal y misteriosa. Bosque húmedo y enormes superestructuras. | Tribal (Seres Josthe) / "Más astado" | Nidos comunales, Memoria grupal ("ecos de la niebla") |
 | 5 | **Derat** | Ecosistemas únicos y territorios fragmentados. Minería y resistencia. | Ciudades-Estado bajo influencia extranjera | Minería de Madianíta y Balatium, Vía de las Sombras |
 | 6 | **Návar** | Archipiélago de islas flotantes. Tradición marítima e imperio caído. | Monarquía Absoluta (Almirante Supremo) | Navegación a vela, Vox algales, Antenas bioluminiscentes |
-| 7 | **Terra** | Zona Restringida. Anomalías biomecánicas y restos de ecosistemas muertos. | Zona de Exclusión bajo control SATT | Campo AT (Antitecnológico), Proyecto Kaos.exe, Yuman |
+| 7 | **Terra** | Geografía del planeta Tierra real completo; en tiempos de Yen solo se ha cartografiado sistemáticamente una franja ecuatorial de 145 km por las condiciones climáticas y radiactivas. | Zona de Exclusión bajo control SATT | Campo AT (Antitecnológico), Proyecto Kaos.exe, Yuman |
+
+> **Geografía de Terra:** ver [Terra — dossier geográfico](Terra.md). El mapa físico del autor representa el planeta completo; la franja ecuatorial de 145 km es únicamente el límite cartográfico alcanzado en tiempos de Yen. El nombre se considera provisional.
 
 > **Nomenclatura (fuente: `notas-temas/Canon.md` §4).** "Tierra N" es la nomenclatura burocrática de la SATT; cada Tierra tiene nombre nativo. El canon vigente reconoce exactamente siete Tierras: Amitia, Teknara, Atharis, Khorza, Derat, Návar y Terra. No existen Tierras adicionales ni anexos.
 
