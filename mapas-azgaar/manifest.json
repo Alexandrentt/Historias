@@ -70,8 +70,9 @@
       "bytes": 15714410,
       "gzip_bytes": 3871772,
       "sha256": "0016c788d9d9059f38a587ea7f831e38799ca06f4b4bc74240df975b0b417d70",
-      "repository_path": "mapas-azgaar/originales/Amitia.map",
-      "uploaded": false
+      "repository_path": "mapas-azgaar/mundos/Amitia/Amitia.map",
+      "uploaded": false,
+      "prepared_locally": true
     },
     {
       "file": "Atharis.map",
@@ -122,8 +123,9 @@
       "bytes": 14355599,
       "gzip_bytes": 3489436,
       "sha256": "3e55ac0c8297d5e6d3b140e6c727bb4fb0e32a6dc4e425d4f25bd75bf10a86c2",
-      "repository_path": "mapas-azgaar/originales/Atharis.map",
-      "uploaded": false
+      "repository_path": "mapas-azgaar/mundos/Atharis/Atharis.map",
+      "uploaded": false,
+      "prepared_locally": true
     },
     {
       "file": "derat(continente de alfaguara).map",
@@ -174,8 +176,9 @@
       "bytes": 15745658,
       "gzip_bytes": 3923124,
       "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
-      "repository_path": "mapas-azgaar/originales/derat(continente de alfaguara).map",
-      "uploaded": false
+      "repository_path": "mapas-azgaar/mundos/Derat/derat(continente de alfaguara).map",
+      "uploaded": false,
+      "prepared_locally": true
     },
     {
       "file": "Korza .map",
@@ -226,8 +229,9 @@
       "bytes": 15561886,
       "gzip_bytes": 4910450,
       "sha256": "823e3414d8090b0436a4c8ccafc4cb132d68e1667ec795b9bbc65e3cadbae56f",
-      "repository_path": "mapas-azgaar/originales/Korza .map",
-      "uploaded": false
+      "repository_path": "mapas-azgaar/mundos/Korza/Korza .map",
+      "uploaded": false,
+      "prepared_locally": true
     },
     {
       "file": "Návar.map",
@@ -278,8 +282,9 @@
       "bytes": 13963939,
       "gzip_bytes": 3444984,
       "sha256": "e0eadc154f16c6ff2bfb669071626628e79c81ed373924b71e11d3802bbc07c7",
-      "repository_path": "mapas-azgaar/originales/Návar.map",
-      "uploaded": false
+      "repository_path": "mapas-azgaar/mundos/Navar/Návar.map",
+      "uploaded": false,
+      "prepared_locally": true
     },
     {
       "file": "Teknara.map",
@@ -330,14 +335,29 @@
       "gzip_bytes": 3704720,
       "sha256": "dd9bc3f301e5c2b2be2eeb63c242930f4b5e54e30fe59a44e21f982fd6a40f50",
       "gzip_sha256": "3fc8d367a2dd8a47403b7a5e63d925620e22f6c0eaefa11f1750d2ea3dbe2042",
-      "repository_path": "mapas-azgaar/originales/Teknara.map",
+      "repository_path": "mapas-azgaar/mundos/Teknara/Teknara.map",
       "compressed_local_path": "mapas-azgaar/paquetes/Teknara.map.gz",
-      "uploaded": false
+      "uploaded": false,
+      "prepared_locally": true
     }
   ],
   "compressed_archive": {
     "repository_path": "Historias_mapas_gz_GitHub.zip",
     "repository_version": "5 mapas (snapshot anterior a Teknara)",
     "updated_six_map_package": "Preparado localmente; pendiente de reemplazar el ZIP del repositorio"
+  },
+  "organization": {
+    "structure": "mapas-azgaar/mundos/<mundo>/<archivo>.map",
+    "worlds": [
+      "Amitia",
+      "Atharis",
+      "Derat",
+      "Korza",
+      "Navar",
+      "Teknara"
+    ],
+    "decompressed_and_sha256_verified": true,
+    "organized_package": "Historias_Mapas_Organizados_6_mundos.zip",
+    "github_binary_upload_pending": true
   }
 }
