@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "world": "Derat",
   "continents": [
     {
@@ -23,7 +23,19 @@
     "Vardena.geojson",
     "Edravia.geojson",
     "Derat_relieve_hidrografia.geojson",
-    "Derat_mundo.svg"
+    "Derat_mundo.svg",
+    "Derat_geopolitica_Alfaguara.geojson",
+    "Geopolitica_Derat_v1.md"
   ],
-  "format_note": "GeoJSON/SVG editables; no son archivos nativos .map de Azgaar."
+  "format_note": "GeoJSON/SVG editables; no son archivos nativos .map de Azgaar.",
+  "layers": {
+    "physical": "Derat_relieve_hidrografia.geojson",
+    "political_analysis": "Derat_geopolitica_Alfaguara.geojson",
+    "political_analysis_status": "provisional; no political borders or faction-control polygons"
+  },
+  "notes": [
+    "Derat_relieve_hidrografia.geojson includes geopolitical_relevance and geopolitical_confidence attributes for Alfaguara physical features.",
+    "Derat_geopolitica_Alfaguara.geojson maps analytical zones and hypothetical connectivity only; null geometries record missing georeferenced data and are valid GeoJSON Features.",
+    "No city-states, mine coordinates, military garrisons, faction boundaries, or sovereignty polygons have been invented."
+  ]
 }
