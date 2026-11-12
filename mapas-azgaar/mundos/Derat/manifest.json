@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
+  "version": "2.6",
   "world": "Derat",
   "continents": [
     {
@@ -44,6 +44,9 @@
     "Cuatro etiquetas burg de Azgaar dentro del polígono de Alfaguara se añadieron como puntos candidatos con coordenadas CRS84; sus nombres no son canónicos y requieren revisión narrativa.",
     "La auditoría detecta ocho polígonos de estado Azgaar con intersección superior al 5 % con Alfaguara; sus nombres y límites automáticos no equivalen a ciudades-estado ni a soberanías del canon.",
     "La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson contiene cuatro polígonos recortados a Alfaguara que corresponden a estados Azgaar con burg etiquetado en la región; es material de revisión no canónico.",
-    "Los cuatro burgs Azgaar candidatos incluyen distancias geodésicas aproximadas a los trazos de ruta y ríos más cercanos del mismo mapa; estas métricas no certifican infraestructura ni disponibilidad de agua."
+    "Los cuatro burgs Azgaar candidatos incluyen distancias geodésicas aproximadas a los trazos de ruta y ríos más cercanos del mismo mapa; estas métricas no certifican infraestructura ni disponibilidad de agua.",
+    "Auditoría v2.6: se añadieron distancias separadas de los burgs candidatos a la hidrografía y relieve conceptual del atlas global. No mezclar con proximidades a trazos SVG de Azgaar; las dos redes no están reconciliadas espacialmente.",
+    "La documentación narrativa fija hitos 127, 132, 153, 166, 178 y 191 DT, además de Balatium 520 Ovryn y pozos 550 Pazyn; no hay coordenadas para esos sitios ni para la Vía de las Sombras.",
+    "Se documentan inconsistencias de alcance entre la ficha resumida de Derat y la historia de Transtierra respecto del Bowit y las fuerzas del Régimen; no se trazan áreas de control."
   ]
 }
