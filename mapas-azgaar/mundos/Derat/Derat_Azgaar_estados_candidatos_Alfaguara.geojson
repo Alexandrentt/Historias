@@ -84,7 +84,8 @@
         "interpretation": "Los límites de dos polígonos candidatos se cruzan. No usar esta capa para medir superficies soberanas ni como base de fronteras hasta reconstruir las geometrías desde celdas/estados del archivo Azgaar nativo y repetir la validación."
       },
       "geometry_action": "No se alteraron coordenadas para ocultar el problema; se conserva la capa como referencia visual de revisión."
-    }
+    },
+    "native_map_name_correction": "state6 is named Neutiersia in the native .map state record; the previous label Neutiersian League came from the SVG-derived layer and was incorrect."
   },
   "features": [
     {
@@ -737,7 +738,7 @@
       "type": "Feature",
       "id": "azgaar-state6",
       "properties": {
-        "name": "Neutiersian League",
+        "name": "Neutiersia",
         "kind": "azgaar_state_polygon_candidate",
         "azgaar_state_id": "state6",
         "overlap_ratio_with_proposed_alfaguara": 0.8593,
@@ -748,8 +749,9 @@
         "map_date": "2026-11-12",
         "interpretation": "Polígono estatal generado por Azgaar, recortado al contorno propuesto de Alfaguara para revisión visual.",
         "status": "borrador cartográfico no canónico; no equivale a ciudad-estado, soberanía ni control de facción",
-        "topology_status": "boundary_crossing_detected_with_other_candidate",
-        "topology_note": "Capa de revisión no canónica. Ver metadata.topology_audit; no interpretar como frontera política validada."
+        "topology_status": "boundary_crossing_detected_with_Combrierolia",
+        "topology_note": "Capa de revisión no canónica. Ver metadata.topology_audit; no interpretar como frontera política validada.",
+        "native_name_verification": "Native state record in .map file; replaces SVG-derived label 'Neutiersian League'."
       },
       "geometry": {
         "type": "MultiPolygon",
