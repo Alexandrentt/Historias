@@ -57,6 +57,21 @@ Su forma alargada sugiere que la conectividad longitudinal y los pasos transvers
 
 Los archipiélagos propuestos pueden funcionar como escalas marítimas, refugios logísticos o puntos de intercambio. No deben convertirse en puentes terrestres entre continentes. Su importancia dependerá de navegación, tecnología naval, corrientes, puertos y de la capacidad de las autoridades para mantener rutas seguras.
 
+### 3.5 Traducción cartográfica: primera capa geopolítica
+
+Se añadió `Derat_geopolitica_Alfaguara.geojson` como superposición de análisis. No es un mapa de fronteras ni de control militar. Contiene:
+
+- **Sistema de cuencas interiores:** área de estudio alrededor del Altiplano, el Río de las Cuencas y el Gran Lago Interior. Sirve para analizar dependencia hídrica y asentamientos; no asigna el agua a una ciudad concreta.
+- **Zona de presión extractiva de Cuenca de Ceniza:** reutiliza el polígono físico ya propuesto para señalar presión ambiental y posible concentración de actividad extractiva. No localiza yacimientos certificados de Madianíta o Balatium.
+- **Eje hidrográfico polar–interior:** sigue el trazado conceptual del Río del Deshielo. Es una relación física de cabecera a cuenca, no una carretera ni una ruta navegable.
+- **Eje hipotético de conectividad hacia Cuenca de Ceniza:** permite estudiar qué infraestructura sería necesaria para abastecer una zona extractiva. Su certeza es baja y no afirma que exista una ruta.
+
+La capa incluye dos registros sin geometría: uno para recordar que las ciudades-estado aún necesitan coordenadas verificadas y otro para registrar que el control de Bowit, Águila Roja y las fuerzas de ocupación no debe dibujarse hasta tener evidencia territorial fechada. En GeoJSON, una geometría `null` permite conservar explícitamente esos datos pendientes sin inventar ubicaciones.
+
+También se enriqueció `Derat_relieve_hidrografia.geojson` con los campos `geopolitical_relevance`, `geopolitical_confidence` y `political_status` para las ocho entidades físicas de Alfaguara. Sus geometrías no se modificaron. La relevancia indica qué conflictos o dependencias podría producir cada accidente geográfico, no quién lo controla.
+
+**Resultado de esta primera pasada:** ya se puede analizar la relación entre agua, relieve y presión extractiva; todavía no hay datos suficientes para representar la distribución real del poder entre ciudades-estado ni para asignar territorios a facciones.
+
 ## 4. Actores y bases de poder
 
 | Actor | Base de poder documentada | Límites y preguntas abiertas |
