@@ -1,0 +1,85 @@
+name: Inspect map assets (temporary)
+
+on:
+  push:
+    branches:
+      - worldbuilding/geografia-y-terra
+
+permissions:
+  contents: write
+
+jobs:
+  inspect:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: worldbuilding/geografia-y-terra
+      - name: Inspect tracked map assets
+        shell: bash
+        run: |
+          python - <<'PY'
+          import pathlib, json, gzip, zipfile, hashlib, io, subprocess, zlib
+          root = pathlib.Path(".")
+          paths = subprocess.check_output(["git","ls-files","-z"], text=False).split(b"\0")
+          candidates = [root / p.decode() for p in paths if p and p.decode().lower().endswith((".map",".map.gz",".gz",".zip"))]
+          seen=set()
+          report=[]
+          def inspect(name, data):
+              key=(name,hashlib.sha256(data).hexdigest())
+              if key in seen: return
+              seen.add(key)
+              item={"name":name,"size_bytes":len(data),"sha256":key[1],"magic_hex":data[:32].hex()}
+              raw=data
+              for label,fn in (("gzip",gzip.decompress),("zlib",zlib.decompress)):
+                  try:
+                      unpacked=fn(data)
+                      item["compression"]=label
+                      item["unpacked_size_bytes"]=len(unpacked)
+                      item["unpacked_magic_hex"]=unpacked[:32].hex()
+                      raw=unpacked
+                      break
+                  except Exception: pass
+              try:
+                  s=raw.decode("utf-8")
+                  item["encoding"]="utf-8"
+                  item["text_length"]=len(s)
+                  item["text_preview"]=s[:5000]
+                  try:
+                      obj=json.loads(s)
+                      item["json_type"]=type(obj).__name__
+                      if isinstance(obj,dict): item["json_keys"]=list(obj.keys())[:100]
+                  except Exception: pass
+                  item["pipe_count"]=s.count("|")
+                  item["newline_count"]=s.count("\n")
+              except UnicodeDecodeError:
+                  item["encoding"]="binary"
+              report.append(item)
+          for p in candidates:
+              if not p.is_file(): continue
+              b=p.read_bytes()
+              inspect(str(p),b)
+              if zipfile.is_zipfile(io.BytesIO(b)):
+                  with zipfile.ZipFile(io.BytesIO(b)) as z:
+                      for info in z.infolist():
+                          if info.is_dir(): continue
+                          blob=z.read(info.filename)
+                          inspect(str(p)+"::"+info.filename,blob)
+                          if info.filename.lower().endswith(".gz"):
+                              try:
+                                  inspect(str(p)+"::"+info.filename+" [decompressed]",gzip.decompress(blob))
+                              except Exception: pass
+          out=root/"mapas-azgaar/datos/inspeccion-binarios.json"
+          out.parent.mkdir(parents=True,exist_ok=True)
+          out.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          print(json.dumps([{"name":x["name"],"size_bytes":x["size_bytes"],"encoding":x["encoding"],"compression":x.get("compression"),"text_length":x.get("text_length"),"pipe_count":x.get("pipe_count"),"json_keys":x.get("json_keys")} for x in report],ensure_ascii=False,indent=2))
+          PY
+      - name: Commit inspection report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mapas-azgaar/datos/inspeccion-binarios.json
+          git commit -m "Add temporary binary map inspection report [skip ci]" || exit 0
+          git push origin HEAD:worldbuilding/geografia-y-terra
