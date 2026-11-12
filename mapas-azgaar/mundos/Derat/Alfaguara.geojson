@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "name": "Alfaguara — geografía regional v2",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alfaguara",
+        "kind": "continent",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              90
+            ],
+            [
+              -180,
+              78
+            ],
+            [
+              -166,
+              57
+            ],
+            [
+              -153,
+              49
+            ],
+            [
+              -133,
+              46
+            ],
+            [
+              -98,
+              54
+            ],
+            [
+              -82,
+              52
+            ],
+            [
+              -67,
+              47
+            ],
+            [
+              -53,
+              51
+            ],
+            [
+              -41,
+              59
+            ],
+            [
+              -27,
+              65
+            ],
+            [
+              -17,
+              73
+            ],
+            [
+              -34,
+              81
+            ],
+            [
+              -57,
+              87
+            ],
+            [
+              -86,
+              90
+            ],
+            [
+              -120,
+              90
+            ],
+            [
+              -150,
+              90
+            ],
+            [
+              -180,
+              90
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
