@@ -1,39 +1,42 @@
-# Datos editables de los mundos Azgaar
+# Datos editables y exportación GeoJSON
 
-Esta carpeta documenta el formato de trabajo para editar los mapas sin perder su capacidad de reconstrucción.
+Esta carpeta reúne herramientas para conservar y derivar datos de los mapas Azgaar.
 
-## Estructura por mundo
+## Reconstrucción de .map
 
-El paquete de extracción contiene una carpeta por mundo:
+Los componentes extraídos por mundo son:
 
-- `header.txt`: cabecera original de Azgaar.
-- `world.json`: datos principales editables.
-- `biomes.json`: catálogo de biomas editable.
-- `map.svg`: SVG original del mapa.
-- `tail.dat`: datos adicionales posteriores al SVG, conservados byte por byte.
-- `layout.json`: separadores, orden, tamaños y SHA-256 originales.
-- `world.compact.json` y `biomes.compact.json`: JSON originales compactos para reconstrucción exacta.
+- `header.txt`: cabecera original.
+- `world.json` y `biomes.json`: secciones JSON editables.
+- `map.svg` y `tail.dat`: contenido adicional conservado.
+- `layout.json`: separadores, tamaños y hashes.
+- `world.compact.json` y `biomes.compact.json`: JSON compactos originales.
 
-Mundos: Amitia, Atharis, Derat, Korza, Navar y Teknara.
+Usa `compile_map.py` para reconstruir el archivo. Con `--preserve-original` se conserva el JSON original compacto.
+
+## Exportación GIS / GeoJSON
+
+Azgaar produce GeoJSON de celdas, rutas, ríos, marcadores y zonas desde su menú Export. La exportación de celdas contiene polígonos y propiedades como altura, bioma, población y adscripciones territoriales. Consulta la [guía GIS oficial](https://github.com/Azgaar/Fantasy-Map-Generator/wiki/GIS-data-export).
+
+Se agregó `export_azgaar_geojson.py` para convertir el JSON **Full** de Azgaar a capas GeoJSON reproducibles:
+
+1. Abre el `.map` original en Azgaar.
+2. Selecciona Export → Export To JSON → Full.
+3. Guarda el JSON descargado.
+4. Ejecuta:
+
+```bash
+python export_azgaar_geojson.py mapa_full.json --out salida/Mundo
+```
+
+El script genera `cells.geojson`, `routes.geojson`, `rivers.geojson`, `markers.geojson`, `zones.geojson` y `export_manifest.json`. Conserva los valores internos de altura y población como atributos sin inventar conversiones de unidades. Las zonas se representan mediante las geometrías de sus celdas constituyentes.
+
+## Mundos preparados
+
+Amitia, Atharis, Derat (Alfaguara), Khorza/Korza, Návar y Teknara figuran en `mapas-azgaar/manifest.json`. Los archivos binarios originales siguen siendo la fuente de verdad; no sobrescribas los `.map` al generar capas GIS.
 
 ## Compilar
 
-Con Python 3:
-
 ```bash
-python compile_map.py mapas-azgaar/datos/Amitia -o Amitia.map
+python compile_map.py carpeta_extraida -o Mundo.map --preserve-original
 ```
-
-Para reconstruir exactamente el original, sin aplicar cambios de los JSON legibles:
-
-```bash
-python compile_map.py mapas-azgaar/datos/Amitia -o Amitia_original.map --preserve-original
-```
-
-Para compilar los cambios, edita `world.json` o `biomes.json` y ejecuta el primer comando.
-
-## Importante
-
-No elimines ni alteres `header.txt`, `map.svg`, `tail.dat` ni `layout.json` al editar los datos. El formato .map contiene secciones adicionales además de los objetos JSON.
-
-La extracción completa validada se conserva como paquete ZIP descargable desde la conversación de ChatGPT. Los componentes pesados (SVG y tail) no se han copiado individualmente a este repositorio en este commit; esta carpeta contiene la documentación del formato y el compilador.
