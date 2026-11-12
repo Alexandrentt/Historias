@@ -19,7 +19,7 @@ Se generó un paquete GIS a partir de las geometrías SVG incrustadas en los sei
 
 **Limitación importante:** esta extracción vectoriza elementos visibles del SVG. No equivale a una exportación nativa completa de Azgaar: no reconstruye la malla de celdas, alturas, biomas ni todos los objetos internos. La capa de lagos está vacía porque los símbolos SVG de lagos no se convirtieron en esta pasada. No debe usarse como sustituto de los datos fuente.
 
-El paquete ZIP generado se conserva como artefacto descargable de la conversación; no se afirma que ese ZIP ni sus 49 archivos estén publicados en este repositorio.
+El paquete ZIP está publicado en la raíz del repositorio como [`GeoJSON_Seis_Mundos_Azgaar_descarga.zip`](../../GeoJSON_Seis_Mundos_Azgaar_descarga.zip) (49 archivos; 24.976 entidades). Los archivos internos están disponibles dentro del ZIP; todavía no se han expandido como archivos individuales en las carpetas de cada mundo.
 
 ## Exportación nativa completa
 
