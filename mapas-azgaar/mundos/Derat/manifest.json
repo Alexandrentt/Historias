@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "world": "Derat",
   "continents": [
     {
@@ -36,6 +36,8 @@
   "notes": [
     "Derat_relieve_hidrografia.geojson includes geopolitical_relevance and geopolitical_confidence attributes for Alfaguara physical features.",
     "Derat_geopolitica_Alfaguara.geojson maps analytical zones and hypothetical connectivity only; null geometries record missing georeferenced data and are valid GeoJSON Features.",
-    "No city-states, mine coordinates, military garrisons, faction boundaries, or sovereignty polygons have been invented."
+    "No city-states, mine coordinates, military garrisons, faction boundaries, or sovereignty polygons have been invented.",
+    "La capa geopolítica incluye anclajes temporales documentados (Consejo de Alfaguara, veta de Balatium, Vía de las Sombras y poblado de la Operación Tierra 5); sus geometrías son null hasta obtener coordenadas verificables.",
+    "Bowit, Águila Roja y las fuerzas llamadas Régimen se describen con sus alcances documentados, sin convertir influencia en fronteras."
   ]
 }
