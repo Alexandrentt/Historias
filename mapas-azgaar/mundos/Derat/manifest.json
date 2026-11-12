@@ -1,0 +1,29 @@
+{
+  "version": "2.0",
+  "world": "Derat",
+  "continents": [
+    {
+      "name": "Alfaguara",
+      "status": "nombre canónico existente"
+    },
+    {
+      "name": "Vardena",
+      "status": "nombre propuesto"
+    },
+    {
+      "name": "Edravia",
+      "status": "nombre propuesto"
+    }
+  ],
+  "files": [
+    "README.md",
+    "Geografia_Derat.md",
+    "Derat_continentes.geojson",
+    "Alfaguara.geojson",
+    "Vardena.geojson",
+    "Edravia.geojson",
+    "Derat_relieve_hidrografia.geojson",
+    "Derat_mundo.svg"
+  ],
+  "format_note": "GeoJSON/SVG editables; no son archivos nativos .map de Azgaar."
+}
