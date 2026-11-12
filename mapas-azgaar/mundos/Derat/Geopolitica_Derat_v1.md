@@ -299,3 +299,19 @@ El cruce de `Los Josth/Transtierra.md`, `Los Josth/tierras/Derat.md`, `odisey/ti
 ### Consecuencia para el modelo
 
 La cartografía disponible sustenta un modelo de capas superpuestas —ocupación, concesiones, ciudades-estado, resistencia, corredores informales y presión hídrica—, no una división territorial cerrada. Los únicos puntos con coordenadas de asentamientos que se mantienen son candidatos generados por Azgaar; los hechos narrativos sin localización siguen como registros con geometría `null`.
+
+
+## 16. Validación topológica de los polígonos Azgaar candidatos
+
+Se realizó una revisión geométrica de `Derat_Azgaar_estados_candidatos_Alfaguara.geojson` sin modificar las coordenadas:
+
+- Los cuatro burgs están dentro del polígono candidato que lleva su etiqueta estatal.
+- Los cuatro polígonos usan los tipos esperados (`Polygon`/`MultiPolygon`); todos sus anillos están cerrados y no presentan vértices consecutivos duplicados.
+- No se detectaron auto-intersecciones dentro de los anillos individuales.
+- **Sí se detectaron cuatro cruces entre segmentos de los límites de Combrierolia y Neutiersian League.** Por tanto, los dos polígonos no forman una partición topológicamente limpia.
+
+El problema se conserva explícitamente en `metadata.topology_audit` y en las propiedades de los dos elementos afectados. No se movieron vértices ni se recortaron límites a mano para ocultar el fallo. La capa continúa siendo solo una referencia visual no canónica y no debe usarse para calcular soberanías, áreas territoriales ni fronteras.
+
+### Bloqueo técnico pendiente
+
+La conversión SVG→GeoJSON parece suficiente para localizar etiquetas de burg, pero los polígonos derivados presentan cruces entre estados. La corrección requiere reconstruir las geometrías desde los datos nativos de celdas/estados del archivo `.map` de Azgaar, o validar una exportación oficial del propio generador. Hasta completar esa reconstrucción, los cuatro polígonos deben permanecer marcados como candidatos topológicamente no validados.
