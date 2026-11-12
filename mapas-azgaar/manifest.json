@@ -5,18 +5,68 @@
   "generated_at": "2026-11-12",
   "policy": "Los .map originales son la fuente de verdad; los derivados no sustituyen al original.",
   "original_files_uploaded_to_repository": false,
+  "biome_palette": [
+    "Marine",
+    "Hot desert",
+    "Cold desert",
+    "Savanna",
+    "Grassland",
+    "Tropical seasonal forest",
+    "Temperate deciduous forest",
+    "Tropical rainforest",
+    "Temperate rainforest",
+    "Taiga",
+    "Tundra",
+    "Glacier",
+    "Wetland"
+  ],
   "maps": [
     {
       "file": "Amitia.map",
       "generator_version": "1.157.0",
       "saved_date": "2026-11-12",
       "seed": "250750147",
+      "timestamp_ms": 1794496171923,
       "width": 800,
       "height": 1165,
       "map_name": "Bacsesia",
-      "points": 100000,
-      "sampling": "square",
-      "biomes": 13,
+      "graph": {
+        "width": 800,
+        "height": 1165,
+        "points": 100000,
+        "sampling": "square",
+        "jitter": 0.9
+      },
+      "geography": {
+        "mapSize": 35,
+        "latitude": 49,
+        "longitude": 50,
+        "coordinates": {
+          "latT": 63,
+          "latN": 32.7,
+          "latS": -30.3,
+          "lonT": 43.3,
+          "lonW": -21.6,
+          "lonE": 21.7
+        }
+      },
+      "climate": {
+        "temperature": {
+          "equator": 23,
+          "northPole": -20,
+          "southPole": -22
+        },
+        "precipitation": 127,
+        "winds": [
+          225,
+          45,
+          225,
+          315,
+          135,
+          315
+        ]
+      },
+      "culture_set": "oriental",
       "bytes": 15714410,
       "gzip_bytes": 3871772,
       "sha256": "0016c788d9d9059f38a587ea7f831e38799ca06f4b4bc74240df975b0b417d70",
@@ -28,12 +78,47 @@
       "generator_version": "1.157.0",
       "saved_date": "2026-11-12",
       "seed": "502339303",
+      "timestamp_ms": 1794498051295,
       "width": 777,
       "height": 760,
       "map_name": "Iscia",
-      "points": 100000,
-      "sampling": "square",
-      "biomes": 13,
+      "graph": {
+        "width": 777,
+        "height": 760,
+        "points": 100000,
+        "sampling": "square",
+        "jitter": 0.9
+      },
+      "geography": {
+        "mapSize": 67,
+        "latitude": 75,
+        "longitude": 50,
+        "coordinates": {
+          "latT": 120.6,
+          "latN": 45.4,
+          "latS": -75.2,
+          "lonT": 123.3,
+          "lonW": -61.6,
+          "lonE": 61.7
+        }
+      },
+      "climate": {
+        "temperature": {
+          "equator": 35,
+          "northPole": -28,
+          "southPole": -13
+        },
+        "precipitation": 143,
+        "winds": [
+          225,
+          45,
+          225,
+          315,
+          135,
+          315
+        ]
+      },
+      "culture_set": "european",
       "bytes": 14355599,
       "gzip_bytes": 3489436,
       "sha256": "3e55ac0c8297d5e6d3b140e6c727bb4fb0e32a6dc4e425d4f25bd75bf10a86c2",
@@ -45,12 +130,47 @@
       "generator_version": "1.158.0",
       "saved_date": "2026-11-12",
       "seed": "466668104",
+      "timestamp_ms": 1794501252381,
       "width": 800,
       "height": 1165,
       "map_name": "Vileland",
-      "points": 100000,
-      "sampling": "square",
-      "biomes": 13,
+      "graph": {
+        "width": 800,
+        "height": 1165,
+        "points": 100000,
+        "sampling": "square",
+        "jitter": 0.9
+      },
+      "geography": {
+        "mapSize": 100,
+        "latitude": 50,
+        "longitude": 50,
+        "coordinates": {
+          "latT": 180,
+          "latN": 90,
+          "latS": -90,
+          "lonT": 123.6,
+          "lonW": -61.8,
+          "lonE": 61.8
+        }
+      },
+      "climate": {
+        "temperature": {
+          "equator": 44,
+          "northPole": 12,
+          "southPole": 10
+        },
+        "precipitation": 500,
+        "winds": [
+          225,
+          45,
+          225,
+          315,
+          135,
+          315
+        ]
+      },
+      "culture_set": "european",
       "bytes": 15561886,
       "gzip_bytes": 4910450,
       "sha256": "823e3414d8090b0436a4c8ccafc4cb132d68e1667ec795b9bbc65e3cadbae56f",
@@ -62,12 +182,47 @@
       "generator_version": "1.158.0",
       "saved_date": "2026-11-12",
       "seed": "785450965",
+      "timestamp_ms": 1794498547459,
       "width": 800,
       "height": 1165,
       "map_name": "Ereia",
-      "points": 100000,
-      "sampling": "square",
-      "biomes": 13,
+      "graph": {
+        "width": 800,
+        "height": 1165,
+        "points": 100000,
+        "sampling": "square",
+        "jitter": 0.9
+      },
+      "geography": {
+        "mapSize": 15,
+        "latitude": 50,
+        "longitude": 50,
+        "coordinates": {
+          "latT": 27,
+          "latN": 13.5,
+          "latS": -13.5,
+          "lonT": 18.5,
+          "lonW": -9.2,
+          "lonE": 9.3
+        }
+      },
+      "climate": {
+        "temperature": {
+          "equator": 25,
+          "northPole": -27,
+          "southPole": -18
+        },
+        "precipitation": 89,
+        "winds": [
+          225,
+          45,
+          225,
+          315,
+          135,
+          315
+        ]
+      },
+      "culture_set": "european",
       "bytes": 13963939,
       "gzip_bytes": 3444984,
       "sha256": "e0eadc154f16c6ff2bfb669071626628e79c81ed373924b71e11d3802bbc07c7",
@@ -79,12 +234,47 @@
       "generator_version": "1.158.0",
       "saved_date": "2026-11-12",
       "seed": "182800799",
+      "timestamp_ms": 1794506586148,
       "width": 1333,
       "height": 632,
       "map_name": "Bouneia",
-      "points": 100000,
-      "sampling": "square",
-      "biomes": 13,
+      "graph": {
+        "width": 1333,
+        "height": 632,
+        "points": 100000,
+        "sampling": "square",
+        "jitter": 0.9
+      },
+      "geography": {
+        "mapSize": 100,
+        "latitude": 50,
+        "longitude": 50,
+        "coordinates": {
+          "latT": 180,
+          "latN": 90,
+          "latS": -90,
+          "lonT": 360,
+          "lonW": -180,
+          "lonE": 180
+        }
+      },
+      "climate": {
+        "temperature": {
+          "equator": 44,
+          "northPole": 12,
+          "southPole": 10
+        },
+        "precipitation": 500,
+        "winds": [
+          225,
+          45,
+          225,
+          315,
+          135,
+          315
+        ]
+      },
+      "culture_set": "european",
       "bytes": 15745658,
       "gzip_bytes": 3923124,
       "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
