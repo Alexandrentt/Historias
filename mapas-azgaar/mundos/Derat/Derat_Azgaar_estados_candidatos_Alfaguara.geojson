@@ -27,12 +27,12 @@
         "duplicate_consecutive_vertices": "none detected",
         "self_intersections_within_each_ring": "none detected",
         "burg_point_in_its_labeled_state": "all four candidate burg points fall inside the corresponding candidate polygon",
-        "cross_state_boundary_intersections": "detected between Combrierolia and Neutiersian League"
+        "cross_state_boundary_intersections": "detected between Combrierolia and Neutiersia"
       },
       "issue": {
         "pair": [
           "Combrierolia",
-          "Neutiersian League"
+          "Neutiersia"
         ],
         "crossing_segment_pairs": 4,
         "representative_segments": [
@@ -48,7 +48,7 @@
             ]
           },
           {
-            "state": "Neutiersian League",
+            "state": "Neutiersia",
             "from": [
               -135.29164,
               67.302245
@@ -70,7 +70,7 @@
             ]
           },
           {
-            "state": "Neutiersian League",
+            "state": "Neutiersia",
             "from": [
               -130.505755,
               54.034381
@@ -85,7 +85,7 @@
       },
       "geometry_action": "No se alteraron coordenadas para ocultar el problema; se conserva la capa como referencia visual de revisión."
     },
-    "native_map_name_correction": "state6 is named Neutiersia in the native .map state record; the previous label Neutiersian League came from the SVG-derived layer and was incorrect."
+    "native_map_name_correction": "The native .map state record identifies state6 as Neutiersia; the SVG-derived label Neutiersian League was incorrect."
   },
   "features": [
     {
