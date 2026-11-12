@@ -155,3 +155,31 @@ El siguiente trabajo cartográfico debería hacerse en este orden:
 5. Solo después proponer límites entre ciudades-estado y registrar cada decisión aceptada en los documentos de canon correspondientes.
 
 **Conclusión de trabajo:** Derat puede construirse como un territorio de soberanía fragmentada y dependencia transterrana, donde el poder efectivo se reparte entre enclaves urbanos, recursos, agua, corredores y organizaciones rivales. Esa estructura es compatible con el material actual; los nombres y fronteras concretos todavía requieren decisiones del autor.
+
+
+## 10. Anclajes históricos y entidades georreferenciables
+
+La revisión de `Los Josth/Transtierra.md`, `Los Josth/tierras/Derat.md`, `odisey/tierras/Alfaguara.md`, `Los Josth/tramas/Lista-40.md`, `Los Josth/notas-temas/Linea-Temporal.md` y `Canon.md` permite incorporar hechos más concretos sin convertirlos en fronteras:
+
+| Anclaje | Fecha / período | Hecho respaldado | Estado cartográfico |
+|---|---|---|---|
+| Inicio de ocupación indirecta y extracción controlada por empresas amitianas con protección militar | 132 DT | Control económico de facto de la extracción | Sin polígono ni instalaciones localizadas |
+| Primeras células de Águila Roja | 153 DT | Resistencia clandestina fragmentada | Sin puntos ni áreas asignables |
+| Surgimiento de ciudades-estado | 166 DT | Enclaves que funcionan de manera casi independiente | No existe inventario georreferenciado |
+| Consejo de Alfaguara | 191 DT | Foco de resistencia contra el Régimen | Nombre y función documentados; ubicación exacta desconocida |
+| Veta de Balatium en la meseta de Alfaguara | 520 Ovryn | Hallazgo de la SATT asociado a Lukas Derai; explotación vinculada a desertificación y agotamiento de mantos freáticos superficiales | No hay coordenadas para el yacimiento |
+| Vía de las Sombras | Después del auge de la veta | Corredor nocturno de exmineros y comerciantes que bordea asentamientos abandonados y evade peajes | Trazado no descrito; no dibujar una línea ficticia |
+| Poblado minero de la Operación Tierra 5 | 586 DT | Barrido represivo; muerte de la hija de Bastean e incautación del arma ceremonial | Poblado confirmado, pero sin nombre ni coordenadas |
+
+### Lectura correcta de los actores
+
+- **Bowit:** la documentación le atribuye influencia o dominio sobre buena parte de Alfaguara y una estructura jerárquica. No fija un perímetro ni demuestra que administre directamente cada asentamiento de esa extensión.
+- **Águila Roja:** el movimiento original terminó fragmentándose en células que, aunque se reconocían como parte de una misma organización, seguían sus propios intereses. No representarlo como un mando unificado ni como un bloque territorial continuo.
+- **Ciudades-estado:** aparecen como enclaves casi independientes surgidos tras el colapso económico y la fragmentación. La autonomía concreta, el número y las relaciones entre ellas siguen sin estar definidos.
+- **Régimen:** es el nombre local de las fuerzas extranjeras que protegen rutas e intereses extractivos. No equivale automáticamente al Régimen de Excepción amitiano de 579–588 DT. Tampoco debe asumirse que CTT, SATT, fuerzas amitianas y empresas privadas sean una sola entidad: su continuidad y cadena de mando varían por período y requieren precisión.
+
+### Consecuencias para el modelo espacial
+
+La evidencia respalda una geografía de **enclaves, concesiones, rutas y áreas de influencia superpuestas**, no una partición simple de Alfaguara en territorios exclusivos. El mapa debe separar al menos: presencia militar, control o influencia local, concesiones económicas, infraestructura de extracción, abastecimiento hídrico y movilidad informal. La Vía de las Sombras no debe confundirse con las rutas oficiales protegidas por el Régimen.
+
+Los cuatro anclajes nuevos se registran en `Derat_geopolitica_Alfaguara.geojson` con geometría `null` mientras no existan coordenadas verificables. Esta decisión conserva la información histórica y permite georreferenciarla después sin falsear el mapa.
