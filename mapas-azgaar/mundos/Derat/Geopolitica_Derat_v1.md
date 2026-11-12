@@ -183,3 +183,31 @@ La revisión de `Los Josth/Transtierra.md`, `Los Josth/tierras/Derat.md`, `odise
 La evidencia respalda una geografía de **enclaves, concesiones, rutas y áreas de influencia superpuestas**, no una partición simple de Alfaguara en territorios exclusivos. El mapa debe separar al menos: presencia militar, control o influencia local, concesiones económicas, infraestructura de extracción, abastecimiento hídrico y movilidad informal. La Vía de las Sombras no debe confundirse con las rutas oficiales protegidas por el Régimen.
 
 Los cuatro anclajes nuevos se registran en `Derat_geopolitica_Alfaguara.geojson` con geometría `null` mientras no existan coordenadas verificables. Esta decisión conserva la información histórica y permite georreferenciarla después sin falsear el mapa.
+
+
+## 11. Auditoría del mapa Azgaar regional
+
+Se recuperó el archivo original `derat(continente de alfaguara).map` (Azgaar 1.158.0, mapa `Bouneia`, semilla `182800799`, guardado el 12-11-2026) y se contrastó con las capas SVG→GeoJSON del paquete de seis mundos. El archivo original no se modificó.
+
+### Etiquetas de asentamientos que caen dentro de Alfaguara
+
+La intersección de las etiquetas de tipo `burg` con el polígono global propuesto de Alfaguara arroja cuatro puntos:
+
+| Etiqueta Azgaar | Longitud | Latitud | Estado rotulado en el mapa | ID burg |
+|---|---:|---:|---|---:|
+| Cochambe | -73.566392 | 70.909177 | Maclifia | 61 |
+| Chaus | -129.057164 | 70.416456 | Neutiersian League | 6 |
+| Monthimozoy | -137.564291 | 64.532278 | Combrierolia | 36 |
+| Bory | -130.431808 | 76.312025 | Bory | 87 |
+
+Estas cuatro etiquetas se añadieron como puntos de revisión en `Derat_geopolitica_Alfaguara.geojson`. Las coordenadas proceden de la conversión de las posiciones SVG a CRS84. **No se declaran ciudades-estado canónicas**: son los nombres que ya aparecen en el mapa Azgaar y requieren aprobación, renombrado o sustitución narrativa.
+
+### Polígonos de estado que intersectan Alfaguara
+
+El inventario de polígonos SVG muestra ocho estados Azgaar con una intersección superior al 5 % con el polígono de Alfaguara usado en esta auditoría: **Neutiersian League, Combrierolia, Guildbu, Maclifia, Rouvria, Bory, Dominion of Flokland y Monthimanch**. Clifordia apenas roza el contorno (aprox. 1.7 %) y se trata como contacto marginal, no como territorio de Alfaguara.
+
+Esta lista es una lectura geométrica del mapa, no una identificación de las ciudades-estado del relato. Algunos polígonos pueden atravesar masas continentales o reflejar divisiones aleatorias del generador. No se deben convertir automáticamente en soberanías, fronteras históricas ni áreas de Bowit, Águila Roja o el Régimen.
+
+### Resultado y siguiente operación
+
+Ahora existe una base espacial real para revisar cuatro asentamientos y ocho polígonos candidatos. La siguiente tarea técnica es contrastar cada uno con el boceto continental del autor y decidir cuáles se conservan, se renombran, se fusionan o se eliminan. Después se podrán asociar a cada ciudad-estado fuentes de agua, rutas y recursos, sin confundir los límites automáticos de Azgaar con el control político narrativo.
