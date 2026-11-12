@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "Derat — análisis geopolítico y anclajes históricos de Alfaguara v2",
+  "name": "Derat — análisis geopolítico y anclajes históricos de Alfaguara v2.1",
   "metadata": {
     "world": "Derat",
     "focus_continent": "Alfaguara",
@@ -18,7 +18,8 @@
       "No se asignan minas exactas: Cuenca de Ceniza representa presión extractiva y degradación propuestas, no un inventario de yacimientos.",
       "No se atribuye un área territorial concreta a Bowit, Águila Roja o las fuerzas de ocupación.",
       "Los corredores son ejes de estudio, no carreteras, vías navegables ni rutas confirmadas.",
-      "Los anclajes históricos (Consejo de Alfaguara, veta de Balatium, Vía de las Sombras y poblado de la Operación Tierra 5) no reciben coordenadas inventadas."
+      "Los anclajes históricos (Consejo de Alfaguara, veta de Balatium, Vía de las Sombras y poblado de la Operación Tierra 5) no reciben coordenadas inventadas.",
+      "Los burgs extraídos de Azgaar son candidatos cartográficos: no demuestran que esos topónimos o entidades políticas estén aprobados en el canon."
     ],
     "next_data_needed": [
       "Coordenadas y nombres canónicos de las ciudades-estado de Alfaguara.",
@@ -35,7 +36,16 @@
       "odisey/tierras/Alfaguara.md",
       "Los Josth/tramas/Lista-40.md",
       "Los Josth/notas-temas/Linea-Temporal.md"
-    ]
+    ],
+    "azgaar_reference": {
+      "source_map": "derat(continente de alfaguara).map",
+      "map_name": "Bouneia",
+      "generator_version": "1.158.0",
+      "seed": "182800799",
+      "saved_date": "2026-11-12",
+      "extraction": "SVG labels converted to CRS84 longitude/latitude",
+      "caveat": "Los cuatro burgs incluidos son etiquetas del mapa Azgaar, no asentamientos canónicos confirmados. Los nombres de estados Azgaar son igualmente provisionales y no deben sustituir el marco de ciudades-estado de la narración."
+    }
   },
   "features": [
     {
@@ -386,6 +396,110 @@
         "status": "evento canónico; emplazamiento exacto pendiente"
       },
       "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-azgaar-burg-61",
+      "properties": {
+        "name": "Cochambe",
+        "kind": "azgaar_burg_label_candidate",
+        "continent": "Alfaguara",
+        "source_map": "derat(continente de alfaguara).map",
+        "map_name": "Bouneia",
+        "map_generator_version": "1.158.0",
+        "map_seed": "182800799",
+        "map_date": "2026-11-12",
+        "azgaar_burg_id": 61,
+        "azgaar_state_id": 61,
+        "azgaar_state_label": "Maclifia",
+        "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.566392,
+          70.909177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-azgaar-burg-6",
+      "properties": {
+        "name": "Chaus",
+        "kind": "azgaar_burg_label_candidate",
+        "continent": "Alfaguara",
+        "source_map": "derat(continente de alfaguara).map",
+        "map_name": "Bouneia",
+        "map_generator_version": "1.158.0",
+        "map_seed": "182800799",
+        "map_date": "2026-11-12",
+        "azgaar_burg_id": 6,
+        "azgaar_state_id": 6,
+        "azgaar_state_label": "Neutiersian League",
+        "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.057164,
+          70.416456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-azgaar-burg-36",
+      "properties": {
+        "name": "Monthimozoy",
+        "kind": "azgaar_burg_label_candidate",
+        "continent": "Alfaguara",
+        "source_map": "derat(continente de alfaguara).map",
+        "map_name": "Bouneia",
+        "map_generator_version": "1.158.0",
+        "map_seed": "182800799",
+        "map_date": "2026-11-12",
+        "azgaar_burg_id": 36,
+        "azgaar_state_id": 36,
+        "azgaar_state_label": "Combrierolia",
+        "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.564291,
+          64.532278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alfaguara-azgaar-burg-87",
+      "properties": {
+        "name": "Bory",
+        "kind": "azgaar_burg_label_candidate",
+        "continent": "Alfaguara",
+        "source_map": "derat(continente de alfaguara).map",
+        "map_name": "Bouneia",
+        "map_generator_version": "1.158.0",
+        "map_seed": "182800799",
+        "map_date": "2026-11-12",
+        "azgaar_burg_id": 87,
+        "azgaar_state_id": 87,
+        "azgaar_state_label": "Bory",
+        "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.431808,
+          76.312025
+        ]
+      }
     }
   ]
 }
