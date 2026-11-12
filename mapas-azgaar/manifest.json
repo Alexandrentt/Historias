@@ -359,5 +359,18 @@
     "decompressed_and_sha256_verified": true,
     "organized_package": "Historias_Mapas_Organizados_6_mundos.zip",
     "github_binary_upload_pending": true
+  },
+  "geojson_export": {
+    "tool": "mapas-azgaar/datos/export_azgaar_geojson.py",
+    "input": "Azgaar JSON Full export for each original .map",
+    "outputs": [
+      "cells.geojson",
+      "routes.geojson",
+      "rivers.geojson",
+      "markers.geojson",
+      "zones.geojson"
+    ],
+    "status": "tool_published_exports_pending",
+    "note": "No per-world full GeoJSON export is claimed until generated from the actual map data."
   }
 }
