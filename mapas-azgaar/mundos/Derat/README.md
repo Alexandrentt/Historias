@@ -1,4 +1,4 @@
-# Derat — geografía y geopolítica v2.2
+# Derat — geografía y geopolítica v2.6
 
 ## Continentes
 - `Alfaguara.geojson`: continente polar septentrional.
@@ -11,9 +11,14 @@
 - `Derat_mundo.svg`: vista general del planeta.
 
 ## Capas geopolíticas
-- `Derat_geopolitica_Alfaguara.geojson`: zonas estratégicas, anclajes históricos, cuatro etiquetas de asentamiento Azgaar para revisión con proximidad a rutas y ríos, entidades sin coordenadas y conectividad hipotética.
+- `Derat_geopolitica_Alfaguara.geojson`: zonas estratégicas, anclajes históricos, cuatro etiquetas de asentamiento Azgaar para revisión con proximidad diferenciada a la red hidrográfica regional y al atlas físico conceptual, entidades sin coordenadas y conectividad hipotética.
 - `Derat_Azgaar_estados_candidatos_Alfaguara.geojson`: cuatro polígonos de estado extraídos del mapa regional y recortados al contorno propuesto de Alfaguara; solo para revisión visual, no canónicos.
 - `Geopolitica_Derat_v1.md`: análisis de actores, recursos, corredores, ocupación y decisiones pendientes.
+
+## Auditoría de capas v2.6
+- Las distancias `nearest_azgaar_*` proceden de trazos del mapa regional; `proximity_to_global_proposed_physical_layer` usa el atlas físico conceptual. No mezclar ambas redes.
+- El atlas físico conceptual y el mapa regional Azgaar aún no están reconciliados espacialmente. No desplazar geometrías a ojo.
+- Bowit tiene influencia documentada sobre buena parte de Alfaguara, sin perímetro conocido; Águila Roja está fragmentada; las ciudades-estado no tienen inventario georreferenciado.
 
 ## Reglas de lectura
 - No hay fronteras políticas nuevas ni áreas de control dibujadas.
