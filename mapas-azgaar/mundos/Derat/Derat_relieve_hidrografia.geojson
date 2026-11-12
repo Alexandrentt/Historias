@@ -1,0 +1,684 @@
+{
+  "type": "FeatureCollection",
+  "name": "Derat — relieve e hidrografía v2",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cordillera de la Muralla Norte",
+        "kind": "mountain_range",
+        "continent": "Alfaguara",
+        "description": "Arco montañoso subpolar que bordea cuencas glaciares.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -154,
+            67
+          ],
+          [
+            -137,
+            70
+          ],
+          [
+            -119,
+            68
+          ],
+          [
+            -101,
+            72
+          ],
+          [
+            -82,
+            70
+          ],
+          [
+            -63,
+            74
+          ],
+          [
+            -43,
+            76
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altiplano de las Cuencas",
+        "kind": "highland",
+        "continent": "Alfaguara",
+        "description": "Meseta fría con depresiones endorreicas.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            56
+          ],
+          [
+            -116,
+            60
+          ],
+          [
+            -99,
+            58
+          ],
+          [
+            -80,
+            62
+          ],
+          [
+            -59,
+            59
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río del Deshielo",
+        "kind": "river",
+        "continent": "Alfaguara",
+        "description": "Río alimentado por glaciares y deshielo estacional.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            82
+          ],
+          [
+            -132,
+            75
+          ],
+          [
+            -119,
+            68
+          ],
+          [
+            -110,
+            61
+          ],
+          [
+            -99,
+            55
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río de las Cuencas",
+        "kind": "river",
+        "continent": "Alfaguara",
+        "description": "Curso interior que termina en lagos y salares.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -128,
+            59
+          ],
+          [
+            -117,
+            56
+          ],
+          [
+            -108,
+            54
+          ],
+          [
+            -98,
+            53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río Rojo",
+        "kind": "river",
+        "continent": "Alfaguara",
+        "description": "Río de cuenca mixta.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            70
+          ],
+          [
+            -59,
+            65
+          ],
+          [
+            -71,
+            60
+          ],
+          [
+            -82,
+            55
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Lago Interior",
+        "kind": "lake",
+        "continent": "Alfaguara",
+        "description": "Lago interior de carácter salobre.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113,
+              59
+            ],
+            [
+              -105,
+              61
+            ],
+            [
+              -97,
+              60
+            ],
+            [
+              -94,
+              57
+            ],
+            [
+              -102,
+              55
+            ],
+            [
+              -111,
+              56
+            ],
+            [
+              -113,
+              59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lago de las Nieves",
+        "kind": "lake",
+        "continent": "Alfaguara",
+        "description": "Lago glaciar.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -145,
+              74
+            ],
+            [
+              -138,
+              76
+            ],
+            [
+              -130,
+              75
+            ],
+            [
+              -129,
+              72
+            ],
+            [
+              -137,
+              71
+            ],
+            [
+              -145,
+              74
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuenca de Ceniza",
+        "kind": "degraded_region",
+        "continent": "Alfaguara",
+        "description": "Región de alteración minera y presión extractiva; no representa un desierto continuo.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91,
+              56
+            ],
+            [
+              -77,
+              58
+            ],
+            [
+              -69,
+              55
+            ],
+            [
+              -74,
+              50
+            ],
+            [
+              -88,
+              49
+            ],
+            [
+              -96,
+              52
+            ],
+            [
+              -91,
+              56
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espinazo Austral",
+        "kind": "mountain_range",
+        "continent": "Vardena",
+        "description": "Cordillera principal que separa vertientes climáticas.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117,
+            -25
+          ],
+          [
+            -101,
+            -20
+          ],
+          [
+            -84,
+            -13
+          ],
+          [
+            -67,
+            -8
+          ],
+          [
+            -49,
+            -7
+          ],
+          [
+            -31,
+            -13
+          ],
+          [
+            -12,
+            -20
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sierra del Viento",
+        "kind": "mountain_range",
+        "continent": "Vardena",
+        "description": "Tierras altas orientales expuestas a vientos oceánicos.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            12
+          ],
+          [
+            -36,
+            8
+          ],
+          [
+            -23,
+            2
+          ],
+          [
+            -10,
+            -8
+          ],
+          [
+            2,
+            -19
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Río Ecuatorial",
+        "kind": "river",
+        "continent": "Vardena",
+        "description": "Gran sistema fluvial tropical con delta y llanuras inundables.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122,
+            13
+          ],
+          [
+            -104,
+            10
+          ],
+          [
+            -87,
+            7
+          ],
+          [
+            -70,
+            5
+          ],
+          [
+            -53,
+            2
+          ],
+          [
+            -35,
+            -2
+          ],
+          [
+            -17,
+            -7
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río de la Meseta",
+        "kind": "river",
+        "continent": "Vardena",
+        "description": "Río de cabecera elevada y valles encajados.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91,
+            18
+          ],
+          [
+            -84,
+            10
+          ],
+          [
+            -78,
+            2
+          ],
+          [
+            -72,
+            -8
+          ],
+          [
+            -66,
+            -18
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río Austral",
+        "kind": "river",
+        "continent": "Vardena",
+        "description": "Curso de la vertiente austral.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -29,
+            -8
+          ],
+          [
+            -27,
+            -19
+          ],
+          [
+            -24,
+            -29
+          ],
+          [
+            -19,
+            -38
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta del Gran Río Ecuatorial",
+        "kind": "wetland",
+        "continent": "Vardena",
+        "description": "Complejo de distributarios, marismas y manglares.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -27,
+              -7
+            ],
+            [
+              -18,
+              -8
+            ],
+            [
+              -12,
+              -12
+            ],
+            [
+              -15,
+              -17
+            ],
+            [
+              -25,
+              -15
+            ],
+            [
+              -27,
+              -7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montes de la Columna",
+        "kind": "mountain_range",
+        "continent": "Edravia",
+        "description": "Eje montañoso longitudinal de Edravia.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119,
+            65
+          ],
+          [
+            113,
+            55
+          ],
+          [
+            107,
+            45
+          ],
+          [
+            102,
+            34
+          ],
+          [
+            98,
+            23
+          ],
+          [
+            96,
+            12
+          ],
+          [
+            99,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meseta de Bruma",
+        "kind": "highland",
+        "continent": "Edravia",
+        "description": "Meseta meridional de altura media.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91,
+            23
+          ],
+          [
+            97,
+            26
+          ],
+          [
+            104,
+            25
+          ],
+          [
+            111,
+            22
+          ],
+          [
+            116,
+            17
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río de las Nubes",
+        "kind": "river",
+        "continent": "Edravia",
+        "description": "Río de montaña de régimen pluvial.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113,
+            57
+          ],
+          [
+            108,
+            49
+          ],
+          [
+            104,
+            41
+          ],
+          [
+            101,
+            32
+          ],
+          [
+            98,
+            23
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río de Oriente",
+        "kind": "river",
+        "continent": "Edravia",
+        "description": "Curso corto y rápido hacia la costa oriental.",
+        "status": "propuesta geográfica v2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            20
+          ],
+          [
+            91,
+            14
+          ],
+          [
+            95,
+            8
+          ],
+          [
+            99,
+            1
+          ]
+        ]
+      }
+    }
+  ]
+}
