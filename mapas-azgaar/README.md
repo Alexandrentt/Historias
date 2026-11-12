@@ -27,6 +27,6 @@ Se incorporó `datos/export_azgaar_geojson.py` para generar capas GIS desde la e
 
 ## Derat
 
-La carpeta `mundos/Derat/` contiene las capas conceptuales de Alfaguara, Vardena y Edravia. Vardena y Edravia son nombres propuestos; el mapa mundial no es aún un archivo Azgaar nativo.
+La carpeta `mundos/Derat/` contiene las capas conceptuales de Alfaguara, Vardena y Edravia, además de `Derat_geopolitica_Alfaguara.geojson` y `Geopolitica_Derat_v1.md`. La capa geopolítica distingue zonas de análisis, hidrografía y conectividad hipotética; no inventa fronteras ni áreas de control. Vardena y Edravia son nombres propuestos; el mapa mundial no es aún un archivo Azgaar nativo.
 
 Para abrir mapas, usa Azgaar's Fantasy Map Generator → Load → Machine: https://azgaar.github.io/Fantasy-Map-Generator/.
