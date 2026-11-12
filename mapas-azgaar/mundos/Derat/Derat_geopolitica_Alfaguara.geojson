@@ -44,7 +44,8 @@
       "seed": "182800799",
       "saved_date": "2026-11-12",
       "extraction": "SVG labels converted to CRS84 longitude/latitude",
-      "caveat": "Los cuatro burgs incluidos son etiquetas del mapa Azgaar, no asentamientos canónicos confirmados. Los nombres de estados Azgaar son igualmente provisionales y no deben sustituir el marco de ciudades-estado de la narración."
+      "caveat": "Los cuatro burgs incluidos son etiquetas del mapa Azgaar, no asentamientos canónicos confirmados. Los nombres de estados Azgaar son igualmente provisionales y no deben sustituir el marco de ciudades-estado de la narración.",
+      "proximity_analysis": "Se calcularon distancias geodésicas desde cada burg candidato a la ruta y al río vectorial más cercanos extraídos del mismo SVG. Las rutas son trazos del mapa, no infraestructura histórica confirmada."
     }
   },
   "features": [
@@ -413,7 +414,13 @@
         "azgaar_state_id": 61,
         "azgaar_state_label": "Maclifia",
         "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
-        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo",
+        "nearest_azgaar_route_id": "route43",
+        "nearest_azgaar_route_distance_km": 0.1,
+        "nearest_azgaar_river_id": "river2883",
+        "nearest_azgaar_river_distance_km": 82.3,
+        "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +446,13 @@
         "azgaar_state_id": 6,
         "azgaar_state_label": "Neutiersian League",
         "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
-        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo",
+        "nearest_azgaar_route_id": "route25",
+        "nearest_azgaar_route_distance_km": 1.3,
+        "nearest_azgaar_river_id": "river714",
+        "nearest_azgaar_river_distance_km": 4.7,
+        "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
       },
       "geometry": {
         "type": "Point",
@@ -465,7 +478,13 @@
         "azgaar_state_id": 36,
         "azgaar_state_label": "Combrierolia",
         "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
-        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo",
+        "nearest_azgaar_route_id": "route25",
+        "nearest_azgaar_route_distance_km": 0.4,
+        "nearest_azgaar_river_id": "river773",
+        "nearest_azgaar_river_distance_km": 16.6,
+        "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
       },
       "geometry": {
         "type": "Point",
@@ -491,7 +510,13 @@
         "azgaar_state_id": 87,
         "azgaar_state_label": "Bory",
         "interpretation": "Etiqueta de asentamiento (burg) visible en el SVG del mapa original; se incluye como candidato de revisión, no como ciudad-estado canónica.",
-        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo"
+        "status": "coordenada extraída del mapa Azgaar; topónimo generado/no aprobado en el canon narrativo",
+        "nearest_azgaar_route_id": "route1256",
+        "nearest_azgaar_route_distance_km": 0.3,
+        "nearest_azgaar_river_id": "river1097",
+        "nearest_azgaar_river_distance_km": 175,
+        "proximity_source": "SVG-derived routes.geojson and rivers.geojson from the same Azgaar map",
+        "proximity_caveat": "Distancias geodésicas aproximadas al elemento vectorial más cercano; no prueban acceso operativo, navegabilidad, caudal ni estado de la infraestructura."
       },
       "geometry": {
         "type": "Point",
