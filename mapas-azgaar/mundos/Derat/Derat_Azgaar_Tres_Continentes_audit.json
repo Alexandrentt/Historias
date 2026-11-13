@@ -1,0 +1,69 @@
+{
+  "product": "Derat — Azgaar editable map",
+  "map_version": "1.158.0",
+  "output_map": "Derat_Azgaar_Tres_Continentes_v1.map",
+  "sha256": "0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1",
+  "bytes": 3863664,
+  "dimensions": {
+    "width": 1333,
+    "height": 632
+  },
+  "grid": {
+    "points": 100280,
+    "boundary_points": 678,
+    "spacing": 2.9,
+    "features": 6
+  },
+  "pack": {
+    "cells": 31299,
+    "land_features": [
+      {
+        "name": "Alfaguara",
+        "cells": 8619,
+        "subtype": "continent",
+        "vertices": 1187
+      },
+      {
+        "name": "Edravia",
+        "cells": 4921,
+        "subtype": "continent",
+        "vertices": 790
+      },
+      {
+        "name": "Vardena",
+        "cells": 14939,
+        "subtype": "continent",
+        "vertices": 1568
+      }
+    ],
+    "water_regions": [
+      {
+        "name": "Región oceánica 1 de Derat",
+        "cells": 2,
+        "subtype": "gulf"
+      },
+      {
+        "name": "Región oceánica 2 de Derat",
+        "cells": 3,
+        "subtype": "gulf"
+      },
+      {
+        "name": "Región oceánica 3 de Derat",
+        "cells": 2815,
+        "subtype": "sea"
+      }
+    ],
+    "lakes": 0
+  },
+  "arrays_all_match_pack_cells": true,
+  "political_geography": "neutral only; old settlements, states, cultures, rivers, roads, markets and military data cleared",
+  "source_geometry": "Derat_continentes.geojson as currently stored; Vardena and Edravia remain proposed names; no geometry asserted as canon",
+  "relief": "procedural and provisional",
+  "azgaar_live_import_test": "not executed; browser access to azgaar.github.io is blocked in the build environment",
+  "limitations": [
+    "The .map structure and cell-array lengths were validated against Azgaar 1.158.0 loader and MapRepair source, but the live application import has not been witnessed.",
+    "Water components are fragmented by the rectangular map boundary; the two tiny 2- and 3-cell regions are not claims of separate physical oceans.",
+    "Alfaguara geometry is used exactly as in Derat_continentes.geojson; no polar-seam reinterpretation was invented.",
+    "The generated map file is delivered as an attachment and is not uploaded to GitHub in this commit."
+  ]
+}
