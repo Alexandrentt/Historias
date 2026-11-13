@@ -339,3 +339,39 @@ Se inspeccionó el archivo original `derat(continente de alfaguara).map` (Azgaar
 Las coordenadas CRS84 guardadas en el GeoJSON coinciden con la conversión lineal del mapa (longitud = −180 + x/1333 × 360; latitud = 90 − y/632 × 180). Se añadieron x/y nativos y población generada como metadatos auditables; la población es una salida del generador, no un dato narrativo.
 
 **Corrección de nombre:** el registro nativo del estado 6 dice `Neutiersia`. La etiqueta `Neutiersian League` procedía de la exportación SVG y se ha sustituido en las capas candidatas. La geometría candidata se reconstruyó posteriormente desde los paths SVG agrupados por ID nativo; la validación de esta reconstrucción ya no detecta cruces entre los cuatro polígonos. Esto no equivale a una exportación geométrica de celdas nativas.
+
+## 18. Cruce de los polígonos candidatos con redes regionales y recursos
+
+Se cruzaron los cuatro polígonos reconstruidos con las capas SVG-derived `rivers.geojson` y `routes.geojson` del mismo mapa Azgaar. Los conteos representan entidades de path que intersectan cada polígono; las longitudes son la suma geodésica aproximada de los tramos de cada path contenidos en él.
+
+| Estado candidato | Paths fluviales que intersectan | Río dentro del polígono (km aprox.) | Paths de ruta que intersectan | Ruta dentro del polígono (km aprox.) |
+|---|---:|---:|---:|---:|
+| Bory | 1 | 10.1 | 6 | 759.5 |
+| Combrierolia | 6 | 3,875.0 | 4 | 1,563.9 |
+| Maclifia | 17 | 8,946.1 | 16 | 7,887.3 |
+| Neutiersia | 13 | 12,494.5 | 27 | 8,473.6 |
+
+Estos números son trazos generados por Azgaar y extraídos del SVG. No certifican ríos permanentes, caudal, potabilidad, carreteras transitables, estado de conservación, titularidad ni acceso público. La capa regional de lagos (`lakes.geojson`) contiene cero entidades; es una ausencia de datos en esa exportación, no evidencia de que no existan lagos.
+
+### Burgs y conectividad regional
+
+| Burg candidato | Distancia al path fluvial Azgaar más cercano | Distancia al path de ruta Azgaar más cercano |
+|---|---:|---:|
+| Cochambe | 82.3 km | 0.1 km |
+| Chaus | 4.7 km | 1.3 km |
+| Monthimozoy | 16.6 km | 0.4 km |
+| Bory | 175.0 km | 0.3 km |
+
+Las distancias se miden a vectores regionales generados, no a infraestructura confirmada. La cercanía de un burg a una ruta no permite afirmar que el asentamiento esté conectado operativamente; la cercanía a un río no acredita acceso a agua.
+
+### Recursos: alerta de desacople entre capas
+
+`Canon.md` fija la importancia de Madianita y Balatium para la Vox y fija la Operación Tierra 5 en un poblado minero de Derat en 586 DT. La documentación histórica también menciona una veta de Balatium descubierta en 520 Ovryn y pozos mineros de capacidad limitada en 550 Pazyn. Ninguno de esos depósitos, pozos o poblados tiene coordenadas verificables en las fuentes narrativas revisadas. No se asignan a los cuatro estados ni a los burgs.
+
+`Cuenca de Ceniza` es una zona propuesta de presión extractiva, no una delimitación de yacimientos. Una comparación puramente numérica de coordenadas entre esa geometría conceptual y los estados Azgaar produce un solapamiento con Maclifia (aprox. 97.55 grados cuadrados en el plano lon/lat); las capas regional y conceptual aún no están reconciliadas mediante puntos de control. Este solapamiento no demuestra que la Cuenca esté dentro de Maclifia, que exista allí una mina ni que Maclifia controle recursos. Es una alerta para resolver la georreferenciación antes de interpretar cualquier proximidad o intersección entre ambos mapas.
+
+### Consecuencia cronológica y política
+
+Los hitos de 127, 132, 153, 166, 178 y 191 DT, el descubrimiento de 520 Ovryn, los pozos de 550 Pazyn y el poblado de 586 DT siguen como hechos documentados sin ubicación geográfica precisa. Ningún polígono Azgaar se asigna a Bowit, Águila Roja, el Régimen, las ciudades-estado ni a una fase histórica concreta. La capa de estados es una referencia espacial generada; la cronología narrativa permanece en registros con geometría `null` cuando no existe coordenada respaldada.
+
+**Pendiente principal:** reconciliar el atlas físico conceptual con el mapa regional Azgaar usando puntos de control aprobados, y conseguir coordenadas narrativas o del autor para la veta, pozos, Consejo, Vía de las Sombras y poblado de 586 DT. Hasta entonces, las intersecciones entre esas capas no deben usarse para decisiones de canon.
