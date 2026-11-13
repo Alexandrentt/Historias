@@ -1,5 +1,5 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "world": "Derat",
   "continents": [
     {
@@ -27,9 +27,11 @@
     "Derat_geopolitica_Alfaguara.geojson",
     "Geopolitica_Derat_v1.md",
     "Derat_Azgaar_estados_candidatos_Alfaguara.geojson",
-    "Derat_Azgaar_estados_nativos_Alfaguara.csv"
+    "Derat_Azgaar_estados_nativos_Alfaguara.csv",
+    "Derat_Azgaar_Tres_Continentes_v1.md",
+    "Derat_Azgaar_Tres_Continentes_audit.json"
   ],
-  "format_note": "GeoJSON/SVG editables; no son archivos nativos .map de Azgaar.",
+  "format_note": "Capas conceptuales GeoJSON/SVG y un mapa nativo Azgaar 1.158.0 generado como adjunto local; el binario .map no se ha subido a GitHub.",
   "layers": {
     "physical": "Derat_relieve_hidrografia.geojson",
     "political_analysis": "Derat_geopolitica_Alfaguara.geojson",
@@ -62,6 +64,27 @@
     "mapas-azgaar/datos/auditar_celdas_nativas_azgaar.py valida y extrae atributos nativos del formato .map legado 1.158.0; el CSV opcional por celda no incluye centros ni geometrías.",
     "El .map conserva puntos y límite de la cuadrícula; las celdas empaquetadas y sus polígonos se regeneran al cargar mediante el pipeline Voronoi/Delaunator. Aún no se ha añadido una exportación oficial cells.geojson.",
     "Los polígonos estatales de esta capa siguen siendo SVG-derived; no se deben presentar como una disolución de celdas nativas.",
-    "El archivo .map de Derat continúa sin estar subido al repositorio; el CSV resumido sí está versionado."
-  ]
+    "El archivo .map de Derat continúa sin estar subido al repositorio; el CSV resumido sí está versionado.",
+    "Build nativo Derat v1: 31.299 celdas empaquetadas y tres features terrestres subtype=continent derivadas de Derat_continentes.geojson; relieve provisional y sin fronteras, burgs ni entidades geopolíticas inventadas.",
+    "El archivo Derat_Azgaar_Tres_Continentes_v1.map se entrega fuera del repositorio; la auditoría de su estructura se versiona aquí. Su importación en la interfaz de Azgaar aún requiere prueba en vivo."
+  ],
+  "azgaar_native_build": {
+    "file": "Derat_Azgaar_Tres_Continentes_v1.map",
+    "repository_uploaded": false,
+    "delivery": "adjunto descargable en la conversación",
+    "audit_file": "Derat_Azgaar_Tres_Continentes_audit.json",
+    "generator_version": "1.158.0",
+    "grid_points": 100280,
+    "boundary_points": 678,
+    "packed_cells": 31299,
+    "continents": [
+      "Alfaguara",
+      "Edravia",
+      "Vardena"
+    ],
+    "continent_subtype": "continent",
+    "political_layer": "solo neutrales; datos heredados sin georreferenciación eliminados",
+    "relief": "procedural provisional",
+    "live_app_import_test": "no ejecutado; acceso web al sitio de Azgaar bloqueado en el entorno"
+  }
 }
