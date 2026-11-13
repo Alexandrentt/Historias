@@ -477,5 +477,21 @@
       "SVG-derived state polygons remain separate and must not be described as native cell polygons.",
       "The global conceptual geography and the regional Azgaar map still need author-approved georeferencing control points."
     ]
+  },
+  "derat_editable_build": {
+    "world": "Derat",
+    "map_file": "mapas-azgaar/mundos/Derat/Derat_Azgaar_Tres_Continentes_v1.map",
+    "version": "Azgaar 1.158.0",
+    "repository_uploaded": false,
+    "delivery": "local conversation attachment",
+    "audit_file": "mapas-azgaar/mundos/Derat/Derat_Azgaar_Tres_Continentes_audit.json",
+    "grid_points": 100280,
+    "packed_cells": 31299,
+    "continents": [
+      "Alfaguara",
+      "Edravia",
+      "Vardena"
+    ],
+    "status": "native .map generated and structurally validated; live UI import not witnessed"
   }
 }
