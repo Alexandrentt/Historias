@@ -317,9 +317,9 @@ La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson ya no conserva los cua
 
 La selección contiene solo los cuatro estados que cumplen la regla de tener un burg etiquetado dentro del polígono propuesto de Alfaguara. Los huecos entre esos cuatro estados son omisiones de selección; no significan territorio vacío, sin población o sin autoridad. No usar los polígonos como fronteras soberanas, áreas de facciones ni límites de ciudades-estado.
 
-### Límite del archivo nativo disponible
+### Estructura real del archivo nativo
 
-Se inspeccionó el primer bloque JSON del archivo .map. Contiene metadatos del grafo (incluidos ancho, alto y cantidad de puntos), geografía, clima, culturas, burgs, etiquetas, transporte, relieve y otros registros, pero no contiene las estructuras de celdas/polígonos nativos que permitirían reconstruir directamente la teselación estatal. El archivo continúa con bloques auxiliares y el SVG exportado. Por tanto, con el .map disponible se pueden verificar nombres, IDs y burgs, pero no extraer de él las geometrías nativas de celdas. Para cerrar esa brecha hace falta un export de datos de celdas/pack del generador o una exportación oficial equivalente; no se debe fingir que los paths SVG son celdas nativas.
+La inspección completa del formato legado corrige la conclusión inicial: el .map sí conserva datos nativos de celdas. El archivo contiene un bloque de configuración, la cuadrícula (puntos y límite), arrays de atributos de la cuadrícula, registros de features/estados/burgs y arrays paralelos de atributos de las celdas empaquetadas. No guarda los anillos de cada celda como GeoJSON: el generador regenera la teselación Voronoi/Delaunator al cargar el mapa. Por tanto, los atributos y las adscripciones estatales sí pueden auditarse directamente; la geometría exacta requiere ejecutar el mismo pipeline de Azgaar o usar su exportación oficial de celdas.
 
 ### Trazabilidad y controles
 
@@ -379,3 +379,41 @@ Las distancias se miden a vectores regionales generados, no a infraestructura co
 Los hitos de 127, 132, 153, 166, 178 y 191 DT, el descubrimiento de 520 Ovryn, los pozos de 550 Pazyn y el poblado de 586 DT siguen como hechos documentados sin ubicación geográfica precisa. Ningún polígono Azgaar se asigna a Bowit, Águila Roja, el Régimen, las ciudades-estado ni a una fase histórica concreta. La capa de estados es una referencia espacial generada; la cronología narrativa permanece en registros con geometría `null` cuando no existe coordenada respaldada.
 
 **Pendiente principal:** reconciliar el atlas físico conceptual con el mapa regional Azgaar usando puntos de control aprobados, y conseguir coordenadas narrativas o del autor para la veta, pozos, Consejo, Vía de las Sombras y poblado de 586 DT. Hasta entonces, las intersecciones entre esas capas no deben usarse para decisiones de canon.
+
+## 19. Auditoría de atributos nativos de celdas del .map
+
+Se volvió a inspeccionar el archivo completo preservando sus separadores CRLF y se interpretaron los registros según el cargador de Azgaar 1.158.0. Resultado:
+
+- 100.280 puntos de cuadrícula y 678 puntos de límite.
+- 71.635 celdas empaquetadas con arrays paralelos de estado, población, bioma, burg, confianza, cultura, río, religión y provincia.
+- 101 registros de estado incluyendo el registro neutral.
+- 1.090 registros de burg no-placeholder.
+- Los arrays de atributos de celdas empaquetadas tienen longitud consistente: 71.635 elementos cada uno.
+
+### Estadísticas nativas de los cuatro estados candidatos
+
+| Estado nativo | ID | Burg candidato en Alfaguara | Celdas empaquetadas | Suma bruta de población generada | Burgs del estado en todo el mapa |
+|---|---:|---|---:|---:|---:|
+| Bory | 87 | Bory (87) | 157 | 1.865,0020 | 12 |
+| Combrierolia | 36 | Monthimozoy (36) | 162 | 1.246,0550 | 3 |
+| Maclifia | 61 | Cochambe (61) | 744 | 5.674,9667 | 10 |
+| Neutiersia | 6 | Chaus (6) | 588 | 6.352,2870 | 27 |
+
+Los conteos de celdas y la suma de población proceden directamente de los arrays nativos `pack.cells.state` y `pack.cells.pop`. La suma se conserva en unidades brutas del generador: no se convierte a habitantes sin verificar la escala y no es un dato narrativo. Los conteos de burgs incluyen todo el mapa regional, no solo Alfaguara.
+
+### Herramienta reproducible
+
+Se añadió `mapas-azgaar/datos/auditar_celdas_nativas_azgaar.py`. Está fijada al formato legado 1.158.0 y:
+
+1. Lee el .map sin normalizar CRLF, porque el SVG embebido ocupa un único registro.
+2. Valida las longitudes de los arrays de cuadrícula y de celdas empaquetadas.
+3. Genera un resumen CSV para todos los estados.
+4. Puede exportar opcionalmente las 71.635 filas de atributos de celdas empaquetadas, sin inventar coordenadas ni geometrías.
+
+La tabla de cuatro estados se versionó como `Derat_Azgaar_estados_nativos_Alfaguara.csv`.
+
+### Qué queda pendiente para la geometría exacta
+
+El .map contiene los puntos y el límite de la cuadrícula, pero los vértices de los polígonos empaquetados se reconstruyen al cargar con el pipeline Voronoi/Delaunator de Azgaar. El script de auditoría no sustituye ese proceso. La capa estatal publicada continúa derivándose de paths SVG y no debe confundirse con una disolución de las celdas nativas.
+
+Para cerrar la geometría hace falta una exportación oficial `Export → GeoJSON → cells` del mapa Bouneia, o ejecutar el generador 1.158.0 sobre el .map original y exportar esa capa. El .map de Derat no está subido al repositorio, así que la exportación nativa todavía no puede incorporarse a GitHub desde los archivos versionados actuales. Hasta obtenerla, se mantienen separados los polígonos SVG candidatos, los atributos nativos y el atlas físico conceptual.
