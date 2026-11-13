@@ -29,7 +29,13 @@
     "Derat_Azgaar_estados_candidatos_Alfaguara.geojson",
     "Derat_Azgaar_estados_nativos_Alfaguara.csv",
     "Derat_Azgaar_Tres_Continentes_v1.md",
-    "Derat_Azgaar_Tres_Continentes_audit.json"
+    "Derat_Azgaar_Tres_Continentes_audit.json",
+    "Derat_Azgaar_Tres_Continentes/README_AZGAAAR_DERAT.txt",
+    "Derat_Azgaar_Tres_Continentes/THIRD_PARTY_NOTICES.md",
+    "Derat_Azgaar_Tres_Continentes/Derat_continentes.geojson",
+    "Derat_Azgaar_Tres_Continentes/graph_tools.mjs",
+    "Derat_Azgaar_Tres_Continentes/delaunator.mjs",
+    "Derat_Azgaar_Tres_Continentes/build_derat_tricontinent_map.mjs"
   ],
   "format_note": "Capas conceptuales GeoJSON/SVG y un mapa nativo Azgaar 1.158.0 generado como adjunto local; el binario .map no se ha subido a GitHub.",
   "layers": {
@@ -85,6 +91,18 @@
     "continent_subtype": "continent",
     "political_layer": "solo neutrales; datos heredados sin georreferenciación eliminados",
     "relief": "procedural provisional",
-    "live_app_import_test": "no ejecutado; acceso web al sitio de Azgaar bloqueado en el entorno"
+    "live_app_import_test": "no ejecutado; acceso web al sitio de Azgaar bloqueado en el entorno",
+    "source_files": [
+      "Derat_Azgaar_Tres_Continentes/build_derat_tricontinent_map.mjs",
+      "Derat_Azgaar_Tres_Continentes/graph_tools.mjs",
+      "Derat_Azgaar_Tres_Continentes/delaunator.mjs",
+      "Derat_Azgaar_Tres_Continentes/Derat_continentes.geojson",
+      "Derat_Azgaar_Tres_Continentes/README_AZGAAAR_DERAT.txt",
+      "Derat_Azgaar_Tres_Continentes/THIRD_PARTY_NOTICES.md"
+    ],
+    "source_files_uploaded": true,
+    "base_map_uploaded": false,
+    "output_map_uploaded": false,
+    "reproducibility_note": "El generador y sus dependencias están versionados; requiere el .map base Bouneia 1.158.0, que no está en el repositorio."
   }
 }
