@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
+  "version": "3.0",
   "world": "Derat",
   "continents": [
     {
@@ -52,6 +52,9 @@
     "Auditoría v2.9: cuatro polígonos candidatos reconstruidos desde paths del states.geojson derivado del SVG, agrupados por ID de estado nativo, recortados al contorno propuesto de Alfaguara y simplificados como cobertura con tolerancia 0.12 grados.",
     "Validación geométrica local con Shapely 2.1.2: geometrías individuales válidas, anillos cerrados, sin solapamiento de área positiva ni cruces de límites entre los cuatro candidatos; los contactos compartidos son lineales.",
     "Límite de procedencia: el .map nativo verifica IDs, nombres y posiciones de burgs, pero la geometría reconstruida procede de paths SVG derivados, no de polígonos extraídos de celdas nativas. La capa sigue siendo no canónica y no representa soberanía, ciudades-estado ni control de facciones.",
-    "La selección incluye solo cuatro estados que cumplen la regla de burg etiquetado dentro de Alfaguara; los espacios no cubiertos son omisiones de selección y no deben interpretarse como territorio vacío."
+    "La selección incluye solo cuatro estados que cumplen la regla de burg etiquetado dentro de Alfaguara; los espacios no cubiertos son omisiones de selección y no deben interpretarse como territorio vacío.",
+    "Auditoría v3.0: los cuatro polígonos candidatos incluyen conteos de paths fluviales y de rutas Azgaar que los intersectan, además de longitudes geodésicas aproximadas de los trazos dentro de cada geometría.",
+    "La exportación regional lakes.geojson contiene cero entidades; esto no demuestra ausencia de lagos reales ni contradice el atlas conceptual.",
+    "Se detectó un solapamiento numérico entre la geometría candidata de Maclifia y la zona propuesta Cuenca de Ceniza al comparar coordenadas CRS84 de capas no reconciliadas. Se registra como alerta de georreferenciación, no como prueba de presencia de minas, recursos o control territorial."
   ]
 }
