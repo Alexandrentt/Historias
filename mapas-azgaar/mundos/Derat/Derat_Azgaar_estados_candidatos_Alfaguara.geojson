@@ -39,7 +39,21 @@
       ]
     },
     "native_map_name_correction": "The native .map state record identifies state6 as Neutiersia; the SVG-derived label Neutiersian League was incorrect.",
-    "geometry_action": "Rebuilt four candidate state geometries from source SVG-derived state paths, unioned by native state ID and clipped to proposed Alfaguara; shared-boundary-preserving coverage simplification removed the four crossing segments without changing their noncanonical status."
+    "geometry_action": "Rebuilt four candidate state geometries from source SVG-derived state paths, unioned by native state ID and clipped to proposed Alfaguara; shared-boundary-preserving coverage simplification removed the four crossing segments without changing their noncanonical status.",
+    "regional_network_audit": {
+      "source_archive": "GeoJSON_Seis_Mundos_Azgaar_descarga.zip",
+      "source_files": [
+        "GeoJSON_Seis_Mundos/Derat/rivers.geojson",
+        "GeoJSON_Seis_Mundos/Derat/routes.geojson"
+      ],
+      "method": "Intersect each candidate polygon with each SVG-derived path feature; sum geodesic lengths of clipped line portions using WGS84.",
+      "caveats": [
+        "These layers share the regional Azgaar map coordinate space; their intersections are internally comparable but remain generated data.",
+        "No features were promoted to canon and no routes or rivers were added or edited.",
+        "The regional lakes.geojson export contains zero features; this is an export-layer absence, not proof that Alfaguara has no lakes.",
+        "Do not merge these measurements with the conceptual physical atlas until both maps are explicitly georeferenced to common control points."
+      ]
+    }
   },
   "features": [
     {
@@ -58,7 +72,16 @@
         "interpretation": "Polígono estatal generado por Azgaar, recortado al contorno propuesto de Alfaguara para revisión visual.",
         "status": "borrador cartográfico no canónico; no equivale a ciudad-estado, soberanía ni control de facción",
         "topology_status": "valid_non_overlapping_candidate_geometry",
-        "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas."
+        "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas.",
+        "regional_network_audit": {
+          "source": "SVG-derived rivers.geojson and routes.geojson from the same Azgaar regional map",
+          "intersecting_river_path_features": 1,
+          "intersecting_route_path_features": 6,
+          "river_path_length_inside_km_approx": 10.1,
+          "route_path_length_inside_km_approx": 759.5,
+          "status": "generated_cartographic_overlay_only",
+          "caveat": "Counts and lengths describe vector paths crossing this candidate polygon, not verified rivers, roads, navigability, infrastructure condition, public access or canonical geography."
+        }
       },
       "geometry": {
         "type": "Polygon",
@@ -248,7 +271,16 @@
         "interpretation": "Polígono estatal generado por Azgaar, recortado al contorno propuesto de Alfaguara para revisión visual.",
         "status": "borrador cartográfico no canónico; no equivale a ciudad-estado, soberanía ni control de facción",
         "topology_status": "valid_non_overlapping_candidate_geometry",
-        "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas."
+        "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas.",
+        "regional_network_audit": {
+          "source": "SVG-derived rivers.geojson and routes.geojson from the same Azgaar regional map",
+          "intersecting_river_path_features": 6,
+          "intersecting_route_path_features": 4,
+          "river_path_length_inside_km_approx": 3875,
+          "route_path_length_inside_km_approx": 1563.9,
+          "status": "generated_cartographic_overlay_only",
+          "caveat": "Counts and lengths describe vector paths crossing this candidate polygon, not verified rivers, roads, navigability, infrastructure condition, public access or canonical geography."
+        }
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -896,7 +928,16 @@
         "interpretation": "Polígono estatal generado por Azgaar, recortado al contorno propuesto de Alfaguara para revisión visual.",
         "status": "borrador cartográfico no canónico; no equivale a ciudad-estado, soberanía ni control de facción",
         "topology_status": "valid_non_overlapping_candidate_geometry",
-        "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas."
+        "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas.",
+        "regional_network_audit": {
+          "source": "SVG-derived rivers.geojson and routes.geojson from the same Azgaar regional map",
+          "intersecting_river_path_features": 17,
+          "intersecting_route_path_features": 16,
+          "river_path_length_inside_km_approx": 8946.1,
+          "route_path_length_inside_km_approx": 7887.3,
+          "status": "generated_cartographic_overlay_only",
+          "caveat": "Counts and lengths describe vector paths crossing this candidate polygon, not verified rivers, roads, navigability, infrastructure condition, public access or canonical geography."
+        }
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2349,7 +2390,16 @@
         "status": "borrador cartográfico no canónico; no equivale a ciudad-estado, soberanía ni control de facción",
         "topology_status": "valid_non_overlapping_candidate_geometry",
         "topology_note": "Geometría reconstruida a partir de los paths del states.geojson derivado del SVG original; simplificación de cobertura 0.12°. No es una frontera canónica ni una extracción de celdas nativas.",
-        "native_name_verification": "Native state record in .map file; replaces SVG-derived label 'Neutiersian League'."
+        "native_name_verification": "Native state record in .map file; replaces SVG-derived label 'Neutiersian League'.",
+        "regional_network_audit": {
+          "source": "SVG-derived rivers.geojson and routes.geojson from the same Azgaar regional map",
+          "intersecting_river_path_features": 13,
+          "intersecting_route_path_features": 27,
+          "river_path_length_inside_km_approx": 12494.5,
+          "route_path_length_inside_km_approx": 8473.6,
+          "status": "generated_cartographic_overlay_only",
+          "caveat": "Counts and lengths describe vector paths crossing this candidate polygon, not verified rivers, roads, navigability, infrastructure condition, public access or canonical geography."
+        }
       },
       "geometry": {
         "type": "MultiPolygon",
