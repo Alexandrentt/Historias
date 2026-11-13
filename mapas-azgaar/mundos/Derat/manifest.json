@@ -1,5 +1,5 @@
 {
-  "version": "3.2",
+  "version": "3.3",
   "world": "Derat",
   "continents": [
     {
@@ -26,6 +26,7 @@
     "Derat_mundo.svg",
     "Derat_geopolitica_Alfaguara.geojson",
     "Geopolitica_Derat_v1.md",
+    "Auditoria_Cruce_Alfaguara_v1.md",
     "Derat_Azgaar_estados_candidatos_Alfaguara.geojson",
     "Derat_Azgaar_estados_nativos_Alfaguara.csv",
     "Derat_Azgaar_Tres_Continentes_v1.md",
@@ -72,7 +73,12 @@
     "Los polígonos estatales de esta capa siguen siendo SVG-derived; no se deben presentar como una disolución de celdas nativas.",
     "El archivo .map de Derat continúa sin estar subido al repositorio; el CSV resumido sí está versionado.",
     "Build nativo Derat v1: 31.299 celdas empaquetadas y tres features terrestres subtype=continent derivadas de Derat_continentes.geojson; relieve provisional y sin fronteras, burgs ni entidades geopolíticas inventadas.",
-    "El archivo Derat_Azgaar_Tres_Continentes_v1.map se entrega fuera del repositorio; la auditoría de su estructura se versiona aquí. Su importación en la interfaz de Azgaar aún requiere prueba en vivo."
+    "El archivo Derat_Azgaar_Tres_Continentes_v1.map se entrega fuera del repositorio; la auditoría de su estructura se versiona aquí. Su importación en la interfaz de Azgaar aún requiere prueba en vivo.",
+    "Auditoría cruzada v1.0: cada uno de los cuatro burgs Azgaar candidatos cae dentro del polígono candidato asociado por ID; relación generada, no canónica.",
+    "Auditoría cruzada v1.0: se calcularon intersecciones numéricas de los cuatro polígonos con el atlas físico conceptual. Como las capas no están reconciliadas espacialmente, las coincidencias son diagnósticas y no prueban geografía real.",
+    "Maclifia intersecta numéricamente Cuenca de Ceniza, zona de presión extractiva propuesta; no confirma depósitos de Madianita/Balatium, minas ni control territorial.",
+    "Los anclajes de cronología (Consejo, veta de Balatium, Vía de las Sombras y poblado de Operación Tierra 5) conservan geometry:null mientras no haya coordenadas verificables; no se asignan a burgs ni estados candidatos.",
+    "La auditoría cruzada está documentada en Auditoria_Cruce_Alfaguara_v1.md; no modifica geometrías ni atributos fuente."
   ],
   "azgaar_native_build": {
     "file": "Derat_Azgaar_Tres_Continentes_v1.map",
@@ -104,5 +110,17 @@
     "base_map_uploaded": false,
     "output_map_uploaded": false,
     "reproducibility_note": "El generador y sus dependencias están versionados; requiere el .map base Bouneia 1.158.0, que no está en el repositorio."
+  },
+  "cross_audit": {
+    "file": "Auditoria_Cruce_Alfaguara_v1.md",
+    "version": "1.0",
+    "date": "2026-11-13",
+    "status": "diagnostic_only",
+    "candidate_state_polygons": 4,
+    "candidate_burgs": 4,
+    "physical_features_reviewed": 18,
+    "geopolitical_features_reviewed": 14,
+    "geometries_modified": false,
+    "key_warning": "El atlas físico conceptual y las capas regionales Azgaar no están reconciliados espacialmente; las intersecciones numéricas no son evidencia geográfica o política."
   }
 }
