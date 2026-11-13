@@ -20,6 +20,7 @@
 - El atlas físico conceptual y el mapa regional Azgaar aún no están reconciliados espacialmente. No desplazar geometrías a ojo.
 - La capa de estados candidatos fue reconstruida con coverage_simplify (tolerancia 0.12°) preservando bordes compartidos. La auditoría local con Shapely 2.1.2 confirma geometrías válidas, anillos cerrados y ausencia de solapamientos de área o cruces de límites entre los cuatro estados seleccionados. El nombre Neutiersia se verificó en el .map nativo. La geometría sigue procediendo de paths SVG, no de celdas nativas.
 - La auditoría v3.0 cruza los cuatro polígonos con los paths regionales de ríos y rutas Azgaar; los conteos y longitudes se guardan en las propiedades de cada estado. Son métricas del generador, no infraestructura verificada. El export regional de lagos está vacío.
+- El .map disponible no contiene las celdas nativas necesarias para extraer polígonos de estado; la geometría candidata se reconstruyó desde paths SVG y mantiene esa limitación de procedencia.
 - Bowit tiene influencia documentada sobre buena parte de Alfaguara, sin perímetro conocido; Águila Roja está fragmentada; las ciudades-estado no tienen inventario georreferenciado.
 
 ## Reglas de lectura
