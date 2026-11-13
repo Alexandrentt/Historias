@@ -55,6 +55,7 @@
     "La selección incluye solo cuatro estados que cumplen la regla de burg etiquetado dentro de Alfaguara; los espacios no cubiertos son omisiones de selección y no deben interpretarse como territorio vacío.",
     "Auditoría v3.0: los cuatro polígonos candidatos incluyen conteos de paths fluviales y de rutas Azgaar que los intersectan, además de longitudes geodésicas aproximadas de los trazos dentro de cada geometría.",
     "La exportación regional lakes.geojson contiene cero entidades; esto no demuestra ausencia de lagos reales ni contradice el atlas conceptual.",
-    "Se detectó un solapamiento numérico entre la geometría candidata de Maclifia y la zona propuesta Cuenca de Ceniza al comparar coordenadas CRS84 de capas no reconciliadas. Se registra como alerta de georreferenciación, no como prueba de presencia de minas, recursos o control territorial."
+    "Se detectó un solapamiento numérico entre la geometría candidata de Maclifia y la zona propuesta Cuenca de Ceniza al comparar coordenadas CRS84 de capas no reconciliadas. Se registra como alerta de georreferenciación, no como prueba de presencia de minas, recursos o control territorial.",
+    "Inspección estructural del .map: el bloque JSON disponible no incluye arrays/estructuras de celdas o polígonos estatales nativos; sí incluye metadatos del grafo y registros de burgs/estados. La reconstrucción directa desde celdas queda bloqueada hasta obtener un export de celdas/pack o equivalente."
   ]
 }
