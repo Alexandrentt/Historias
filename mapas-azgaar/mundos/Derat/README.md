@@ -16,7 +16,7 @@
 - `Derat_Azgaar_estados_nativos_Alfaguara.csv`: conteos y atributos agregados leídos de los arrays nativos de celdas empaquetadas del .map 1.158.0; población generada, no canon.
 - `Geopolitica_Derat_v1.md`: análisis de actores, recursos, corredores, ocupación y decisiones pendientes.
 
-## Auditoría de capas v3.1
+## Auditoría de capas v3.2
 - Las distancias `nearest_azgaar_*` proceden de trazos del mapa regional; `proximity_to_global_proposed_physical_layer` usa el atlas físico conceptual. No mezclar ambas redes.
 - El atlas físico conceptual y el mapa regional Azgaar aún no están reconciliados espacialmente. No desplazar geometrías a ojo.
 - La capa de estados candidatos fue reconstruida con coverage_simplify (tolerancia 0.12°) preservando bordes compartidos. La auditoría local con Shapely 2.1.2 confirma geometrías válidas, anillos cerrados y ausencia de solapamientos de área o cruces de límites entre los cuatro estados seleccionados. El nombre Neutiersia se verificó en el .map nativo. La geometría sigue procediendo de paths SVG, no de celdas nativas.
@@ -31,5 +31,6 @@
 - Los ejes de conectividad hipotéticos no son carreteras ni rutas navegables confirmadas. La Vía de las Sombras sí está documentada como corredor nocturno, pero su trazado aún no está georreferenciado.
 - Cuenca de Ceniza es una zona propuesta de presión extractiva, no un mapa certificado de yacimientos de Madianita o Balatium.
 - Vardena y Edravia siguen siendo nombres propuestos.
-- Las capas son GeoJSON/SVG editables, no archivos nativos `.map` de Azgaar. El mapa regional original de Alfaguara se conserva sin sobrescribir.
+- Las capas conceptuales siguen en GeoJSON/SVG. Se generó aparte `Derat_Azgaar_Tres_Continentes_v1.map`, nativo de Azgaar 1.158.0, con tres features terrestres `subtype=continent` y 31.299 celdas empaquetadas. El `.map` se entrega como adjunto; no está subido a GitHub. No sobrescribe el mapa regional original.
+- La auditoría y las limitaciones del build están en `Derat_Azgaar_Tres_Continentes_v1.md` y `Derat_Azgaar_Tres_Continentes_audit.json`. El relieve es procedural; no se arrastran ciudades, estados ni fronteras de Bouneia. La importación en la interfaz no pudo probarse en vivo desde el entorno de construcción.
 - `../../datos/auditar_celdas_nativas_azgaar.py` permite extraer los atributos nativos del .map 1.158.0; requiere conservar CRLF. No genera geometrías. El .map fuente sigue sin estar subido a GitHub.
