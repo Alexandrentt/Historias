@@ -196,7 +196,7 @@ La intersección de las etiquetas de tipo `burg` con el polígono global propues
 | Etiqueta Azgaar | Longitud | Latitud | Estado rotulado en el mapa | ID burg |
 |---|---:|---:|---|---:|
 | Cochambe | -73.566392 | 70.909177 | Maclifia | 61 |
-| Chaus | -129.057164 | 70.416456 | Neutiersian League | 6 |
+| Chaus | -129.057164 | 70.416456 | Neutiersia | 6 |
 | Monthimozoy | -137.564291 | 64.532278 | Combrierolia | 36 |
 | Bory | -130.431808 | 76.312025 | Bory | 87 |
 
@@ -204,7 +204,7 @@ Estas cuatro etiquetas se añadieron como puntos de revisión en `Derat_geopolit
 
 ### Polígonos de estado que intersectan Alfaguara
 
-El inventario de polígonos SVG muestra ocho estados Azgaar con una intersección superior al 5 % con el polígono de Alfaguara usado en esta auditoría: **Neutiersian League, Combrierolia, Guildbu, Maclifia, Rouvria, Bory, Dominion of Flokland y Monthimanch**. Clifordia apenas roza el contorno (aprox. 1.7 %) y se trata como contacto marginal, no como territorio de Alfaguara.
+El inventario de polígonos SVG muestra ocho estados Azgaar con una intersección superior al 5 % con el polígono de Alfaguara usado en esta auditoría: **Neutiersia, Combrierolia, Guildbu, Maclifia, Rouvria, Bory, Dominion of Flokland y Monthimanch**. Clifordia apenas roza el contorno (aprox. 1.7 %) y se trata como contacto marginal, no como territorio de Alfaguara.
 
 Esta lista es una lectura geométrica del mapa, no una identificación de las ciudades-estado del relato. Algunos polígonos pueden atravesar masas continentales o reflejar divisiones aleatorias del generador. No se deben convertir automáticamente en soberanías, fronteras históricas ni áreas de Bowit, Águila Roja o el Régimen.
 
@@ -215,7 +215,7 @@ Ahora existe una base espacial real para revisar cuatro asentamientos y ocho pol
 
 ## 12. Polígonos candidatos derivados del mapa Azgaar
 
-Se creó la capa independiente `Derat_Azgaar_estados_candidatos_Alfaguara.geojson`. Incluye los cuatro estados Azgaar que contienen los cuatro burgs identificados dentro del polígono propuesto de Alfaguara: Bory, Combrierolia, Maclifia y Neutiersian League. Las geometrías se extrajeron de la capa SVG-derived `states.geojson`, se convirtieron a CRS84, se intersectaron con el contorno propuesto de Alfaguara y se simplificaron para revisión visual.
+Se creó la capa independiente `Derat_Azgaar_estados_candidatos_Alfaguara.geojson`. Incluye los cuatro estados Azgaar que contienen los cuatro burgs identificados dentro del polígono propuesto de Alfaguara: Bory, Combrierolia, Maclifia y Neutiersia. Las geometrías se extrajeron de la capa SVG-derived `states.geojson`, se convirtieron a CRS84, se intersectaron con el contorno propuesto de Alfaguara y se simplificaron para revisión visual.
 
 La capa no se fusiona con la geopolítica narrativa: **son divisiones automáticas del mapa Azgaar, no ciudades-estado confirmadas ni territorios de facciones**. El recorte al continente tampoco es una frontera política. Los cuatro burgs relacionados son Cochambe, Chaus, Monthimozoy y Bory; sus nombres también permanecen pendientes de aprobación.
 
@@ -338,7 +338,7 @@ Se inspeccionó el archivo original `derat(continente de alfaguara).map` (Azgaar
 
 Las coordenadas CRS84 guardadas en el GeoJSON coinciden con la conversión lineal del mapa (longitud = −180 + x/1333 × 360; latitud = 90 − y/632 × 180). Se añadieron x/y nativos y población generada como metadatos auditables; la población es una salida del generador, no un dato narrativo.
 
-**Corrección de nombre:** el registro nativo del estado 6 dice `Neutiersia`. La etiqueta `Neutiersian League` procedía de la exportación SVG y se ha sustituido en las capas candidatas. La geometría candidata se reconstruyó posteriormente desde los paths SVG agrupados por ID nativo; la validación de esta reconstrucción ya no detecta cruces entre los cuatro polígonos. Esto no equivale a una exportación geométrica de celdas nativas.
+**Corrección de nombre:** el registro nativo del estado 6 dice `Neutiersia`. La etiqueta errónea `Neutiersian League` procedía de la exportación SVG y se ha sustituido por `Neutiersia` en las capas candidatas. La geometría candidata se reconstruyó posteriormente desde los paths SVG agrupados por ID nativo; la validación de esta reconstrucción ya no detecta cruces entre los cuatro polígonos. Esto no equivale a una exportación geométrica de celdas nativas.
 
 ## 18. Cruce de los polígonos candidatos con redes regionales y recursos
 
