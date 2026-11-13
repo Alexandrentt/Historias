@@ -94,7 +94,7 @@ El mapa regional Azgaar está fechado el 12-11-2026 y no declara una equivalenci
 - Los tres GeoJSON consultados se parsearon correctamente. No se detectaron IDs duplicados, coordenadas no finitas o fuera de rango, ni anillos poligonales abiertos.
 - No se editaron geometrías. La validación topológica previa registrada en README/manifiesto (Shapely 2.1.2) indica polígonos candidatos válidos, anillos cerrados y ausencia de solapamientos de área positiva o cruces de límites entre los cuatro candidatos; esta auditoría no altera ni sustituye ese resultado.
 - El manifiesto previo enumeraba 20 archivos y todas sus referencias resolvían en la rama `main` antes de añadir este informe.
-- El mapa regional `.map` original y los exports fuente completos `states.geojson`, `rivers.geojson` y `routes.geojson` no están versionados en esta carpeta. Sin ellos no puede repetirse desde cero la extracción de paths ni reconstruirse la geometría estatal a partir de celdas nativas.
+- El mapa regional `.map` original y los exports fuente completos `states.geojson`, `rivers.geojson` y `routes.geojson` no aparecen versionados en el repositorio consultado. Sin ellos no puede repetirse desde cero la extracción de paths ni reconstruirse la geometría estatal a partir de celdas nativas.
 
 ### Pendientes que requieren evidencia
 
