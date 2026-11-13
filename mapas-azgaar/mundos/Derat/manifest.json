@@ -1,5 +1,5 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "world": "Derat",
   "continents": [
     {
@@ -48,9 +48,10 @@
     "Auditoría v2.6: se añadieron distancias separadas de los burgs candidatos a la hidrografía y relieve conceptual del atlas global. No mezclar con proximidades a trazos SVG de Azgaar; las dos redes no están reconciliadas espacialmente.",
     "La documentación narrativa fija hitos 127, 132, 153, 166, 178 y 191 DT, además de Balatium 520 Ovryn y pozos 550 Pazyn; no hay coordenadas para esos sitios ni para la Vía de las Sombras.",
     "Se documentan inconsistencias de alcance entre la ficha resumida de Derat y la historia de Transtierra respecto del Bowit y las fuerzas del Régimen; no se trazan áreas de control.",
-    "Auditoría topológica de la capa Azgaar candidata: anillos cerrados, sin vértices consecutivos duplicados ni auto-intersecciones individuales; se detectaron cuatro cruces de segmentos entre Combrierolia y Neutiersian League. La capa queda marcada como revisión visual no apta para cálculo de fronteras o superficies.",
-    "Se verificaron en el .map nativo los IDs, nombres, posiciones x/y y poblaciones generadas de los cuatro burgs candidatos; el estado state6 se llama Neutiersia (no Neutiersian League).",
     "Las coordenadas CRS84 de los cuatro burgs coinciden con la conversión lineal de x/y del mapa Azgaar. Los valores de población son datos generados, no canon.",
-    "La advertencia topológica de cruces entre Combrierolia y Neutiersia sigue activa; no usar la capa de polígonos como partición territorial válida."
+    "Auditoría v2.9: cuatro polígonos candidatos reconstruidos desde paths del states.geojson derivado del SVG, agrupados por ID de estado nativo, recortados al contorno propuesto de Alfaguara y simplificados como cobertura con tolerancia 0.12 grados.",
+    "Validación geométrica local con Shapely 2.1.2: geometrías individuales válidas, anillos cerrados, sin solapamiento de área positiva ni cruces de límites entre los cuatro candidatos; los contactos compartidos son lineales.",
+    "Límite de procedencia: el .map nativo verifica IDs, nombres y posiciones de burgs, pero la geometría reconstruida procede de paths SVG derivados, no de polígonos extraídos de celdas nativas. La capa sigue siendo no canónica y no representa soberanía, ciudades-estado ni control de facciones.",
+    "La selección incluye solo cuatro estados que cumplen la regla de burg etiquetado dentro de Alfaguara; los espacios no cubiertos son omisiones de selección y no deben interpretarse como territorio vacío."
   ]
 }
