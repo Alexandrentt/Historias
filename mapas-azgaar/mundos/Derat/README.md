@@ -34,3 +34,18 @@
 - Las capas conceptuales siguen en GeoJSON/SVG. Se generó aparte `Derat_Azgaar_Tres_Continentes_v1.map`, nativo de Azgaar 1.158.0, con tres features terrestres `subtype=continent` y 31.299 celdas empaquetadas. El `.map` se entrega como adjunto; no está subido a GitHub. No sobrescribe el mapa regional original.
 - La auditoría y las limitaciones del build están en `Derat_Azgaar_Tres_Continentes_v1.md` y `Derat_Azgaar_Tres_Continentes_audit.json`. El relieve es procedural; no se arrastran ciudades, estados ni fronteras de Bouneia. La importación en la interfaz no pudo probarse en vivo desde el entorno de construcción.
 - `../../datos/auditar_celdas_nativas_azgaar.py` permite extraer los atributos nativos del .map 1.158.0; requiere conservar CRLF. No genera geometrías. El .map fuente sigue sin estar subido a GitHub.
+
+
+## Fuentes del build nativo v1 publicadas en GitHub
+
+La carpeta `Derat_Azgaar_Tres_Continentes/` contiene ahora:
+- `build_derat_tricontinent_map.mjs`: generador de mapa nativo Azgaar 1.158.0.
+- `graph_tools.mjs`: reconstrucción Voronoi y marcado de features.
+- `delaunator.mjs`: triangulación adaptada, con licencia.
+- `Derat_continentes.geojson`: contornos de entrada usados por el build.
+- `README_AZGAAAR_DERAT.txt`: instrucciones y límites.
+- `THIRD_PARTY_NOTICES.md`: avisos y licencias de terceros.
+
+**Archivos grandes no versionados:** el mapa de salida `.map`, el mapa base Bouneia y los ZIP de entrega no se subieron mediante la integración disponible. Se mantienen como adjuntos descargables de esta conversación. El generador requiere el mapa base de entrada, por lo que el repositorio aún no es autosuficiente para reconstruir el `.map` sin ese archivo.
+
+La fuente de construcción se añadió para que pueda revisarse y reproducirse cuando se disponga del mapa base. No equivale a confirmar la importación en la interfaz de Azgaar.
