@@ -1,4 +1,4 @@
-# Derat — geografía y geopolítica v3.0
+# Derat — geografía y geopolítica v3.1
 
 ## Continentes
 - `Alfaguara.geojson`: continente polar septentrional.
@@ -13,14 +13,15 @@
 ## Capas geopolíticas
 - `Derat_geopolitica_Alfaguara.geojson`: zonas estratégicas, anclajes históricos, cuatro etiquetas de asentamiento Azgaar para revisión con proximidad diferenciada a la red hidrográfica regional y al atlas físico conceptual, entidades sin coordenadas y conectividad hipotética.
 - `Derat_Azgaar_estados_candidatos_Alfaguara.geojson`: cuatro polígonos candidatos reconstruidos desde los paths del states.geojson derivado del SVG, agrupados por ID nativo y recortados al contorno propuesto de Alfaguara. La reconstrucción elimina los cruces detectados; siguen siendo geometrías Azgaar no canónicas, no fronteras políticas.
+- `Derat_Azgaar_estados_nativos_Alfaguara.csv`: conteos y atributos agregados leídos de los arrays nativos de celdas empaquetadas del .map 1.158.0; población generada, no canon.
 - `Geopolitica_Derat_v1.md`: análisis de actores, recursos, corredores, ocupación y decisiones pendientes.
 
-## Auditoría de capas v3.0
+## Auditoría de capas v3.1
 - Las distancias `nearest_azgaar_*` proceden de trazos del mapa regional; `proximity_to_global_proposed_physical_layer` usa el atlas físico conceptual. No mezclar ambas redes.
 - El atlas físico conceptual y el mapa regional Azgaar aún no están reconciliados espacialmente. No desplazar geometrías a ojo.
 - La capa de estados candidatos fue reconstruida con coverage_simplify (tolerancia 0.12°) preservando bordes compartidos. La auditoría local con Shapely 2.1.2 confirma geometrías válidas, anillos cerrados y ausencia de solapamientos de área o cruces de límites entre los cuatro estados seleccionados. El nombre Neutiersia se verificó en el .map nativo. La geometría sigue procediendo de paths SVG, no de celdas nativas.
-- La auditoría v3.0 cruza los cuatro polígonos con los paths regionales de ríos y rutas Azgaar; los conteos y longitudes se guardan en las propiedades de cada estado. Son métricas del generador, no infraestructura verificada. El export regional de lagos está vacío.
-- El .map disponible no contiene las celdas nativas necesarias para extraer polígonos de estado; la geometría candidata se reconstruyó desde paths SVG y mantiene esa limitación de procedencia.
+- La auditoría v3.1 cruza los cuatro polígonos con los paths regionales de ríos y rutas Azgaar; los conteos y longitudes se guardan en las propiedades de cada estado. Son métricas del generador, no infraestructura verificada. El export regional de lagos está vacío.
+- El .map conserva 100.280 puntos de cuadrícula y arrays de atributos para 71.635 celdas empaquetadas. Los polígonos de esas celdas se regeneran al cargar el mapa; el CSV contiene atributos nativos, no geometría. Los polígonos estatales publicados siguen procediendo de paths SVG.
 - Bowit tiene influencia documentada sobre buena parte de Alfaguara, sin perímetro conocido; Águila Roja está fragmentada; las ciudades-estado no tienen inventario georreferenciado.
 
 ## Reglas de lectura
@@ -31,3 +32,4 @@
 - Cuenca de Ceniza es una zona propuesta de presión extractiva, no un mapa certificado de yacimientos de Madianita o Balatium.
 - Vardena y Edravia siguen siendo nombres propuestos.
 - Las capas son GeoJSON/SVG editables, no archivos nativos `.map` de Azgaar. El mapa regional original de Alfaguara se conserva sin sobrescribir.
+- `../../datos/auditar_celdas_nativas_azgaar.py` permite extraer los atributos nativos del .map 1.158.0; requiere conservar CRLF. No genera geometrías. El .map fuente sigue sin estar subido a GitHub.
