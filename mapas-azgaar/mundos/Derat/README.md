@@ -1,4 +1,4 @@
-# Derat — geografía y geopolítica v3.1
+# Derat — geografía y geopolítica v3.2
 
 ## Continentes
 - `Alfaguara.geojson`: continente polar septentrional.
