@@ -317,6 +317,10 @@ La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson ya no conserva los cua
 
 La selección contiene solo los cuatro estados que cumplen la regla de tener un burg etiquetado dentro del polígono propuesto de Alfaguara. Los huecos entre esos cuatro estados son omisiones de selección; no significan territorio vacío, sin población o sin autoridad. No usar los polígonos como fronteras soberanas, áreas de facciones ni límites de ciudades-estado.
 
+### Límite del archivo nativo disponible
+
+Se inspeccionó el primer bloque JSON del archivo .map. Contiene metadatos del grafo (incluidos ancho, alto y cantidad de puntos), geografía, clima, culturas, burgs, etiquetas, transporte, relieve y otros registros, pero no contiene las estructuras de celdas/polígonos nativos que permitirían reconstruir directamente la teselación estatal. El archivo continúa con bloques auxiliares y el SVG exportado. Por tanto, con el .map disponible se pueden verificar nombres, IDs y burgs, pero no extraer de él las geometrías nativas de celdas. Para cerrar esa brecha hace falta un export de datos de celdas/pack del generador o una exportación oficial equivalente; no se debe fingir que los paths SVG son celdas nativas.
+
 ### Trazabilidad y controles
 
 - Fuente geométrica: GeoJSON_Seis_Mundos_Azgaar_descarga.zip → GeoJSON_Seis_Mundos/Derat/states.geojson.
