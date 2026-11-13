@@ -40,3 +40,19 @@ Amitia, Atharis, Derat (Alfaguara), Khorza/Korza, Návar y Teknara figuran en `m
 ```bash
 python compile_map.py carpeta_extraida -o Mundo.map --preserve-original
 ```
+
+
+## Auditoría de atributos nativos del .map legado
+
+Para archivos guardados por Azgaar 1.158.0, `auditar_celdas_nativas_azgaar.py` lee los registros internos respetando los separadores CRLF y valida los tamaños de los arrays. No normalices los finales de línea del .map antes de ejecutarlo.
+
+Ejemplo:
+
+```bash
+python auditar_celdas_nativas_azgaar.py --map "derat(continente de alfaguara).map" --summary estados.csv --cells-csv celdas_atributos.csv
+```
+
+- El resumen incluye todos los estados y sus conteos de celdas empaquetadas, suma bruta de población generada y número de burgs.
+- El CSV opcional contiene una fila por celda empaquetada y sus atributos nativos, sin coordenadas ni geometría.
+- La geometría de las celdas se regenera al cargar el mapa a partir de la cuadrícula, el límite y la triangulación Delaunator. Este script no pretende sustituir esa reconstrucción ni convertir los paths SVG en celdas.
+- La exportación oficial `Export → GeoJSON → cells` sigue siendo la vía preferida para obtener polígonos de celda listos para GIS.
