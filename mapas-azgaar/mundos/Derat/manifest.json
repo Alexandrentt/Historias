@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
+  "version": "3.1",
   "world": "Derat",
   "continents": [
     {
@@ -26,7 +26,8 @@
     "Derat_mundo.svg",
     "Derat_geopolitica_Alfaguara.geojson",
     "Geopolitica_Derat_v1.md",
-    "Derat_Azgaar_estados_candidatos_Alfaguara.geojson"
+    "Derat_Azgaar_estados_candidatos_Alfaguara.geojson",
+    "Derat_Azgaar_estados_nativos_Alfaguara.csv"
   ],
   "format_note": "GeoJSON/SVG editables; no son archivos nativos .map de Azgaar.",
   "layers": {
@@ -56,6 +57,11 @@
     "Auditoría v3.0: los cuatro polígonos candidatos incluyen conteos de paths fluviales y de rutas Azgaar que los intersectan, además de longitudes geodésicas aproximadas de los trazos dentro de cada geometría.",
     "La exportación regional lakes.geojson contiene cero entidades; esto no demuestra ausencia de lagos reales ni contradice el atlas conceptual.",
     "Se detectó un solapamiento numérico entre la geometría candidata de Maclifia y la zona propuesta Cuenca de Ceniza al comparar coordenadas CRS84 de capas no reconciliadas. Se registra como alerta de georreferenciación, no como prueba de presencia de minas, recursos o control territorial.",
-    "Inspección estructural del .map: el bloque JSON disponible no incluye arrays/estructuras de celdas o polígonos estatales nativos; sí incluye metadatos del grafo y registros de burgs/estados. La reconstrucción directa desde celdas queda bloqueada hasta obtener un export de celdas/pack o equivalente."
+    "Auditoría nativa 1.158.0: el .map conserva 100280 puntos de cuadrícula y arrays de atributos para 71635 celdas empaquetadas; hay 101 registros estatales incluyendo neutrales y 1090 registros burg reales.",
+    "Derat_Azgaar_estados_nativos_Alfaguara.csv resume cuatro estados candidatos a partir de pack.cells.state y pack.cells.population; las sumas de población son valores brutos generados por Azgaar, no canon.",
+    "mapas-azgaar/datos/auditar_celdas_nativas_azgaar.py valida y extrae atributos nativos del formato .map legado 1.158.0; el CSV opcional por celda no incluye centros ni geometrías.",
+    "El .map conserva puntos y límite de la cuadrícula; las celdas empaquetadas y sus polígonos se regeneran al cargar mediante el pipeline Voronoi/Delaunator. Aún no se ha añadido una exportación oficial cells.geojson.",
+    "Los polígonos estatales de esta capa siguen siendo SVG-derived; no se deben presentar como una disolución de celdas nativas.",
+    "El archivo .map de Derat continúa sin estar subido al repositorio; el CSV resumido sí está versionado."
   ]
 }
