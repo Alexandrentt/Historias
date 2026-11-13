@@ -301,21 +301,29 @@ El cruce de `Los Josth/Transtierra.md`, `Los Josth/tierras/Derat.md`, `odisey/ti
 La cartografía disponible sustenta un modelo de capas superpuestas —ocupación, concesiones, ciudades-estado, resistencia, corredores informales y presión hídrica—, no una división territorial cerrada. Los únicos puntos con coordenadas de asentamientos que se mantienen son candidatos generados por Azgaar; los hechos narrativos sin localización siguen como registros con geometría `null`.
 
 
-## 16. Validación topológica de los polígonos Azgaar candidatos
+## 16. Reconstrucción y validación topológica de los polígonos candidatos
 
-Se realizó una revisión geométrica de `Derat_Azgaar_estados_candidatos_Alfaguara.geojson` sin modificar las coordenadas:
+La capa Derat_Azgaar_estados_candidatos_Alfaguara.geojson ya no conserva los cuatro cruces de segmentos detectados en la versión anterior. Se reconstruyeron los cuatro estados seleccionados mediante este procedimiento reproducible:
 
-- Los cuatro burgs están dentro del polígono candidato que lleva su etiqueta estatal.
-- Los cuatro polígonos usan los tipos esperados (`Polygon`/`MultiPolygon`); todos sus anillos están cerrados y no presentan vértices consecutivos duplicados.
-- No se detectaron auto-intersecciones dentro de los anillos individuales.
-- **Sí se detectaron cuatro cruces entre segmentos de los límites de Combrierolia y Neutiersian League.** Por tanto, los dos polígonos no forman una partición topológicamente limpia.
+1. Se tomaron los paths del states.geojson derivado del SVG original del mapa regional.
+2. Se agruparon todas las partes de cada estado por su ID nativo (state87, state36, state61, state6) y se unieron sus componentes.
+3. Se recortaron las geometrías al polígono propuesto de Alfaguara, sin convertir ese contorno en frontera política.
+4. Se aplicó coverage_simplify de Shapely 2.1.2 con tolerancia de 0.12 grados para preservar límites compartidos.
+5. Se volvió a validar la geometría antes de sustituir la capa en GitHub.
 
-El problema se conserva explícitamente en `metadata.topology_audit` y en las propiedades de los dos elementos afectados. No se movieron vértices ni se recortaron límites a mano para ocultar el fallo. La capa continúa siendo solo una referencia visual no canónica y no debe usarse para calcular soberanías, áreas territoriales ni fronteras.
+**Resultado de la auditoría local:** las cuatro geometrías son válidas; todos los anillos están cerrados; no hay solapamientos de área positiva ni cruces entre límites de los estados seleccionados. Los contactos entre geometrías adyacentes son lineales. Se mantienen 1 polígono para Bory, 4 componentes para Combrierolia, 9 para Maclifia y 2 para Neutiersia.
 
-### Bloqueo técnico pendiente
+**Límite de procedencia importante:** la geometría corregida sigue derivándose de paths SVG exportados, no de polígonos extraídos directamente de las celdas nativas del archivo .map. El archivo nativo se usó para verificar IDs, nombres y burgs, pero no convierte por sí mismo estos contornos SVG en una fuente geométrica nativa. Por eso la capa se marca como topológicamente validada dentro de esta reconstrucción, pero sigue siendo un conjunto de candidatos cartográficos no canónicos.
 
-La conversión SVG→GeoJSON parece suficiente para localizar etiquetas de burg, pero los polígonos derivados presentan cruces entre estados. La corrección requiere reconstruir las geometrías desde los datos nativos de celdas/estados del archivo `.map` de Azgaar, o validar una exportación oficial del propio generador. Hasta completar esa reconstrucción, los cuatro polígonos deben permanecer marcados como candidatos topológicamente no validados.
+La selección contiene solo los cuatro estados que cumplen la regla de tener un burg etiquetado dentro del polígono propuesto de Alfaguara. Los huecos entre esos cuatro estados son omisiones de selección; no significan territorio vacío, sin población o sin autoridad. No usar los polígonos como fronteras soberanas, áreas de facciones ni límites de ciudades-estado.
 
+### Trazabilidad y controles
+
+- Fuente geométrica: GeoJSON_Seis_Mundos_Azgaar_descarga.zip → GeoJSON_Seis_Mundos/Derat/states.geojson.
+- Fuente de verificación de IDs y burgs: derat(continente de alfaguara).map (Azgaar 1.158.0, mapa Bouneia, semilla 182800799).
+- Contorno de recorte: Alfaguara.geojson, cuyo estado sigue siendo propuesta geográfica.
+- No se reasignaron estados a Bowit, Águila Roja, el Régimen ni a ninguna ciudad-estado.
+- No se alteraron los puntos burg ni se derivaron ubicaciones de recursos, pozos, instalaciones o rutas.
 
 ## 17. Verificación directa de los burgs y nombres estatales en el archivo .map nativo
 
@@ -330,4 +338,4 @@ Se inspeccionó el archivo original `derat(continente de alfaguara).map` (Azgaar
 
 Las coordenadas CRS84 guardadas en el GeoJSON coinciden con la conversión lineal del mapa (longitud = −180 + x/1333 × 360; latitud = 90 − y/632 × 180). Se añadieron x/y nativos y población generada como metadatos auditables; la población es una salida del generador, no un dato narrativo.
 
-**Corrección de nombre:** el registro nativo del estado 6 dice `Neutiersia`. La etiqueta `Neutiersian League` procedía de la exportación SVG y se ha sustituido en las capas candidatas. El cruce topológico previamente detectado entre los polígonos de Combrierolia y Neutiersia sigue pendiente de reconstrucción; cambiar el nombre no corrige la geometría.
+**Corrección de nombre:** el registro nativo del estado 6 dice `Neutiersia`. La etiqueta `Neutiersian League` procedía de la exportación SVG y se ha sustituido en las capas candidatas. La geometría candidata se reconstruyó posteriormente desde los paths SVG agrupados por ID nativo; la validación de esta reconstrucción ya no detecta cruces entre los cuatro polígonos. Esto no equivale a una exportación geométrica de celdas nativas.
