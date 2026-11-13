@@ -56,3 +56,10 @@ python auditar_celdas_nativas_azgaar.py --map "derat(continente de alfaguara).ma
 - El CSV opcional contiene una fila por celda empaquetada y sus atributos nativos, sin coordenadas ni geometría.
 - La geometría de las celdas se regenera al cargar el mapa a partir de la cuadrícula, el límite y la triangulación Delaunator. Este script no pretende sustituir esa reconstrucción ni convertir los paths SVG en celdas.
 - La exportación oficial `Export → GeoJSON → cells` sigue siendo la vía preferida para obtener polígonos de celda listos para GIS.
+
+
+## Mapa nativo editable de Derat — build provisional v1
+
+Se preparó un archivo nativo Azgaar 1.158.0 con tres features terrestres marcadas `subtype=continent`. La cuadrícula de 100.280 puntos y los 678 puntos de borde se preservan; el pipeline regenerado produce 31.299 celdas empaquetadas. El resultado y las fuentes reproducibles se entregan en un paquete adjunto, mientras el README y la auditoría se versionan en GitHub.
+
+El constructor requiere como entrada el .map base 1.158.0 de Derat y `Derat_continentes.geojson`. Acepta `--map`, `--continents`, `--out` y `--audit`. No copia los burgs, estados, ríos o rutas de Bouneia. El relieve es procedural, y Vardena/Edravia siguen siendo nombres propuestos. La validación local cubre el formato nativo, arrays y enlaces de vértice; la apertura en la interfaz no pudo probarse en vivo desde este entorno.
