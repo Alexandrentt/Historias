@@ -77,3 +77,8 @@ El .map nativo permanece en la Biblioteca con SHA-256 `0e99e077e61e643306db68fbd
 ## Recuperación del mapa regional original
 
 Consulta [`Derat_Alfaguara_Mapa_Regional_Original_Exportado.md`](./Derat_Alfaguara_Mapa_Regional_Original_Exportado.md) para hashes, inventario, validación y límites de las exportaciones del mapa original Bouneia/Alfaguara. El paquete ZIP completo está conservado en la Biblioteca de ChatGPT y no está aún versionado en GitHub.
+
+
+## Recuperación del .map regional y capas JSON
+
+La ficha técnica y los catálogos ligeros de la extracción están en [capas-json/Derat](../../capas-json/Derat/README.md). El inventario de todos los mapas y la validación cruzada están en [capas-json](../../capas-json/README.md).
