@@ -1,0 +1,21 @@
+{
+  "world_folder": "Derat",
+  "source_filename": "derat(continente de alfaguara).map",
+  "source_bytes": 15745658,
+  "source_sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
+  "header": {
+    "raw": "1.158.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-11-12|182800799|1333|632|1794506586148",
+    "generator_version": "1.158.0",
+    "format_notice": "File can be loaded in azgaar.github.io/Fantasy-Map-Generator",
+    "saved_date": "2026-11-12",
+    "seed": "182800799",
+    "width": 1333,
+    "height": 632,
+    "map_timestamp_ms": 1794506586148
+  },
+  "record_count": 56,
+  "azgaar_save_format": "CRLF-delimited records; documented against Azgaar src/services/io/save.ts and load.ts",
+  "source_is_original": true,
+  "derived_data_are_canonical": false,
+  "note": "Extracción literal de los registros del archivo fuente; no introduce ni modifica entidades del mundo."
+}
