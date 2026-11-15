@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
+  "version": "3.5",
   "world": "Derat",
   "continents": [
     {
@@ -84,7 +84,8 @@
     "15-11-2026: respaldo del árbol de main creado en backup/Derat-main-2026-11-15 antes de esta ronda.",
     "15-11-2026: se recuperó en Biblioteca el .map nativo generado; SHA-256 coincide con la auditoría. El binario no está subido a GitHub.",
     "15-11-2026: exportadas 8.619 celdas de Alfaguara a GeoJSON en Biblioteca; geometría Voronoi reconstruida independientemente y validada sin geometrías inválidas ni solapamientos de área positiva.",
-    "El mapa regional original de Alfaguara/Bouneia sigue pendiente; el .map de tres continentes no lo sustituye."
+    "El mapa regional original de Alfaguara/Bouneia sigue pendiente; el .map de tres continentes no lo sustituye.",
+    "15-11-2026: exportadas a Biblioteca las capas Voronoi de los tres continentes: Alfaguara 8619, Vardena 14939, Edravia 4921 celdas. Las tres pasaron validación de geometría y solapamientos."
   ],
   "azgaar_native_build": {
     "file": "Derat_Azgaar_Tres_Continentes_v1.map",
@@ -153,5 +154,43 @@
       "positive_area_overlaps": 0
     },
     "status": "library_only; derived_noncanonical_geometry"
+  },
+  "cell_exports": {
+    "status": "library_only; derived_noncanonical_geometry",
+    "source_map": "Derat_Azgaar_Tres_Continentes_v1.map",
+    "source_map_sha256": "0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1",
+    "exporter": "exportar_celdas_alfaguara_v1.py",
+    "method": "pack points regenerated using the committed build rules; cell polygons independently reconstructed with scipy.spatial.Voronoi 1.17.0 and clipped to the native map frame",
+    "validation_per_layer": {
+      "empty_regions": 0,
+      "invalid_geometries": 0,
+      "positive_area_overlaps": 0
+    },
+    "layers": [
+      {
+        "file": "Derat_Azgaar_celdas_Alfaguara_v1.geojson",
+        "continent": "Alfaguara",
+        "features": 8619,
+        "bytes": 7874720,
+        "sha256": "ae7389bd722fd89e14ffe66f628ddb1128274cfb1c7c287214d0a4724db49063",
+        "library_path": "/Derat/Derat_Azgaar_celdas_Alfaguara_v1.geojson"
+      },
+      {
+        "file": "Derat_Azgaar_celdas_Vardena_v1.geojson",
+        "continent": "Vardena",
+        "features": 14939,
+        "bytes": 13646770,
+        "sha256": "cb7d82c88f9c4309acb70dc74db1ada5afe5443a024866cd5e258df35d47cdaf",
+        "library_path": "/Derat/Derat_Azgaar_celdas_Vardena_v1.geojson"
+      },
+      {
+        "file": "Derat_Azgaar_celdas_Edravia_v1.geojson",
+        "continent": "Edravia",
+        "features": 4921,
+        "bytes": 4452380,
+        "sha256": "cf53b92f7cdde8f69b8614e891f9d2d95e020df4407aa37aea83369099d86b45",
+        "library_path": "/Derat/Derat_Azgaar_celdas_Edravia_v1.geojson"
+      }
+    ]
   }
 }
