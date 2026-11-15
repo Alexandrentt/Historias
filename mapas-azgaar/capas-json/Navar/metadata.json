@@ -1,0 +1,22 @@
+{
+  "world_folder": "Návar",
+  "source_filename": "Návar.map",
+  "source_bytes": 13963939,
+  "source_sha256": "e0eadc154f16c6ff2bfb669071626628e79c81ed373924b71e11d3802bbc07c7",
+  "header": {
+    "raw": "1.158.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-11-12|785450965|800|1165|1794498547459",
+    "generator_version": "1.158.0",
+    "format_notice": "File can be loaded in azgaar.github.io/Fantasy-Map-Generator",
+    "saved_date": "2026-11-12",
+    "seed": "785450965",
+    "width": 800,
+    "height": 1165,
+    "map_timestamp_ms": 1794498547459
+  },
+  "record_count": 56,
+  "azgaar_save_format": "CRLF-delimited records; documented against Azgaar src/services/io/save.ts and load.ts",
+  "source_is_original": true,
+  "derived_data_are_canonical": false,
+  "map_internal_name": "Ereia",
+  "note": "Extracción literal de los registros del archivo fuente; no introduce ni modifica entidades del mundo."
+}
