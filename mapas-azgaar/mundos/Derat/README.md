@@ -1,4 +1,4 @@
-# Derat — geografía y geopolítica v3.3
+# Derat — geografía y geopolítica v3.4
 
 ## Continentes
 - `Alfaguara.geojson`: continente polar septentrional.
@@ -52,3 +52,13 @@ La carpeta `Derat_Azgaar_Tres_Continentes/` contiene ahora:
 **Archivos grandes no versionados:** el mapa de salida `.map`, el mapa base Bouneia y los ZIP de entrega no se subieron mediante la integración disponible. Se mantienen como adjuntos descargables de la conversación. El generador requiere el .map base de entrada, por lo que el repositorio aún no es autosuficiente para reconstruir el .map sin ese archivo.
 
 La fuente de construcción se añadió para que pueda revisarse y reproducirse cuando se disponga del mapa base. No equivale a confirmar la importación en la interfaz de Azgaar.
+
+
+## Exportación de celdas Azgaar v1
+
+- `exportar_celdas_alfaguara_v1.py`: reconstruye los puntos empaquetados y exporta las celdas Voronoi de Alfaguara a GeoJSON. Requiere NumPy, SciPy y Shapely.
+- `Respaldo_y_exportacion_celdas_v1.md`: registra el respaldo, procedencia, hash y verificaciones.
+- La exportación `Derat_Azgaar_celdas_Alfaguara_v1.geojson` contiene 8.619 celdas. Se conserva en la Biblioteca de ChatGPT, no en GitHub. Sus geometrías son reconstrucciones Voronoi independientes desde puntos del mapa nativo, no polígonos literales del .map.
+- El .map generado se conserva en la Biblioteca de ChatGPT con SHA-256 `0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1`; todavía no está versionado como binario en GitHub.
+- La rama `backup/Derat-main-2026-11-15` conserva el estado de `main` anterior a esta ronda.
+
