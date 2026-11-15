@@ -4,7 +4,7 @@
 
 Se generó **`Derat_Azgaar_Tres_Continentes_v1.map`**, un archivo de guardado nativo de Azgaar 1.158.0. No es un GeoJSON renombrado: contiene la cuadrícula, atributos de altura y temperatura, datos de la malla empaquetada y las referencias de vértices que Azgaar reconstruye al cargar.
 
-El archivo binario se entrega como adjunto descargable en la conversación. **No está almacenado en GitHub** en este momento. La guía, auditoría y fuentes de construcción acompañan el paquete descargable.
+El archivo binario se conserva en la Biblioteca de ChatGPT, en `/Derat/Derat_Azgaar_Tres_Continentes_v1.map`. **No está almacenado en GitHub** en este momento. SHA-256: `0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1`.
 
 ## Resultado estructural
 
@@ -33,3 +33,10 @@ No se pudo abrir la aplicación en vivo desde el entorno de construcción porque
 - `README_AZGAAAR_DERAT.txt`: instrucciones de importación y reconstrucción.
 - `build_derat_tricontinent_map.mjs`, `graph_tools.mjs` y `delaunator.mjs`: fuentes incluidas en el paquete reproducible.
 - `THIRD_PARTY_NOTICES.md`: atribuciones y licencias de los algoritmos adaptados.
+
+
+## Exportación derivada de celdas (15-11-2026)
+
+Se reconstruyeron y exportaron 8.619 celdas de Alfaguara en `Derat_Azgaar_celdas_Alfaguara_v1.geojson`, conservado en la Biblioteca de ChatGPT. La reconstrucción independiente reproduce 31.299 puntos empaquetados del mapa completo, utiliza Voronoi sobre esos puntos y los límites nativos, y conserva atributos serializados de Azgaar. Las celdas son geometría derivada, no polígonos guardados literalmente en el .map. Validación: 0 regiones vacías, 0 geometrías inválidas y 0 solapamientos de área positiva.
+
+El exportador reproducible está versionado en `exportar_celdas_alfaguara_v1.py`. La prueba de importación en la interfaz Azgaar sigue pendiente.
