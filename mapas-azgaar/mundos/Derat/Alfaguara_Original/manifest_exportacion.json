@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Exportación estructurada del mapa regional original de Alfaguara",
+  "source": {
+    "filename": "derat(continente de alfaguara).map",
+    "internal_name": "Bouneia",
+    "format": "Azgaar Fantasy Map Generator native map",
+    "generator_version": "1.158.0",
+    "dimensions": {
+      "width": 1333,
+      "height": 632
+    },
+    "seed": 182800799,
+    "size_bytes": 15745658,
+    "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44"
+  },
+  "audit": {
+    "grid_points": 100280,
+    "packed_cells": 71635,
+    "features": 271,
+    "cultures": 16,
+    "states_including_neutral": 101,
+    "burgs": 1090,
+    "religions": 83,
+    "rivers": 1766,
+    "markers": 450,
+    "routes": 1293,
+    "zones": 12,
+    "markets": 71,
+    "journeys": 1,
+    "svg_layers": 39,
+    "json_files_validated": 50,
+    "svg_files_validated": 40
+  },
+  "source_data_files": [
+    {
+      "file": "biomes.json",
+      "kind": "json",
+      "records": 13,
+      "description": "Catálogo de biomas."
+    },
+    {
+      "file": "burgs.json",
+      "kind": "json",
+      "records": 1091,
+      "description": "Asentamientos Azgaar, incluido registro centinela."
+    },
+    {
+      "file": "cell_adjacency.json",
+      "kind": "json",
+      "records": 17529,
+      "description": "Relaciones de adyacencia entre celdas."
+    },
+    {
+      "file": "cultures.json",
+      "kind": "json",
+      "records": 16,
+      "description": "Culturas."
+    },
+    {
+      "file": "features.json",
+      "kind": "json",
+      "records": 272,
+      "description": "Accidentes geográficos y features, incluido registro centinela."
+    },
+    {
+      "file": "fonts.json",
+      "kind": "json",
+      "records": 4,
+      "description": "Fuentes configuradas."
+    },
+    {
+      "file": "grid.json",
+      "kind": "json",
+      "records": 6,
+      "description": "Estructuras de puntos y celdas de la cuadrícula."
+    },
+    {
+      "file": "journeys.json",
+      "kind": "json",
+      "records": 1,
+      "description": "Viajes/rutas de journey."
+    },
+    {
+      "file": "layers_registry.json",
+      "kind": "json",
+      "records": 2,
+      "description": "Registro de capas."
+    },
+    {
+      "file": "map_config.json",
+      "kind": "json",
+      "records": 17,
+      "description": "Configuración y metadatos del mapa."
+    },
+    {
+      "file": "markers.json",
+      "kind": "json",
+      "records": 450,
+      "description": "Marcadores."
+    },
+    {
+      "file": "markets.json",
+      "kind": "json",
+      "records": 71,
+      "description": "Mercados."
+    },
+    {
+      "file": "namebases_parsed.json",
+      "kind": "json",
+      "records": 43,
+      "description": "Bases de nombres parseadas."
+    },
+    {
+      "file": "provinces.json",
+      "kind": "json",
+      "records": 517,
+      "description": "Provincias."
+    },
+    {
+      "file": "religions.json",
+      "kind": "json",
+      "records": 83,
+      "description": "Religiones."
+    },
+    {
+      "file": "rivers.json",
+      "kind": "json",
+      "records": 1766,
+      "description": "Ríos."
+    },
+    {
+      "file": "routes.json",
+      "kind": "json",
+      "records": 1293,
+      "description": "Rutas."
+    },
+    {
+      "file": "states.json",
+      "kind": "json",
+      "records": 101,
+      "description": "Estados, incluido Neutral."
+    },
+    {
+      "file": "styles.json",
+      "kind": "json",
+      "records": 39,
+      "description": "Estilos visuales."
+    },
+    {
+      "file": "zones.json",
+      "kind": "json",
+      "records": 12,
+      "description": "Zonas."
+    }
+  ],
+  "geojson_exports": [
+    {
+      "file": "burgs_puntos.geojson",
+      "features": 1090,
+      "geometry": "Point",
+      "coordinate_system": "Azgaar local x/y"
+    },
+    {
+      "file": "markers_puntos.geojson",
+      "features": 450,
+      "geometry": "Point",
+      "coordinate_system": "Azgaar local x/y"
+    },
+    {
+      "file": "routes_lineas.geojson",
+      "features": 1293,
+      "geometry": "LineString",
+      "coordinate_system": "Azgaar local x/y"
+    },
+    {
+      "file": "grid_points.geojson",
+      "features": 100280,
+      "geometry": "Point",
+      "coordinate_system": "Azgaar local x/y"
+    },
+    {
+      "file": "grid_points.csv",
+      "records": 100280,
+      "coordinate_system": "Azgaar local x/y"
+    }
+  ],
+  "svg_layers": [
+    "biomes.svg",
+    "borders.svg",
+    "burgIcons.svg",
+    "cells.svg",
+    "coastline.svg",
+    "compass.svg",
+    "coordinates.svg",
+    "cultures.svg",
+    "debug.svg",
+    "emblems.svg",
+    "fogging.svg",
+    "goods.svg",
+    "grid.svg",
+    "heightmap.svg",
+    "ice.svg",
+    "journeys.svg",
+    "labels.svg",
+    "lakes.svg",
+    "landmass.svg",
+    "legend.svg",
+    "markers.svg",
+    "markets.svg",
+    "military.svg",
+    "ocean.svg",
+    "population.svg",
+    "precipitation.svg",
+    "provinces.svg",
+    "relief.svg",
+    "religions.svg",
+    "rivers.svg",
+    "routes.svg",
+    "rulers.svg",
+    "scaleBar.svg",
+    "states.svg",
+    "temperature.svg",
+    "texture.svg",
+    "trade.svg",
+    "vignette.svg",
+    "zones.svg"
+  ],
+  "package": {
+    "filename": "Derat_Alfaguara_Mapa_Regional_Original_Exportado.zip",
+    "files": 98,
+    "size_bytes": 23510275,
+    "location": "Biblioteca de ChatGPT",
+    "complete_source_package_uploaded_to_github": false
+  },
+  "coordinate_warning": "Las coordenadas exportadas son coordenadas locales x/y del mapa Azgaar. No son longitud/latitud, no están en CRS84 y no deben mezclarse con las capas geográficas globales de Derat sin transformación documentada.",
+  "interpretation_warning": "Los nombres, poblaciones, fronteras, estados y demás atributos generados por Azgaar son datos de mapa, no canon narrativo automático. Las capas SVG son visualizaciones; editarlas no modifica por sí solo los datos lógicos del mapa.",
+  "provenance": "Exportación derivada del archivo .map original conservado byte por byte. Las estructuras no identificadas se preservaron en el ZIP como secciones nativas sin clasificar."
+}
