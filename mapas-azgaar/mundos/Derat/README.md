@@ -69,3 +69,11 @@ Total: 28.479 celdas asignadas a los tres contornos propuestos; las restantes de
 Validación por capa: 0 regiones vacías, 0 geometrías inválidas y 0 solapamientos de área positiva. Las geometrías son reconstrucciones independientes de Voronoi desde puntos nativos regenerados; no son polígonos guardados literalmente en el .map. Los atributos Azgaar son datos generados, no canon.
 
 El .map nativo permanece en la Biblioteca con SHA-256 `0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1`. La rama `backup/Derat-main-2026-11-15` conserva el árbol previo a esta ronda.
+
+
+- El mapa regional original de Alfaguara/Bouneia fue recuperado de la Biblioteca el 15-11-2026 y exportado sin modificar el .map fuente. El informe `Derat_Alfaguara_Mapa_Regional_Original_Exportado.md` documenta la auditoría y el paquete de 98 archivos. El `.map` y el ZIP completo se conservan en la Biblioteca de ChatGPT; todavía no están incorporados al repositorio.
+
+
+## Recuperación del mapa regional original
+
+Consulta [`Derat_Alfaguara_Mapa_Regional_Original_Exportado.md`](./Derat_Alfaguara_Mapa_Regional_Original_Exportado.md) para hashes, inventario, validación y límites de las exportaciones del mapa original Bouneia/Alfaguara. El paquete ZIP completo está conservado en la Biblioteca de ChatGPT y no está aún versionado en GitHub.
