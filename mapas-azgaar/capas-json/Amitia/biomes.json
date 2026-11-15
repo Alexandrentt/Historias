@@ -1,0 +1,209 @@
+[
+  {
+    "i": 0,
+    "name": "Marine",
+    "color": "#466eab",
+    "habitability": 0,
+    "development": 0,
+    "iconsDensity": 0,
+    "icons": {},
+    "cost": 10
+  },
+  {
+    "i": 1,
+    "name": "Hot desert",
+    "color": "#fbe79f",
+    "habitability": 4,
+    "development": -4,
+    "iconsDensity": 27,
+    "icons": {
+      "dune": {
+        "weight": 3
+      },
+      "cactus": {
+        "weight": 6
+      },
+      "deadTree": {
+        "weight": 1
+      }
+    },
+    "cost": 200
+  },
+  {
+    "i": 2,
+    "name": "Cold desert",
+    "color": "#b5b887",
+    "habitability": 10,
+    "development": -5,
+    "iconsDensity": 20,
+    "icons": {
+      "dune": {
+        "weight": 9
+      },
+      "deadTree": {
+        "weight": 1
+      }
+    },
+    "cost": 150
+  },
+  {
+    "i": 3,
+    "name": "Savanna",
+    "color": "#d2d082",
+    "habitability": 22,
+    "development": -1,
+    "iconsDensity": 120,
+    "icons": {
+      "acacia": {
+        "weight": 1
+      },
+      "grass": {
+        "weight": 9
+      }
+    },
+    "cost": 60
+  },
+  {
+    "i": 4,
+    "name": "Grassland",
+    "color": "#c8d68f",
+    "habitability": 30,
+    "development": 0,
+    "iconsDensity": 120,
+    "icons": {
+      "grass": {
+        "weight": 1
+      }
+    },
+    "cost": 50
+  },
+  {
+    "i": 5,
+    "name": "Tropical seasonal forest",
+    "color": "#b6d95d",
+    "habitability": 50,
+    "development": -1,
+    "iconsDensity": 120,
+    "icons": {
+      "acacia": {
+        "weight": 8
+      },
+      "palm": {
+        "weight": 1
+      }
+    },
+    "cost": 70
+  },
+  {
+    "i": 6,
+    "name": "Temperate deciduous forest",
+    "color": "#29bc56",
+    "habitability": 100,
+    "development": 2,
+    "iconsDensity": 120,
+    "icons": {
+      "deciduous": {
+        "weight": 2
+      },
+      "conifer": {
+        "weight": 1
+      }
+    },
+    "cost": 70
+  },
+  {
+    "i": 7,
+    "name": "Tropical rainforest",
+    "color": "#7dcb35",
+    "habitability": 80,
+    "development": -3,
+    "iconsDensity": 150,
+    "icons": {
+      "acacia": {
+        "weight": 5
+      },
+      "palm": {
+        "weight": 3
+      },
+      "deciduous": {
+        "weight": 1
+      },
+      "swamp": {
+        "weight": 1
+      }
+    },
+    "cost": 80
+  },
+  {
+    "i": 8,
+    "name": "Temperate rainforest",
+    "color": "#409c43",
+    "habitability": 90,
+    "development": 0,
+    "iconsDensity": 150,
+    "icons": {
+      "deciduous": {
+        "weight": 6
+      },
+      "conifer": {
+        "weight": 1
+      },
+      "swamp": {
+        "weight": 1
+      }
+    },
+    "cost": 90
+  },
+  {
+    "i": 9,
+    "name": "Taiga",
+    "color": "#4b6b32",
+    "habitability": 12,
+    "development": -3,
+    "iconsDensity": 100,
+    "icons": {
+      "coniferSnow": {
+        "weight": 1
+      }
+    },
+    "cost": 200
+  },
+  {
+    "i": 10,
+    "name": "Tundra",
+    "color": "#96784b",
+    "habitability": 4,
+    "development": -5,
+    "iconsDensity": 39,
+    "icons": {
+      "grass": {
+        "weight": 1
+      }
+    },
+    "cost": 1000
+  },
+  {
+    "i": 11,
+    "name": "Glacier",
+    "color": "#d5e7eb",
+    "habitability": 0,
+    "development": -8,
+    "iconsDensity": 0,
+    "icons": {},
+    "cost": 5000
+  },
+  {
+    "i": 12,
+    "name": "Wetland",
+    "color": "#0b9131",
+    "habitability": 12,
+    "development": -2,
+    "iconsDensity": 250,
+    "icons": {
+      "swamp": {
+        "weight": 1
+      }
+    },
+    "cost": 150
+  }
+]
