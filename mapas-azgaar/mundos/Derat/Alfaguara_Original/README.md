@@ -22,3 +22,12 @@ El índice JSON está versionado en este repositorio. El paquete completo y el a
 2. Los polígonos de celdas se regeneran mediante Voronoi al cargar el mapa; no deben confundirse con geometrías originales almacenadas.
 3. Los atributos generados por Azgaar no se convierten automáticamente en canon narrativo.
 4. Editar las capas SVG no modifica automáticamente los datos lógicos del mapa.
+
+## Primeros catálogos JSON publicados
+
+Se copiaron como JSON editables, sin cambiar sus valores fuente:
+
+- `datos_json_fuente/biomes.json`
+- `datos_json_fuente/cultures.json`
+
+**Advertencia de canon:** son catálogos literales del mapa Azgaar original. Los nombres de culturas y demás valores generados por Azgaar no se consideran canon de Derat por el mero hecho de aparecer en el archivo. Deben revisarse antes de incorporarlos a la geopolítica o a la narrativa.
