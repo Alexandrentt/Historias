@@ -1,4 +1,4 @@
-# Derat — geografía y geopolítica v3.4
+# Derat — geografía y geopolítica v3.5
 
 ## Continentes
 - `Alfaguara.geojson`: continente polar septentrional.
@@ -56,17 +56,7 @@ La fuente de construcción se añadió para que pueda revisarse y reproducirse c
 
 ## Exportación de celdas Azgaar v1
 
-- `exportar_celdas_alfaguara_v1.py`: reconstruye los puntos empaquetados y exporta las celdas Voronoi de Alfaguara a GeoJSON. Requiere NumPy, SciPy y Shapely.
-- `Respaldo_y_exportacion_celdas_v1.md`: registra el respaldo, procedencia, hash y verificaciones.
-- La exportación `Derat_Azgaar_celdas_Alfaguara_v1.geojson` contiene 8.619 celdas. Se conserva en la Biblioteca de ChatGPT, no en GitHub. Sus geometrías son reconstrucciones Voronoi independientes desde puntos del mapa nativo, no polígonos literales del .map.
-- El .map generado se conserva en la Biblioteca de ChatGPT con SHA-256 `0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1`; todavía no está versionado como binario en GitHub.
-- La rama `backup/Derat-main-2026-11-15` conserva el estado de `main` anterior a esta ronda.
-
-
-
-## Exportación de celdas Azgaar v1
-
-El exportador `exportar_celdas_alfaguara_v1.py` permite generar capas GeoJSON de celdas Voronoi para cada continente propuesto. Las tres exportaciones se conservan en la Biblioteca de ChatGPT, no en GitHub:
+El exportador `exportar_celdas_alfaguara_v1.py` permite generar capas GeoJSON de celdas Voronoi para los tres continentes. Las exportaciones están conservadas en la Biblioteca de ChatGPT, no en GitHub:
 
 | Capa | Celdas | Tamaño |
 |---|---:|---:|
@@ -74,8 +64,8 @@ El exportador `exportar_celdas_alfaguara_v1.py` permite generar capas GeoJSON de
 | `Derat_Azgaar_celdas_Vardena_v1.geojson` | 14.939 | 13.646.770 bytes |
 | `Derat_Azgaar_celdas_Edravia_v1.geojson` | 4.921 | 4.452.380 bytes |
 
-En conjunto: 28.479 celdas terrestres asignadas por el contorno propuesto; el resto de las 31.299 celdas empaquetadas no se asigna a esos tres polígonos por el criterio espacial usado.
+Total: 28.479 celdas asignadas a los tres contornos propuestos; las restantes de las 31.299 celdas empaquetadas no se asignan por el criterio espacial usado.
 
-Validación por capa: cero regiones vacías, cero geometrías inválidas y cero solapamientos de área positiva. Las geometrías son reconstrucciones independientes de Voronoi a partir de los puntos nativos regenerados; no son polígonos guardados literalmente en el .map. Atributos Azgaar siguen siendo datos generados, no canon.
+Validación por capa: 0 regiones vacías, 0 geometrías inválidas y 0 solapamientos de área positiva. Las geometrías son reconstrucciones independientes de Voronoi desde puntos nativos regenerados; no son polígonos guardados literalmente en el .map. Los atributos Azgaar son datos generados, no canon.
 
-El .map nativo generado permanece en la Biblioteca con SHA-256 `0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1`. La rama `backup/Derat-main-2026-11-15` conserva el árbol previo a esta ronda.
+El .map nativo permanece en la Biblioteca con SHA-256 `0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1`. La rama `backup/Derat-main-2026-11-15` conserva el árbol previo a esta ronda.
