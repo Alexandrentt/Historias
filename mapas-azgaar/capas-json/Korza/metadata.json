@@ -1,0 +1,22 @@
+{
+  "world_folder": "Khorza",
+  "source_filename": "Korza .map",
+  "source_bytes": 15561886,
+  "source_sha256": "823e3414d8090b0436a4c8ccafc4cb132d68e1667ec795b9bbc65e3cadbae56f",
+  "header": {
+    "raw": "1.158.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-11-12|466668104|800|1165|1794501252381",
+    "generator_version": "1.158.0",
+    "format_notice": "File can be loaded in azgaar.github.io/Fantasy-Map-Generator",
+    "saved_date": "2026-11-12",
+    "seed": "466668104",
+    "width": 800,
+    "height": 1165,
+    "map_timestamp_ms": 1794501252381
+  },
+  "record_count": 56,
+  "azgaar_save_format": "CRLF-delimited records; documented against Azgaar src/services/io/save.ts and load.ts",
+  "source_is_original": true,
+  "derived_data_are_canonical": false,
+  "map_internal_name": "Vileland",
+  "note": "Extracción literal de los registros del archivo fuente; no introduce ni modifica entidades del mundo."
+}
