@@ -1,0 +1,22 @@
+{
+  "world_folder": "Atharis",
+  "source_filename": "Atharis.map",
+  "source_bytes": 14355599,
+  "source_sha256": "3e55ac0c8297d5e6d3b140e6c727bb4fb0e32a6dc4e425d4f25bd75bf10a86c2",
+  "header": {
+    "raw": "1.157.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-11-12|502339303|777|760|1794498051295",
+    "generator_version": "1.157.0",
+    "format_notice": "File can be loaded in azgaar.github.io/Fantasy-Map-Generator",
+    "saved_date": "2026-11-12",
+    "seed": "502339303",
+    "width": 777,
+    "height": 760,
+    "map_timestamp_ms": 1794498051295
+  },
+  "record_count": 56,
+  "azgaar_save_format": "CRLF-delimited records; documented against Azgaar src/services/io/save.ts and load.ts",
+  "source_is_original": true,
+  "derived_data_are_canonical": false,
+  "map_internal_name": "Iscia",
+  "note": "Extracción literal de los registros del archivo fuente; no introduce ni modifica entidades del mundo."
+}
