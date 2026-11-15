@@ -1,0 +1,22 @@
+{
+  "world_folder": "Derat_Tres_Continentes",
+  "source_filename": "Derat_Azgaar_Tres_Continentes_v1.map",
+  "source_bytes": 3863664,
+  "source_sha256": "0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1",
+  "header": {
+    "raw": "1.158.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-11-12|182800799|1333|632|1794540408343",
+    "generator_version": "1.158.0",
+    "format_notice": "File can be loaded in azgaar.github.io/Fantasy-Map-Generator",
+    "saved_date": "2026-11-12",
+    "seed": "182800799",
+    "width": 1333,
+    "height": 632,
+    "map_timestamp_ms": 1794540408343
+  },
+  "record_count": 56,
+  "azgaar_save_format": "CRLF-delimited records; documented against Azgaar src/services/io/save.ts and load.ts",
+  "source_is_original": true,
+  "derived_data_are_canonical": false,
+  "map_internal_name": "Derat — tres continentes (provisional)",
+  "note": "Composición auxiliar y provisional; se mantiene separada del mapa regional de Derat/Alfaguara."
+}
