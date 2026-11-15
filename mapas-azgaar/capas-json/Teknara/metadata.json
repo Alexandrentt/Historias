@@ -1,0 +1,22 @@
+{
+  "world_folder": "Teknara",
+  "source_filename": "Teknara.map",
+  "source_bytes": 14982851,
+  "source_sha256": "dd9bc3f301e5c2c2be2eeb63c242930f4b5e54e30fe59a44e21f982fd6a40f50",
+  "header": {
+    "raw": "1.158.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-11-12|674432764|800|1165|1794498728187",
+    "generator_version": "1.158.0",
+    "format_notice": "File can be loaded in azgaar.github.io/Fantasy-Map-Generator",
+    "saved_date": "2026-11-12",
+    "seed": "674432764",
+    "width": 800,
+    "height": 1165,
+    "map_timestamp_ms": 1794498728187
+  },
+  "record_count": 56,
+  "azgaar_save_format": "CRLF-delimited records; documented against Azgaar src/services/io/save.ts and load.ts",
+  "source_is_original": true,
+  "derived_data_are_canonical": false,
+  "map_internal_name": "Thia",
+  "note": "Extracción literal de los registros del archivo fuente; no introduce ni modifica entidades del mundo."
+}
