@@ -37,6 +37,9 @@ No se pudo abrir la aplicación en vivo desde el entorno de construcción porque
 
 ## Exportación derivada de celdas (15-11-2026)
 
-Se reconstruyeron y exportaron 8.619 celdas de Alfaguara en `Derat_Azgaar_celdas_Alfaguara_v1.geojson`, conservado en la Biblioteca de ChatGPT. La reconstrucción independiente reproduce 31.299 puntos empaquetados del mapa completo, utiliza Voronoi sobre esos puntos y los límites nativos, y conserva atributos serializados de Azgaar. Las celdas son geometría derivada, no polígonos guardados literalmente en el .map. Validación: 0 regiones vacías, 0 geometrías inválidas y 0 solapamientos de área positiva.
+Se reconstruyeron tres capas GeoJSON, conservadas en la Biblioteca de ChatGPT:
+- Alfaguara: 8.619 celdas, 7.874.720 bytes.
+- Vardena: 14.939 celdas, 13.646.770 bytes.
+- Edravia: 4.921 celdas, 4.452.380 bytes.
 
-El exportador reproducible está versionado en `exportar_celdas_alfaguara_v1.py`. La prueba de importación en la interfaz Azgaar sigue pendiente.
+Total: 28.479 celdas asignadas a los tres contornos propuestos. El exportador reproducible está versionado en `exportar_celdas_alfaguara_v1.py`. Las tres capas pasaron las verificaciones: 0 regiones vacías, 0 geometrías inválidas y 0 solapamientos de área positiva. Los polígonos son derivados de Voronoi, no coordenadas literales guardadas en el .map. La prueba de importación en la interfaz Azgaar sigue pendiente.
