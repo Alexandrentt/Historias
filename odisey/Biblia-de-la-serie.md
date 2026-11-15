@@ -10,7 +10,8 @@
 ### Mundo y Configuración
 
 #### Contexto Histórico
-- **Período**: Varios siglos después del inicio de la invasión de Derat, posterior a la segunda Guerra de la Transtierra (120 DT). La fecha exacta de Odisea aún está por definirse.
+- **Fecha**: **719 DT**.
+- **Período**: Odisea transcurre 599 años después de la invasión de Derat posterior a la segunda Guerra de la Transtierra (120 DT), y 114 años después del inicio de los Siglos Perdidos (605 DT).
 - **Proceso de caída**: El deterioro de Derat no comienza en 605 DT. La invasión, la ocupación y la explotación extranjera inician un largo proceso de descomposición institucional y fragmentación social que se extiende durante muchas décadas y siglos.
 - **Siglos Perdidos**: 605 DT marca el comienzo de esta etapa histórica, pero no el inicio del colapso de Derat ni del aislamiento de Alfaguara.
 - **Lugar**: Derat, principalmente el continente de Alfaguara.
@@ -127,7 +128,7 @@
 ## 🔗 Conexiones con Transtierra
 
 Esta historia se conecta directamente con el universo de Los Josth:
-- **Período**: Siglos después de los acontecimientos que iniciaron la caída de Derat; la fecha exacta de Odisea sigue pendiente.
+- **Período**: 719 DT, siglos después de los acontecimientos que iniciaron la caída de Derat.
 - **Consecuencias**: El resultado acumulado de la invasión, la ocupación, la fragmentación y la desaparición de las instituciones transterranas en Alfaguara.
 - **Mundo compartido**: Mismo universo, perspectiva distinta.
 - **Contraste**: Mientras otro continente conserva una civilización organizada y contacto con el Portal, Alfaguara ha perdido buena parte de su memoria histórica y de su conexión institucional con el resto de la Transtierra.
@@ -137,11 +138,10 @@ Esta historia se conecta directamente con el universo de Los Josth:
 ## 📝 Notas de Desarrollo
 
 ### Próximos Pasos
-1. Definir la fecha exacta de Odisea y cuánto tiempo ha pasado desde las primeras etapas del colapso.
-2. Desarrollar las mafias, sus redes y su influencia en los puertos y en el interior.
-3. Definir el funcionamiento de las rutas marítimas y la relación entre los dos continentes.
-4. Desarrollar las ciudades-estado y las facciones de Alfaguara.
-5. Detallar las primeras escenas del secuestro y la ruta inicial del viaje.
+1. Desarrollar las mafias, sus redes y su influencia en los puertos y en el interior.
+2. Definir el funcionamiento de las rutas marítimas y la relación entre los dos continentes.
+3. Desarrollar las ciudades-estado y las facciones de Alfaguara.
+4. Detallar las primeras escenas del secuestro y la ruta inicial del viaje.
 
 ### Material Existente
 - **Borradores previos**: "temporada 1.md" y "temporada 2.md" (versiones anteriores).
