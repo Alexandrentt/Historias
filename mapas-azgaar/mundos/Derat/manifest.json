@@ -1,5 +1,5 @@
 {
-  "version": "3.3",
+  "version": "3.4",
   "world": "Derat",
   "continents": [
     {
@@ -36,7 +36,9 @@
     "Derat_Azgaar_Tres_Continentes/Derat_continentes.geojson",
     "Derat_Azgaar_Tres_Continentes/graph_tools.mjs",
     "Derat_Azgaar_Tres_Continentes/delaunator.mjs",
-    "Derat_Azgaar_Tres_Continentes/build_derat_tricontinent_map.mjs"
+    "Derat_Azgaar_Tres_Continentes/build_derat_tricontinent_map.mjs",
+    "exportar_celdas_alfaguara_v1.py",
+    "Respaldo_y_exportacion_celdas_v1.md"
   ],
   "format_note": "Capas conceptuales GeoJSON/SVG y un mapa nativo Azgaar 1.158.0 generado como adjunto local; el binario .map no se ha subido a GitHub.",
   "layers": {
@@ -78,7 +80,11 @@
     "Auditoría cruzada v1.0: se calcularon intersecciones numéricas de los cuatro polígonos con el atlas físico conceptual. Como las capas no están reconciliadas espacialmente, las coincidencias son diagnósticas y no prueban geografía real.",
     "Maclifia intersecta numéricamente Cuenca de Ceniza, zona de presión extractiva propuesta; no confirma depósitos de Madianita/Balatium, minas ni control territorial.",
     "Los anclajes de cronología (Consejo, veta de Balatium, Vía de las Sombras y poblado de Operación Tierra 5) conservan geometry:null mientras no haya coordenadas verificables; no se asignan a burgs ni estados candidatos.",
-    "La auditoría cruzada está documentada en Auditoria_Cruce_Alfaguara_v1.md; no modifica geometrías ni atributos fuente."
+    "La auditoría cruzada está documentada en Auditoria_Cruce_Alfaguara_v1.md; no modifica geometrías ni atributos fuente.",
+    "15-11-2026: respaldo del árbol de main creado en backup/Derat-main-2026-11-15 antes de esta ronda.",
+    "15-11-2026: se recuperó en Biblioteca el .map nativo generado; SHA-256 coincide con la auditoría. El binario no está subido a GitHub.",
+    "15-11-2026: exportadas 8.619 celdas de Alfaguara a GeoJSON en Biblioteca; geometría Voronoi reconstruida independientemente y validada sin geometrías inválidas ni solapamientos de área positiva.",
+    "El mapa regional original de Alfaguara/Bouneia sigue pendiente; el .map de tres continentes no lo sustituye."
   ],
   "azgaar_native_build": {
     "file": "Derat_Azgaar_Tres_Continentes_v1.map",
@@ -109,7 +115,9 @@
     "source_files_uploaded": true,
     "base_map_uploaded": false,
     "output_map_uploaded": false,
-    "reproducibility_note": "El generador y sus dependencias están versionados; requiere el .map base Bouneia 1.158.0, que no está en el repositorio."
+    "reproducibility_note": "El generador y sus dependencias están versionados; requiere el .map base Bouneia 1.158.0, que no está en el repositorio.",
+    "library_path": "/Derat/Derat_Azgaar_Tres_Continentes_v1.map",
+    "sha256": "0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1"
   },
   "cross_audit": {
     "file": "Auditoria_Cruce_Alfaguara_v1.md",
@@ -122,5 +130,28 @@
     "geopolitical_features_reviewed": 14,
     "geometries_modified": false,
     "key_warning": "El atlas físico conceptual y las capas regionales Azgaar no están reconciliados espacialmente; las intersecciones numéricas no son evidencia geográfica o política."
+  },
+  "backup": {
+    "branch": "backup/Derat-main-2026-11-15",
+    "base_commit": "f15246aedbe54de637f6f272137b79243abde65a",
+    "scope": "snapshot del árbol de main previo a esta ronda; no incluye archivos externos a GitHub"
+  },
+  "cell_export": {
+    "file": "Derat_Azgaar_celdas_Alfaguara_v1.geojson",
+    "repository_uploaded": false,
+    "library_path": "/Derat/Derat_Azgaar_celdas_Alfaguara_v1.geojson",
+    "exporter": "exportar_celdas_alfaguara_v1.py",
+    "source_map": "Derat_Azgaar_Tres_Continentes_v1.map",
+    "source_map_sha256": "0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1",
+    "grid_points": 100280,
+    "packed_cells_total": 31299,
+    "exported_cells": 8619,
+    "geometry_method": "reconstrucción Voronoi independiente desde puntos pack regenerados; no geometría literal guardada en .map",
+    "validation": {
+      "empty_regions": 0,
+      "invalid_geometries": 0,
+      "positive_area_overlaps": 0
+    },
+    "status": "library_only; derived_noncanonical_geometry"
   }
 }
