@@ -1,0 +1,18 @@
+[
+  {"name":"Wildlands","i":0,"base":1,"origins":[null],"shield":"round","type":"Generic","tags":[]},
+  {"name":"Shwazen","development":36,"base":0,"shield":"swiss","center":26393,"i":1,"color":"#28ea8d","type":"Highland","expansionism":4.1,"origins":[0],"code":"Sh","tags":[]},
+  {"name":"Angshire","development":36,"base":1,"shield":"wedged","center":9397,"i":2,"color":"#dababf","type":"Generic","expansionism":2.8,"origins":[0],"code":"An","tags":[]},
+  {"name":"Luari","development":40,"base":2,"shield":"french","center":2959,"i":3,"color":"#eb8de7","type":"Generic","expansionism":2.7,"origins":[0],"code":"Lu","tags":[]},
+  {"name":"Tallian","development":42,"base":3,"shield":"horsehead","center":557,"i":4,"color":"#80b1d3","type":"Generic","expansionism":2.1,"origins":[0],"code":"Ta","tags":[]},
+  {"name":"Astellian","development":36,"base":4,"shield":"spanish","center":2078,"i":5,"color":"#fccde5","type":"Generic","expansionism":3.3,"origins":[0],"code":"As","tags":[]},
+  {"name":"Slovan","development":32,"base":5,"shield":"polish","center":43939,"i":6,"color":"#6e40aa","type":"River","expansionism":2.1,"origins":[0],"code":"Sl","tags":[]},
+  {"name":"Norse","development":30,"base":6,"shield":"heater","center":24241,"i":7,"color":"#fdb462","type":"Highland","expansionism":2.9,"origins":[0],"code":"No","tags":[]},
+  {"name":"Elladan","development":36,"base":7,"shield":"boeotian","center":3617,"i":8,"color":"#ff8c38","type":"Generic","expansionism":3.3,"origins":[0],"code":"El","tags":[]},
+  {"name":"Romian","development":36,"base":8,"shield":"roman","center":69150,"i":9,"color":"#b3de69","type":"Generic","expansionism":3,"origins":[0],"code":"Ro","tags":[]},
+  {"name":"Soumi","development":28,"base":9,"shield":"pavise","center":33615,"i":10,"color":"#ffed6f","type":"Highland","expansionism":2.8,"origins":[0],"code":"So","tags":[]},
+  {"name":"Portuzian","development":36,"base":13,"shield":"renaissance","center":69432,"i":11,"color":"#c6b9c1","type":"Naval","expansionism":5.7,"origins":[0],"code":"Po","tags":[]},
+  {"name":"Vengrian","development":33,"base":15,"shield":"horsehead2","center":46624,"i":12,"color":"#fb8072","type":"River","expansionism":2,"origins":[0],"code":"Ve","tags":[]},
+  {"name":"Turchian","development":35,"base":16,"shield":"round","center":453,"i":13,"color":"#8dd3c7","type":"Generic","expansionism":2.9,"origins":[0],"code":"Tu","tags":[]},
+  {"name":"Euskati","development":30,"base":20,"shield":"oldFrench","center":9087,"i":14,"color":"#ccebc5","type":"Generic","expansionism":3.8,"origins":[0],"code":"Eu","tags":[]},
+  {"name":"Keltan","development":30,"base":22,"shield":"oval","center":31524,"i":15,"color":"#bc80bd","type":"Highland","expansionism":2.2,"origins":[0],"code":"Ke","tags":[]}
+]
