@@ -26,18 +26,17 @@ El hash coincide con el registrado en `Derat_Azgaar_Tres_Continentes_audit.json`
 
 ## Exportación derivada de celdas
 
-Se generó `Derat_Azgaar_celdas_Alfaguara_v1.geojson` y se conservó en la Biblioteca de ChatGPT, `/Derat/Derat_Azgaar_celdas_Alfaguara_v1.geojson`.
+Se generaron tres capas GeoJSON, conservadas en la Biblioteca de ChatGPT:
 
-- 100.280 puntos de cuadrícula.
-- 31.299 puntos/celdas empaquetadas reproducidos.
-- 8.619 celdas exportadas para Alfaguara.
-- 0 regiones vacías.
-- 0 geometrías inválidas después del redondeo de coordenadas.
-- 0 solapamientos de área positiva entre las celdas exportadas.
+| Continente | Archivo | Celdas | Bytes |
+|---|---|---:|---:|
+| Alfaguara | `Derat_Azgaar_celdas_Alfaguara_v1.geojson` | 8.619 | 7.874.720 |
+| Vardena | `Derat_Azgaar_celdas_Vardena_v1.geojson` | 14.939 | 13.646.770 |
+| Edravia | `Derat_Azgaar_celdas_Edravia_v1.geojson` | 4.921 | 4.452.380 |
 
-La selección de puntos empaquetados reproduce las reglas del generador de Derat. Los polígonos se reconstruyen independientemente con Voronoi (SciPy 1.17.0), recortados al marco nativo y transformados a CRS84. El archivo conserva atributos Azgaar y registra el índice de celda y el punto de cuadrícula de origen.
+Total: 28.479 celdas asignadas a los tres contornos propuestos. Cada capa pasó las verificaciones: 0 regiones vacías, 0 geometrías inválidas y 0 solapamientos de área positiva.
 
-**Límite de procedencia:** el formato `.map` no guarda literalmente estos polígonos como GeoJSON. Las geometrías son derivadas de los puntos y límites nativos; no deben confundirse con geometrías originales ni con fronteras canónicas. La asignación a Alfaguara procede del contorno propuesto de tres continentes.
+Los polígonos son reconstrucciones independientes de Voronoi desde puntos pack regenerados; no son geometrías almacenadas literalmente en el .map. Los atributos siguen siendo datos Azgaar generados, no canon.
 
 ## Herramienta reproducible
 
@@ -56,7 +55,7 @@ python exportar_celdas_alfaguara_v1.py \
 ## Pendientes y límites
 
 1. El mapa regional original de Alfaguara/Bouneia que se usó como base del build no se ha recuperado todavía.
-2. La copia nativa generada y el GeoJSON de 8.619 celdas están en la Biblioteca, no en GitHub.
+2. La copia nativa generada y las tres capas GeoJSON (28.479 celdas en total) están en la Biblioteca, no en GitHub.
 3. La prueba de apertura del `.map` en la interfaz de Azgaar sigue pendiente.
 4. No se añadieron nombres canónicos, ciudades, fronteras, recursos localizados ni áreas de control.
 5. Las celdas reconstruidas son una capa de trabajo derivada; cualquier reconciliación con el atlas físico debe ser independiente y documentada.
