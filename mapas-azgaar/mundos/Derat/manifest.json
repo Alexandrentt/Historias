@@ -39,7 +39,9 @@
     "Derat_Azgaar_Tres_Continentes/build_derat_tricontinent_map.mjs",
     "exportar_celdas_alfaguara_v1.py",
     "Respaldo_y_exportacion_celdas_v1.md",
-    "Derat_Alfaguara_Mapa_Regional_Original_Exportado.md"
+    "Derat_Alfaguara_Mapa_Regional_Original_Exportado.md",
+    "mapas-azgaar/mundos/Derat/Alfaguara_Original/manifest_exportacion.json",
+    "mapas-azgaar/mundos/Derat/Alfaguara_Original/README.md"
   ],
   "format_note": "Capas conceptuales GeoJSON/SVG, mapas nativos Azgaar y exportaciones documentadas. El mapa regional original Bouneia/Alfaguara fue recuperado y exportado el 15-11-2026; su .map y el ZIP derivado permanecen en la Biblioteca de ChatGPT y no están todavía versionados en GitHub.",
   "layers": {
@@ -89,7 +91,8 @@
     "15-11-2026: exportadas a Biblioteca las capas Voronoi de los tres continentes: Alfaguara 8619, Vardena 14939, Edravia 4921 celdas. Las tres pasaron validación de geometría y solapamientos.",
     "15-11-2026: recuperado el mapa regional original derat(continente de alfaguara).map (nombre interno Bouneia), Azgaar 1.158.0; SHA-256 6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44.",
     "15-11-2026: exportado el mapa regional original a paquete de 98 archivos; 50 JSON y 40 SVG validados, 39 capas SVG; el paquete y el .map permanecen en Biblioteca y no están subidos a GitHub.",
-    "Las coordenadas de los GeoJSON derivados del mapa regional son coordenadas locales x/y de Azgaar y no están georreferenciadas. No usarlas como CRS84."
+    "Las coordenadas de los GeoJSON derivados del mapa regional son coordenadas locales x/y de Azgaar y no están georreferenciadas. No usarlas como CRS84.",
+    "Se añadió Alfaguara_Original/manifest_exportacion.json: índice JSON versionado con inventario de las 20 estructuras JSON principales, exportaciones GeoJSON, 39 capas SVG, conteos y advertencias de coordenadas. El ZIP y el .map original siguen en Biblioteca; los datos detallados no se han copiado todavía al árbol Git."
   ],
   "azgaar_native_build": {
     "file": "Derat_Azgaar_Tres_Continentes_v1.map",
@@ -225,7 +228,8 @@
     "journeys": 1,
     "svg_data_layers": 39,
     "repository_uploaded": false,
-    "library_path": "/derat(continente de alfaguara).map"
+    "library_path": "/derat(continente de alfaguara).map",
+    "structured_index": "mapas-azgaar/mundos/Derat/Alfaguara_Original/manifest_exportacion.json"
   },
   "regional_export_package": {
     "file": "Derat_Alfaguara_Mapa_Regional_Original_Exportado.zip",
