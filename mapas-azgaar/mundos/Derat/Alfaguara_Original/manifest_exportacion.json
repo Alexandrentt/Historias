@@ -235,5 +235,10 @@
   },
   "coordinate_warning": "Las coordenadas exportadas son coordenadas locales x/y del mapa Azgaar. No son longitud/latitud, no están en CRS84 y no deben mezclarse con las capas geográficas globales de Derat sin transformación documentada.",
   "interpretation_warning": "Los nombres, poblaciones, fronteras, estados y demás atributos generados por Azgaar son datos de mapa, no canon narrativo automático. Las capas SVG son visualizaciones; editarlas no modifica por sí solo los datos lógicos del mapa.",
-  "provenance": "Exportación derivada del archivo .map original conservado byte por byte. Las estructuras no identificadas se preservaron en el ZIP como secciones nativas sin clasificar."
+  "provenance": "Exportación derivada del archivo .map original conservado byte por byte. Las estructuras no identificadas se preservaron en el ZIP como secciones nativas sin clasificar.",
+  "published_json_files": [
+    "datos_json_fuente/biomes.json",
+    "datos_json_fuente/cultures.json"
+  ],
+  "published_json_note": "Estos dos archivos se copiaron literalmente desde el paquete original. Sus valores son datos generados por Azgaar y no canon narrativo confirmado."
 }
