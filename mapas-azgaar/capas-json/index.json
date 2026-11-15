@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.1.0",
+  "project": "Historias",
+  "generator": "Azgaar Fantasy Map Generator",
+  "updated": "2026-11-15",
+  "primary_worlds": [
+    {
+      "name": "Amitia",
+      "source": "Amitia.map",
+      "version": "1.157.0",
+      "seed": "250750147",
+      "bytes": 15714410,
+      "sha256": "0016c788d9d9059f38a587ea7f831e38799ca06f4b4bc74240df975b0b417d70",
+      "points": 100084,
+      "cells": 69154,
+      "folder": "Amitia"
+    },
+    {
+      "name": "Atharis",
+      "source": "Atharis.map",
+      "version": "1.157.0",
+      "seed": "502339303",
+      "bytes": 14355599,
+      "sha256": "3e55ac0c8297d5e6d3b140e6c727bb4fb0e32a6dc4e425d4f25bd75bf10a86c2",
+      "points": 100160,
+      "cells": 64074,
+      "folder": "Atharis"
+    },
+    {
+      "name": "Derat",
+      "source": "derat(continente de alfaguara).map",
+      "version": "1.158.0",
+      "seed": "182800799",
+      "bytes": 15745658,
+      "sha256": "6d5277174b51997b83960cdef349cd100f3ad223e7497c31eea492726978cb44",
+      "points": 100280,
+      "cells": 71635,
+      "folder": "Derat"
+    },
+    {
+      "name": "Khorza",
+      "source": "Korza .map",
+      "version": "1.158.0",
+      "seed": "466668104",
+      "bytes": 15561886,
+      "sha256": "823e3414d8090b0436a4c8ccafc4cb132d68e1667ec795b9bbc65e3cadbae56f",
+      "points": 100084,
+      "cells": 95902,
+      "folder": "Korza"
+    },
+    {
+      "name": "Návar",
+      "source": "Návar.map",
+      "version": "1.158.0",
+      "seed": "785450965",
+      "bytes": 13963939,
+      "sha256": "e0eadc154f16c6ff2bfb669071626628e79c81ed373924b71e11d3802bbc07c7",
+      "points": 100084,
+      "cells": 61154,
+      "folder": "Navar"
+    },
+    {
+      "name": "Teknara",
+      "source": "Teknara.map",
+      "version": "1.158.0",
+      "seed": "674432764",
+      "bytes": 14982851,
+      "sha256": "dd9bc3f301e5c2b2be2eeb63c242930f4b5e54e30fe59a44e21f982fd6a40f50",
+      "points": 100084,
+      "cells": 63794,
+      "folder": "Teknara"
+    }
+  ],
+  "auxiliary_maps": [
+    {
+      "name": "Derat_Tres_Continentes",
+      "source": "Derat_Azgaar_Tres_Continentes_v1.map",
+      "version": "1.158.0",
+      "seed": "182800799",
+      "bytes": 3863664,
+      "sha256": "0e99e077e61e643306db68fbdfae488432556c45379484bf7d104d865e7045e1",
+      "points": 100280,
+      "cells": 31299,
+      "folder": "Derat_Tres_Continentes",
+      "role": "Composición auxiliar/provisional, separada del mapa regional de Derat/Alfaguara."
+    }
+  ],
+  "count_source_maps": 7,
+  "extraction": "Los seis mapas principales y el mapa auxiliar se descompusieron en 56 registros Azgaar, con arrays numéricos y entidades JSON editables.",
+  "validation": "7/7 recompilaciones: cabecera, SVG, bases de nombres, todos los registros JSON, matrices numéricas y slots vacíos coinciden semánticamente con cada fuente. La serialización JSON puede cambiar el texto y por tanto el SHA del .map recompilado.",
+  "important_limits": [
+    "Los originales .map se preservan byte por byte en el paquete integral descargable.",
+    "Los datos extraídos son datos técnicos del guardado; no establecen canon narrativo.",
+    "Los GeoJSON GIS proceden de vectores del SVG embebido, no de polígonos nativos por celda ni de coordenadas WGS84.",
+    "La apertura en la interfaz web de Azgaar no se probó en esta sesión."
+  ],
+  "repository_status": "Este índice y la documentación/auditoría se publican en GitHub. El paquete integral descargable contiene los 7 originales .map, las 7 carpetas completas de capas JSON y los 7 mapas recompilados."
+}
