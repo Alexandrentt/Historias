@@ -1,0 +1,16 @@
+[
+{"name":"Wildlands","i":0,"base":1,"origins":[null],"shield":"round","type":"Generic","tags":[]},
+{"name":"Koryo","development":36,"base":10,"shield":"round","center":56967,"i":1,"color":"#6e40aa","type":"Lake","expansionism":1.1,"origins":[0],"code":"Ko","tags":[]},
+{"name":"Hantzu","development":42,"base":11,"shield":"banner","center":7966,"i":2,"color":"#bc80bd","type":"Generic","expansionism":1.3,"origins":[0],"code":"Ha","tags":[]},
+{"name":"Yamoto","development":35,"base":12,"shield":"round","center":62245,"i":3,"color":"#80b1d3","type":"Generic","expansionism":1.4,"origins":[0],"code":"Ya","tags":[]},
+{"name":"Turchian","development":35,"base":16,"shield":"round","center":10469,"i":4,"color":"#b3de69","type":"Generic","expansionism":1.4,"origins":[0],"code":"Tu","tags":[]},
+{"name":"Amazi","development":28,"base":17,"shield":"oval","center":38489,"i":5,"color":"#eb8de7","type":"Hunting","expansionism":0.8,"origins":[0],"code":"Am","tags":[]},
+{"name":"Eurabic","development":40,"base":18,"shield":"oval","center":23549,"i":6,"color":"#ffed6f","type":"Nomadic","expansionism":2.2,"origins":[0],"code":"Eu","tags":[]},
+{"name":"Efratic","development":35,"base":23,"shield":"round","center":14231,"i":7,"color":"#c6b9c1","type":"Generic","expansionism":1.5,"origins":[0],"code":"Ef","tags":[]},
+{"name":"Tehrani","development":38,"base":24,"shield":"round","center":4179,"i":8,"color":"#8dd3c7","type":"Generic","expansionism":1.3,"origins":[0],"code":"Te","tags":[]},
+{"name":"Maui","development":12,"base":25,"shield":"vesicaPiscis","center":19927,"i":9,"color":"#dababf","type":"Generic","expansionism":1.3,"origins":[0],"code":"Ma","tags":[]},
+{"name":"Carnatic","development":33,"base":26,"shield":"round","center":53297,"i":10,"color":"#fccde5","type":"Generic","expansionism":1.5,"origins":[0],"code":"Ca","tags":[]},
+{"name":"Vietic","development":32,"base":29,"shield":"banner","center":3671,"i":11,"color":"#fdb462","type":"Naval","expansionism":2.3,"origins":[0],"code":"Vi","tags":[]},
+{"name":"Guantzu","development":38,"base":30,"shield":"banner","center":32619,"i":12,"color":"#ccebc5","type":"Generic","expansionism":1.3,"origins":[0],"code":"Gu","tags":[]},
+{"name":"Ulus","development":26,"base":31,"shield":"banner","center":51870,"i":13,"color":"#fb8072","type":"Nomadic","expansionism":2,"origins":[0],"code":"Ul","tags":[]}
+]
